@@ -31,6 +31,51 @@
       "status": "coming-soon",
       "cover": "images/books/anne-of-the-island.webp",
       "description": "Anne leaves Avonlea for college and begins a new stage of friendship, independence, and love."
+    },
+    {
+      "id": "anne-of-windy-poplars",
+      "series": "anne",
+      "title": "Anne of Windy Poplars",
+      "author": "L. M. Montgomery",
+      "status": "coming-soon",
+      "cover": "images/books/anne-of-windy-poplars.webp",
+      "description": "Anne begins her years in Summerside, writing letters, teaching, and discovering life at Windy Poplars."
+    },
+    {
+      "id": "annes-house-of-dreams",
+      "series": "anne",
+      "title": "Anne's House of Dreams",
+      "author": "L. M. Montgomery",
+      "status": "coming-soon",
+      "cover": "images/books/annes-house-of-dreams.webp",
+      "description": "Anne and Gilbert begin married life by the sea at Four Winds Harbor, where new joys and sorrows await them."
+    },
+    {
+      "id": "anne-of-ingleside",
+      "series": "anne",
+      "title": "Anne of Ingleside",
+      "author": "L. M. Montgomery",
+      "status": "coming-soon",
+      "cover": "images/books/anne-of-ingleside.webp",
+      "description": "Anne’s life at Ingleside centers on family, home, and the lively world of her growing children."
+    },
+    {
+      "id": "rainbow-valley",
+      "series": "anne",
+      "title": "Rainbow Valley",
+      "author": "L. M. Montgomery",
+      "status": "coming-soon",
+      "cover": "images/books/rainbow-valley.webp",
+      "description": "The children of Ingleside and the Glen explore Rainbow Valley, where friendship and adventure fill the countryside."
+    },
+    {
+      "id": "rilla-of-ingleside",
+      "series": "anne",
+      "title": "Rilla of Ingleside",
+      "author": "L. M. Montgomery",
+      "status": "coming-soon",
+      "cover": "images/books/rilla-of-ingleside.webp",
+      "description": "As war changes the world, Rilla grows up at Ingleside and faces a new kind of courage."
     }
   ],
   "chapters": {
@@ -263,6 +308,11 @@
         "file": "content/anne-of-green-gables/chapter-38.md",
         "image": "images/anne-of-green-gables/chapter-38.webp"
       }
-    ]
+    ],
+    "anne-of-windy-poplars": [],
+    "annes-house-of-dreams": [],
+    "anne-of-ingleside": [],
+    "rainbow-valley": [],
+    "rilla-of-ingleside": []
   }
 }
