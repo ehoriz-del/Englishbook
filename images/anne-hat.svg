@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 105" role="img" aria-labelledby="title">
+<title id="title">Straw hat with green ribbon and small flowers</title>
+<defs><linearGradient id="straw" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e8c98a"/><stop offset="1" stop-color="#cda75e"/></linearGradient></defs>
+<ellipse cx="90" cy="76" rx="78" ry="20" fill="url(#straw)" stroke="#9f793d" stroke-width="3"/>
+<path d="M45 70c3-34 18-52 45-52s42 18 45 52z" fill="url(#straw)" stroke="#9f793d" stroke-width="3"/>
+<path d="M43 59c26 10 67 10 94 0l1 15c-29 9-67 9-96 0z" fill="#315a42"/>
+<path d="M122 62c13-13 25-14 36-8-7 4-11 9-12 15-8-5-16-7-24-7z" fill="#315a42"/>
+<g transform="translate(124 45)"><circle cx="0" cy="0" r="7" fill="#f6f0d8"/><circle cx="10" cy="3" r="6" fill="#e8b1a6"/><circle cx="5" cy="11" r="6" fill="#f0d77e"/><circle cx="-5" cy="9" r="6" fill="#fff8e7"/><circle cx="3" cy="5" r="4" fill="#b8844b"/><path d="M-3 15c-7 7-12 12-16 20M12 15c4 6 7 11 9 18" stroke="#5b7d55" stroke-width="3" fill="none" stroke-linecap="round"/></g>
+</svg>

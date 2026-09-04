@@ -1,0 +1,268 @@
+{
+  "siteTitle": "EnglishBook",
+  "tagline": "Read stories. Learn English. Speak naturally.",
+  "featuredSeries": "anne",
+  "books": [
+    {
+      "id": "anne-of-green-gables",
+      "series": "anne",
+      "title": "Anne of Green Gables",
+      "author": "L. M. Montgomery",
+      "status": "published",
+      "totalChapters": 38,
+      "hero": "images/anne-of-green-gables/hero.webp",
+      "cover": "images/books/anne-of-green-gables.webp",
+      "description": "Follow Anne Shirley as she comes to live at Green Gables and fills a quiet world with imagination, friendship, mistakes, and joy."
+    },
+    {
+      "id": "anne-of-avonlea",
+      "series": "anne",
+      "title": "Anne of Avonlea",
+      "author": "L. M. Montgomery",
+      "status": "coming-soon",
+      "cover": "images/books/anne-of-avonlea.webp",
+      "description": "Anne grows into a young teacher while Avonlea brings new responsibilities, friendships, and surprises."
+    },
+    {
+      "id": "anne-of-the-island",
+      "series": "anne",
+      "title": "Anne of the Island",
+      "author": "L. M. Montgomery",
+      "status": "coming-soon",
+      "cover": "images/books/anne-of-the-island.webp",
+      "description": "Anne leaves Avonlea for college and begins a new stage of friendship, independence, and love."
+    }
+  ],
+  "chapters": {
+    "anne-of-green-gables": [
+      {
+        "number": 1,
+        "title": "Mrs. Rachel Lynde Is Surprised",
+        "file": "content/anne-of-green-gables/chapter-01.md",
+        "image": "images/anne-of-green-gables/chapter-01.webp"
+      },
+      {
+        "number": 2,
+        "title": "Matthew Cuthbert Is Surprised",
+        "file": "content/anne-of-green-gables/chapter-02.md",
+        "image": "images/anne-of-green-gables/chapter-02.webp"
+      },
+      {
+        "number": 3,
+        "title": "Marilla Cuthbert Is Surprised",
+        "file": "content/anne-of-green-gables/chapter-03.md",
+        "image": "images/anne-of-green-gables/chapter-03.webp"
+      },
+      {
+        "number": 4,
+        "title": "Morning at Green Gables",
+        "file": "content/anne-of-green-gables/chapter-04.md",
+        "image": "images/anne-of-green-gables/chapter-04.webp"
+      },
+      {
+        "number": 5,
+        "title": "Anne's History",
+        "file": "content/anne-of-green-gables/chapter-05.md",
+        "image": "images/anne-of-green-gables/chapter-05.webp"
+      },
+      {
+        "number": 6,
+        "title": "Marilla Makes Up Her Mind",
+        "file": "content/anne-of-green-gables/chapter-06.md",
+        "image": "images/anne-of-green-gables/chapter-06.webp"
+      },
+      {
+        "number": 7,
+        "title": "Anne Says Her Prayers",
+        "file": "content/anne-of-green-gables/chapter-07.md",
+        "image": "images/anne-of-green-gables/chapter-07.webp"
+      },
+      {
+        "number": 8,
+        "title": "Anne's Bringing-Up Is Begun",
+        "file": "content/anne-of-green-gables/chapter-08.md",
+        "image": "images/anne-of-green-gables/chapter-08.webp"
+      },
+      {
+        "number": 9,
+        "title": "Mrs. Rachel Lynde Is Properly Horrified",
+        "file": "content/anne-of-green-gables/chapter-09.md",
+        "image": "images/anne-of-green-gables/chapter-09.webp"
+      },
+      {
+        "number": 10,
+        "title": "Anne's Apology",
+        "file": "content/anne-of-green-gables/chapter-10.md",
+        "image": "images/anne-of-green-gables/chapter-10.webp"
+      },
+      {
+        "number": 11,
+        "title": "Anne's Impressions of Sunday School",
+        "file": "content/anne-of-green-gables/chapter-11.md",
+        "image": "images/anne-of-green-gables/chapter-11.webp"
+      },
+      {
+        "number": 12,
+        "title": "A Solemn Vow and Promise",
+        "file": "content/anne-of-green-gables/chapter-12.md",
+        "image": "images/anne-of-green-gables/chapter-12.webp"
+      },
+      {
+        "number": 13,
+        "title": "The Delights of Anticipation",
+        "file": "content/anne-of-green-gables/chapter-13.md",
+        "image": "images/anne-of-green-gables/chapter-13.webp"
+      },
+      {
+        "number": 14,
+        "title": "Anne's Confession",
+        "file": "content/anne-of-green-gables/chapter-14.md",
+        "image": "images/anne-of-green-gables/chapter-14.webp"
+      },
+      {
+        "number": 15,
+        "title": "A Tempest in the School Teapot",
+        "file": "content/anne-of-green-gables/chapter-15.md",
+        "image": "images/anne-of-green-gables/chapter-15.webp"
+      },
+      {
+        "number": 16,
+        "title": "Diana Is Invited to Tea with Tragic Results",
+        "file": "content/anne-of-green-gables/chapter-16.md",
+        "image": "images/anne-of-green-gables/chapter-16.webp"
+      },
+      {
+        "number": 17,
+        "title": "A New Interest in Life",
+        "file": "content/anne-of-green-gables/chapter-17.md",
+        "image": "images/anne-of-green-gables/chapter-17.webp"
+      },
+      {
+        "number": 18,
+        "title": "Anne to the Rescue",
+        "file": "content/anne-of-green-gables/chapter-18.md",
+        "image": "images/anne-of-green-gables/chapter-18.webp"
+      },
+      {
+        "number": 19,
+        "title": "A Concert, a Catastrophe, and a Confession",
+        "file": "content/anne-of-green-gables/chapter-19.md",
+        "image": "images/anne-of-green-gables/chapter-19.webp"
+      },
+      {
+        "number": 20,
+        "title": "A Good Imagination Gone Wrong",
+        "file": "content/anne-of-green-gables/chapter-20.md",
+        "image": "images/anne-of-green-gables/chapter-20.webp"
+      },
+      {
+        "number": 21,
+        "title": "A New Departure in Flavorings",
+        "file": "content/anne-of-green-gables/chapter-21.md",
+        "image": "images/anne-of-green-gables/chapter-21.webp"
+      },
+      {
+        "number": 22,
+        "title": "Anne Is Invited Out to Tea",
+        "file": "content/anne-of-green-gables/chapter-22.md",
+        "image": "images/anne-of-green-gables/chapter-22.webp"
+      },
+      {
+        "number": 23,
+        "title": "Anne Comes to Grief in an Affair of Honor",
+        "file": "content/anne-of-green-gables/chapter-23.md",
+        "image": "images/anne-of-green-gables/chapter-23.webp"
+      },
+      {
+        "number": 24,
+        "title": "Miss Stacy and Her Pupils Get Up a Concert",
+        "file": "content/anne-of-green-gables/chapter-24.md",
+        "image": "images/anne-of-green-gables/chapter-24.webp"
+      },
+      {
+        "number": 25,
+        "title": "Matthew Insists on Puffed Sleeves",
+        "file": "content/anne-of-green-gables/chapter-25.md",
+        "image": "images/anne-of-green-gables/chapter-25.webp"
+      },
+      {
+        "number": 26,
+        "title": "The Story Club Is Formed",
+        "file": "content/anne-of-green-gables/chapter-26.md",
+        "image": "images/anne-of-green-gables/chapter-26.webp"
+      },
+      {
+        "number": 27,
+        "title": "Vanity and Vexation of Spirit",
+        "file": "content/anne-of-green-gables/chapter-27.md",
+        "image": "images/anne-of-green-gables/chapter-27.webp"
+      },
+      {
+        "number": 28,
+        "title": "An Unfortunate Lily Maid",
+        "file": "content/anne-of-green-gables/chapter-28.md",
+        "image": "images/anne-of-green-gables/chapter-28.webp"
+      },
+      {
+        "number": 29,
+        "title": "An Epoch in Anne's Life",
+        "file": "content/anne-of-green-gables/chapter-29.md",
+        "image": "images/anne-of-green-gables/chapter-29.webp"
+      },
+      {
+        "number": 30,
+        "title": "The Queen's Class Is Organized",
+        "file": "content/anne-of-green-gables/chapter-30.md",
+        "image": "images/anne-of-green-gables/chapter-30.webp"
+      },
+      {
+        "number": 31,
+        "title": "Where the Brook and River Meet",
+        "file": "content/anne-of-green-gables/chapter-31.md",
+        "image": "images/anne-of-green-gables/chapter-31.webp"
+      },
+      {
+        "number": 32,
+        "title": "The Pass List Is Out",
+        "file": "content/anne-of-green-gables/chapter-32.md",
+        "image": "images/anne-of-green-gables/chapter-32.webp"
+      },
+      {
+        "number": 33,
+        "title": "The Hotel Concert",
+        "file": "content/anne-of-green-gables/chapter-33.md",
+        "image": "images/anne-of-green-gables/chapter-33.webp"
+      },
+      {
+        "number": 34,
+        "title": "A Queen's Girl",
+        "file": "content/anne-of-green-gables/chapter-34.md",
+        "image": "images/anne-of-green-gables/chapter-34.webp"
+      },
+      {
+        "number": 35,
+        "title": "The Winter at Queen's",
+        "file": "content/anne-of-green-gables/chapter-35.md",
+        "image": "images/anne-of-green-gables/chapter-35.webp"
+      },
+      {
+        "number": 36,
+        "title": "The Glory and the Dream",
+        "file": "content/anne-of-green-gables/chapter-36.md",
+        "image": "images/anne-of-green-gables/chapter-36.webp"
+      },
+      {
+        "number": 37,
+        "title": "The Reaper Whose Name Is Death",
+        "file": "content/anne-of-green-gables/chapter-37.md",
+        "image": "images/anne-of-green-gables/chapter-37.webp"
+      },
+      {
+        "number": 38,
+        "title": "The Bend in the Road",
+        "file": "content/anne-of-green-gables/chapter-38.md",
+        "image": "images/anne-of-green-gables/chapter-38.webp"
+      }
+    ]
+  }
+}
