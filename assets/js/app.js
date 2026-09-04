@@ -21,11 +21,26 @@ async function buildHome() {
   if (!root) return;
   try {
     const data = await getData();
-    const heroBook = data.books.find(b => b.series === data.featuredSeries && b.status === 'published');
-    if (heroBook?.hero) {
-      document.getElementById('hero').style.backgroundImage =
-        `linear-gradient(90deg,rgba(255,253,247,.97) 0%,rgba(255,253,247,.76) 34%,rgba(255,255,255,.04) 68%),url('${heroBook.hero}')`;
-    }
+    const setSeriesHero = (series) => {
+      const hero = document.getElementById('hero');
+      if (!hero) return;
+
+      const seriesHero = data.seriesHeroes?.[series];
+      const fallbackBook = data.books.find(
+        b => b.series === series && b.status === 'published' && b.hero
+      );
+      const heroPath = seriesHero || fallbackBook?.hero;
+      if (!heroPath) return;
+
+      hero.style.backgroundImage =
+        `linear-gradient(90deg,rgba(255,253,247,.97) 0%,rgba(255,253,247,.76) 34%,rgba(255,255,255,.04) 68%),url('${heroPath}')`;
+    };
+
+    const savedSeries = localStorage.getItem('englishbook-series');
+    const initialSeries =
+      (savedSeries && data.seriesHeroes?.[savedSeries]) ? savedSeries : data.featuredSeries;
+
+    setSeriesHero(initialSeries);
 
     data.books.forEach(b => {
       const published = b.status === 'published';
@@ -49,6 +64,9 @@ async function buildHome() {
       const list = card.querySelector('.chapter-list');
       if (published) {
         head.addEventListener('click', () => {
+          localStorage.setItem('englishbook-series', b.series);
+          setSeriesHero(b.series);
+
           const open = card.classList.toggle('open');
           head.setAttribute('aria-expanded', String(open));
           list.setAttribute('aria-hidden', String(!open));
@@ -58,6 +76,9 @@ async function buildHome() {
           a.className = 'chapter-row';
           a.href = `lesson.html?book=${encodeURIComponent(b.id)}&chapter=${ch.number}`;
           a.innerHTML = `<span class="chapter-no">Chapter ${ch.number}</span><span>${esc(ch.title)}</span><span class="arrow">›</span>`;
+          a.addEventListener('click', () => {
+            localStorage.setItem('englishbook-series', b.series);
+          });
           list.appendChild(a);
         });
       }
@@ -166,6 +187,10 @@ async function buildLesson() {
     const ch = chapters.find(x => x.number === num) || chapters[0];
     if (!book || !ch) throw new Error('This lesson could not be found.');
     if (book.status !== 'published') throw new Error('This book is not published yet.');
+
+    // Remember the active series so the matching hero is restored
+    // automatically when the reader returns to the home page.
+    localStorage.setItem('englishbook-series', book.series);
 
     const md = data.chapterContent?.[ch.file];
     if (typeof md !== 'string') throw new Error('The chapter content is missing from the site data.');
