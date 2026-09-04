@@ -314,5 +314,8 @@
     "anne-of-ingleside": [],
     "rainbow-valley": [],
     "rilla-of-ingleside": []
+  },
+  "seriesHeroes": {
+    "anne": "images/anne-of-green-gables/hero.webp"
   }
 }
