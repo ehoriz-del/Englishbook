@@ -9,3 +9,91 @@
 .note{overflow:visible;text-align:left;padding-top:18px}.anne-hat{display:block;width:108px;height:auto;margin:-2px auto 10px;filter:drop-shadow(0 4px 5px rgba(70,58,38,.10))}.note p{margin:0;font-family:'Libre Baskerville',serif;font-style:italic;color:#4c544f;line-height:1.65}@media(max-width:850px){.anne-hat{width:96px}}
 
 .quiz-dialogue{background:#faf8f1;border:1px solid var(--line);border-radius:11px;padding:12px 14px;margin:10px 0 13px}.quiz-dialogue p{margin:5px 0;font-weight:400}.quiz-dialogue strong{color:var(--ink)}.order-help{font-size:13px;color:var(--muted);margin-bottom:9px}.order-tokens{display:flex;gap:8px;flex-wrap:wrap}.order-token,.order-chip,.order-reset{padding:9px 12px;border:1px solid #d8d1c6;border-radius:9px;background:#fff;font:inherit;cursor:pointer}.order-token:hover,.order-chip:hover{border-color:#7c9b72;background:#f0f6e8}.order-token:disabled{opacity:.4;cursor:default}.order-answer{display:flex;gap:8px;flex-wrap:wrap;min-height:50px;margin:10px 0;border:1px dashed #b9b0a3;border-radius:10px;padding:9px;background:#fbfaf6}.order-chip{background:#eef4e7;border-color:#b9c9aa}.order-reset{background:#fff;color:var(--ink);margin-top:0}.order-token:focus-visible,.order-chip:focus-visible,.order-reset:focus-visible{outline:3px solid #9db38a;outline-offset:2px}
+
+/* Mobile layout safety — keep lesson pages compact and app-like */
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.lesson-shell,
+.lesson-content,
+.lesson-section,
+.practice,
+.q,
+.dialogue,
+.quiz-dialogue,
+.term-list,
+.term-list li,
+.opts,
+.order-answer,
+.lesson-nav,
+.navbtn {
+  min-width: 0;
+  max-width: 100%;
+}
+
+.lesson-section p,
+.lesson-section li,
+.dialogue span,
+.quiz-dialogue p,
+.q p,
+.result,
+.navbtn {
+  overflow-wrap: break-word;
+  word-break: normal;
+}
+
+.lesson-section a {
+  overflow-wrap: anywhere;
+}
+
+img,
+svg {
+  max-width: 100%;
+  height: auto;
+}
+
+.order-token,
+.order-chip,
+.order-reset,
+.opt,
+.check {
+  max-width: 100%;
+  white-space: normal;
+}
+
+@media (max-width: 520px) {
+  /* Speaker names such as “Mrs. Rachel Lynde” must not create a wide grid column. */
+  .dialogue {
+    display: block;
+    padding: 10px 12px;
+  }
+
+  .dialogue strong,
+  .dialogue span {
+    display: inline;
+  }
+
+  .dialogue strong {
+    margin-right: 4px;
+  }
+
+  .lesson-content {
+    gap: 14px;
+  }
+
+  .lesson-section {
+    width: 100%;
+  }
+
+  .lesson-nav {
+    align-items: stretch;
+  }
+
+  .navbtn {
+    flex: 1 1 0;
+    text-align: center;
+  }
+}
