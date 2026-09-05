@@ -91,7 +91,7 @@ async function buildHome() {
 
 function inline(s) {
   let x = esc(s);
-  x = x.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  x = x.replace(/\*\*([^*]+)\*\*/g, '<strong style="color:#315d40;font-weight:700">$1</strong>');
   x = x.replace(/\*([^*]+)\*/g, '<em>$1</em>');
   return x;
 }
@@ -170,10 +170,223 @@ function practiceHTML(exs) {
           : q.type === 'order'
             ? `<div class="order-help">Tap the words one by one. Tap a chosen word to remove it.</div><div class="order-tokens">${q.tokens.map((o,j) => `<button class="order-token" type="button" data-val="${esc(o)}" data-token="${j}">${esc(o)}</button>`).join('')}</div><div class="order-answer" aria-live="polite"></div><button class="order-reset" type="button">Reset</button>`
             : ''}
-      <button class="check" type="button">Check answer</button>
+      ${q.instant ? '' : '<button class="check" type="button">Check answer</button>'}
       <div class="result" aria-live="polite"></div>
     </div>`).join('')}</div></section>`;
 }
+
+function setupStoryAudio(root) {
+  const controls = root.querySelector('.story-audio');
+  if (!controls) return;
+
+  const listenBtn = controls.querySelector('.story-listen');
+  const pauseBtn = controls.querySelector('.story-pause');
+  const restartBtn = controls.querySelector('.story-restart');
+  const pauseLabel = pauseBtn?.querySelector('span');
+  const status = controls.querySelector('.story-audio-status');
+
+  const synth = window.speechSynthesis;
+  const Utterance = window.SpeechSynthesisUtterance;
+
+  if (!synth || !Utterance) {
+    controls.classList.add('audio-unsupported');
+    if (listenBtn) listenBtn.disabled = true;
+    if (pauseBtn) pauseBtn.disabled = true;
+    if (restartBtn) restartBtn.disabled = true;
+    if (status) status.textContent = 'Audio reading is not available in this browser.';
+    return;
+  }
+
+  // The first lesson section is the Story Summary.
+  // Read only its paragraphs—not Conversation, expressions, or Practice.
+  const storySection = root.querySelector('.lesson-content .lesson-section');
+  const paragraphs = storySection
+    ? Array.from(storySection.querySelectorAll(':scope > p'))
+        .map(p => p.textContent.trim())
+        .filter(Boolean)
+    : [];
+
+  if (!paragraphs.length) {
+    controls.hidden = true;
+    return;
+  }
+
+  let queue = [];
+  let queueIndex = 0;
+  let reading = false;
+  let paused = false;
+  let runId = 0;
+
+  const setStatus = text => {
+    if (status) status.textContent = text;
+  };
+
+  const setButtons = () => {
+    if (pauseBtn) pauseBtn.disabled = !reading;
+    if (restartBtn) restartBtn.disabled = !reading;
+    if (pauseLabel) pauseLabel.textContent = paused ? 'Resume' : 'Pause';
+    if (pauseBtn) {
+      pauseBtn.setAttribute('aria-label', paused ? 'Resume story audio' : 'Pause story audio');
+    }
+  };
+
+  const chooseEnglishVoice = () => {
+    const voices = synth.getVoices();
+    return (
+      voices.find(v => v.default && /^en(?:-|_)/i.test(v.lang)) ||
+      voices.find(v => /^en-US/i.test(v.lang)) ||
+      voices.find(v => /^en-GB/i.test(v.lang)) ||
+      voices.find(v => /^en(?:-|_)/i.test(v.lang)) ||
+      null
+    );
+  };
+
+  const splitForSpeech = (paragraph, maxLength = 700) => {
+    const clean = paragraph.replace(/\s+/g, ' ').trim();
+    if (clean.length <= maxLength) return [clean];
+
+    const sentences = clean.match(/[^.!?]+[.!?]+(?:["'’”)]*)|[^.!?]+$/g) || [clean];
+    const parts = [];
+    let current = '';
+
+    sentences.forEach(sentence => {
+      const next = current ? `${current} ${sentence.trim()}` : sentence.trim();
+      if (next.length <= maxLength) {
+        current = next;
+      } else {
+        if (current) parts.push(current);
+        if (sentence.trim().length <= maxLength) {
+          current = sentence.trim();
+        } else {
+          const words = sentence.trim().split(/\s+/);
+          current = '';
+          words.forEach(word => {
+            const candidate = current ? `${current} ${word}` : word;
+            if (candidate.length > maxLength && current) {
+              parts.push(current);
+              current = word;
+            } else {
+              current = candidate;
+            }
+          });
+        }
+      }
+    });
+
+    if (current) parts.push(current);
+    return parts;
+  };
+
+  const buildQueue = () => paragraphs.flatMap(p => splitForSpeech(p));
+
+  const stopReading = (message = '') => {
+    runId += 1;
+    synth.cancel();
+    queue = [];
+    queueIndex = 0;
+    reading = false;
+    paused = false;
+    setButtons();
+    setStatus(message);
+  };
+
+  const speakNext = activeRunId => {
+    if (!reading || activeRunId !== runId) return;
+
+    if (queueIndex >= queue.length) {
+      reading = false;
+      paused = false;
+      queue = [];
+      queueIndex = 0;
+      setButtons();
+      setStatus('Finished.');
+      return;
+    }
+
+    const utterance = new Utterance(queue[queueIndex]);
+    utterance.lang = 'en-US';
+    utterance.rate = 1;
+    utterance.pitch = 1;
+    utterance.volume = 1;
+
+    const voice = chooseEnglishVoice();
+    if (voice) {
+      utterance.voice = voice;
+      utterance.lang = voice.lang || 'en-US';
+    }
+
+    utterance.onend = () => {
+      if (!reading || activeRunId !== runId) return;
+      queueIndex += 1;
+      speakNext(activeRunId);
+    };
+
+    utterance.onerror = event => {
+      if (event.error === 'interrupted' || event.error === 'canceled') return;
+      stopReading('Audio stopped. Please try again.');
+    };
+
+    synth.speak(utterance);
+  };
+
+  const startReading = () => {
+    stopReading('');
+    queue = buildQueue();
+    if (!queue.length) return;
+
+    reading = true;
+    paused = false;
+    runId += 1;
+    const activeRunId = runId;
+    setButtons();
+    setStatus('Reading story…');
+    speakNext(activeRunId);
+  };
+
+  listenBtn?.addEventListener('click', () => {
+    if (reading && paused) {
+      synth.resume();
+      paused = false;
+      setButtons();
+      setStatus('Reading story…');
+      return;
+    }
+    if (!reading) startReading();
+  });
+
+  pauseBtn?.addEventListener('click', () => {
+    if (!reading) return;
+
+    if (paused) {
+      synth.resume();
+      paused = false;
+      setStatus('Reading story…');
+    } else {
+      synth.pause();
+      paused = true;
+      setStatus('Paused.');
+    }
+    setButtons();
+  });
+
+  restartBtn?.addEventListener('click', () => {
+    startReading();
+  });
+
+  // Some browsers load voices after page initialization.
+  // Calling getVoices() now and again when voices change improves consistency.
+  synth.getVoices();
+  if ('onvoiceschanged' in synth) {
+    synth.addEventListener?.('voiceschanged', () => synth.getVoices(), { once: true });
+  }
+
+  window.addEventListener('beforeunload', () => {
+    synth.cancel();
+  }, { once: true });
+
+  setButtons();
+}
+
 async function buildLesson() {
   const root = document.getElementById('lesson');
   if (!root) return;
@@ -202,6 +415,12 @@ async function buildLesson() {
       <span class="chapter-num">Chapter ${ch.number} of ${book.totalChapters}</span>
       <h1 class="lesson-title">${esc(ch.title)}</h1>
       <img class="chapter-art" src="${esc(ch.image)}" alt="Original watercolor-style scene inspired by Chapter ${ch.number}, ${esc(ch.title)}">
+      <div class="story-audio" aria-label="Story audio controls">
+        <button class="story-audio-btn story-listen" type="button" aria-label="Listen to Story">▶ <span>Listen to Story</span></button>
+        <button class="story-audio-btn story-pause" type="button" aria-label="Pause story audio" disabled>⏸ <span>Pause</span></button>
+        <button class="story-audio-btn story-restart" type="button" aria-label="Restart story audio" disabled>↻ <span>Restart</span></button>
+        <span class="story-audio-status" aria-live="polite"></span>
+      </div>
       <div class="lesson-content">${parsed.html}${practiceHTML(parsed.exercises)}</div>
       <nav class="lesson-nav" aria-label="Chapter navigation">
         ${ch.number > 1 ? `<a class="navbtn" href="lesson.html?book=${encodeURIComponent(bookId)}&chapter=${ch.number-1}">← Chapter ${ch.number-1}</a>` : '<span></span>'}
@@ -213,48 +432,7 @@ async function buildLesson() {
       let selected = '';
       const chosen = [];
 
-      qel.querySelectorAll('.opt').forEach(btn => btn.addEventListener('click', () => {
-        qel.querySelectorAll('.opt').forEach(x => x.classList.remove('selected'));
-        btn.classList.add('selected');
-        selected = btn.dataset.val;
-      }));
-
-      const input = qel.querySelector('.fill');
-      if (input) input.addEventListener('keydown', e => { if (e.key === 'Enter') qel.querySelector('.check').click(); });
-
-      const answerLine = qel.querySelector('.order-answer');
-      const renderOrder = () => {
-        if (!answerLine) return;
-        answerLine.innerHTML = '';
-        chosen.forEach((item, idx) => {
-          const chip = document.createElement('button');
-          chip.type = 'button';
-          chip.className = 'order-chip';
-          chip.textContent = item.value;
-          chip.title = 'Tap to remove';
-          chip.addEventListener('click', () => {
-            const token = qel.querySelector(`.order-token[data-token="${item.id}"]`);
-            if (token) token.disabled = false;
-            chosen.splice(idx, 1);
-            renderOrder();
-          });
-          answerLine.appendChild(chip);
-        });
-      };
-      qel.querySelectorAll('.order-token').forEach(btn => btn.addEventListener('click', () => {
-        chosen.push({id: btn.dataset.token, value: btn.dataset.val});
-        btn.disabled = true;
-        renderOrder();
-      }));
-      qel.querySelector('.order-reset')?.addEventListener('click', () => {
-        chosen.length = 0;
-        qel.querySelectorAll('.order-token').forEach(x => x.disabled = false);
-        renderOrder();
-        const r = qel.querySelector('.result');
-        r.className = 'result'; r.textContent = '';
-      });
-
-      qel.querySelector('.check').addEventListener('click', () => {
+      const grade = () => {
         let given = '';
         if (q.type === 'choice' || q.type === 'dialogue') given = selected;
         else if (q.type === 'fill') given = (input?.value || '').trim();
@@ -271,8 +449,62 @@ async function buildLesson() {
         r.innerHTML = ok
           ? `<strong>✓ Correct.</strong> ${esc(q.explanation || '')}`
           : `<strong>Not quite.</strong> Correct answer: <strong>${esc(q.answer)}</strong>. ${esc(q.explanation || '')}`;
+      };
+
+      qel.querySelectorAll('.opt').forEach(btn => btn.addEventListener('click', () => {
+        qel.querySelectorAll('.opt').forEach(x => x.classList.remove('selected'));
+        btn.classList.add('selected');
+        selected = btn.dataset.val;
+        if (q.instant) grade();
+      }));
+
+      const input = qel.querySelector('.fill');
+      if (input) input.addEventListener('keydown', e => {
+        if (e.key === 'Enter') {
+          if (q.instant) grade();
+          else qel.querySelector('.check')?.click();
+        }
       });
+
+      const answerLine = qel.querySelector('.order-answer');
+      const renderOrder = () => {
+        if (!answerLine) return;
+        answerLine.innerHTML = '';
+        chosen.forEach((item, idx) => {
+          const chip = document.createElement('button');
+          chip.type = 'button';
+          chip.className = 'order-chip';
+          chip.textContent = item.value;
+          chip.title = 'Tap to remove';
+          chip.addEventListener('click', () => {
+            const token = qel.querySelector(`.order-token[data-token="${item.id}"]`);
+            if (token) token.disabled = false;
+            chosen.splice(idx, 1);
+            renderOrder();
+            const r = qel.querySelector('.result');
+            r.className = 'result'; r.textContent = '';
+          });
+          answerLine.appendChild(chip);
+        });
+      };
+      qel.querySelectorAll('.order-token').forEach(btn => btn.addEventListener('click', () => {
+        chosen.push({id: btn.dataset.token, value: btn.dataset.val});
+        btn.disabled = true;
+        renderOrder();
+        if (q.instant && chosen.length === q.tokens.length) grade();
+      }));
+      qel.querySelector('.order-reset')?.addEventListener('click', () => {
+        chosen.length = 0;
+        qel.querySelectorAll('.order-token').forEach(x => x.disabled = false);
+        renderOrder();
+        const r = qel.querySelector('.result');
+        r.className = 'result'; r.textContent = '';
+      });
+
+      qel.querySelector('.check')?.addEventListener('click', grade);
     });
+
+    setupStoryAudio(root);
   } catch (e) {
     showError(root, e.message);
   }
