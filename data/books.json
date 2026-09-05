@@ -21,7 +21,8 @@
       "author": "L. M. Montgomery",
       "status": "coming-soon",
       "cover": "images/books/anne-of-avonlea.webp",
-      "description": "Anne grows into a young teacher while Avonlea brings new responsibilities, friendships, and surprises."
+      "description": "Anne grows into a young teacher while Avonlea brings new responsibilities, friendships, and surprises.",
+      "totalChapters": 30
     },
     {
       "id": "anne-of-the-island",
@@ -313,7 +314,39 @@
     "annes-house-of-dreams": [],
     "anne-of-ingleside": [],
     "rainbow-valley": [],
-    "rilla-of-ingleside": []
+    "rilla-of-ingleside": [],
+    "anne-of-avonlea": [
+      {
+        "number": 1,
+        "title": "An Irate Neighbor",
+        "file": "content/anne-of-avonlea/chapter-01.md",
+        "image": "images/anne-of-avonlea/chapter-01.webp"
+      },
+      {
+        "number": 2,
+        "title": "Selling in Haste and Repenting at Leisure",
+        "file": "content/anne-of-avonlea/chapter-02.md",
+        "image": "images/anne-of-avonlea/chapter-02.webp"
+      },
+      {
+        "number": 3,
+        "title": "Mr. Harrison at Home",
+        "file": "content/anne-of-avonlea/chapter-03.md",
+        "image": "images/anne-of-avonlea/chapter-03.webp"
+      },
+      {
+        "number": 4,
+        "title": "Different Opinions",
+        "file": "content/anne-of-avonlea/chapter-04.md",
+        "image": "images/anne-of-avonlea/chapter-04.webp"
+      },
+      {
+        "number": 5,
+        "title": "A Full-fledged Schoolma’am",
+        "file": "content/anne-of-avonlea/chapter-05.md",
+        "image": "images/anne-of-avonlea/chapter-05.webp"
+      }
+    ]
   },
   "seriesHeroes": {
     "anne": "images/anne-of-green-gables/hero.webp"
