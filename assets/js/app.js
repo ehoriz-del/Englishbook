@@ -182,10 +182,10 @@ function setupStoryAudio(root) {
   const listenBtn = controls.querySelector('.story-listen');
   const pauseBtn = controls.querySelector('.story-pause');
   const restartBtn = controls.querySelector('.story-restart');
-  const speedSelect = controls.querySelector('.story-speed');
+  const speedButtons = Array.from(controls.querySelectorAll('.story-speed-btn'));
   const pauseLabel = pauseBtn?.querySelector('span');
   const status = controls.querySelector('.story-audio-status');
-  let speechRate = Number(speedSelect?.value || 1);
+  let speechRate = 1;
 
   const synth = window.speechSynthesis;
   const Utterance = window.SpeechSynthesisUtterance;
@@ -345,15 +345,28 @@ function setupStoryAudio(root) {
     speakNext(activeRunId);
   };
 
-  speedSelect?.addEventListener('change', () => {
-    speechRate = Number(speedSelect.value || 1);
+  speedButtons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const nextRate = Number(btn.dataset.rate || 1);
+      if (!Number.isFinite(nextRate)) return;
 
-    // If the story is currently playing, restart it at the newly selected speed
-    // so the change is heard immediately and consistently.
-    if (reading) {
-      startReading();
-      setStatus(`Reading story at ${speechRate.toFixed(1)}×…`);
-    }
+      speechRate = nextRate;
+      speedButtons.forEach(x => {
+        const active = x === btn;
+        x.classList.toggle('active', active);
+        x.setAttribute('aria-pressed', String(active));
+      });
+
+      // If audio is already playing, restart immediately at the new speed.
+      if (reading) {
+        startReading();
+        setStatus(`Reading story at ${speechRate.toFixed(1)}×…`);
+      }
+    });
+  });
+
+  speedButtons.forEach(btn => {
+    btn.setAttribute('aria-pressed', String(btn.classList.contains('active')));
   });
 
   listenBtn?.addEventListener('click', () => {
@@ -432,14 +445,12 @@ async function buildLesson() {
         <button class="story-audio-btn story-listen" type="button" aria-label="Listen to Story">▶ <span>Listen to Story</span></button>
         <button class="story-audio-btn story-pause" type="button" aria-label="Pause story audio" disabled>⏸ <span>Pause</span></button>
         <button class="story-audio-btn story-restart" type="button" aria-label="Restart story audio" disabled>↻ <span>Restart</span></button>
-        <label class="story-speed-label">
-          <span>Speed</span>
-          <select class="story-speed" aria-label="Reading speed">
-            <option value="0.8">0.8×</option>
-            <option value="1" selected>1.0×</option>
-            <option value="1.2">1.2×</option>
-          </select>
-        </label>
+        <div class="story-speed-control" aria-label="Reading speed">
+          <span class="story-speed-title">Speed</span>
+          <button class="story-speed-btn" type="button" data-rate="0.8">0.8×</button>
+          <button class="story-speed-btn active" type="button" data-rate="1">1.0×</button>
+          <button class="story-speed-btn" type="button" data-rate="1.2">1.2×</button>
+        </div>
         <span class="story-audio-status" aria-live="polite"></span>
       </div>
       <div class="lesson-content">${parsed.html}${practiceHTML(parsed.exercises)}</div>
