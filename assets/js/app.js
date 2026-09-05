@@ -185,7 +185,7 @@ function setupStoryAudio(root) {
   const speedButtons = Array.from(controls.querySelectorAll('.story-speed-btn'));
   const pauseLabel = pauseBtn?.querySelector('span');
   const status = controls.querySelector('.story-audio-status');
-  let speechRate = 1;
+  let speechRate = 0.8;
 
   const synth = window.speechSynthesis;
   const Utterance = window.SpeechSynthesisUtterance;
@@ -447,9 +447,9 @@ async function buildLesson() {
         <button class="story-audio-btn story-restart" type="button" aria-label="Restart story audio" disabled>↻ <span>Restart</span></button>
         <div class="story-speed-control" aria-label="Reading speed">
           <span class="story-speed-title">Speed</span>
-          <button class="story-speed-btn" type="button" data-rate="0.55">0.55×</button>
-          <button class="story-speed-btn" type="button" data-rate="0.75">0.75×</button>
-          <button class="story-speed-btn active" type="button" data-rate="1">1.0×</button>
+          <button class="story-speed-btn" type="button" data-rate="0.65">0.65×</button>
+          <button class="story-speed-btn active" type="button" data-rate="0.8">0.8×</button>
+          <button class="story-speed-btn" type="button" data-rate="1">1.0×</button>
         </div>
         <span class="story-audio-status" aria-live="polite"></span>
       </div>
