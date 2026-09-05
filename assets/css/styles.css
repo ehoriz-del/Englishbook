@@ -178,42 +178,7 @@ svg {
   }
 }
 
-.story-speed-label{
-  display:inline-flex;
-  align-items:center;
-  gap:7px;
-  min-height:38px;
-  padding:6px 10px 6px 12px;
-  border:1px solid var(--line);
-  border-radius:999px;
-  background:#fffdf8;
-  color:var(--muted);
-  font-size:12px;
-  font-weight:650;
-}
-
-.story-speed{
-  border:0;
-  background:transparent;
-  color:var(--ink);
-  font:700 12px/1.2 inherit;
-  cursor:pointer;
-  outline:none;
-}
-
-.story-speed:focus-visible{
-  outline:2px solid #9db38a;
-  outline-offset:2px;
-  border-radius:6px;
-}
-
-@media(max-width:520px){
-  .story-speed-label{
-    padding:6px 9px 6px 10px;
-  }
-}
-
-/* Visible read-aloud speed buttons */
+/* Read-aloud speed controls */
 .story-speed-control{
   display:inline-flex;
   align-items:center;
@@ -223,9 +188,11 @@ svg {
   border:1px solid var(--line);
   border-radius:999px;
   background:#fffdf8;
+  max-width:100%;
 }
 
 .story-speed-title{
+  flex:0 0 auto;
   margin-right:2px;
   color:var(--muted);
   font-size:12px;
@@ -233,7 +200,8 @@ svg {
 }
 
 .story-speed-btn{
-  min-width:46px;
+  flex:0 0 auto;
+  min-width:48px;
   min-height:28px;
   padding:5px 8px;
   border:1px solid transparent;
@@ -259,10 +227,46 @@ svg {
   outline-offset:2px;
 }
 
-@media(max-width:520px){
+/* On phones the speed selector gets its own full-width row.
+   This prevents it from being pushed off-screen beside the audio buttons. */
+@media(max-width:600px){
+  .story-audio{
+    display:grid;
+    grid-template-columns:repeat(3,minmax(0,1fr));
+    gap:7px;
+    width:100%;
+  }
+
+  .story-audio-btn{
+    width:100%;
+    min-width:0;
+    padding:8px 6px;
+  }
+
+  .story-audio-btn span{
+    white-space:normal;
+  }
+
   .story-speed-control{
-    flex:1 0 100%;
-    width:max-content;
-    max-width:100%;
+    grid-column:1 / -1;
+    display:grid;
+    grid-template-columns:auto repeat(3,minmax(0,1fr));
+    align-items:center;
+    width:100%;
+    min-width:0;
+    padding:6px 7px 6px 10px;
+    border-radius:12px;
+  }
+
+  .story-speed-btn{
+    width:100%;
+    min-width:0;
+    padding:7px 5px;
+  }
+
+  .story-audio-status{
+    grid-column:1 / -1;
+    width:100%;
+    margin:0 2px;
   }
 }
