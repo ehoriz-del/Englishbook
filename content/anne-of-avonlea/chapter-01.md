@@ -57,61 +57,96 @@ Mrs. Lynde: Well, once you’ve made up your mind, there’s usually no stopping
 ```exercise
 [
   {
-    "type":"choice",
-    "instant":true,
-    "target":"put up with",
-    "prompt":"Which expression best means “tolerate something annoying or unpleasant”?",
-    "options":["put up with","run into","take on","carry through"],
-    "answer":"put up with",
-    "explanation":"“Put up with” means tolerate a situation or behavior even though you find it unpleasant."
-  },
-  {
-    "type":"choice",
-    "instant":true,
-    "target":"make allowance for",
-    "prompt":"A colleague is unusually quiet because she has had a difficult morning. Which sentence is the most natural?",
-    "options":["We should make allowance for the fact that she has had a difficult morning.","We should put up with the fact that she has had a difficult morning.","We should carry through the fact that she has had a difficult morning.","We should run into the fact that she has had a difficult morning."],
-    "answer":"We should make allowance for the fact that she has had a difficult morning.",
-    "explanation":"“Make allowance for” means be understanding because you recognize a circumstance that may affect someone."
-  },
-  {
-    "type":"dialogue",
-    "instant":true,
-    "target":"have your hands full",
-    "prompt":"Choose the expression that best completes the conversation.",
-    "dialogue":[
-      {"speaker":"Lena","text":"Are you joining the planning committee too?"},
-      {"speaker":"Sam","text":"I don’t think so. I’m already training two new employees."},
-      {"speaker":"Lena","text":"And you’re moving next week, right?"},
-      {"speaker":"Sam","text":"Exactly. I really ________ right now."}
+    "type": "choice",
+    "instant": true,
+    "target": "put up with",
+    "prompt": "Which expression best means “tolerate something annoying or unpleasant”?",
+    "options": [
+      "put up with",
+      "run into",
+      "take on",
+      "carry through"
     ],
-    "options":["have my hands full","keep an eye on it","put up with it","give it a piece of my mind"],
-    "answer":"have my hands full",
-    "explanation":"“Have your hands full” means be extremely busy dealing with several responsibilities or problems."
+    "answer": "put up with",
+    "explanation": "“Put up with” means tolerate a situation or behavior even though you find it unpleasant."
   },
   {
-    "type":"order",
-    "instant":true,
-    "target":"set your mind on",
-    "prompt":"Tap the words in the correct order to build a natural sentence.",
-    "tokens":["Once","you’ve","set","your","mind","on","it,","you’ll","find","a","way."],
-    "answer":"Once you’ve set your mind on it, you’ll find a way.",
-    "explanation":"“Set your mind on something” means decide firmly that you want to do or achieve it."
-  },
-  {
-    "type":"dialogue",
-    "instant":true,
-    "target":"carry it through",
-    "prompt":"Choose the best expression for the final line.",
-    "dialogue":[
-      {"speaker":"Mina","text":"The neighborhood garden idea sounds good, but it will take months."},
-      {"speaker":"Jon","text":"True. We’ll need volunteers and permission from the city."},
-      {"speaker":"Mina","text":"Do you still want to do it?"},
-      {"speaker":"Jon","text":"Yes. If we start it, I want to ________ properly."}
+    "type": "choice",
+    "instant": true,
+    "target": "make allowance for",
+    "prompt": "A colleague is unusually quiet because she has had a difficult morning. Which sentence is the most natural?",
+    "options": [
+      "We should make allowance for the fact that she has had a difficult morning.",
+      "We should put up with the fact that she has had a difficult morning.",
+      "We should carry through the fact that she has had a difficult morning.",
+      "We should run into the fact that she has had a difficult morning."
     ],
-    "options":["run into it","carry it through","put it up with","keep it an eye on"],
-    "answer":"carry it through",
-    "explanation":"“Carry it through” means continue with a plan until it is completed."
+    "answer": "We should make allowance for the fact that she has had a difficult morning.",
+    "explanation": "“Make allowance for” means be understanding because you recognize a circumstance that may affect someone."
+  },
+  {
+    "type": "dialogue",
+    "instant": true,
+    "target": "have your hands full",
+    "prompt": "Choose the expression that best completes the conversation.",
+    "dialogue": [
+      {
+        "speaker": "Lena",
+        "text": "Are you joining the planning committee too?"
+      },
+      {
+        "speaker": "Sam",
+        "text": "I don’t think so. I’m already training two new employees."
+      },
+      {
+        "speaker": "Lena",
+        "text": "And you’re moving next week, right?"
+      },
+      {
+        "speaker": "Sam",
+        "text": "Exactly. I really ________ right now."
+      }
+    ],
+    "options": [
+      "have my hands full",
+      "keep an eye on it",
+      "put up with it",
+      "give it a piece of my mind"
+    ],
+    "answer": "have my hands full",
+    "explanation": "“Have your hands full” means be extremely busy dealing with several responsibilities or problems."
+  },
+  {
+    "type": "dialogue",
+    "instant": true,
+    "target": "carry it through",
+    "prompt": "Choose the best expression for the final line.",
+    "dialogue": [
+      {
+        "speaker": "Mina",
+        "text": "The neighborhood garden idea sounds good, but it will take months."
+      },
+      {
+        "speaker": "Jon",
+        "text": "True. We’ll need volunteers and permission from the city."
+      },
+      {
+        "speaker": "Mina",
+        "text": "Do you still want to do it?"
+      },
+      {
+        "speaker": "Jon",
+        "text": "Yes. If we start it, I want to ________ properly."
+      }
+    ],
+    "options": [
+      "run into it",
+      "carry it through",
+      "put it up with",
+      "keep it an eye on"
+    ],
+    "answer": "carry it through",
+    "explanation": "“Carry it through” means continue with a plan until it is completed."
   }
 ]
 ```
