@@ -420,12 +420,13 @@ async function buildLesson() {
     const params = new URLSearchParams(location.search);
     const bookId = params.get('book') || 'anne-of-green-gables';
     const num = parseInt(params.get('chapter') || '1', 10);
+    const preview = params.get('preview') === '1';
     const data = await getData();
     const book = data.books.find(x => x.id === bookId);
     const chapters = data.chapters[bookId] || [];
     const ch = chapters.find(x => x.number === num) || chapters[0];
     if (!book || !ch) throw new Error('This lesson could not be found.');
-    if (book.status !== 'published') throw new Error('This book is not published yet.');
+    if (book.status !== 'published' && !preview) throw new Error('This book is not published yet.');
 
     // Remember the active series so the matching hero is restored
     // automatically when the reader returns to the home page.
