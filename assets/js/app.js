@@ -182,8 +182,10 @@ function setupStoryAudio(root) {
   const listenBtn = controls.querySelector('.story-listen');
   const pauseBtn = controls.querySelector('.story-pause');
   const restartBtn = controls.querySelector('.story-restart');
+  const speedSelect = controls.querySelector('.story-speed');
   const pauseLabel = pauseBtn?.querySelector('span');
   const status = controls.querySelector('.story-audio-status');
+  let speechRate = Number(speedSelect?.value || 1);
 
   const synth = window.speechSynthesis;
   const Utterance = window.SpeechSynthesisUtterance;
@@ -305,7 +307,7 @@ function setupStoryAudio(root) {
 
     const utterance = new Utterance(queue[queueIndex]);
     utterance.lang = 'en-US';
-    utterance.rate = 1;
+    utterance.rate = speechRate;
     utterance.pitch = 1;
     utterance.volume = 1;
 
@@ -339,16 +341,27 @@ function setupStoryAudio(root) {
     runId += 1;
     const activeRunId = runId;
     setButtons();
-    setStatus('Reading story…');
+    setStatus(`Reading story at ${speechRate.toFixed(1)}×…`);
     speakNext(activeRunId);
   };
+
+  speedSelect?.addEventListener('change', () => {
+    speechRate = Number(speedSelect.value || 1);
+
+    // If the story is currently playing, restart it at the newly selected speed
+    // so the change is heard immediately and consistently.
+    if (reading) {
+      startReading();
+      setStatus(`Reading story at ${speechRate.toFixed(1)}×…`);
+    }
+  });
 
   listenBtn?.addEventListener('click', () => {
     if (reading && paused) {
       synth.resume();
       paused = false;
       setButtons();
-      setStatus('Reading story…');
+      setStatus(`Reading story at ${speechRate.toFixed(1)}×…`);
       return;
     }
     if (!reading) startReading();
@@ -360,7 +373,7 @@ function setupStoryAudio(root) {
     if (paused) {
       synth.resume();
       paused = false;
-      setStatus('Reading story…');
+      setStatus(`Reading story at ${speechRate.toFixed(1)}×…`);
     } else {
       synth.pause();
       paused = true;
@@ -419,6 +432,14 @@ async function buildLesson() {
         <button class="story-audio-btn story-listen" type="button" aria-label="Listen to Story">▶ <span>Listen to Story</span></button>
         <button class="story-audio-btn story-pause" type="button" aria-label="Pause story audio" disabled>⏸ <span>Pause</span></button>
         <button class="story-audio-btn story-restart" type="button" aria-label="Restart story audio" disabled>↻ <span>Restart</span></button>
+        <label class="story-speed-label">
+          <span>Speed</span>
+          <select class="story-speed" aria-label="Reading speed">
+            <option value="0.8">0.8×</option>
+            <option value="1" selected>1.0×</option>
+            <option value="1.2">1.2×</option>
+          </select>
+        </label>
         <span class="story-audio-status" aria-live="polite"></span>
       </div>
       <div class="lesson-content">${parsed.html}${practiceHTML(parsed.exercises)}</div>
