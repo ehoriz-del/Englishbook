@@ -177,3 +177,38 @@ svg {
     margin:0 2px;
   }
 }
+
+.story-speed-label{
+  display:inline-flex;
+  align-items:center;
+  gap:7px;
+  min-height:38px;
+  padding:6px 10px 6px 12px;
+  border:1px solid var(--line);
+  border-radius:999px;
+  background:#fffdf8;
+  color:var(--muted);
+  font-size:12px;
+  font-weight:650;
+}
+
+.story-speed{
+  border:0;
+  background:transparent;
+  color:var(--ink);
+  font:700 12px/1.2 inherit;
+  cursor:pointer;
+  outline:none;
+}
+
+.story-speed:focus-visible{
+  outline:2px solid #9db38a;
+  outline-offset:2px;
+  border-radius:6px;
+}
+
+@media(max-width:520px){
+  .story-speed-label{
+    padding:6px 9px 6px 10px;
+  }
+}
