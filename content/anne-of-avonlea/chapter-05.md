@@ -64,61 +64,96 @@ Marilla: Then perhaps all that patience will **pay off** sooner than you expect.
 ```exercise
 [
   {
-    "type":"choice",
-    "instant":true,
-    "target":"draw a blank",
-    "prompt":"Which expression best means “suddenly be unable to remember something you know”?",
-    "options":["draw a blank","stand out","settle in","pay off"],
-    "answer":"draw a blank",
-    "explanation":"“Draw a blank” means suddenly fail to remember information that you normally know."
-  },
-  {
-    "type":"choice",
-    "instant":true,
-    "target":"settle in",
-    "prompt":"You have just started a new job. After a week, you finally feel comfortable with the routine. Which sentence is the most natural?",
-    "options":["I’m starting to settle in.","I’m starting to stand out of it.","I’m starting to draw a blank.","I’m starting to pay it off."],
-    "answer":"I’m starting to settle in.",
-    "explanation":"“Settle in” means become comfortable in a new place, situation, or routine."
-  },
-  {
-    "type":"dialogue",
-    "instant":true,
-    "target":"get off to a rough start",
-    "prompt":"Choose the expression that best completes the conversation.",
-    "dialogue":[
-      {"speaker":"Ava","text":"How is the new project going?"},
-      {"speaker":"Luis","text":"Better now. We had two software problems on the first day."},
-      {"speaker":"Ava","text":"That sounds stressful."},
-      {"speaker":"Luis","text":"It was. We really ________, but the team recovered quickly."}
+    "type": "choice",
+    "instant": true,
+    "target": "draw a blank",
+    "prompt": "Which expression best means “suddenly be unable to remember something you know”?",
+    "options": [
+      "draw a blank",
+      "stand out",
+      "settle in",
+      "pay off"
     ],
-    "options":["got off to a rough start","drew a blank","settled in","stood out"],
-    "answer":"got off to a rough start",
-    "explanation":"“Get off to a rough start” means begin with difficulties or problems."
+    "answer": "draw a blank",
+    "explanation": "“Draw a blank” means suddenly fail to remember information that you normally know."
   },
   {
-    "type":"order",
-    "instant":true,
-    "target":"keep at it",
-    "prompt":"Tap the words in the correct order to build a natural sentence.",
-    "tokens":["It’s","difficult","now,","but","keep","at","it","and","you’ll","improve."],
-    "answer":"It’s difficult now, but keep at it and you’ll improve.",
-    "explanation":"“Keep at it” means continue trying instead of giving up."
-  },
-  {
-    "type":"dialogue",
-    "instant":true,
-    "target":"pay off",
-    "prompt":"Choose the best expression for the final line.",
-    "dialogue":[
-      {"speaker":"Emma","text":"You practiced that presentation every night this week."},
-      {"speaker":"Noah","text":"I wanted to feel confident."},
-      {"speaker":"Emma","text":"And the client loved it."},
-      {"speaker":"Noah","text":"I’m glad all that preparation finally ________."}
+    "type": "choice",
+    "instant": true,
+    "target": "settle in",
+    "prompt": "You have just started a new job. After a week, you finally feel comfortable with the routine. Which sentence is the most natural?",
+    "options": [
+      "I’m starting to settle in.",
+      "I’m starting to stand out of it.",
+      "I’m starting to draw a blank.",
+      "I’m starting to pay it off."
     ],
-    "options":["paid off","drew a blank","settled in","stood out of"],
-    "answer":"paid off",
-    "explanation":"“Pay off” means produce a good result after effort or patience."
+    "answer": "I’m starting to settle in.",
+    "explanation": "“Settle in” means become comfortable in a new place, situation, or routine."
+  },
+  {
+    "type": "dialogue",
+    "instant": true,
+    "target": "get off to a rough start",
+    "prompt": "Choose the expression that best completes the conversation.",
+    "dialogue": [
+      {
+        "speaker": "Ava",
+        "text": "How is the new project going?"
+      },
+      {
+        "speaker": "Luis",
+        "text": "Better now. We had two software problems on the first day."
+      },
+      {
+        "speaker": "Ava",
+        "text": "That sounds stressful."
+      },
+      {
+        "speaker": "Luis",
+        "text": "It was. We really ________, but the team recovered quickly."
+      }
+    ],
+    "options": [
+      "got off to a rough start",
+      "drew a blank",
+      "settled in",
+      "stood out"
+    ],
+    "answer": "got off to a rough start",
+    "explanation": "“Get off to a rough start” means begin with difficulties or problems."
+  },
+  {
+    "type": "dialogue",
+    "instant": true,
+    "target": "pay off",
+    "prompt": "Choose the best expression for the final line.",
+    "dialogue": [
+      {
+        "speaker": "Emma",
+        "text": "You practiced that presentation every night this week."
+      },
+      {
+        "speaker": "Noah",
+        "text": "I wanted to feel confident."
+      },
+      {
+        "speaker": "Emma",
+        "text": "And the client loved it."
+      },
+      {
+        "speaker": "Noah",
+        "text": "I’m glad all that preparation finally ________."
+      }
+    ],
+    "options": [
+      "paid off",
+      "drew a blank",
+      "settled in",
+      "stood out of"
+    ],
+    "answer": "paid off",
+    "explanation": "“Pay off” means produce a good result after effort or patience."
   }
 ]
 ```

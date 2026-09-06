@@ -62,61 +62,96 @@ Anne: Maybe. But I want to **give my approach a fair chance** first.
 ```exercise
 [
   {
-    "type":"choice",
-    "instant":true,
-    "target":"come down to",
-    "prompt":"Which expression best means “be mainly determined by one essential factor”?",
-    "options":["come down to","go without","push too far","change your mind"],
-    "answer":"come down to",
-    "explanation":"“Come down to” identifies the main factor or issue that ultimately determines something."
-  },
-  {
-    "type":"choice",
-    "instant":true,
-    "target":"win someone over",
-    "prompt":"My manager was doubtful about the proposal at first, but the new data helped me ________. Which option is the most natural?",
-    "options":["win him over","go without him","push him too far","change him over"],
-    "answer":"win him over",
-    "explanation":"“Win someone over” means persuade that person to support, trust, or agree with you."
-  },
-  {
-    "type":"dialogue",
-    "instant":true,
-    "target":"talk it through",
-    "prompt":"Choose the expression that best completes the conversation.",
-    "dialogue":[
-      {"speaker":"Maya","text":"Are you still upset about what happened in the meeting?"},
-      {"speaker":"Chris","text":"A little. I think we misunderstood each other."},
-      {"speaker":"Maya","text":"Do you want me to email everyone?"},
-      {"speaker":"Chris","text":"Not yet. I’d rather meet with Jordan and ________ first."}
+    "type": "choice",
+    "instant": true,
+    "target": "come down to",
+    "prompt": "Which expression best means “be mainly determined by one essential factor”?",
+    "options": [
+      "come down to",
+      "go without",
+      "push too far",
+      "change your mind"
     ],
-    "options":["talk it through","go without it","change it over","push it too far"],
-    "answer":"talk it through",
-    "explanation":"“Talk something through” means discuss a problem carefully so it becomes clearer."
+    "answer": "come down to",
+    "explanation": "“Come down to” identifies the main factor or issue that ultimately determines something."
   },
   {
-    "type":"order",
-    "instant":true,
-    "target":"stick with",
-    "prompt":"Tap the words in the correct order to build a natural sentence.",
-    "tokens":["I’ll","stick","with","the","plan","even","if","it’s","difficult","at","first."],
-    "answer":"I’ll stick with the plan even if it’s difficult at first.",
-    "explanation":"“Stick with” means continue with a plan or choice instead of giving it up."
-  },
-  {
-    "type":"dialogue",
-    "instant":true,
-    "target":"give it a fair chance",
-    "prompt":"Choose the best expression for the final line.",
-    "dialogue":[
-      {"speaker":"Nina","text":"I don’t really like the new scheduling system."},
-      {"speaker":"Owen","text":"We’ve only been using it for two days."},
-      {"speaker":"Nina","text":"True. Maybe I’m judging it too quickly."},
-      {"speaker":"Owen","text":"Exactly. Let’s ________ before we decide it doesn’t work."}
+    "type": "choice",
+    "instant": true,
+    "target": "win someone over",
+    "prompt": "My manager was doubtful about the proposal at first, but the new data helped me ________. Which option is the most natural?",
+    "options": [
+      "win him over",
+      "go without him",
+      "push him too far",
+      "change him over"
     ],
-    "options":["push it too far","give it a fair chance","lose our temper","go without it"],
-    "answer":"give it a fair chance",
-    "explanation":"“Give something a fair chance” means try it seriously before deciding whether it works."
+    "answer": "win him over",
+    "explanation": "“Win someone over” means persuade that person to support, trust, or agree with you."
+  },
+  {
+    "type": "dialogue",
+    "instant": true,
+    "target": "talk it through",
+    "prompt": "Choose the expression that best completes the conversation.",
+    "dialogue": [
+      {
+        "speaker": "Maya",
+        "text": "Are you still upset about what happened in the meeting?"
+      },
+      {
+        "speaker": "Chris",
+        "text": "A little. I think we misunderstood each other."
+      },
+      {
+        "speaker": "Maya",
+        "text": "Do you want me to email everyone?"
+      },
+      {
+        "speaker": "Chris",
+        "text": "Not yet. I’d rather meet with Jordan and ________ first."
+      }
+    ],
+    "options": [
+      "talk it through",
+      "go without it",
+      "change it over",
+      "push it too far"
+    ],
+    "answer": "talk it through",
+    "explanation": "“Talk something through” means discuss a problem carefully so it becomes clearer."
+  },
+  {
+    "type": "dialogue",
+    "instant": true,
+    "target": "give it a fair chance",
+    "prompt": "Choose the best expression for the final line.",
+    "dialogue": [
+      {
+        "speaker": "Nina",
+        "text": "I don’t really like the new scheduling system."
+      },
+      {
+        "speaker": "Owen",
+        "text": "We’ve only been using it for two days."
+      },
+      {
+        "speaker": "Nina",
+        "text": "True. Maybe I’m judging it too quickly."
+      },
+      {
+        "speaker": "Owen",
+        "text": "Exactly. Let’s ________ before we decide it doesn’t work."
+      }
+    ],
+    "options": [
+      "push it too far",
+      "give it a fair chance",
+      "lose our temper",
+      "go without it"
+    ],
+    "answer": "give it a fair chance",
+    "explanation": "“Give something a fair chance” means try it seriously before deciding whether it works."
   }
 ]
 ```

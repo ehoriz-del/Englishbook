@@ -62,61 +62,96 @@ Anne: I’ll go now. I need to **make it right** myself.
 ```exercise
 [
   {
-    "type":"choice",
-    "instant":true,
-    "target":"go back on your word",
-    "prompt":"Which expression best means “fail to keep a promise”?",
-    "options":["go back on your word","get something sorted out","take someone up on an offer","get something out"],
-    "answer":"go back on your word",
-    "explanation":"“Go back on your word” means fail to do something you promised."
-  },
-  {
-    "type":"choice",
-    "instant":true,
-    "target":"take someone up on an offer",
-    "prompt":"Your coworker offers to cover your shift next Friday, and you decide to accept. Which response is the most natural?",
-    "options":["I think I’ll take you up on that offer.","I think I’ll go back on that offer.","I think I’ll get that offer out.","I think I’ll mess that offer up."],
-    "answer":"I think I’ll take you up on that offer.",
-    "explanation":"“Take someone up on an offer” means accept an offer that person has made."
-  },
-  {
-    "type":"dialogue",
-    "instant":true,
-    "target":"own up to",
-    "prompt":"Choose the expression that best completes the conversation.",
-    "dialogue":[
-      {"speaker":"Nora","text":"Did you tell the client what happened?"},
-      {"speaker":"Evan","text":"Not yet. I was hoping I could fix it first."},
-      {"speaker":"Nora","text":"But you were the one who sent the wrong file."},
-      {"speaker":"Evan","text":"You’re right. I need to ________ and tell them it was my mistake."}
+    "type": "choice",
+    "instant": true,
+    "target": "go back on your word",
+    "prompt": "Which expression best means “fail to keep a promise”?",
+    "options": [
+      "go back on your word",
+      "get something sorted out",
+      "take someone up on an offer",
+      "get something out"
     ],
-    "options":["own up to it","take them up on it","get them out","go back on it"],
-    "answer":"own up to it",
-    "explanation":"“Own up to it” means admit that you were responsible for a mistake."
+    "answer": "go back on your word",
+    "explanation": "“Go back on your word” means fail to do something you promised."
   },
   {
-    "type":"order",
-    "instant":true,
-    "target":"think this through",
-    "prompt":"Tap the words in the correct order to build a natural sentence.",
-    "tokens":["Let’s","think","this","through","before","we","decide."],
-    "answer":"Let’s think this through before we decide.",
-    "explanation":"“Think something through” means consider it carefully before making a decision."
-  },
-  {
-    "type":"dialogue",
-    "instant":true,
-    "target":"make it right",
-    "prompt":"Choose the best expression for the final line.",
-    "dialogue":[
-      {"speaker":"Maya","text":"The package you sent went to my old address."},
-      {"speaker":"Leo","text":"Oh no. That was my mistake."},
-      {"speaker":"Maya","text":"I need the documents by Monday."},
-      {"speaker":"Leo","text":"I understand. I’ll send another copy today and ________."}
+    "type": "choice",
+    "instant": true,
+    "target": "take someone up on an offer",
+    "prompt": "Your coworker offers to cover your shift next Friday, and you decide to accept. Which response is the most natural?",
+    "options": [
+      "I think I’ll take you up on that offer.",
+      "I think I’ll go back on that offer.",
+      "I think I’ll get that offer out.",
+      "I think I’ll mess that offer up."
     ],
-    "options":["make it right","mess it up","go back on it","get it out of the offer"],
-    "answer":"make it right",
-    "explanation":"“Make it right” means take action to correct a mistake or unfair situation."
+    "answer": "I think I’ll take you up on that offer.",
+    "explanation": "“Take someone up on an offer” means accept an offer that person has made."
+  },
+  {
+    "type": "dialogue",
+    "instant": true,
+    "target": "own up to",
+    "prompt": "Choose the expression that best completes the conversation.",
+    "dialogue": [
+      {
+        "speaker": "Nora",
+        "text": "Did you tell the client what happened?"
+      },
+      {
+        "speaker": "Evan",
+        "text": "Not yet. I was hoping I could fix it first."
+      },
+      {
+        "speaker": "Nora",
+        "text": "But you were the one who sent the wrong file."
+      },
+      {
+        "speaker": "Evan",
+        "text": "You’re right. I need to ________ and tell them it was my mistake."
+      }
+    ],
+    "options": [
+      "own up to it",
+      "take them up on it",
+      "get them out",
+      "go back on it"
+    ],
+    "answer": "own up to it",
+    "explanation": "“Own up to it” means admit that you were responsible for a mistake."
+  },
+  {
+    "type": "dialogue",
+    "instant": true,
+    "target": "make it right",
+    "prompt": "Choose the best expression for the final line.",
+    "dialogue": [
+      {
+        "speaker": "Maya",
+        "text": "The package you sent went to my old address."
+      },
+      {
+        "speaker": "Leo",
+        "text": "Oh no. That was my mistake."
+      },
+      {
+        "speaker": "Maya",
+        "text": "I need the documents by Monday."
+      },
+      {
+        "speaker": "Leo",
+        "text": "I understand. I’ll send another copy today and ________."
+      }
+    ],
+    "options": [
+      "make it right",
+      "mess it up",
+      "go back on it",
+      "get it out of the offer"
+    ],
+    "answer": "make it right",
+    "explanation": "“Make it right” means take action to correct a mistake or unfair situation."
   }
 ]
 ```

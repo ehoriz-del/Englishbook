@@ -60,61 +60,96 @@ Anne: I’d like that. I think I’m starting to **warm up to** Ginger too — a
 ```exercise
 [
   {
-    "type":"choice",
-    "instant":true,
-    "target":"come clean",
-    "prompt":"Which expression best means “admit the truth about something you have done”?",
-    "options":["come clean","drop by","turn out","get along"],
-    "answer":"come clean",
-    "explanation":"“Come clean” means tell the truth about something, especially after you have been reluctant to admit it."
-  },
-  {
-    "type":"choice",
-    "instant":true,
-    "target":"hear someone out",
-    "prompt":"A friend starts explaining why she made a difficult decision. Which response is the most natural?",
-    "options":["Let me hear you out before I respond.","Let me turn you out before I respond.","Let me drop you by before I respond.","Let me warm you up before I respond."],
-    "answer":"Let me hear you out before I respond.",
-    "explanation":"“Hear someone out” means listen to the person’s complete explanation before reacting."
-  },
-  {
-    "type":"dialogue",
-    "instant":true,
-    "target":"make up for",
-    "prompt":"Choose the expression that best completes the conversation.",
-    "dialogue":[
-      {"speaker":"Priya","text":"I’m sorry I missed your birthday dinner."},
-      {"speaker":"Alex","text":"I know work was hectic."},
-      {"speaker":"Priya","text":"I still feel bad about it."},
-      {"speaker":"Alex","text":"Then you can ________ it by having lunch with me this weekend."}
+    "type": "choice",
+    "instant": true,
+    "target": "come clean",
+    "prompt": "Which expression best means “admit the truth about something you have done”?",
+    "options": [
+      "come clean",
+      "drop by",
+      "turn out",
+      "get along"
     ],
-    "options":["make up for","come clean about","drop by","take me as"],
-    "answer":"make up for",
-    "explanation":"“Make up for something” means compensate for a mistake, loss, or disappointment."
+    "answer": "come clean",
+    "explanation": "“Come clean” means tell the truth about something, especially after you have been reluctant to admit it."
   },
   {
-    "type":"order",
-    "instant":true,
-    "target":"work something out",
-    "prompt":"Tap the words in the correct order to build a natural sentence.",
-    "tokens":["I’m","sure","we","can","work","something","out","together."],
-    "answer":"I’m sure we can work something out together.",
-    "explanation":"“Work something out” means find a solution through discussion or effort."
-  },
-  {
-    "type":"dialogue",
-    "instant":true,
-    "target":"warm up to",
-    "prompt":"Choose the best expression for the final line.",
-    "dialogue":[
-      {"speaker":"Tara","text":"How do you like the new software?"},
-      {"speaker":"Ben","text":"I hated it on the first day."},
-      {"speaker":"Tara","text":"And now?"},
-      {"speaker":"Ben","text":"I’m starting to ________ it. It’s easier than I thought."}
+    "type": "choice",
+    "instant": true,
+    "target": "hear someone out",
+    "prompt": "A friend starts explaining why she made a difficult decision. Which response is the most natural?",
+    "options": [
+      "Let me hear you out before I respond.",
+      "Let me turn you out before I respond.",
+      "Let me drop you by before I respond.",
+      "Let me warm you up before I respond."
     ],
-    "options":["warm up to","come clean with","hear it out","make up for"],
-    "answer":"warm up to",
-    "explanation":"“Warm up to something” means gradually begin to like it or feel comfortable with it."
+    "answer": "Let me hear you out before I respond.",
+    "explanation": "“Hear someone out” means listen to the person’s complete explanation before reacting."
+  },
+  {
+    "type": "dialogue",
+    "instant": true,
+    "target": "make up for",
+    "prompt": "Choose the expression that best completes the conversation.",
+    "dialogue": [
+      {
+        "speaker": "Priya",
+        "text": "I’m sorry I missed your birthday dinner."
+      },
+      {
+        "speaker": "Alex",
+        "text": "I know work was hectic."
+      },
+      {
+        "speaker": "Priya",
+        "text": "I still feel bad about it."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Then you can ________ it by having lunch with me this weekend."
+      }
+    ],
+    "options": [
+      "make up for",
+      "come clean about",
+      "drop by",
+      "take me as"
+    ],
+    "answer": "make up for",
+    "explanation": "“Make up for something” means compensate for a mistake, loss, or disappointment."
+  },
+  {
+    "type": "dialogue",
+    "instant": true,
+    "target": "warm up to",
+    "prompt": "Choose the best expression for the final line.",
+    "dialogue": [
+      {
+        "speaker": "Tara",
+        "text": "How do you like the new software?"
+      },
+      {
+        "speaker": "Ben",
+        "text": "I hated it on the first day."
+      },
+      {
+        "speaker": "Tara",
+        "text": "And now?"
+      },
+      {
+        "speaker": "Ben",
+        "text": "I’m starting to ________ it. It’s easier than I thought."
+      }
+    ],
+    "options": [
+      "warm up to",
+      "come clean with",
+      "hear it out",
+      "make up for"
+    ],
+    "answer": "warm up to",
+    "explanation": "“Warm up to something” means gradually begin to like it or feel comfortable with it."
   }
 ]
 ```
