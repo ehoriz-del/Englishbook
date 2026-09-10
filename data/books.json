@@ -375,6 +375,36 @@
         "title": "Davy in Search of a Sensation",
         "file": "content/anne-of-avonlea/chapter-10.md",
         "image": "images/anne-of-avonlea/chapter-10.webp"
+      },
+      {
+        "number": 11,
+        "title": "Facts and Fancies",
+        "file": "content/anne-of-avonlea/chapter-11.md",
+        "image": "images/anne-of-avonlea/chapter-11.webp"
+      },
+      {
+        "number": 12,
+        "title": "A Jonah Day",
+        "file": "content/anne-of-avonlea/chapter-12.md",
+        "image": "images/anne-of-avonlea/chapter-12.webp"
+      },
+      {
+        "number": 13,
+        "title": "A Golden Picnic",
+        "file": "content/anne-of-avonlea/chapter-13.md",
+        "image": "images/anne-of-avonlea/chapter-13.webp"
+      },
+      {
+        "number": 14,
+        "title": "A Danger Averted",
+        "file": "content/anne-of-avonlea/chapter-14.md",
+        "image": "images/anne-of-avonlea/chapter-14.webp"
+      },
+      {
+        "number": 15,
+        "title": "The Beginning of Vacation",
+        "file": "content/anne-of-avonlea/chapter-15.md",
+        "image": "images/anne-of-avonlea/chapter-15.webp"
       }
     ]
   },
