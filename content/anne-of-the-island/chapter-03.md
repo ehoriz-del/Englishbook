@@ -2,65 +2,65 @@
 
 ## Story Summary
 
-Anne’s departure for Redmond arrives on a rainy Monday morning. She had hoped for clear weather because Diana is driving her to the station, but the day begins gray and wet. As Anne gets dressed before dawn, the familiar view from Green Gables seems especially dear to her. She knows that although she will return for holidays, leaving for college is different from simply going away for a short visit. In her mind, Green Gables is becoming a place she will return to rather than the place where she lives every day.
+Anne leaves Avonlea for Redmond College on a rainy Monday morning. She had hoped for good weather because Diana is driving her to the station, but she wakes to find rain beating against the windows and mist hiding the hills and sea. While dressing in the gray morning light, Anne looks around her little room and thinks about the places connected with her years at Green Gables. She knows she will return for holidays, but she also knows that returning for visits will not be the same as living there every day.
 
-Breakfast is unusually quiet. Davy, who normally has an excellent appetite, cries over his porridge and cannot eat. Dora remains calm enough to finish her own breakfast and then eat Davy’s untouched egg as well. When Diana arrives with the horse and buggy, the final goodbyes can no longer be delayed. Mrs. Lynde hugs Anne warmly and tells her to take care of her health. Marilla gives Anne a brief kiss and says she expects to hear from her after she gets settled. Marilla does not cry, but Anne can see how much the parting affects her.
+Breakfast is unusually quiet. Davy cries over his porridge and, for once, cannot eat. Dora remains calm and eats her own breakfast, then finishes Davy’s egg as well. Diana arrives on time with the horse and buggy, and everyone has to say goodbye. Mrs. Rachel Lynde embraces Anne and warns her to take care of her health. Marilla gives Anne a quick kiss and says she expects to hear from her after she gets settled. She does not cry, but Anne can see the emotion in her eyes.
 
-Dora gives Anne a proper goodbye kiss. Davy, however, refuses to say goodbye at all. When Anne approaches him, he runs upstairs and hides in a clothes closet. His muffled crying is the last sound Anne hears as she leaves Green Gables.
+Dora gives Anne a formal little kiss and sheds two tears. Davy refuses to say goodbye at all. When Anne approaches him, he runs upstairs and hides in a clothes closet. He will not come out, and his muffled crying is the last sound Anne hears when she leaves Green Gables.
 
-The rain continues during the drive to Bright River. Because the Carmody branch train does not connect with the boat train, Anne and Diana must travel there by road. Gilbert and Charlie Sloane are already waiting at the station, and Anne has only enough time to buy her ticket, check her trunk, and give Diana a hurried farewell before boarding. For a few moments she wishes she were going back to Avonlea with Diana. The rain, the confusion, and the speed of the departure make her homesickness feel overwhelming.
+It rains heavily during the drive to Bright River. Anne and Diana must go there by road because the branch train from Carmody does not connect with the boat train. Gilbert Blythe and Charlie Sloane are already waiting on the station platform when they arrive, and the train is almost ready to leave. Anne has just enough time to buy her ticket, check her trunk, and say a hurried goodbye to Diana before boarding.
 
-The journey improves once the boat leaves Charlottetown harbor. The rain stops, sunlight begins to break through the clouds, and the red shores of Prince Edward Island glow through the mist. Charlie becomes seasick and goes below deck, leaving Anne and Gilbert alone. Looking back at the Island, Anne remembers another crossing seven years earlier, when Mrs. Spencer brought her from Hopetown. At that time she was an orphan in an old dress who had no idea what Green Gables would become to her. Now she is leaving the Island as a young woman with a home, friends, and a future she has chosen.
+At first Anne feels miserable and wishes she were returning to Avonlea with Diana. The weather does nothing to improve her mood. Things begin to look better once the boat leaves Charlottetown harbor. The rain stops, sunlight breaks through the clouds, and the red shores of Prince Edward Island appear through the mist. Charlie soon becomes seasick and goes below deck, leaving Anne and Gilbert alone.
 
-Anne admits to Gilbert that all her confidence has disappeared under a wave of homesickness. She has wanted to attend Redmond for three years, yet now that the moment has arrived, she almost wishes she had stayed home. She decides she will allow herself one good cry once she reaches her boardinghouse. After that, she says, she will become cheerful and philosophical again.
+Looking back at the Island, Anne remembers crossing the same water seven years earlier when Mrs. Spencer brought her from Hopetown. She remembers the old wincey dress and faded sailor hat she wore then and how eagerly she explored the boat. Now she is crossing the strait again, this time on her way to college. Anne tells Gilbert that she has wanted to go to Redmond for three years, yet now that she is actually leaving, she is overwhelmed by homesickness. She says she plans to have one good cry after she reaches her boardinghouse and expects to feel better afterward.
 
-It is nine in the evening when the train reaches Kingsport. The crowded station and unfamiliar city make Anne feel tired, provincial, and very young. Her mood changes almost immediately when Priscilla Grant appears. Priscilla has already been in Kingsport for two days and has arranged a cab. Anne is deeply relieved to see a familiar face.
+Their train reaches Kingsport at nine that evening. The station is crowded and unfamiliar, and Anne feels exhausted and confused. Her mood improves immediately when Priscilla Grant appears. Priscilla arrived in Kingsport on Saturday and has already arranged a cab to take Anne to their boardinghouse.
 
-On the drive, Priscilla describes their boardinghouse at 38 St. John Street. It is an old gray stone house run by Miss Hannah and Miss Ada Harvey, twin sisters who are now about fifty. Priscilla jokes that one sister has grown old while the other continues trying not to. The house is filled with decorative cushions, and the sisters have already established rules about young gentlemen calling in the evenings.
+On the drive, Priscilla describes the house at 38 St. John Street. It is a large, old-fashioned gray stone building that once belonged to wealthy people. The landladies are Miss Hannah Harvey and Miss Ada Harvey, twin sisters of about fifty. Priscilla jokes that Miss Hannah has accepted growing older while Miss Ada has not. The sisters take two boarders each year, and Miss Ada has repeatedly assured Priscilla that they do it only because the house has too much space.
 
-Anne’s room faces Old St. John’s cemetery across the street. At first she finds the idea gloomy, but Priscilla describes the old trees, historic gravestones, and monuments so enthusiastically that Anne becomes interested. By the time they arrive, Priscilla’s conversation has already eased much of Anne’s homesickness.
+Anne learns that her room is at the front of the house and looks directly over Old St. John’s cemetery. She initially dislikes the idea, but Priscilla explains that the old graveyard is one of Kingsport’s attractions, filled with trees, old gravestones, and a monument to Nova Scotian soldiers. Priscilla also tells Anne that the landladies allow young male visitors two evenings a week, provided they leave at a reasonable hour, and that Miss Ada is extremely protective of the many decorative cushions throughout the house.
 
-Later, alone in her room, Anne looks out at the moon shining over Old St. John’s. She thinks of the same moon over Green Gables but deliberately refuses to make herself more miserable. She decides not to have the cry she had planned. Instead, she will go to bed calmly and face Kingsport in the morning.
+By the time they arrive, Priscilla’s lively conversation has cheered Anne considerably. Later, alone in her room, Anne looks out at the moon over Old St. John’s. She thinks briefly of the moon shining over Green Gables but decides not to encourage her homesickness. Instead of having the cry she planned, she goes calmly to bed.
 
-## Conversation 1 — Anne Says Goodbye to Diana
+## Conversation 1 — Saying Goodbye
 
 *A modern conversation inspired by this chapter.*
 
 Diana: I wish we had more time before your train.
 Anne: So do I. Everything feels **rushed through** this morning.
-Diana: Are you all right?
-Anne: I’m trying to **hold myself together** until I get on the train.
-Diana: You don’t have to hide how hard this is.
-Anne: I know. It just hasn’t fully **sunk in** that I’m really leaving.
+Diana: Are you holding up all right?
+Anne: Barely. I’m trying to **hold myself together** until I get on the train.
+Diana: You don’t have to pretend it’s easy.
+Anne: I know. It still hasn’t completely **sunk in** that I’m leaving.
 Diana: We’ll write often.
-Anne: We will. I’m counting on that to **get me through** the first few weeks.
+Anne: I’m counting on that to **get me through** the first few weeks.
 
 ### Phrasal verbs & expressions
 
 - rush through — do something too quickly because there is little time. We had to rush through our goodbye before the train left.
-- hold yourself together — stay calm and avoid losing emotional control. She held herself together during the difficult conversation.
-- sink in — become fully understood or emotionally real. It took a few days for the news to sink in.
+- hold yourself together — stay calm and avoid losing emotional control. She held herself together during the difficult meeting.
+- sink in — become fully understood or emotionally real. It took several hours for the news to sink in.
 - get someone through — help someone manage a difficult period. Talking to friends got me through a stressful month.
 
-## Conversation 2 — Anne Arrives in Kingsport
+## Conversation 2 — Arriving in Kingsport
 
 *A modern conversation inspired by this chapter.*
 
 Priscilla: You look completely exhausted.
-Anne: I am. The station nearly **overwhelmed me**.
+Anne: I am. The station almost **overwhelmed me**.
 Priscilla: You’ll feel better once you **settle in**.
-Anne: Seeing you already made a difference.
-Priscilla: Good. I’ll **show you around** tomorrow after registration.
-Anne: Please do. Right now I can barely **take in** another new thing.
-Priscilla: One step at a time.
-Anne: Exactly. Tonight I just need to sleep.
+Anne: Seeing you already made a huge difference.
+Priscilla: I’ll **show you around** tomorrow after registration.
+Anne: Please do. Right now there’s too much to **take in**.
+Priscilla: One thing at a time.
+Anne: Exactly. Tonight I just need sleep.
 
 ### Phrasal verbs & expressions
 
-- overwhelm someone — affect someone so strongly that it becomes hard to think or cope. The noise and crowds overwhelmed me at first.
-- settle in — become comfortable in a new place or routine. It took her a few days to settle in at college.
-- show someone around — guide someone through a new place. My coworker showed me around the office.
-- take in — absorb or understand information, sights, or experiences. There was so much to take in on the first day.
+- overwhelm someone — affect someone so strongly that it becomes difficult to cope. The noise and crowds overwhelmed me at first.
+- settle in — become comfortable in a new place or routine. It took me a few days to settle in at college.
+- show someone around — guide someone through a place they do not know. My coworker showed me around the office.
+- take in — absorb or process information, sights, or experiences. There was too much to take in during the first hour.
 
 ## Practice
 
@@ -100,10 +100,10 @@ Anne: Exactly. Tonight I just need to sleep.
     "target": "settle in",
     "prompt": "Choose the expression that best completes the conversation.",
     "dialogue": [
-      {"speaker": "Sora", "text": "How do you like your new apartment?"},
-      {"speaker": "Mark", "text": "It still feels unfamiliar."},
-      {"speaker": "Sora", "text": "That’s normal after only two days."},
-      {"speaker": "Mark", "text": "I’m sure I’ll ________ soon."}
+      {"speaker":"Sora","text":"How do you like your new apartment?"},
+      {"speaker":"Mark","text":"It still feels unfamiliar."},
+      {"speaker":"Sora","text":"That’s normal after only two days."},
+      {"speaker":"Mark","text":"I’m sure I’ll ________ soon."}
     ],
     "options": [
       "settle in",
@@ -120,10 +120,10 @@ Anne: Exactly. Tonight I just need to sleep.
     "target": "take in",
     "prompt": "Choose the best expression for the final line.",
     "dialogue": [
-      {"speaker": "Ella", "text": "What did you think of the new campus?"},
-      {"speaker": "Ben", "text": "It was huge."},
-      {"speaker": "Ella", "text": "Did you see everything?"},
-      {"speaker": "Ben", "text": "Not really. There was too much to ________ in one afternoon."}
+      {"speaker":"Ella","text":"What did you think of the new campus?"},
+      {"speaker":"Ben","text":"It was huge."},
+      {"speaker":"Ella","text":"Did you see everything?"},
+      {"speaker":"Ben","text":"Not really. There was too much to ________ in one afternoon."}
     ],
     "options": [
       "take in",

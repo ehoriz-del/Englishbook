@@ -2,65 +2,64 @@
 
 ## Story Summary
 
-Kingsport is an old city with a strong sense of history, and one of its most distinctive places is Old St. John’s Cemetery. The cemetery lies close to busy streets but feels quiet and separate, filled with large trees, worn gravestones, and memorials from earlier generations. Anne is immediately drawn to it because it offers the kind of atmosphere and natural beauty she misses from Avonlea.
+The day after Anne arrives in Kingsport, she and Priscilla go to Redmond College to register. The large campus, unfamiliar students, and confident older classes make both girls feel awkward. The freshman women stand in small, uncertain groups, while the freshman men gather on the main staircase and loudly sing college songs in defiance of the Sophomores. Gilbert and Charlie are nowhere in sight, and Priscilla jokes that she would be glad even to see Charlie because at least he would be familiar.
 
-On the morning after her arrival, Anne and Priscilla go to Redmond College to register. The experience is much less impressive than Anne had imagined. Instead of feeling important because she has finally reached college, she feels almost invisible among the crowds of unfamiliar students. The freshmen stand uncertainly in small groups, while older students move around with confidence. The freshman men gather on the staircase and shout college songs, partly to challenge the Sophomores who look down on them.
+Anne tells Priscilla that she felt almost invisible while waiting to register. At Queen’s Academy, she had known everyone and had an established place among the students. At Redmond, she has to begin again as an unknown freshman. Priscilla has the opposite problem. Because she is taller than nearly everyone around her, she feels conspicuous and imagines that people are staring at her.
 
-Gilbert and Charlie are not there, and even Priscilla jokes that she would be glad to see Charlie Sloane simply because he would be a familiar face. Anne admits that she feels as though she has lost the secure position she once had at Queen’s Academy. At Queen’s, she knew the people, the rules, and her own place among the students. At Redmond, she has to begin again at the bottom. Priscilla feels awkward for a different reason: she is tall and imagines that everyone is noticing how large she looks.
+As they cross the campus, they remember a pretty brown-eyed girl who had stood alone near the women’s dressing room. Several times the girl appeared ready to approach Anne and Priscilla, but each time she changed her mind. Priscilla assumes she must be shy. Anne had noticed her because she seemed just as lonely as the two Island girls felt.
 
-Anne finally realizes that she and Priscilla have unconsciously expected Redmond to continue exactly where Queen’s ended. Instead, they must adjust to being newcomers again. She tells Priscilla that this is not “the beginning of the end,” as some people in Avonlea might predict, but only “the end of the beginning.”
+After lunch, Anne decides to visit Old St. John’s Cemetery because she wants to be among trees. Priscilla goes with her. The cemetery lies in the middle of Kingsport, bordered by old streets on two sides and busy modern roads on the others. Huge elms and willows shade the grounds, and many of the old stones are weathered, broken, or difficult to read.
 
-After lunch, Anne decides to visit Old St. John’s because she badly wants to be among trees. Priscilla goes with her. They walk beneath the stone entrance arch and spend time reading old epitaphs. Anne is fascinated by the brief records of lives that ended decades or even a century earlier. One grave belongs to a man praised as a brave officer, good husband, father, and friend. Another honors a faithful servant. Anne wonders whether people receive such praise while they are alive or only after death.
+Anne and Priscilla wander along the grassy paths reading epitaphs. They stop at the grave of Albert Crawford, described as a brave officer, husband, father, and friend. Another stone honors Alexander Ross, who served one person faithfully for twenty-seven years and was regarded as a trusted friend. Anne and Priscilla continue comparing the old inscriptions until they notice the same brown-eyed girl from Redmond sitting on a gray stone beneath a large willow.
 
-While walking through the cemetery, Anne and Priscilla notice a young woman sitting alone beneath a willow. They recognize her as the pretty brown-eyed student they saw at Redmond that morning. She had looked lonely there and had repeatedly seemed about to approach them before changing her mind.
+They decide to approach her. The girl immediately jumps up, holds out her hand, and says she has been wanting to meet them. She introduces herself as Philippa Gordon and asks them to call her Phil. Anne and Priscilla are amused because they had assumed she was shy. Phil explains that shyness is not her problem at all. She simply has great difficulty making decisions.
 
-The three finally meet. The stranger immediately introduces herself as Philippa Gordon, or Phil. She is fashionable, energetic, friendly, and completely open about her own weaknesses. She insists that she is not shy; she is simply unable to make decisions. She even explains that she chose her hat that morning by placing two hats together, closing her eyes, and sticking a hatpin into one.
+Phil gives them an example. Before coming to the cemetery, she spent half an hour choosing between two hats. Unable to decide, she placed them together on the bed, shut her eyes, and jabbed them with a hatpin. The hat that the pin struck was the one she wore. She then asks Anne and Priscilla directly whether they think she is pretty. Anne tells her that they had already decided she was the prettiest freshman they saw that morning.
 
-Phil comes from Bolingbroke, Nova Scotia, which interests Anne because it is the town where she was born. Phil is pleased by the connection and quickly treats Anne and Priscilla as if they are already friends. She tells them that she has also been terribly homesick in Kingsport and dislikes her boardinghouse.
+Phil says she comes from Bolingbroke, Nova Scotia. Anne immediately tells her that she was born there, and Phil is delighted by the connection. Phil also admits that she has been terribly homesick since arriving in Kingsport. Her boardinghouse is on Wallace Street, close to Anne and Priscilla, but she dislikes her room and the noisy cats in the backyard.
 
-The conversation becomes even more surprising when Phil begins talking freely about marriage. She says she came to Redmond partly because her father wanted her to and partly because she did not want to marry yet. At home she has two serious admirers, Alec and Alonzo, and cannot decide between them. Phil talks about the situation so lightly that Anne and Priscilla are amused rather than shocked. She admits that she enjoys attention and expects to have many admirers at Redmond as well.
+When Priscilla asks how someone so indecisive managed to choose Redmond, Phil says the decision was really her father’s. He wanted her to attend college. Her mother, on the other hand, wanted her to marry. Phil explains that she has two serious admirers at home, Alec and Alonzo, but cannot decide between them. She describes their looks, personalities, and even their noses in great detail. She says she would rather attend Redmond for a few years than make a choice about marriage now.
 
-Before they leave, Phil asks Anne and Priscilla to visit her and tells them she wants to become close friends. She also says that although she may sound foolish, she is not as silly as she appears. Anne believes her. When the girls later discuss their new acquaintance, both agree that Phil’s endless talk about boys is very different from Ruby Gillis’s manner. Phil seems to treat her admirers more like companions than trophies.
+Phil also mentions that the only handsome freshman she noticed that morning was Gilbert Blythe. Anne becomes slightly cool at the comment, but the conversation continues. Before the girls leave, Phil asks them to visit her and says she wants to become close friends.
 
-As Anne leaves Old St. John’s, she feels less like a stranger in Kingsport. Meeting Phil has given her another connection to the new place. Redmond is still unfamiliar, but the sense of isolation she felt that morning has already begun to weaken.
+Near the end of their walk, they stop at the grave of a young naval officer who died in the battle between the Shannon and the Chesapeake. Anne places the small cluster of purple pansies she is wearing on the grave. After Phil leaves, Anne and Priscilla discuss her and agree that, despite all her talk about admirers, they like her very much.
 
-## Conversation 1 — Anne and Priscilla After Registration
+## Conversation 1 — After Registration
 
 *A modern conversation inspired by this chapter.*
 
 Priscilla: I expected college to feel exciting. Instead, I felt completely **out of place**.
 Anne: So did I. It was hard to **find my footing** in that crowd.
 Priscilla: Everyone else looked so confident.
-Anne: Especially the older students. I had to **remind myself** that we’re new, not incapable.
-Priscilla: I suppose we were expecting to **pick up where we left off** at Queen’s.
-Anne: Exactly. But we’re starting over here.
+Anne: I had to **remind myself** that we’re new, not incapable.
+Priscilla: I think we expected to **pick up where we left off** at Queen’s.
+Anne: Exactly, but Redmond is a completely new start.
 Priscilla: Do you think we’ll get used to it?
-Anne: Yes. We just need to **give it time**.
+Anne: I’m sure we will. We just need to give it time.
 
 ### Phrasal verbs & expressions
 
-- out of place — uncomfortable because you feel you do not belong in a situation. I felt out of place at the formal reception.
-- find your footing — become confident and stable in a new situation. It took me a month to find my footing at the new job.
-- remind yourself — deliberately remember an important fact or idea. I reminded myself that everyone makes mistakes.
+- out of place — uncomfortable because you feel you do not belong. I felt out of place at the formal reception.
+- find your footing — become confident and stable in a new situation. It took me a month to find my footing at the new company.
+- remind yourself — deliberately remember something important. I reminded myself that everyone was new once.
 - pick up where you left off — continue from the point where something previously stopped. We met again and picked up where we left off.
-- give it time — wait patiently for a situation to improve or become clearer. The new routine feels strange, but give it time.
 
 ## Conversation 2 — Meeting Philippa
 
 *A modern conversation inspired by this chapter.*
 
-Phil: I nearly came over to you at Redmond this morning.
-Anne: We noticed you, too. What **held you back**?
-Phil: I couldn’t make up my mind. I do that all the time.
-Priscilla: You don’t seem shy now.
-Phil: Once I start talking, I usually **open up** very quickly.
+Phil: I nearly came over to you this morning.
+Anne: We noticed you too. What **held you back**?
+Phil: I couldn’t make up my mind. I do that constantly.
+Priscilla: You certainly don’t seem shy now.
+Phil: Once I start talking, I **open up** very quickly.
 Anne: I’m glad we finally met.
 Phil: So am I. I’d like us to **get to know** one another properly.
 Priscilla: I think we’re already **off to a good start**.
 
 ### Phrasal verbs & expressions
 
-- hold someone back — prevent someone from acting or moving forward. Fear of failure held me back for years.
+- hold someone back — prevent someone from acting or making progress. Fear of failure held me back for years.
 - open up — begin speaking more freely or showing your feelings. She opened up once she felt comfortable.
 - get to know — gradually learn more about someone. It takes time to get to know new classmates.
 - be off to a good start — begin successfully or positively. We finished the first task early, so we’re off to a good start.
@@ -100,19 +99,19 @@ Priscilla: I think we’re already **off to a good start**.
   {
     "type": "dialogue",
     "instant": true,
-    "target": "held you back",
+    "target": "held me back",
     "prompt": "Choose the expression that best completes the conversation.",
     "dialogue": [
-      {"speaker": "Nora", "text": "You said you wanted to apply last year."},
-      {"speaker": "Sam", "text": "I did."},
-      {"speaker": "Nora", "text": "So why didn’t you?"},
-      {"speaker": "Sam", "text": "Fear of failing ________."}
+      {"speaker":"Nora","text":"You said you wanted to apply last year."},
+      {"speaker":"Sam","text":"I did."},
+      {"speaker":"Nora","text":"So why didn’t you?"},
+      {"speaker":"Sam","text":"Fear of failing ________."}
     ],
     "options": [
       "held me back",
       "opened me up",
       "got to know me",
-      "gave me time"
+      "picked me up"
     ],
     "answer": "held me back",
     "explanation": "“Hold someone back” means prevent that person from taking action or making progress."
@@ -123,10 +122,10 @@ Priscilla: I think we’re already **off to a good start**.
     "target": "off to a good start",
     "prompt": "Choose the best expression for the final line.",
     "dialogue": [
-      {"speaker": "Grace", "text": "How was your first week at the new job?"},
-      {"speaker": "Leo", "text": "Better than expected. My team is friendly, and I finished my first project early."},
-      {"speaker": "Grace", "text": "That sounds promising."},
-      {"speaker": "Leo", "text": "Yes, I think I’m ________."}
+      {"speaker":"Grace","text":"How was your first week at the new job?"},
+      {"speaker":"Leo","text":"Better than expected. My team is friendly, and I finished my first project early."},
+      {"speaker":"Grace","text":"That sounds promising."},
+      {"speaker":"Leo","text":"Yes, I think I’m ________."}
     ],
     "options": [
       "off to a good start",
