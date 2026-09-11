@@ -528,6 +528,36 @@
         "title": "Letters from Home",
         "file": "content/anne-of-the-island/chapter-05.md",
         "image": "images/anne-of-the-island/chapter-05.webp"
+      },
+      {
+        "number": 6,
+        "title": "In the Park",
+        "file": "content/anne-of-the-island/chapter-06.md",
+        "image": "images/anne-of-the-island/chapter-06.webp"
+      },
+      {
+        "number": 7,
+        "title": "Home Again",
+        "file": "content/anne-of-the-island/chapter-07.md",
+        "image": "images/anne-of-the-island/chapter-07.webp"
+      },
+      {
+        "number": 8,
+        "title": "Anne's First Proposal",
+        "file": "content/anne-of-the-island/chapter-08.md",
+        "image": "images/anne-of-the-island/chapter-08.webp"
+      },
+      {
+        "number": 9,
+        "title": "An Unwelcome Lover and a Welcome Friend",
+        "file": "content/anne-of-the-island/chapter-09.md",
+        "image": "images/anne-of-the-island/chapter-09.webp"
+      },
+      {
+        "number": 10,
+        "title": "Patty's Place",
+        "file": "content/anne-of-the-island/chapter-10.md",
+        "image": "images/anne-of-the-island/chapter-10.webp"
       }
     ]
   },
