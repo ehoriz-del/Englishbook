@@ -618,6 +618,36 @@
         "title": "Gilbert Speaks",
         "file": "content/anne-of-the-island/chapter-20.md",
         "image": "images/anne-of-the-island/chapter-20.webp"
+      },
+      {
+        "number": 21,
+        "title": "Roses of Yesterday",
+        "file": "content/anne-of-the-island/chapter-21.md",
+        "image": "images/anne-of-the-island/chapter-21.webp"
+      },
+      {
+        "number": 22,
+        "title": "Spring and Anne Return to Green Gables",
+        "file": "content/anne-of-the-island/chapter-22.md",
+        "image": "images/anne-of-the-island/chapter-22.webp"
+      },
+      {
+        "number": 23,
+        "title": "Paul Cannot Find the Rock People",
+        "file": "content/anne-of-the-island/chapter-23.md",
+        "image": "images/anne-of-the-island/chapter-23.webp"
+      },
+      {
+        "number": 24,
+        "title": "Enter Jonas",
+        "file": "content/anne-of-the-island/chapter-24.md",
+        "image": "images/anne-of-the-island/chapter-24.webp"
+      },
+      {
+        "number": 25,
+        "title": "Enter Prince Charming",
+        "file": "content/anne-of-the-island/chapter-25.md",
+        "image": "images/anne-of-the-island/chapter-25.webp"
       }
     ]
   },
