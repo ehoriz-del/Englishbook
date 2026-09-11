@@ -16,6 +16,35 @@ function showError(root, message) {
   root.innerHTML = `<div class="error-card"><h2>We couldn’t load this page.</h2><p>${esc(message)}</p><p>Please refresh the page or try again shortly.</p></div>`;
 }
 
+function lessonHref(bookId, ch) {
+  const params = new URLSearchParams();
+  params.set('book', bookId);
+  if (ch.part) params.set('part', ch.part);
+  params.set('chapter', String(ch.number));
+  return `lesson.html?${params.toString()}`;
+}
+
+function partInfo(book, ch) {
+  if (!ch?.part) return null;
+  const meta = (book.parts || []).find(p => p.id === ch.part) || {};
+  return {
+    id: ch.part,
+    title: ch.partTitle || meta.title || ch.part,
+    level: ch.level || meta.level || book.level || '',
+    totalChapters: meta.totalChapters || null
+  };
+}
+
+function navLabel(ch, currentPart, direction = 'next') {
+  if (!ch) return '';
+  const arrow = direction === 'prev' ? '← ' : ' →';
+  const changedPart = ch.part && ch.part !== currentPart;
+  const text = changedPart
+    ? `${ch.partTitle || ch.part} · Chapter ${ch.number}`
+    : `Chapter ${ch.number}`;
+  return direction === 'prev' ? `${arrow}${text}` : `${text}${arrow}`;
+}
+
 async function buildHome() {
   const root = document.getElementById('books');
   if (!root) return;
@@ -71,10 +100,24 @@ async function buildHome() {
           head.setAttribute('aria-expanded', String(open));
           list.setAttribute('aria-hidden', String(!open));
         });
+        let currentPart = null;
         (data.chapters[b.id] || []).forEach(ch => {
+          if (ch.part && ch.part !== currentPart) {
+            currentPart = ch.part;
+            const info = partInfo(b, ch);
+            const heading = document.createElement('div');
+            heading.setAttribute('role', 'heading');
+            heading.setAttribute('aria-level', '3');
+            heading.style.cssText =
+              'padding:11px 20px 9px;background:#f7f1e7;border-top:1px solid #eee8df;' +
+              'color:#173f31;font-weight:700;font-size:13px;letter-spacing:.01em';
+            heading.textContent = `${info.title}${info.level ? ` · ${info.level}` : ''}`;
+            list.appendChild(heading);
+          }
+
           const a = document.createElement('a');
           a.className = 'chapter-row';
-          a.href = `lesson.html?book=${encodeURIComponent(b.id)}&chapter=${ch.number}`;
+          a.href = lessonHref(b.id, ch);
           a.innerHTML = `<span class="chapter-no">Chapter ${ch.number}</span><span>${esc(ch.title)}</span><span class="arrow">›</span>`;
           a.addEventListener('click', () => {
             localStorage.setItem('englishbook-series', b.series);
@@ -419,14 +462,22 @@ async function buildLesson() {
   try {
     const params = new URLSearchParams(location.search);
     const bookId = params.get('book') || 'anne-of-green-gables';
+    const part = params.get('part');
     const num = parseInt(params.get('chapter') || '1', 10);
-    const preview = params.get('preview') === '1';
     const data = await getData();
     const book = data.books.find(x => x.id === bookId);
     const chapters = data.chapters[bookId] || [];
-    const ch = chapters.find(x => x.number === num) || chapters[0];
+
+    // Legacy books keep working exactly as before.
+    // Books with repeated chapter numbers can add ?part=... to identify the section.
+    const ch = part
+      ? chapters.find(x => x.number === num && x.part === part)
+      : (chapters.find(x => x.number === num && !x.part) ||
+         chapters.find(x => x.number === num) ||
+         chapters[0]);
+
     if (!book || !ch) throw new Error('This lesson could not be found.');
-    if (book.status !== 'published' && !preview) throw new Error('This book is not published yet.');
+    if (book.status !== 'published') throw new Error('This book is not published yet.');
 
     // Remember the active series so the matching hero is restored
     // automatically when the reader returns to the home page.
@@ -435,11 +486,33 @@ async function buildLesson() {
     const md = data.chapterContent?.[ch.file];
     if (typeof md !== 'string') throw new Error('The chapter content is missing from the site data.');
     const parsed = parseMd(md);
-    document.title = `Chapter ${ch.number}: ${ch.title} — EnglishBook`;
+
+    const info = partInfo(book, ch);
+    const samePartChapters = ch.part
+      ? chapters.filter(x => x.part === ch.part)
+      : chapters;
+    const partTotal = info?.totalChapters || samePartChapters.length || book.totalChapters;
+
+    const currentIndex = chapters.indexOf(ch);
+    const prevCh = currentIndex > 0 ? chapters[currentIndex - 1] : null;
+    const nextCh = currentIndex >= 0 && currentIndex < chapters.length - 1
+      ? chapters[currentIndex + 1]
+      : null;
+
+    const partCrumb = info
+      ? `<span>›</span><span>${esc(info.title)}${info.level ? ` · ${esc(info.level)}` : ''}</span>`
+      : '';
+    const chapterBadge = info
+      ? `${esc(info.title)}${info.level ? ` · ${esc(info.level)}` : ''} — Chapter ${ch.number} of ${partTotal}`
+      : `Chapter ${ch.number} of ${book.totalChapters}`;
+
+    document.title = info
+      ? `${info.title} · Chapter ${ch.number}: ${ch.title} — EnglishBook`
+      : `Chapter ${ch.number}: ${ch.title} — EnglishBook`;
 
     root.innerHTML = `
-      <div class="crumb"><a href="./">${esc(book.title)}</a><span>›</span><span>Chapter ${ch.number}</span></div>
-      <span class="chapter-num">Chapter ${ch.number} of ${book.totalChapters}</span>
+      <div class="crumb"><a href="./">${esc(book.title)}</a>${partCrumb}<span>›</span><span>Chapter ${ch.number}</span></div>
+      <span class="chapter-num">${chapterBadge}</span>
       <h1 class="lesson-title">${esc(ch.title)}</h1>
       <img class="chapter-art" src="${esc(ch.image)}" alt="Original watercolor-style scene inspired by Chapter ${ch.number}, ${esc(ch.title)}">
       <div class="story-audio" aria-label="Story audio controls">
@@ -456,8 +529,8 @@ async function buildLesson() {
       </div>
       <div class="lesson-content">${parsed.html}${practiceHTML(parsed.exercises)}</div>
       <nav class="lesson-nav" aria-label="Chapter navigation">
-        ${ch.number > 1 ? `<a class="navbtn" href="lesson.html?book=${encodeURIComponent(bookId)}&chapter=${ch.number-1}">← Chapter ${ch.number-1}</a>` : '<span></span>'}
-        ${ch.number < book.totalChapters ? `<a class="navbtn" href="lesson.html?book=${encodeURIComponent(bookId)}&chapter=${ch.number+1}">Chapter ${ch.number+1} →</a>` : '<a class="navbtn" href="./">Back to books →</a>'}
+        ${prevCh ? `<a class="navbtn" href="${lessonHref(bookId, prevCh)}">${esc(navLabel(prevCh, ch.part, 'prev'))}</a>` : '<span></span>'}
+        ${nextCh ? `<a class="navbtn" href="${lessonHref(bookId, nextCh)}">${esc(navLabel(nextCh, ch.part, 'next'))}</a>` : '<a class="navbtn" href="./">Back to books →</a>'}
       </nav>`;
 
     root.querySelectorAll('.q').forEach(qel => {
