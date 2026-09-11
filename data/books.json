@@ -558,6 +558,66 @@
         "title": "Patty's Place",
         "file": "content/anne-of-the-island/chapter-10.md",
         "image": "images/anne-of-the-island/chapter-10.webp"
+      },
+      {
+        "number": 11,
+        "title": "The Round of Life",
+        "file": "content/anne-of-the-island/chapter-11.md",
+        "image": "images/anne-of-the-island/chapter-11.webp"
+      },
+      {
+        "number": 12,
+        "title": "Averil's Atonement",
+        "file": "content/anne-of-the-island/chapter-12.md",
+        "image": "images/anne-of-the-island/chapter-12.webp"
+      },
+      {
+        "number": 13,
+        "title": "The Way of Transgressors",
+        "file": "content/anne-of-the-island/chapter-13.md",
+        "image": "images/anne-of-the-island/chapter-13.webp"
+      },
+      {
+        "number": 14,
+        "title": "The Summons",
+        "file": "content/anne-of-the-island/chapter-14.md",
+        "image": "images/anne-of-the-island/chapter-14.webp"
+      },
+      {
+        "number": 15,
+        "title": "A Dream Turned Upside Down",
+        "file": "content/anne-of-the-island/chapter-15.md",
+        "image": "images/anne-of-the-island/chapter-15.webp"
+      },
+      {
+        "number": 16,
+        "title": "Adjusted Relationships",
+        "file": "content/anne-of-the-island/chapter-16.md",
+        "image": "images/anne-of-the-island/chapter-16.webp"
+      },
+      {
+        "number": 17,
+        "title": "A Letter from Davy",
+        "file": "content/anne-of-the-island/chapter-17.md",
+        "image": "images/anne-of-the-island/chapter-17.webp"
+      },
+      {
+        "number": 18,
+        "title": "Miss Josephine Remembers the Anne-girl",
+        "file": "content/anne-of-the-island/chapter-18.md",
+        "image": "images/anne-of-the-island/chapter-18.webp"
+      },
+      {
+        "number": 19,
+        "title": "An Interlude",
+        "file": "content/anne-of-the-island/chapter-19.md",
+        "image": "images/anne-of-the-island/chapter-19.webp"
+      },
+      {
+        "number": 20,
+        "title": "Gilbert Speaks",
+        "file": "content/anne-of-the-island/chapter-20.md",
+        "image": "images/anne-of-the-island/chapter-20.webp"
       }
     ]
   },
