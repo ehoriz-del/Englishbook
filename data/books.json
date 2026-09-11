@@ -29,9 +29,10 @@
       "series": "anne",
       "title": "Anne of the Island",
       "author": "L. M. Montgomery",
-      "status": "coming-soon",
+      "status": "published",
       "cover": "images/books/anne-of-the-island.webp",
-      "description": "Anne leaves Avonlea for college and begins a new stage of friendship, independence, and love."
+      "description": "Anne leaves Avonlea for college and begins a new stage of friendship, independence, and love.",
+      "totalChapters": 41
     },
     {
       "id": "anne-of-windy-poplars",
@@ -495,6 +496,38 @@
         "title": "A Wedding at the Stone House",
         "file": "content/anne-of-avonlea/chapter-30.md",
         "image": "images/anne-of-avonlea/chapter-30.webp"
+      }
+    ],
+    "anne-of-the-island": [
+      {
+        "number": 1,
+        "title": "The Shadow of Change",
+        "file": "content/anne-of-the-island/chapter-01.md",
+        "image": "images/anne-of-the-island/chapter-01.webp"
+      },
+      {
+        "number": 2,
+        "title": "Garlands of Autumn",
+        "file": "content/anne-of-the-island/chapter-02.md",
+        "image": "images/anne-of-the-island/chapter-02.webp"
+      },
+      {
+        "number": 3,
+        "title": "Greeting and Farewell",
+        "file": "content/anne-of-the-island/chapter-03.md",
+        "image": "images/anne-of-the-island/chapter-03.webp"
+      },
+      {
+        "number": 4,
+        "title": "April's Lady",
+        "file": "content/anne-of-the-island/chapter-04.md",
+        "image": "images/anne-of-the-island/chapter-04.webp"
+      },
+      {
+        "number": 5,
+        "title": "Letters from Home",
+        "file": "content/anne-of-the-island/chapter-05.md",
+        "image": "images/anne-of-the-island/chapter-05.webp"
       }
     ]
   },
