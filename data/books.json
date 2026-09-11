@@ -39,9 +39,31 @@
       "series": "anne",
       "title": "Anne of Windy Poplars",
       "author": "L. M. Montgomery",
-      "status": "coming-soon",
+      "status": "published",
       "cover": "images/books/anne-of-windy-poplars.webp",
-      "description": "Anne begins her years in Summerside, writing letters, teaching, and discovering life at Windy Poplars."
+      "description": "Anne begins her years in Summerside, writing letters, teaching, and discovering life at Windy Poplars.",
+      "totalChapters": 44,
+      "level": "Early B2",
+      "parts": [
+        {
+          "id": "the-first-year",
+          "title": "The First Year",
+          "level": "Early B2",
+          "totalChapters": 17
+        },
+        {
+          "id": "the-second-year",
+          "title": "The Second Year",
+          "level": "Early B2",
+          "totalChapters": 13
+        },
+        {
+          "id": "the-third-year",
+          "title": "The Third Year",
+          "level": "Early B2",
+          "totalChapters": 14
+        }
+      ]
     },
     {
       "id": "annes-house-of-dreams",
@@ -311,7 +333,53 @@
         "image": "images/anne-of-green-gables/chapter-38.webp"
       }
     ],
-    "anne-of-windy-poplars": [],
+    "anne-of-windy-poplars": [
+      {
+        "number": 1,
+        "title": "A New Home at Windy Poplars",
+        "part": "the-first-year",
+        "partTitle": "The First Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-first-year/chapter-01.md",
+        "image": "images/anne-of-windy-poplars/the-first-year/chapter-01.webp"
+      },
+      {
+        "number": 2,
+        "title": "The Pringle Problem",
+        "part": "the-first-year",
+        "partTitle": "The First Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-first-year/chapter-02.md",
+        "image": "images/anne-of-windy-poplars/the-first-year/chapter-02.webp"
+      },
+      {
+        "number": 3,
+        "title": "The Pringle Matriarchs",
+        "part": "the-first-year",
+        "partTitle": "The First Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-first-year/chapter-03.md",
+        "image": "images/anne-of-windy-poplars/the-first-year/chapter-03.webp"
+      },
+      {
+        "number": 4,
+        "title": "Pumpkin Preserves and Pringle Politics",
+        "part": "the-first-year",
+        "partTitle": "The First Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-first-year/chapter-04.md",
+        "image": "images/anne-of-windy-poplars/the-first-year/chapter-04.webp"
+      },
+      {
+        "number": 5,
+        "title": "The School Play and a New Ally",
+        "part": "the-first-year",
+        "partTitle": "The First Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-first-year/chapter-05.md",
+        "image": "images/anne-of-windy-poplars/the-first-year/chapter-05.webp"
+      }
+    ],
     "annes-house-of-dreams": [],
     "anne-of-ingleside": [],
     "rainbow-valley": [],
