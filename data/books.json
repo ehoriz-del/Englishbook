@@ -57,7 +57,7 @@
           "title": "The Second Year",
           "level": "Early B2",
           "totalChapters": 13,
-          "publishedChapters": 5
+          "publishedChapters": 10
         },
         {
           "id": "the-third-year",
@@ -534,6 +534,51 @@
         "level": "Early B2",
         "file": "content/anne-of-windy-poplars/the-second-year/chapter-05.md",
         "image": "images/anne-of-windy-poplars/the-second-year/chapter-05.webp"
+      },
+      {
+        "number": 6,
+        "title": "A Merry Christmas for Katherine",
+        "part": "the-second-year",
+        "partTitle": "The Second Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-second-year/chapter-06.md",
+        "image": "images/anne-of-windy-poplars/the-second-year/chapter-06.webp"
+      },
+      {
+        "number": 7,
+        "title": "Little Elizabeth Gets Her Chance",
+        "part": "the-second-year",
+        "partTitle": "The Second Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-second-year/chapter-07.md",
+        "image": "images/anne-of-windy-poplars/the-second-year/chapter-07.webp"
+      },
+      {
+        "number": 8,
+        "title": "Cousin Ernestine Bugle",
+        "part": "the-second-year",
+        "partTitle": "The Second Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-second-year/chapter-08.md",
+        "image": "images/anne-of-windy-poplars/the-second-year/chapter-08.webp"
+      },
+      {
+        "number": 9,
+        "title": "Anne Writes About Fear",
+        "part": "the-second-year",
+        "partTitle": "The Second Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-second-year/chapter-09.md",
+        "image": "images/anne-of-windy-poplars/the-second-year/chapter-09.webp"
+      },
+      {
+        "number": 10,
+        "title": "Hazel Marr’s Dilemma",
+        "part": "the-second-year",
+        "partTitle": "The Second Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-second-year/chapter-10.md",
+        "image": "images/anne-of-windy-poplars/the-second-year/chapter-10.webp"
       }
     ],
     "annes-house-of-dreams": [],
