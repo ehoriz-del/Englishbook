@@ -2,35 +2,39 @@
 
 ## Story Summary
 
-On a beautiful autumn afternoon, Anne and Lewis Allen set out along the Dawlish Road to collect subscriptions for the High School Dramatic Club. The road wanders rather than running straight, which immediately delights Anne. She has always loved roads that bend because a curve suggests that something unexpected may be waiting beyond it. Lewis is more practical, but he enjoys Anne’s enthusiasm and the freedom of the afternoon.
+Anne and Lewis Allen set out along the Dawlish Road to collect subscriptions for the High School Dramatic Club. It is a beautiful autumn day, and Anne enjoys the winding country road almost as much as the purpose of the trip. Lewis brings his camera because he is still hoping to find a farmhouse good enough to photograph for the Country Homes contest.
 
-Their work is not entirely romantic. They have to knock on doors and persuade families to donate money. Anne and Lewis take turns speaking, partly because Rebecca Dew has given Anne humorous advice about canvassing: attractive clothes, Rebecca claims, are useful when asking men for money, while women may respond better if the visitor looks less impressive. Anne is amused by Rebecca’s worldly wisdom, but she and Lewis carry on seriously with their task.
+They visit several homes and ask people to support the Dramatic Club. Between stops, Anne admires the countryside and Lewis looks for possible photographs. At one point they stop by a spring, and Lewis tells Anne about a time when he had once suffered badly from thirst while working on a railroad in the West. Anne is reminded that Lewis has already done difficult work in order to support himself.
 
-The road itself provides constant distraction. They stop to admire views of the strait through the trees and to photograph attractive houses. Lewis is still hoping to win the *Country Homes* photography prize, so every farmhouse is a possible opportunity. Anne, meanwhile, treats the trip as an adventure. At a spring they stop for water, and Lewis tells her about once becoming dangerously thirsty while working on a railroad in the West. The story reveals something of the hard life he has already lived despite his youth.
+A sudden shower forces them to take shelter in an abandoned blacksmith’s forge. They wait until the rain passes and then continue. After the storm, the landscape looks fresh and bright. Anne notices a small side road that seems interesting and wants to explore it. Lewis doubts that there will be anything useful there, but Anne insists.
 
-A sudden rain shower forces them to run for shelter in an abandoned blacksmith’s forge. Rather than being annoyed, they enjoy watching the storm transform the landscape. When the rain ends, the wet leaves shine and the air seems freshly washed. Anne notices a small side road bordered by old fences and goldenrod and immediately wants to explore it. Lewis doubts that anyone lives there, but Anne has a weakness for roads that are “off the beaten track.” She has a feeling there will be a house worth photographing.
+The side road leads them to an old farmhouse. The house itself is gray and somewhat shabby, but the barns are large and prosperous-looking. Lewis thinks the farmhouse may make a good picture for the contest, so he takes a photograph before asking permission.
 
-Her instinct proves correct. They soon find an old farmhouse that looks almost designed for a picture. The house itself is gray and somewhat shabby, but the barns behind it are large, modern, and prosperous. Lewis photographs the house before they speak to anyone, just in case the owner refuses permission after meeting them.
+They go to the door and meet James Armstrong, a broad-shouldered, grizzled man with an unfriendly manner. Anne begins to explain why they are there and asks for a subscription to the Dramatic Club. James abruptly refuses and closes the door in their faces.
 
-The owner turns out to be James Armstrong, a broad-shouldered middle-aged man with grizzled hair and an unfriendly manner. Anne begins explaining the Dramatic Club, but he cuts her off almost immediately and closes the door in their faces. Anne and Lewis walk away surprised. They have met people who were reluctant to give money, but they have rarely been treated with such blunt hostility.
+Anne and Lewis are surprised by his rudeness. They walk away and stop near a stone wall. Soon they hear movement in the bushes and see a little boy approaching with a large black Newfoundland dog.
 
-Anne tries to laugh off the snub. While sitting on a stone wall to remove a pebble from her shoe, she and Lewis hear someone moving through the shrubs. A little boy of about eight appears. He has brown curls, large trusting eyes, worn clothing, and the air of someone naturally gentle. A large black Newfoundland dog follows him.
+The boy is Teddy Armstrong, James’s young son. Teddy has brown curls, a gentle face, worn clothes, and an open, friendly manner. He is carrying an apple turnover. He has misunderstood the situation and thinks Anne and Lewis came to the farmhouse because they were hungry. He offers the turnover to them.
 
-The boy is carrying an apple turnover. He offers it to Anne and Lewis because he mistakenly believes they asked his father for food. His generosity is immediate and sincere. Lewis almost refuses, but Anne recognizes that accepting is important. Refusing would embarrass the child. They share the turnover, which turns out to be delicious, and learn that the boy’s name is Teddy Armstrong, though his father calls him “Little Fellow.”
+Lewis is about to refuse, but Anne realizes that Teddy would be embarrassed if they rejected his gift. They accept it and share it. Teddy is pleased.
 
-Teddy quickly explains his father’s behavior. James Armstrong is not sociable, Teddy says, but he is good to his son. The boy’s mother is dead, and father and son live alone. Teddy speaks of his father with complete loyalty. He knows that James dislikes visitors, yet he interprets the behavior kindly rather than critically. His father cooks, cleans, runs the farm, teaches Teddy at home, and plays with him when he has time.
+They begin talking with him. Teddy explains that his father does not like strangers very much but is good to him. Teddy’s mother is dead, and he lives alone with his father and Carlo, the dog. He does not yet attend school, though he expects to begin the next year. He says he would like to have other boys to play with.
 
-Teddy’s loneliness becomes visible through his conversation. He does not yet attend school, though he expects to start the following year. He thinks he would enjoy having other boys to play with. At present his closest companion is Carlo, the big dog. Teddy says that when he gets older he will help his father more, and then perhaps his father will have time to be “polite to folks.” The statement is touching because the child is trying to explain an adult’s isolation in the most generous way possible.
+Teddy talks about his father with complete loyalty. He explains that James does all the cooking and housework, runs the farm, teaches Teddy, and spends time with him when he can. Teddy seems to believe that if he grows older and helps with more of the work, his father may have time to be friendlier to other people.
 
-Anne is especially moved when Teddy talks about his dead mother and about heaven. Someone has told him his mother is in heaven, but his father does not believe there is such a place. Teddy trusts his father’s intelligence so completely that he assumes his father must know the truth. At the same time, he clearly longs for connection with the mother he cannot remember well.
+The conversation turns to Teddy’s mother. Teddy has been told that she is in heaven, but he also says his father does not believe in heaven. Because Teddy trusts his father deeply, the subject confuses him. Anne is touched by the seriousness with which the little boy speaks.
 
-Anne decides that money would be the wrong response to Teddy’s gift. Instead, she asks whether he would like to have his picture taken. Teddy is thrilled, especially when he learns Carlo can be in the photograph too. Anne carefully poses the boy with his arm around the dog, and Lewis uses his last photographic plate. Teddy is excited by the idea that the finished photograph will arrive through the mail. He plans to keep it a surprise from his father.
+Anne wants to thank Teddy for the turnover. Instead of giving him money, she asks whether he would like to have his photograph taken. Teddy is delighted, especially when Anne says Carlo can be in the picture too.
 
-Before leaving, Anne kisses Teddy’s sunburned face. She is struck by how sweet, brave, and motherless he is. When she and Lewis look back, Teddy and Carlo are standing together, waving goodbye.
+Anne arranges Teddy and the dog together. Teddy puts an arm around Carlo, and Lewis uses the last photographic plate in his camera. Teddy is very excited about receiving the finished photograph through the mail and says he wants it to be a surprise for his father.
 
-Back at Windy Poplars, Rebecca Dew supplies the missing background. James Armstrong lost his much younger wife five years earlier. Before her death he had been somewhat reserved but not bitter. Grief changed him. He withdrew from people, refused to hire a housekeeper, and devoted himself almost completely to Teddy. Aunt Chatty worries that the child is too isolated, while Aunt Kate notes that James seems to worship him.
+Before Anne and Lewis leave, Anne kisses Teddy’s sunburned face. Teddy and Carlo stand together and wave as the visitors walk away.
 
-The chapter is shaped by contrasts: the father is rude, but the son is generous; the farmhouse looks neglected, but the barns are prosperous; James rejects strangers, while Teddy welcomes them. Anne’s gift of a photograph seems small, but the next chapter will reveal that it has consequences no one can yet imagine.
+When Anne returns to Windy Poplars, she tells Aunt Kate, Aunt Chatty, and Rebecca Dew about James Armstrong and Teddy. Rebecca knows the family history. James’s wife died several years earlier. Before her death he had been quiet but not especially unfriendly. After losing her, he withdrew from other people and became much harder.
+
+James refuses to hire a housekeeper and has devoted his life to Teddy. The people at Windy Poplars agree that the little boy is probably too isolated, but they also know that James loves him intensely.
+
+Anne thinks again about the strange visit. She had first seen only an unpleasant man who shut the door in her face, but Teddy’s affection for his father makes that first impression less simple. Lewis, meanwhile, has a photograph that may help him in his contest and another photograph that will soon become very important to the Armstrong family.
 
 ## Vocabulary & Nuance
 

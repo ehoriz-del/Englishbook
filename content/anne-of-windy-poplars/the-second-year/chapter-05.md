@@ -2,45 +2,67 @@
 
 ## Story Summary
 
-Anne leaves Summerside for Christmas with Katherine Brooke beside her. Little Elizabeth watches sadly from The Evergreens as Anne departs, but Anne does not know it. Elizabeth prays that Anne will have a happy Christmas and return safely. The short scene emphasizes how important Anne has become to the child, even when Anne is focused on another lonely person.
+Anne and Katherine leave Summerside together for the Christmas holiday. Little Elizabeth sees Anne leaving from The Evergreens and feels sad, although Anne does not know the child is watching. Elizabeth quietly hopes Anne will have a happy Christmas and come safely back to Summerside.
 
-For Anne, the journey to Green Gables is filled with anticipation. The winter countryside appears beautiful and familiar, and every landmark reminds her of earlier years. Katherine, by contrast, is quiet and guarded. She has warned Anne not to expect conversation. Anne reassures her that silence is acceptable. She will talk when she feels like it, but Katherine is under no obligation to respond.
+During the journey Katherine is reserved. She has already warned Anne not to expect much conversation. Anne tells her that she does not mind silence and does not intend to force her to talk.
 
-Davy meets them at Bright River with a large sleigh. Anne is delighted to be back among the roads and fields she knows so well. As they approach Green Gables, she points out the place where she always suddenly feels that she is home. The house itself seems to welcome her with lighted windows, familiar smells, and the warmth of people waiting inside.
+At Bright River, Davy meets them with the sleigh. Anne is delighted to see the familiar countryside again. As they drive toward Green Gables, she points out the places she has known since girlhood. Katherine watches everything quietly.
 
-Katherine enters a world very different from the boarding houses and unhappy homes of her past. Marilla, Rachel Lynde, Davy, and Dora receive her naturally. No one treats her as a problem to be solved. She is simply Anne’s guest. That ordinary welcome begins working on her almost immediately, though she does not say so.
+When they reach Green Gables, Marilla, Rachel Lynde, Davy, and Dora welcome Katherine as Anne’s guest. No one questions her or makes a fuss over her. Katherine is not used to such an easy family atmosphere.
 
-After supper Anne suggests a moonlight snowshoe walk. Katherine admits that snowshoeing is one of the few physical activities she enjoys, though she has not done it for years. They set out through Lover’s Lane, snowy fields, woods, and open clearings. The landscape is quiet enough that conversation seems unnecessary.
+After supper Anne suggests that she and Katherine go snowshoeing. Katherine admits that she used to enjoy snowshoeing, so they set out through the winter night.
 
-For the first time, Anne feels genuinely close to Katherine. The winter night creates a space in which neither woman has to perform a social role. Katherine is not the sarcastic teacher; Anne is not the cheerful principal trying to win her over. They simply move together through a beautiful landscape.
+They walk through Lover’s Lane, across snowy fields, and through the quiet woods. At first they do not talk much. Katherine seems to relax simply because she is away from the school and the boarding house.
 
-As they near Green Gables again, they stop by an old fence and look at the house. Its shape in the winter darkness has a protective, almost motherly quality. Suddenly Anne realizes Katherine is crying.
+When they are returning toward Green Gables, they stop near an old fence and look toward the house. The lighted windows stand out against the snow and darkness.
 
-The tears transform Anne’s understanding of her. Katherine has seemed so hard and self-contained that Anne almost could not imagine her crying. Now the emotional armor breaks. Katherine tells Anne that she feels trapped in life. From her point of view, Anne moves through an enchanted world full of friends, beauty, romance, and opportunity, while Katherine has never learned how to live happily.
+Anne suddenly notices that Katherine is crying.
 
-She says that if she died, no one would miss her. She believes herself absolutely friendless. Anne responds with unusual bluntness. If Katherine has no friends, Anne says, some responsibility is hers because she has met friendly approaches with “prickles and stings.” Katherine does not reject the criticism. Instead, she admits she knows this is true.
+Katherine tells Anne that she feels trapped in a life she hates. She looks at Anne and sees someone who seems to have everything she lacks: friends, beauty, confidence, love, and a future with Gilbert. Katherine believes Anne has always moved through a world that welcomed her.
 
-Katherine then confesses that she hated Anne when Anne first came to Summerside. Anne was younger, more attractive, socially confident, and had received the position Katherine wanted. Anne also had Gilbert, friends, beautiful clothes, and what Katherine interpreted as effortless happiness. Katherine envied not just what Anne possessed but the way she seemed to approach every day as if it might contain some secret delight.
+She says that she has no real friends and believes that if she died, very few people would miss her.
 
-Anne challenges one part of that image. Her own life was not always easy. She briefly tells Katherine about her childhood before Green Gables, when she was orphaned, unwanted, and passed from household to household. Katherine is shocked. She had imagined Anne as one of fortune’s favorites and never considered that Anne’s warmth might have grown out of hardship rather than protection from it.
+Anne does not simply comfort her. She tells Katherine that some of her loneliness is connected with the way she treats people. Whenever anyone tries to be friendly, Katherine often responds with sarcasm or hostility.
 
-Anne’s honesty makes it possible for Katherine to tell her own story. Katherine’s parents did not want her, and their marriage was full of bitter quarrels. They died when she was seven. She then went to live with relatives who repeatedly reminded her that she was dependent on their charity. She wore castoff clothes, received little affection, and remembers almost no kindness.
+Katherine admits that Anne is right.
 
-Katherine was intelligent and wanted further education, but a university degree was financially impossible. An uncle agreed to pay for teacher training on the condition that she repay every expense. She lived in poor boarding conditions, worked hard, became a teacher, and spent years saving and paying him back. She has now finally finished repaying the debt.
+She then tells Anne that she disliked her from the beginning. Anne was younger, popular, attractive, and had been appointed principal of the school, a position Katherine had wanted. Katherine was jealous of Anne’s clothes, friendships, engagement to Gilbert, and especially her apparent ability to enjoy life.
 
-Financially, Katherine is free for the first time. Emotionally, however, she feels damaged by the years behind her. She knows she is sarcastic, unsociable, and feared by her pupils. She knows people avoid her. What hurts most is that she does not know how to become different. She has practiced bitterness so long that it feels like part of her identity.
+Anne tells Katherine that her own childhood was not easy. Before coming to Green Gables, Anne was an orphan who had been sent from one household to another. She often felt unwanted and lonely.
 
-Anne refuses to accept Katherine’s conclusion that change is impossible. She tells her that life may only now be beginning because the burden of debt has ended. Anne returns to one of her favorite ideas: no one knows what may be around the next bend in the road.
+Katherine is surprised. She had assumed Anne’s happiness came from having an easy life.
 
-Katherine admits that she hates teaching and longs to travel. As a child, she was fascinated by an old picture of a desert spring surrounded by palms and travelers. Since then she has wanted to see places beyond Prince Edward Island—to experience the world rather than only read about it. A teacher’s salary seems unlikely to make those dreams possible, but simply saying them aloud is important. Desire replaces bitterness for a moment.
+After hearing Anne’s story, Katherine begins telling her own.
 
-The conversation finally turns toward friendship. Anne tells Katherine that she has always believed there was someone worth knowing beneath the defensive exterior. Katherine admits that Green Gables is the first place that has ever felt like home. She is embarrassed at having “pulled off her mask,” but Anne assures her she will not regret it.
+Katherine says her parents did not want her. Their marriage was unhappy, and they frequently quarreled. Both died when she was seven.
 
-By the time they return to the house, Katherine looks physically different. The cold air has given her color, and emotional release has softened her expression. Anne begins imagining how attractive Katherine could look if she stopped treating herself as though appearance did not matter.
+Afterward Katherine was taken in by relatives. She was continually reminded that she depended on them. She wore old clothes passed down from others and received little affection.
 
-The real transformation, however, is internal. Katherine has not suddenly become cheerful, and years of bitterness will not disappear in one conversation. But she has done something she has never done before: trusted another person with the truth of her life. Anne, in turn, understands that friendship sometimes begins not with pleasant similarities but with the willingness to let another person see the parts of ourselves we usually hide.
+Katherine was intelligent and wanted an education, but there was no money for university. An uncle agreed to pay for her teacher training at Queen’s on the condition that she repay every cent he spent on her, including earlier expenses.
 
-This chapter closes before the Christmas celebrations themselves. The puppy, gifts, parties, and further transformation belong to the next chapter. Here, the central event is Katherine’s confession and the beginning of genuine friendship.
+Katherine accepted the arrangement. She studied, earned her teaching license, and eventually became a teacher in Summerside.
+
+For years she has lived as cheaply as possible in order to repay her uncle. She has worn inexpensive clothes, stayed in unpleasant boarding houses, and denied herself almost everything she wanted. She has only recently finished paying the debt.
+
+Katherine says that the struggle has left her bitter. She knows that her pupils are afraid of her and that most adults avoid her. She also knows that she often speaks sarcastically even when she does not need to.
+
+She tells Anne that she hates teaching and does not want to spend the rest of her life doing it.
+
+What Katherine really wants is to travel. She remembers a picture that hung in the attic room where she lived as a child: a desert spring surrounded by palm trees, with camels in the distance. She has never forgotten it.
+
+She dreams of seeing the Southern Cross, the Taj Mahal, the ruins of Karnak, and other places far beyond Prince Edward Island. She wants to experience the world for herself instead of only reading about it.
+
+Anne tells Katherine that now that her debt is paid, her future does not have to be exactly like her past. Katherine is doubtful, but she listens.
+
+Anne tells her that they are going to be friends and that they will begin with ten good days at Green Gables.
+
+Katherine admits that Green Gables is the first place she has ever visited that feels like a real home. She says that perhaps she can learn to behave differently, although she is not sure how.
+
+She worries that she has told Anne too much and exposed feelings she normally hides. Anne assures her that she will not regret it.
+
+They return to Green Gables after the long winter walk. The cold air has brought color to Katherine’s face, and Anne notices that she looks younger and more attractive when she is relaxed.
+
+The Christmas celebrations, gifts, and the puppy will come in the next chapter. For now, Katherine has done something far more unusual for her: she has trusted someone enough to tell the truth about her childhood, her anger, and the life she wishes she could have.
 
 ## Vocabulary & Nuance
 

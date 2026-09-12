@@ -2,41 +2,49 @@
 
 ## Story Summary
 
-A frosty December night brings Anne to a decision she has been considering for some time. Christmas is approaching, and she is going home to Green Gables for the holidays. Instead of enjoying the anticipation only for herself, she cannot stop thinking about Katherine Brooke, the older teacher at Summerside High who remains isolated, sarcastic, and difficult to approach.
+As Christmas approaches, Anne prepares to go home to Green Gables for the holiday. She cannot stop thinking about Katherine Brooke, the vice-principal at Summerside High. Katherine remains difficult, sarcastic, and distant, but Anne has begun to suspect that much of her behavior comes from loneliness.
 
-Rebecca Dew thinks inviting Katherine would be a terrible idea. She predicts that Katherine will ruin Anne’s holiday with her bad temper and mocks her as a combination of an iceberg and a nutmeg grater. Rebecca’s description is comic but not entirely unfair. Katherine has repeatedly rejected friendly efforts, spoken sharply to colleagues, and made herself unpopular.
+Rebecca Dew strongly advises Anne not to invite Katherine anywhere. Rebecca believes Katherine would spoil the holiday with her bad temper. Anne admits that Katherine can be unpleasant, yet she decides to invite her to Green Gables anyway.
 
-Anne agrees intellectually with many of Rebecca’s complaints. Yet emotionally she cannot dismiss Katherine. From time to time Anne has seen something beneath the harsh surface—a flash of loneliness, frustration, or trapped unhappiness. She has begun to suspect that Katherine’s unpleasant behavior may be a defense rather than her whole personality.
+On a very cold December evening, Anne walks to the boarding house on Temple Street where Katherine lives. As she approaches the house, she begins to doubt her plan. Katherine has rejected friendly gestures before, and Anne wonders why she keeps trying. Still, she goes inside.
 
-Anne hopes that Green Gables might reach Katherine in a way Summerside cannot. At school, Katherine is surrounded by habits and expectations. Everyone already thinks of her as cold and unfriendly. At Green Gables she would be in a different environment, among people who do not know her history and who might give her room to behave differently.
+Mrs. Dennis, Katherine’s landlady, receives Anne in the parlour. She begins talking about Katherine almost immediately. Mrs. Dennis complains that Katherine is in a bad mood because of some local gossip she repeated to her.
 
-Anne walks to Temple Street despite the bitter cold. Her confidence weakens as she approaches Katherine’s boarding house. She remembers recent insults and begins to wonder why she keeps trying. Still, she goes inside.
+Anne dislikes hearing a landlady criticize her boarder. She points out that Mrs. Dennis might also repeat something positive: the school inspector considers Katherine one of the best teachers in the Maritimes.
 
-Mrs. Dennis, Katherine’s landlady, receives Anne in the parlour and immediately begins criticizing her boarder. She says Katherine is sulking because Mrs. Dennis repeated some unkind local gossip about the way she dresses. Anne is disturbed by the landlady’s behavior. She points out that if Mrs. Dennis is willing to repeat criticism, she might also mention that the school inspector considers Katherine one of the best teachers in the Maritimes.
+During the conversation Anne learns that Katherine wants a dog. Mrs. Dennis has refused to allow one in the house, even though Katherine offered to pay for its food and take care of it herself. Anne quietly suggests that perhaps the rule could be reconsidered.
 
-The conversation reveals another source of tension. Katherine wants a dog, but Mrs. Dennis refuses to allow one in the boarding house. Katherine has offered to pay for its food and take responsibility for it, yet Mrs. Dennis says she will not board a dog. Anne, who understands the companionship an animal can provide, gently asks the woman to reconsider. Her request begins to soften Mrs. Dennis.
+When Katherine comes downstairs, she is cool and sarcastic. Anne tries to begin a normal conversation, but Katherine answers sharply. For a moment Anne is tempted to leave.
 
-When Katherine finally comes downstairs, she is not welcoming. The room is cold both physically and emotionally. Katherine responds to Anne’s friendliness with sarcasm, and for a moment Anne nearly loses patience and leaves. But she notices that Katherine’s eyes look unusual, as if she may have been crying.
+Then Anne notices that Katherine looks as though she may have been crying. She continues.
 
-Anne tries to talk about Christmas. Katherine makes it clear that she dislikes the holiday and does not want cheerful sentiment forced on her. Anne finally states her purpose: she wants Katherine to come to Green Gables for the Christmas vacation.
+Anne asks about Katherine’s Christmas plans. Katherine says she does not like Christmas and does not want to pretend to be cheerful. Mrs. Dennis will be away, so Katherine expects to stay in the boarding house alone and prepare her own meals.
 
-Katherine’s first reaction is defensive. She suspects pity or charity. Anne insists that she is not offering a duty invitation. She genuinely wants Katherine to come. Their conversation becomes tense because neither woman is willing to hide behind politeness. Katherine uses sarcasm; Anne uses frankness.
+Anne tells her directly that she wants her to spend the holiday at Green Gables.
 
-At one point Anne becomes so frustrated that she tells Katherine she needs a good spanking. The remark is startling, but instead of ending the conversation, it unexpectedly changes the mood. Katherine’s insulting tone weakens, and a faint sense of humor appears. Anne has finally spoken to her without fear.
+Katherine immediately assumes the invitation is based on pity. She does not want to be treated as a charity case. Anne insists that she is inviting her because she genuinely wants her there.
 
-The invitation begins to reach the lonely person behind Katherine’s defenses. Katherine admits that Mrs. Dennis will be away during Christmas week, leaving her to spend the holiday alone and cook for herself. She says this practical inconvenience is the main reason she might accept. She refuses to admit that she wants companionship, but Anne understands what is really happening.
+The conversation grows increasingly direct. Katherine uses sarcasm to push Anne away. Anne finally loses patience and tells Katherine that what she really needs is a good spanking.
 
-Katherine eventually agrees to go. However, she sets one condition: Anne must not wish her a merry Christmas. She insists that she does not want to be merry. Anne promises that she personally will respect the request, although she cannot guarantee what Davy and Dora might say.
+The remark surprises Katherine so much that the mood changes. Instead of becoming angrier, she almost laughs. Anne has finally spoken to her without being intimidated by her sharpness.
 
-Once the decision has been made, Katherine offers to walk Anne home. The cold evening has turned into a moonlit night. Their conversation is still edged with Katherine’s dry humor, but a shift has occurred. She is no longer simply pushing Anne away.
+Katherine begins to consider the invitation seriously. She admits that she does not look forward to spending Christmas alone, although she tries to present the matter as a practical inconvenience rather than loneliness.
 
-Rebecca is astonished when Anne returns with the news that Katherine has accepted. Her disbelief makes the success even more satisfying. Yet Anne does not treat the invitation as a victory over Katherine. What matters is that a door has opened.
+Anne describes Green Gables and the people there. Katherine remains cautious, but she is interested.
 
-The chapter is fundamentally about persistence and perception. Many people in Summerside have decided that Katherine is unpleasant and therefore not worth the effort. Anne sees the same unpleasant behavior but asks what might be causing it. She does not excuse rudeness, but she refuses to believe that a person’s worst social habits are necessarily that person’s deepest self.
+At last Katherine agrees to go on one condition: Anne must not wish her a merry Christmas. Katherine says she has no intention of being merry and does not want cheerful holiday phrases forced on her.
 
-At the same time, Anne’s approach is not endlessly gentle. She becomes angry. She tells Katherine the truth. Their relationship begins to change because Anne is kind without becoming submissive. That balance matters. Compassion does not require pretending that hurtful behavior is acceptable.
+Anne agrees that she personally will respect the rule, though she warns Katherine that Davy and Dora may be impossible to control.
 
-The invitation to Green Gables is therefore more than a holiday plan. It is an experiment in giving Katherine a different setting and a different expectation. In Summerside she is “Katherine Brooke, the difficult teacher.” At Green Gables she may have the chance to become simply Katherine—a guest, a woman, and perhaps eventually a friend.
+Once Katherine has accepted, she offers to walk Anne back to Windy Poplars. The night is bright and cold, and the two women walk together through the moonlight.
+
+Their conversation is still not exactly warm, but it is less hostile than before. Katherine has stopped trying to end every exchange immediately.
+
+When Anne reaches Windy Poplars and tells Rebecca Dew that Katherine has accepted, Rebecca is astonished. Anne is pleased that the invitation succeeded, though she knows the real test will come when Katherine actually arrives at Green Gables.
+
+For the first time, Katherine has agreed to enter Anne’s private world rather than meeting her only at school. Anne hopes that being away from Summerside, the boarding house, and the habits of her daily life will make it easier for Katherine to relax.
+
+The holiday journey is now arranged. Anne will return to Green Gables, and Katherine Brooke, who insists that she dislikes Christmas and prefers to be left alone, will go with her.
 
 ## Vocabulary & Nuance
 

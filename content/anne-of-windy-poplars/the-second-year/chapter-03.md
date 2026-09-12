@@ -2,41 +2,49 @@
 
 ## Story Summary
 
-Nearly three weeks pass before Lewis Allen has time to develop the photographs he took on the Dawlish Road. When he brings them to Windy Poplars one Sunday evening, the picture of Teddy Armstrong and Carlo immediately attracts attention. Teddy looks vivid and alive in the photograph, and Anne notices something unexpected: the boy strongly resembles Lewis.
+Several weeks later, Lewis Allen finally develops the photographs he took on the Dawlish Road. He brings them to Windy Poplars one Sunday evening. When Anne sees the picture of Teddy Armstrong and Carlo, she is delighted by how clearly Teddy’s face has come out.
 
-Rebecca Dew sees the resemblance too. Anne compares Teddy’s eyes, forehead, and expression with Lewis’s face. Lewis laughs at the idea and says he has an old photograph of himself at about the same age. He had assumed he had no relatives on Prince Edward Island, but the coincidence makes him curious. Rebecca remembers that James Armstrong originally came from New Brunswick, where Lewis was also born.
+As Anne studies the photograph, she suddenly notices that Teddy looks remarkably like Lewis. The shape of his forehead, his eyes, and his expression all seem familiar. Rebecca Dew also notices the resemblance. Lewis laughs at first, but the similarity is strong enough to make everyone curious.
 
-Lewis decides to deliver Teddy’s photograph personally instead of mailing it. He wants to investigate whether there could be a family connection. Anne points out that Teddy had been excited about receiving something through the post, so Lewis promises to send him another surprise later.
+Lewis remembers that he has an old photograph of himself taken when he was about Teddy’s age. When he compares the two pictures, the resemblance is even more obvious. Lewis has always believed that he has no close relatives on Prince Edward Island, but Anne remembers that James Armstrong originally came from New Brunswick, where Lewis’s family also lived.
 
-The following Saturday, Lewis arrives at Windy Poplars in an extremely old buggy pulled by an equally old mare. Rebecca Dew makes fun of the vehicle, while Lewis jokes that she should respect age. He invites Anne to come with him to Glencove Road. Anne accepts. She enjoys Lewis’s lack of self-consciousness. He does not worry about whether the buggy looks impressive, and Anne admires that independence.
+Lewis decides not to mail Teddy’s photograph immediately. Instead, he plans to take it to the farmhouse himself so he can ask James about the possible family connection. Anne reminds him that Teddy is waiting for something to arrive by mail, and Lewis promises to send the boy another small surprise later.
 
-The drive begins pleasantly. Autumn colors brighten the countryside, and Anne is confident that Lewis will eventually achieve his ambitions. Although he has little money, he is intelligent, disciplined, and not ashamed of honest work. His classmates may tease him for doing housework in exchange for board, but Lewis does not allow their opinions to define him.
+The next Saturday Lewis comes for Anne in a very old buggy drawn by an equally old horse. Rebecca Dew makes jokes about the appearance of the vehicle, but Lewis is not embarrassed. Anne likes that quality in him. He does not care whether other people think his clothes, work, or transportation look impressive.
 
-On the way, however, Anne and Lewis hear shocking news. Teddy Armstrong has died. The announcement is difficult for Anne to believe because the boy had seemed so alive only a few weeks earlier. Their happy purpose disappears at once. The photograph is no longer a gift for a child waiting excitedly for mail; it has become something much more serious.
+Anne and Lewis drive toward the Armstrong farm. The autumn day is pleasant, and Anne talks about Lewis’s future. She is convinced that he will succeed because he is willing to work hard.
 
-When Anne and Lewis reach the Armstrong farmhouse, Carlo is lying outside. The dog approaches them with a sad, questioning expression. Inside they find James Armstrong almost unrecognizable. His face is hollow, he is unshaven, and grief has stripped away the hard self-control he showed during their first visit.
+On the way, however, they hear devastating news: Teddy Armstrong has died.
 
-At first James speaks wearily, but when Lewis unwraps the photograph, his reaction is overwhelming. He looks at Teddy’s face and breaks down in tears. Anne has rarely seen a grown man cry so openly. Lewis and Anne remain silent until he can speak again.
+Anne can hardly believe it. The little boy had seemed so healthy and alive when they met him only a short time earlier. The photograph they are carrying suddenly has a completely different meaning.
 
-James explains why the photograph matters so much. He has no other picture of Teddy, and he cannot clearly recall faces in his mind. Since the boy’s death, one of the most painful parts of his grief has been the fear that he is losing Teddy’s appearance. The photograph gives the child’s face back to him. What Anne and Lewis had considered a charming souvenir becomes, for James, almost a lifeline.
+When they reach the farmhouse, Carlo is lying outside. The dog comes toward them sadly. Inside, James Armstrong looks exhausted and broken. His beard has grown, his face is hollow, and the hard expression Anne remembers has disappeared beneath grief.
 
-James begins talking about Teddy. Once he starts, the reserve that made him seem unfriendly disappears. He describes the boy’s patience during his final illness and remembers a conversation in which Teddy asked about heaven. James had taught his son not to believe in it, but when Teddy knew he was dying, he wanted reassurance. James told him there was a heaven after all. Teddy accepted the idea peacefully because he believed his mother and God would be there, but he worried about leaving his father alone.
+Lewis explains that he has brought Teddy’s photograph. When James sees it, he loses control and begins to cry. Anne and Lewis wait quietly.
 
-Before dying, Teddy made James promise to do his best, to be more polite to people, and eventually to come to him. The promise now matters intensely. James knows that without Teddy he could easily become bitter and isolated again.
+James tells them that he has no other photograph of Teddy. He also has difficulty remembering faces clearly in his mind. Since the child’s death, he has been terrified that he will forget exactly what Teddy looked like. The photograph gives him something he desperately needs.
 
-Lewis then shows James his own childhood photograph. The resemblance to Teddy is striking. When Lewis gives his family history, James slowly realizes the truth: Lewis’s mother was James’s half-sister. Years earlier, family circumstances had separated them, and James had lost track of that branch of the family. Lewis is his nephew, and Teddy was Lewis’s cousin.
+After a while James begins talking about his son. Teddy became ill and knew he was dying. During the illness he asked again about heaven. James had previously told Teddy that he did not believe in it, but when the boy was dying, James told him that heaven did exist.
 
-The discovery is astonishing for Lewis, who has believed himself almost alone in the world. The visit changes direction. What began as an act of sympathy toward a grieving stranger becomes the discovery of a living family connection. Anne and Lewis spend the rest of the evening with James and discover that beneath his rough exterior he is well read, intelligent, and capable of deep feeling. His earlier rudeness becomes easier to understand in light of his history and grief.
+Teddy accepted the idea peacefully. He believed his mother would be there, and he trusted that God would take care of him. His main worry was leaving his father alone.
 
-Anne reflects that Teddy could never have loved his father so deeply if there had not been goodness in James. The child had seen a side of him that strangers did not. Now Anne and Lewis begin to see it too.
+Before he died, Teddy asked James to promise that he would try to behave differently toward people and would not allow himself to become completely bitter. James now feels bound by that promise.
 
-The following weekend Lewis visits James again. James asks him to come and live with him. He says they are both alone and that he needs Lewis’s presence if he is going to keep Teddy’s final request and avoid becoming hard again. He cannot replace Teddy, and Lewis cannot replace the cousin he never knew, but the two men can become family to each other.
+Lewis then shows James the childhood photograph of himself. James studies it carefully and asks questions about Lewis’s family. As they compare names and dates, James suddenly realizes that Lewis’s mother was his half-sister.
 
-Lewis accepts. The discovery gives him not only an uncle but also practical support for his future. James can help him pursue the education and opportunities he has worked so hard to reach. Yet the emotional meaning is even more important. Two lonely people find each other because of a photograph taken almost by chance.
+The discovery means that Lewis is James’s nephew and Teddy was Lewis’s cousin. Lewis is astonished. He had thought he had no close family nearby.
 
-This chapter shows how small actions can have consequences far beyond intention. Anne suggested the photograph simply because she wanted to thank a generous child. Lewis took it because he had one plate left. Neither imagined that Teddy would die, that James had no other picture, or that the photograph would reveal a family resemblance.
+The mood in the farmhouse gradually changes. James begins talking more openly. Anne and Lewis discover that he is intelligent and well read. He had simply cut himself off from people after his wife’s death and then centered his whole life on Teddy.
 
-The chapter also develops the theme of looking beneath surfaces. James first appeared rude and antisocial. Lewis seemed to be a poor student with no family resources. The photograph uncovers hidden facts about both of them. Grief softens James’s hard shell, and family history gives Lewis a new place in the world. Teddy, even after his death, becomes the link that connects them.
+Anne understands why Teddy defended his father so strongly. The boy knew a gentle side of James that strangers rarely saw.
+
+Lewis returns to visit James again. During that later visit, James asks Lewis to come and live with him. James says they are both alone now and could help each other. He also wants to keep the promise he made to Teddy and become less isolated.
+
+The arrangement would help Lewis continue his education. James has the means to support him, and Lewis can provide the companionship James badly needs. Lewis accepts.
+
+The photograph Anne suggested only as a small kindness has now done several things at once. It gives James the only picture he has of Teddy, it reveals the family resemblance between Teddy and Lewis, and it brings Lewis and James together as uncle and nephew.
+
+Anne is deeply moved by the outcome. She remembers the afternoon when Teddy happily posed with Carlo and looked forward to getting his picture in the mail. None of them could have guessed what would happen only a few weeks later.
 
 ## Vocabulary & Nuance
 
