@@ -24,7 +24,7 @@ The next evening Elizabeth arrives for the milk in tears. Martha Monkman has mad
 
 Anne reassures her. Elizabeth must wash her face, of course, but Anne can simply give her another kiss every evening. Affection does not disappear because soap removes its imaginary mark. The promise gives Elizabeth something dependable—an emotional routine that belongs to her relationship with Anne.
 
-Then Elizabeth says something that disturbs Anne more deeply: she believes Anne is the only person in the world who loves her. Anne tries to defend Mrs. Campbell by saying that the grandmother surely loves her, but Elizabeth rejects the idea. She experiences her grandmother and Martha not as loving protectors but as authorities who are constantly correcting and restricting her.
+Then Elizabeth says something that disturbs Anne more deeply- she believes Anne is the only person in the world who loves her. Anne tries to defend Mrs. Campbell by saying that the grandmother surely loves her, but Elizabeth rejects the idea. She experiences her grandmother and Martha not as loving protectors but as authorities who are constantly correcting and restricting her.
 
 Anne does not fully argue. She knows that the adults provide Elizabeth with food, clothing, shelter, and order, but she also knows the child is emotionally starved. Their sense of duty has not created warmth. They may believe they are raising her properly, yet Elizabeth does not feel cherished.
 
