@@ -57,7 +57,7 @@
           "title": "The Second Year",
           "level": "Early B2",
           "totalChapters": 13,
-          "publishedChapters": 10
+          "publishedChapters": 13
         },
         {
           "id": "the-third-year",
@@ -579,6 +579,33 @@
         "level": "Early B2",
         "file": "content/anne-of-windy-poplars/the-second-year/chapter-10.md",
         "image": "images/anne-of-windy-poplars/the-second-year/chapter-10.webp"
+      },
+      {
+        "number": 11,
+        "title": "Hazel’s Accusation",
+        "part": "the-second-year",
+        "partTitle": "The Second Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-second-year/chapter-11.md",
+        "image": "images/anne-of-windy-poplars/the-second-year/chapter-11.webp"
+      },
+      {
+        "number": 12,
+        "title": "Hazel’s Letter",
+        "part": "the-second-year",
+        "partTitle": "The Second Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-second-year/chapter-12.md",
+        "image": "images/anne-of-windy-poplars/the-second-year/chapter-12.webp"
+      },
+      {
+        "number": 13,
+        "title": "A Fortnight at Green Gables",
+        "part": "the-second-year",
+        "partTitle": "The Second Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-second-year/chapter-13.md",
+        "image": "images/anne-of-windy-poplars/the-second-year/chapter-13.webp"
       }
     ],
     "annes-house-of-dreams": [],
