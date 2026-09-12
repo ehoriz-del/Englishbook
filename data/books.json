@@ -64,7 +64,7 @@
           "title": "The Third Year",
           "level": "Early B2",
           "totalChapters": 14,
-          "publishedChapters": 0
+          "publishedChapters": 14
         }
       ]
     },
@@ -606,6 +606,132 @@
         "level": "Early B2",
         "file": "content/anne-of-windy-poplars/the-second-year/chapter-13.md",
         "image": "images/anne-of-windy-poplars/the-second-year/chapter-13.webp"
+      },
+      {
+        "number": 1,
+        "title": "Back at Windy Poplars",
+        "part": "the-third-year",
+        "partTitle": "The Third Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-third-year/chapter-01.md",
+        "image": "images/anne-of-windy-poplars/the-third-year/chapter-01.webp"
+      },
+      {
+        "number": 2,
+        "title": "The Raymond Twins",
+        "part": "the-third-year",
+        "partTitle": "The Third Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-third-year/chapter-02.md",
+        "image": "images/anne-of-windy-poplars/the-third-year/chapter-02.webp"
+      },
+      {
+        "number": 3,
+        "title": "Ivy Trent’s Visit",
+        "part": "the-third-year",
+        "partTitle": "The Third Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-third-year/chapter-03.md",
+        "image": "images/anne-of-windy-poplars/the-third-year/chapter-03.webp"
+      },
+      {
+        "number": 4,
+        "title": "Trouble at the Pond",
+        "part": "the-third-year",
+        "partTitle": "The Third Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-third-year/chapter-04.md",
+        "image": "images/anne-of-windy-poplars/the-third-year/chapter-04.webp"
+      },
+      {
+        "number": 5,
+        "title": "Dovie and Jarvis",
+        "part": "the-third-year",
+        "partTitle": "The Third Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-third-year/chapter-05.md",
+        "image": "images/anne-of-windy-poplars/the-third-year/chapter-05.webp"
+      },
+      {
+        "number": 6,
+        "title": "A Plan to Elope",
+        "part": "the-third-year",
+        "partTitle": "The Third Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-third-year/chapter-06.md",
+        "image": "images/anne-of-windy-poplars/the-third-year/chapter-06.webp"
+      },
+      {
+        "number": 7,
+        "title": "Dovie’s Wedding Night",
+        "part": "the-third-year",
+        "partTitle": "The Third Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-third-year/chapter-07.md",
+        "image": "images/anne-of-windy-poplars/the-third-year/chapter-07.webp"
+      },
+      {
+        "number": 8,
+        "title": "Franklin Westcott’s Secret",
+        "part": "the-third-year",
+        "partTitle": "The Third Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-third-year/chapter-08.md",
+        "image": "images/anne-of-windy-poplars/the-third-year/chapter-08.webp"
+      },
+      {
+        "number": 9,
+        "title": "Dusty Miller and a Letter",
+        "part": "the-third-year",
+        "partTitle": "The Third Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-third-year/chapter-09.md",
+        "image": "images/anne-of-windy-poplars/the-third-year/chapter-09.webp"
+      },
+      {
+        "number": 10,
+        "title": "An Evening at Tomgallon House",
+        "part": "the-third-year",
+        "partTitle": "The Third Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-third-year/chapter-10.md",
+        "image": "images/anne-of-windy-poplars/the-third-year/chapter-10.webp"
+      },
+      {
+        "number": 11,
+        "title": "A Night at Tomgallon House",
+        "part": "the-third-year",
+        "partTitle": "The Third Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-third-year/chapter-11.md",
+        "image": "images/anne-of-windy-poplars/the-third-year/chapter-11.webp"
+      },
+      {
+        "number": 12,
+        "title": "A Day in Tomorrow",
+        "part": "the-third-year",
+        "partTitle": "The Third Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-third-year/chapter-12.md",
+        "image": "images/anne-of-windy-poplars/the-third-year/chapter-12.webp"
+      },
+      {
+        "number": 13,
+        "title": "Little Elizabeth Finds Tomorrow",
+        "part": "the-third-year",
+        "partTitle": "The Third Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-third-year/chapter-13.md",
+        "image": "images/anne-of-windy-poplars/the-third-year/chapter-13.webp"
+      },
+      {
+        "number": 14,
+        "title": "Goodbye to Windy Poplars",
+        "part": "the-third-year",
+        "partTitle": "The Third Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-third-year/chapter-14.md",
+        "image": "images/anne-of-windy-poplars/the-third-year/chapter-14.webp"
       }
     ],
     "annes-house-of-dreams": [],
