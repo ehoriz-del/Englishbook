@@ -2,92 +2,83 @@
 
 ## Story Summary
 
-A few days after the adventure with the Raymond twins, Mrs. Raymond came to Windy Poplars to apologize. She had had time to think about the scene that greeted her on her return from Charlottetown, and she admitted that fear had made her speak too quickly. Anne accepted the apology without difficulty. She still liked Mrs. Raymond and remembered the help she had given the Dramatic Club. Even so, Anne had no intention of volunteering to spend another entire day alone with Gerald and Geraldine.
+A few evenings after the exhausting Saturday with the Raymond twins, Mrs. Raymond came down Spook's Lane to make peace. Her large eyes were already shining with tears when Rebecca showed her in, and before Anne could offer tea she had begun apologizing for the way she had spoken after finding the doctor at the house. Fear for Gerald and Geraldine had made her unreasonable, she admitted. Anne, who had recovered enough to find the entire adventure funny again, forgave her readily. She liked Mrs. Raymond in spite of everything and could even sympathize with the panic of a mother who had come home to wet children and a medical bag in the hall. Still, when Mrs. Raymond left, Anne had no impulse to offer her services for another Saturday.
 
-The twins soon gave way to a different topic, one that seemed to interest half of Summerside. For more than a year, Jarvis Morrow and Dovie Westcott had been secretly engaged, yet they appeared no closer to marriage than when the engagement began.
+The next excitement in Summerside had nothing to do with children. It concerned Dovie Westcott and Jarvis Morrow, whose engagement had been discussed for so long that even Rebecca Dew was beginning to lose patience with it. Jarvis was a young lawyer with a good practice, an honorable name, and enough steadiness to satisfy almost any parent. Dovie loved him. Everyone who knew them understood that. Yet more than a year after their engagement, they seemed no nearer marriage than they had been at the beginning.
 
-Aunt Kate knew the story well because she was distantly related to Dovie. She considered Jarvis an excellent match and had little patience with Dovie’s father, Franklin Westcott. Aunt Kate had known Dovie’s mother and believed Franklin had made the woman’s married life unnecessarily difficult. Rebecca Dew’s opinion was even stronger. As far as Rebecca was concerned, Franklin was a stubborn man who enjoyed controlling everyone around him.
+The reason was Franklin Westcott.
 
-Anne tried to listen without becoming involved, but the story attracted her immediately.
+Anne had met Dovie's father only a few times, but Summerside had supplied the rest of his portrait. He was tall, hard-faced, private, and reputed to have a temper that could make an ordinary disagreement feel like a thunderstorm. People repeated stories about him with the satisfaction small towns reserve for a difficult man who has provided years of material. Whether every tale was accurate hardly mattered. Franklin's reputation had become almost as solid as Elmcroft, the big old house where he lived with Dovie and Aunt Maggie.
 
-Jarvis was a successful young lawyer from a respected Summerside family. He had good prospects, a steady character, and no obvious fault that could explain Franklin’s opposition. Dovie, whose real name was Sibyl, was nineteen, pretty, gentle, and affectionate. She had soft brown hair touched with chestnut, blue eyes, and a manner that made people want to protect her. Unfortunately, she had spent most of her life under her father’s authority and had learned to fear displeasing him.
+At Windy Poplars, Franklin rarely received the benefit of the doubt. Aunt Kate had known Dovie's mother and believed she had been unhappy in her marriage. Rebecca was equally certain that Franklin wanted to keep Dovie at home because he could not imagine Elmcroft without a daughter to manage it. Whenever his name came up, Aunt Kate's mouth tightened and Rebecca's voice acquired the tone she used for people whose character she considered settled beyond appeal.
 
-Franklin lived at Elmcroft, an old-fashioned house outside town. He was tall, severe, and unsociable, with the reputation of a man who expected obedience. He had never allowed Dovie much freedom with young men. When Jarvis began visiting her, Franklin quickly forbade him to return and told Dovie that the relationship must end.
+Anne tried to listen without joining the judgment too quickly. She had learned enough in Summerside to distrust a reputation built entirely out of other people's stories. Even so, one fact was impossible to dismiss. Franklin had forbidden Jarvis the house and made it clear that he would not consent to the marriage. Jarvis had continued to see Dovie when he could, while Dovie, caught between love and fear, had spent months promising courage and then retreating from it.
 
-The order came too late. Dovie and Jarvis were already deeply in love.
+One evening Jarvis called at Windy Poplars and found Anne alone in the garden. He had the strained look of a man who had repeated the same argument too many times. At first he tried to speak lightly, but impatience soon broke through. He loved Dovie, he said, and he believed she loved him. What he no longer understood was how long a person could be expected to wait for another person to choose the life she claimed to want.
 
-Since then, the engagement had existed in an uncomfortable half-life. Jarvis could not visit openly. Dovie did not dare defy her father. They could make promises to each other, but they could not turn those promises into a plan. Month after month passed while the same obstacle remained in place.
+Anne did not answer at once. The harbor beyond the trees was turning silver in the evening light, and for a moment she wished Gilbert were beside her. It was much easier to discuss other people's romances when one's own happiness was secure. She asked Jarvis whether Dovie had ever given him a definite reason for the delay beyond fear of her father.
 
-Summerside, which rarely ignored a private romance, had formed strong opinions. Most people sympathized with the young couple. Rebecca believed Franklin wanted Dovie to remain at Elmcroft forever so that she could eventually become his housekeeper. Others wondered how long Jarvis would continue waiting.
+Jarvis gave a short, frustrated laugh. Dovie always had a reason. Franklin might be ill. Aunt Maggie might suspect something. The timing might be wrong. A wedding without her father's blessing would look disgraceful. Sometimes Dovie begged for patience with such sincerity that Jarvis left believing he could wait forever. A week later he would be angry again.
 
-There were already signs that his patience was weakening. Someone claimed to have seen him cutting Dovie’s name out of a tree where he had once carved it. There was also gossip that a Palmer girl had begun showing interest in him. Jarvis’s family did not think he should spend the best years of his youth waiting for a girl who could not make up her mind.
+Anne understood him better than she wanted to admit. Dovie's hesitation did not look like lack of love. It looked like a habit formed by years of allowing a stronger personality to decide what was possible. The trouble was that love could not remain forever in the form of secret meetings and postponed plans. Jarvis had a life as well, and he was beginning to feel that his patience was being mistaken for an unlimited supply.
 
-Anne tried to remind herself that she had recently learned a painful lesson from Hazel Marr and Terry Garland. She knew exactly how dangerous it could be to step into another person’s romance. Hazel had once begged for help and then accused Anne of destroying her happiness. A sensible woman might have heard the story of Dovie and Jarvis, wished them well, and turned her attention to school work.
+When Anne mentioned the conversation later, Rebecca had no sympathy with delay. In her opinion, Dovie needed to stop letting Franklin's anger govern the rest of her life. Aunt Kate agreed, though with more dignity. She remembered Dovie's mother too well to watch the same pattern repeat itself without resentment.
 
-Anne was not always that sensible woman.
+Anne was less certain about giving advice. Experience had taught her that stepping into another person's emotional life could produce consequences no one expected. She had no desire to become the person who pushed Dovie toward a marriage and then stood helpless if it went badly. At the same time, she could not pretend that endless waiting was harmless. If Dovie kept postponing the choice, Jarvis might eventually make it for her by walking away.
 
-The more she heard, the harder it became to remain detached. Dovie loved Jarvis but seemed unable to act. Jarvis loved Dovie but could not wait forever. Franklin’s refusal had no clear connection to Jarvis’s character or prospects. To Anne, the whole situation felt like a door that needed only one firm push.
+Later that night Anne carried the problem upstairs with her. She opened the tower window and let the cool air into the room before sitting down to write to Gilbert. The moon hung over the harbor, bright enough to silver the roofs and make the poplars look almost transparent. Anne told Gilbert about the engagement that could not move forward and admitted that she was trying very hard not to meddle.
 
-Later that evening, her thoughts moved from Dovie to Little Elizabeth. Moonlight lay over the poplars, the harbor, the valley, and the distant hills. Anne stood by the tower window and imagined the same moon shining over Avonlea and Green Gables. She wished Gilbert were beside her.
+She smiled as she wrote the word. Gilbert would know exactly how much effort that required.
 
-Then she thought of Elizabeth, who had loved moonlight walks during her visit to Green Gables. At The Evergreens, the child rarely experienced the night except through a window. She was nearly ten now. Mrs. Campbell and the Woman provided food, clothing, and physical comfort, but Anne had become increasingly convinced that they did not understand what else a growing child needed.
+Still, the matter no longer seemed like harmless Summerside gossip. Anne had seen Jarvis's tired face and knew that Dovie's fear was costing both of them something real. If either of them asked her directly what she thought, she decided she would answer honestly. She would not choose for Dovie, and she would not promise that Franklin's anger could be avoided. She would only refuse to pretend that avoiding a decision meant avoiding its consequences.
 
-Elizabeth was imaginative, affectionate, and hungry for companionship. She wanted stories, freedom, beauty, and someone who listened to her as though her thoughts mattered. During her two weeks at Green Gables, she had changed almost before Anne’s eyes. She had laughed more freely, explored the outdoors, helped with ordinary household work, and discovered that a home could be both orderly and warm.
-
-Back at The Evergreens, the old restrictions had closed around her again.
-
-Anne worried about what would happen as Elizabeth grew older. A little girl could escape into imaginary places and give different names to her moods. A young woman would need more than imagination to build a life. Yet every important decision still belonged to adults who believed that providing material comfort was enough.
-
-That night two different problems stayed with Anne. Dovie was nineteen and afraid to choose the man she loved because she feared her father. Elizabeth was younger and equally limited by adults who did not understand her inner life.
-
-Anne did not yet have a plan for either of them. She only knew that doing nothing felt increasingly difficult.
+When Anne finally put down her pen, the house was quiet below her. Somewhere in the kitchen Rebecca was shutting a door with the firm finality that meant the day was over. Anne looked once more toward Elmcroft, invisible beyond the dark road, and wondered how long Dovie could keep two lives waiting on opposite sides of her fear.
 
 ## Vocabulary & Nuance
 
-- **inveterate** — firmly established as a long-standing habit.
-- **unsociable** — unwilling to mix easily with other people.
-- **prospects** — future chances of success, especially in career or marriage.
-- **opposition** — active resistance to an idea or plan.
-- **indecisive** — unable to make a firm decision.
-- **get nowhere** — fail to make progress.
-- **hold someone back** — prevent someone from moving forward.
-- **wear someone down** — gradually reduce a person’s patience or resistance.
-- **make a mess of** — handle something badly and create problems.
-- **step in** — become involved in order to help or change a situation.
+- **resentment** — lasting anger caused by feeling badly or unfairly treated.
+- **absolute** — complete and allowing no exception.
+- **prohibition** — an official or forceful ban on something.
+- **indefinitely** — for an unknown or unlimited length of time.
+- **constraint** — a limit that restricts freedom or choice.
+- **neutral** — not supporting either side and not affecting an outcome.
+- **interfere** — become involved in a situation where involvement may not be welcome.
+- **deliberately** — in a conscious and intentional way.
+- **surrender** — stop resisting or give up control.
+- **wisdom** — good judgment based on knowledge and experience.
 
-## Conversation 1 — A Relationship Going Nowhere
+## Conversation 1 — Anne and Rebecca Discuss the Engagement
 
-Mina: They have been engaged for more than a year.
-Daniel: And they are still **getting nowhere**?
-Mina: Dovie is too afraid of her father to act.
-Daniel: Jarvis may eventually stop waiting.
-Mina: That is exactly what Anne is worried about.
-Daniel: Sometimes refusing to decide is a decision in itself.
+Rebecca: Jarvis has waited long enough. Franklin is counting on everyone giving in to him.
+Anne: The problem is that Dovie has spent years being afraid to push back.
+Rebecca: Fear can explain her hesitation, but it cannot make the decision for her.
+Anne: I agree. At some point she has to decide what she is prepared to stand up for.
+Rebecca: And Jarvis has to decide how long he is willing to hang on.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- get nowhere — fail to make progress.
-- hold back — prevent progress.
-- wait around — remain available while hoping something will happen.
-- give up on — stop believing something will succeed.
-- move forward — make progress.
+- **give in to** — stop resisting someone or something.
+- **push back** — resist pressure or challenge a demand.
+- **stand up for** — defend something one believes is important.
+- **hang on** — continue waiting or holding on despite difficulty.
+- **wear thin** — gradually become weaker or less patient.
 
-## Conversation 2 — Anne Worries About Elizabeth
+## Conversation 2 — Anne Questions Her Own Involvement
 
-Anne: Elizabeth has everything people can see.
-Rebecca: Food, clothes, a good house.
-Anne: Yes, but that is not everything a child needs.
-Rebecca: You think they are **holding her back**?
-Anne: Emotionally, yes. She needs affection and freedom too.
-Rebecca: Mrs. Campbell would not understand that argument easily.
+Anne: I keep wondering whether I am crossing a line by getting involved.
+Gilbert: Are they asking for your advice
+Anne: Not yet, but I can see the situation heading toward a breaking point.
+Gilbert: Then maybe the goal is not to decide for them. Help them see the choice clearly.
+Anne: That is harder than simply telling people what to do.
+Gilbert: Probably, which is why it is usually better advice.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- hold someone back — prevent growth or progress.
-- open up — share thoughts or feelings.
-- grow up — become an adult.
-- look after — care for someone.
-- miss out on — fail to experience something valuable.
+- **cross a line** — go beyond an acceptable limit.
+- **head toward** — move gradually in the direction of something.
+- **breaking point** — the stage at which pressure can no longer be tolerated.
+- **spell out** — explain something clearly and directly.
+- **take over** — assume control of something from someone else.
 
 ## Practice
 
@@ -96,102 +87,118 @@ Rebecca: Mrs. Campbell would not understand that argument easily.
   {
     "type": "choice",
     "instant": true,
-    "target": "inveterate",
-    "prompt": "What does Anne jokingly admit about herself",
-    "options": [
-      "She has a long-standing habit of meddling in other people’s affairs",
-      "She dislikes giving advice",
-      "She plans to leave teaching immediately",
-      "She never worries about anyone"
-    ],
-    "answer": "She has a long-standing habit of meddling in other people’s affairs",
-    "explanation": "Anne recognizes that getting involved in other people’s problems is becoming a pattern."
-  },
-  {
-    "type": "choice",
-    "instant": true,
-    "target": "prospects",
-    "prompt": "Why does Summerside consider Jarvis a good match for Dovie",
-    "options": [
-      "He is a successful young lawyer from a good family with a promising future",
-      "He owns Elmcroft",
-      "He is much older than Dovie",
-      "He is Franklin Westcott’s business partner"
-    ],
-    "answer": "He is a successful young lawyer from a good family with a promising future",
-    "explanation": "His character, profession, and family background all make him a desirable match."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "get nowhere",
-    "prompt": "Complete the sentence. Dovie and Jarvis have been engaged for a long time but seem to ________ ________.",
-    "answer": "get nowhere",
-    "accepted": ["get nowhere"],
-    "explanation": "To “get nowhere” means fail to make progress."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "hold back",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {"speaker": "Anne", "text": "Dovie loves Jarvis, but fear of her father controls her choices."},
-      {"speaker": "Rebecca", "text": "Then Franklin is ________ her ________."}
-    ],
-    "options": ["holding / back", "taking / after", "bringing / up", "looking / into"],
-    "answer": "holding / back",
-    "explanation": "To “hold someone back” means prevent that person from progressing."
-  },
-  {
-    "type": "choice",
-    "instant": true,
-    "target": "detail",
-    "prompt": "What sign suggests Jarvis is becoming impatient",
-    "options": [
-      "He is rumored to be cutting Dovie’s name out of a tree",
-      "He leaves Summerside forever",
-      "He refuses to speak to Anne",
-      "He asks Franklin for a job"
-    ],
-    "answer": "He is rumored to be cutting Dovie’s name out of a tree",
-    "explanation": "The rumor suggests his patience with the long engagement is running out."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "miss out on",
-    "prompt": "Complete the sentence. Anne fears Elizabeth may ________ ________ ________ a freer and happier girlhood.",
-    "answer": "miss out on",
-    "accepted": ["miss out on"],
-    "explanation": "To “miss out on” something means fail to experience it."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "step in",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {"speaker": "Mina", "text": "Anne knows interfering can be risky."},
-      {"speaker": "Daniel", "text": "But she still feels tempted to ________ and help."}
-    ],
-    "options": ["step in", "take off", "run out", "turn back"],
-    "answer": "step in",
-    "explanation": "To “step in” means become involved in order to influence a situation."
-  },
-  {
-    "type": "choice",
-    "instant": true,
     "target": "inference",
-    "prompt": "What two people is Anne especially worried about by the end of the chapter",
+    "prompt": "Why does Anne see the Dovie and Jarvis situation as different from some earlier attempts at matchmaking",
     "options": [
-      "Dovie and Little Elizabeth",
-      "Mrs. Raymond and Gerald",
-      "Katherine and Hazel",
-      "Miss Drake and Mr. Grand"
+      "Their feelings are already clear, and the main problem is fear and control rather than uncertain affection",
+      "Anne has never met either of them",
+      "Jarvis has asked Anne to choose a bride for him",
+      "Dovie is not actually interested in Jarvis"
     ],
-    "answer": "Dovie and Little Elizabeth",
-    "explanation": "Anne worries about Dovie’s inability to act and Elizabeth’s restricted childhood."
+    "answer": "Their feelings are already clear, and the main problem is fear and control rather than uncertain affection",
+    "explanation": "Anne is not trying to create love. She is responding to a conflict that prevents an established relationship from moving forward."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "nuance",
+    "prompt": "What does the phrase patience without a limit could turn into surrender mean in this context",
+    "options": [
+      "Waiting can become passive acceptance if no one eventually makes a decision",
+      "Jarvis should immediately stop caring about Dovie",
+      "Dovie should obey whichever person is more demanding",
+      "Franklin will become kinder if everyone waits long enough"
+    ],
+    "answer": "Waiting can become passive acceptance if no one eventually makes a decision",
+    "explanation": "Anne recognizes that indefinite delay can effectively decide the outcome."
+  },
+  {
+    "type": "fill",
+    "instant": false,
+    "target": "wear thin",
+    "prompt": "Complete the sentence. Jarvis’s patience is beginning to ________ ________ after more than a year of waiting.",
+    "answer": "wear thin",
+    "accepted": [
+      "wear thin"
+    ],
+    "explanation": "When patience wears thin, a person becomes less willing to tolerate delay or frustration."
+  },
+  {
+    "type": "dialogue",
+    "instant": true,
+    "target": "stand up for",
+    "prompt": "Choose the most natural phrase.",
+    "dialogue": [
+      {
+        "speaker": "Rebecca",
+        "text": "Dovie cannot avoid this forever."
+      },
+      {
+        "speaker": "Anne",
+        "text": "No. She eventually has to ________ ________ ________ the life she says she wants."
+      }
+    ],
+    "options": [
+      "stand / up / for",
+      "come / down / with",
+      "get / away / with",
+      "look / down / on"
+    ],
+    "answer": "stand / up / for",
+    "explanation": "To stand up for something means defend or support it firmly."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "comparison",
+    "prompt": "What links Dovie’s situation with Little Elizabeth’s in Anne’s mind",
+    "options": [
+      "Both are constrained by controlling adults and have limited freedom to shape their own lives",
+      "Both want to marry against their families’ wishes",
+      "Both live at Elmcroft",
+      "Both are planning to leave Summerside immediately"
+    ],
+    "answer": "Both are constrained by controlling adults and have limited freedom to shape their own lives",
+    "explanation": "Anne notices different forms of emotional control in both situations."
+  },
+  {
+    "type": "fill",
+    "instant": false,
+    "target": "cross a line",
+    "prompt": "Complete the sentence. Anne worries that she may ________ ________ ________ if sympathy turns into deciding other people’s lives for them.",
+    "answer": "cross a line",
+    "accepted": [
+      "cross a line"
+    ],
+    "explanation": "To cross a line is to go beyond an acceptable boundary."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "B2 motive",
+    "prompt": "Why does Anne decide she will speak honestly if Jarvis or Dovie asks for advice",
+    "options": [
+      "She believes silence would also influence the outcome while time and fear continue to shape their choices",
+      "She wants Summerside to have more gossip",
+      "Aunt Kate orders her to interfere",
+      "She hopes Franklin will reward her"
+    ],
+    "answer": "She believes silence would also influence the outcome while time and fear continue to shape their choices",
+    "explanation": "Anne understands that refusing to speak is not always a neutral act."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "paraphrase",
+    "prompt": "Which statement best summarizes Anne’s goal",
+    "options": [
+      "Support Dovie’s ability to choose without taking the choice away from her",
+      "Convince Dovie to obey Anne instead of Franklin",
+      "Arrange the wedding without telling either Jarvis or Dovie",
+      "Avoid the issue until Gilbert returns"
+    ],
+    "answer": "Support Dovie’s ability to choose without taking the choice away from her",
+    "explanation": "Anne wants to encourage agency rather than replace one form of control with another."
   }
 ]
 ```

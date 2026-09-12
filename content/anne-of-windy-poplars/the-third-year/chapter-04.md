@@ -2,122 +2,77 @@
 
 ## Story Summary
 
-When Mr. Grand finally left the Raymond cottage, Anne stood at the door for a moment and listened. The house was strangely quiet. She had expected to hear Gerald and Geraldine racing through the garden or arguing somewhere near the woodshed, but there was no sign of either child.
+Mr. Grand had barely left the Raymond cottage when Anne stepped onto the front stone and felt the first unmistakable warning that something was wrong. The yard was too quiet. Gerald and Geraldine, who had promised to behave and then vanished from sight, should have been waiting impatiently for the picnic Anne had promised them. Instead, a furious woman was coming through the gate with a sobbing child beside her.
 
-Before she could begin searching, Mrs. Trent appeared at the gate with Ivy beside her.
+Mrs. Trent did not need to explain much. Ivy's appearance told most of the story. Her embroidered white dress was stained with paint, her new boots were ruined, and her bare legs were striped in red and green. Burrs clung to her curls where the twins had pushed them in, and the bright ribbons she had come to display were gone. Mrs. Trent demanded to see Mrs. Raymond, then learned that Anne had been left in charge. To Anne's surprise, the woman did not blame her. She said everyone in the neighborhood knew how impossible the twins could be and declared that Mrs. Raymond would hear exactly what had happened.
 
-Anne hardly recognized the neat little girl who had arrived earlier in a white embroidered dress. Ivy’s face was swollen from crying. Her curls were full of burrs, her scarlet ribbons were gone, red and green paint covered her legs, and her new brown boots were splashed and stained. The white dress looked as though it had survived a small battle.
+Before Anne could decide how to answer, shouting exploded from upstairs. The twins had returned from the bathroom, but cleaning themselves had not restored peace. Geraldine was furious that Gerald had rejected Ivy's claim on him, while Gerald was equally furious that his sister had supported it. Anne rushed up and found them wrestling on the floor with a violence that made the morning's mischief look mild. She separated them, one hand on each struggling shoulder, and spoke in a tone neither child had heard from her before.
 
-Mrs. Trent was furious. She demanded to see Mrs. Raymond and said that a mother ought to look at the result of her children’s behavior with her own eyes. Anne explained that Mrs. Raymond was in Charlottetown and that she herself was responsible for Gerald and Geraldine that day. She apologized sincerely, expecting Mrs. Trent to turn her anger on her.
+Anne did not shout. Her quietness made the difference. She told Geraldine she would spend two hours in bed and Gerald the same length of time in the hall closet. Both protested most strongly against being separated. They had never been punished apart, and the idea suddenly seemed worse than the punishment itself. Anne held firm. Their mother had left them in her care, they had deliberately disobeyed her, and there would be consequences.
 
-To Anne’s surprise, the woman did not. She said everyone on the street knew how impossible the twins could be. No one, in her opinion, could control them for long.
+Geraldine was soon asleep in one of the little cots, looking so peaceful that Anne almost softened. Gerald, shut in the large airy closet with a chair and a window, made no sound at all. After an hour Anne began to think the lesson had been effective. Since Gerald had accepted the punishment without complaint, she considered releasing him early. When she opened the closet door, however, the chair stood there without its prisoner. The open window immediately showed how Gerald had escaped. The roof of the side porch lay just below it, giving an adventurous boy an easy route to freedom. Anne searched the house, yard, and woodshed, growing more anxious with every minute. Then she remembered the pond in Robert Creedmore's field, the very place Mrs. Raymond had specifically forbidden the twins to visit.
 
-At that exact moment, a crash sounded from upstairs, followed by shouting and the unmistakable noise of a violent quarrel.
+Anne ran through the garden and along the lane. When she reached the pond, Gerald was already out in a small flat-bottomed boat, pushing himself around with a pole. She had just broken through the trees when the pole came suddenly free of the mud and sent him backward into the water. Anne cried out. The pond was not deep enough to drown him where he fell, but the day had turned cold, and Gerald was soaked from head to foot.
 
-Anne excused herself and hurried up the stairs.
+Before Anne could reach him, another cry came from behind her. Geraldine, awake and still dressed only in her nightgown, had followed. She saw her brother standing in the pond and assumed the worst. Without waiting for an explanation, she leaped from the little platform and landed in the water beside him. Gerald assured her through chattering teeth that he was not drowned. The two children embraced as if they had survived a shipwreck.
 
-Gerald and Geraldine were fighting with tremendous energy. Anne pulled them apart and demanded an explanation. Gerald shouted that Geraldine still insisted he had to become Ivy Trent’s beau. Geraldine, with equal determination, said he did. They tried to continue the argument even while Anne stood between them.
+Anne had no energy left for anger. She got them home as quickly as possible, stripped off the wet clothes, put them into their mother's large bed, and placed hot-water bottles at their feet. Still they shivered. The memory of their father's death from pneumonia came back to her with frightening clarity. What had been a comic disaster only minutes earlier now seemed capable of becoming something serious.
 
-Something in Anne’s patience finally changed. All morning she had reasoned, distracted, persuaded, and forgiven. Now her voice became quiet and firm in a way the twins had not heard before. Geraldine was to go to bed for two hours. Gerald was to spend the same two hours in the hall closet.
+When Gerald remarked that Anne should have taken better care of them, Geraldine agreed. Under other circumstances the injustice might have been funny. Anne was too frightened to laugh. She telephoned for the doctor as a precaution. By the time he arrived, the twins were warmer, and after examining them he said they were in no danger if they remained in bed until morning.
 
-The result was immediate horror. The twins begged to be punished together. They had never been separated for an entire day, and even two hours seemed unbearable. Anne refused to change her decision. Geraldine was sent to bed in her night clothes. Gerald went into the closet, which was large, airy, and supplied with a chair and a window. Anne made sure he was comfortable enough, locked the door, and sat nearby with a book.
+The doctor met Mrs. Raymond on his way out. She entered the house pale with fear, saw her children in bed, and reacted before hearing the full story. She demanded to know how Anne could have allowed them to get into such danger. The twins immediately repeated that Anne should have taken better care of them. Anne, exhausted by the entire day, felt her patience harden into cold dignity. She explained that Gerald had escaped from a punishment, gone to a forbidden pond, fallen into the water, and been joined there by Geraldine. If they had obeyed, none of it would have happened.
 
-At last there was peace.
+Mrs. Raymond replied bitterly that she had expected a teacher to have some authority over children. Anne did not say what she was thinking. Instead, she announced that Mrs. Raymond was home now and that her own help was no longer required. She had school work waiting and intended to leave.
 
-Geraldine soon fell asleep. With her eyes closed and her pale curls spread over the pillow, she looked so innocent that Anne almost doubted everything that had happened. Gerald, too, had become remarkably quiet. After about an hour, Anne began to think that perhaps the punishment had already taught its lesson. She decided to release him early.
+At once the twins abandoned every complaint. They threw themselves out of bed and clung to Anne, declaring that they hoped there would be a funeral every week so she could come back and look after them. Their affection was so wholehearted that the absurdity of the day became complete. Mrs. Raymond softened and tried to avoid a quarrel, but Anne was too tired for explanations.
 
-She unlocked the closet door.
-
-The chair was empty. The window stood open.
-
-Below it lay the roof of the side porch.
-
-Anne’s heart gave a jump. She ran downstairs and searched the yard, the woodshed, and the street. There was no Gerald. Then she remembered one of Mrs. Raymond’s strongest warnings. The pond.
-
-She hurried through the garden and along the path through a strip of scrub woodland. When the water came into view, she saw a small flat-bottomed boat near the middle. Gerald stood inside it, happily pushing himself along with a pole.
-
-Anne had just reached the edge of the trees when the pole came suddenly free from the mud. Gerald lost his balance and fell backward into the pond.
-
-Anne cried out and ran forward. For one frightening second she imagined deep water and disaster. Then Gerald stood up. The pond reached only to about his waist where he had fallen. He was wet, shocked, and embarrassed, but clearly alive.
-
-Before Anne could reach him, another cry came from behind her.
-
-Geraldine had awakened, found her brother missing, and followed Anne outside without even changing from her nightgown. She saw Gerald standing in the water and understood only one thing. Her brother was in the pond.
-
-She ran to the small wooden platform and jumped straight in.
-
-The splash nearly knocked Gerald down again. Geraldine grabbed him and demanded to know whether he was drowned. Gerald, shivering and offended, assured her that he was not.
-
-A moment later they were hugging and kissing as though the fierce quarrel of an hour earlier had never happened.
-
-Anne ordered both children out of the water. The afternoon had turned cold and windy, and by the time she rushed them back to the cottage their teeth were chattering. She stripped off the wet clothes, put them into Mrs. Raymond’s bed, tucked hot-water bottles at their feet, and watched their faces anxiously. Their father had died of pneumonia, and Mrs. Raymond’s warning returned to Anne with terrible force.
-
-The twins were not especially grateful. Even while shivering, Gerald told Anne that she should have taken better care of them. Geraldine agreed.
-
-Anne was too worried to argue. She sent for the doctor.
-
-By the time he arrived, the children were warm again. After examining them, he said they were in no danger and should simply stay in bed until the next day. His reassurance had barely settled Anne’s nerves when Mrs. Raymond returned from the station and learned what had happened.
-
-She rushed into the bedroom pale with fear and demanded how Anne could have allowed her children to get into such danger. Gerald and Geraldine, now safe and comfortable, immediately supported their mother and reminded Anne that they had already told her she should have watched them better.
-
-Anne kept her temper. She explained that the accident would not have happened if the twins had obeyed her. Mrs. Raymond replied that she had expected a schoolteacher to have more authority over children.
-
-That was enough. Anne decided to leave.
-
-Then, just as she turned away, Gerald and Geraldine sprang out of bed and threw themselves around her. They announced that they hoped someone would have a funeral every week so Anne could come back to look after them. They liked her much better than Miss Prouty, they said, and wanted to know whether she would put them into a story someday.
-
-Mrs. Raymond began to cry and said she was sure Anne had meant well. Anne answered politely, though she was far too tired for another emotional scene.
-
-When she finally reached Windy Poplars, Rebecca Dew was gathering late pansies in the twilight garden. Anne stood beside her and admitted that she had once thought the old saying about children being seen and not heard was terribly unfair. After spending one day with Gerald and Geraldine, she could at least understand how someone had come to invent it.
-
-Rebecca, to her credit, did not say that she had warned Anne. She simply looked at Anne’s exhausted face and promised to make her a very good supper.
+She walked back to Windy Poplars feeling several years older than she had that morning. Rebecca Dew was in the twilight garden gathering late pansies. Anne confessed that she had once considered the old saying about children being seen and not heard unbearably harsh, but now understood why tired adults might occasionally sympathize with it. Rebecca did not say that she had warned her. She simply promised Anne a good supper, which was precisely the kindness Anne needed most.
 
 ## Vocabulary & Nuance
 
-- **quell** — stop or calm something forcefully.
-- **sternness** — strict and serious behavior.
-- **precautionary** — done to prevent possible danger.
-- **hysterical** — extremely emotional and unable to remain calm.
-- **defiant** — openly resisting authority.
-- **break out of** — escape from a place where you are being kept.
-- **track someone down** — find someone after searching.
-- **take charge** — assume control of a situation.
-- **warm up** — become warmer after being cold.
-- **tell someone off** — criticize someone strongly.
+- **unmistakable** — so clear that it cannot reasonably be misunderstood.
+- **consequence** — a result that follows from an action or decision.
+- **effective** — successful in producing the intended result.
+- **precaution** — an action taken to prevent possible harm.
+- **injustice** — an unfair situation or treatment.
+- **dignity** — calm self-respect, especially under pressure.
+- **wholehearted** — completely sincere and enthusiastic.
+- **absurdity** — the quality of being unreasonable, ridiculous, or illogical.
+- **sympathize** — understand and share someone’s feelings or viewpoint.
+- **reassurance** — something that reduces fear or uncertainty.
 
-## Conversation 1 — When Discipline Finally Becomes Necessary
+## Conversation 1 — Anne Enforces a Consequence
 
-Anne: I tried kindness all morning.
-Rebecca: And eventually?
-Anne: Eventually I had to **put my foot down**.
-Rebecca: The twins needed a clear limit.
-Anne: They hated being separated.
-Rebecca: Which is probably why the punishment worked at all.
+Anne: You both understood what I asked, and you chose to ignore it.
+Geraldine: Can we at least be punished together
+Anne: No. Part of the consequence is that you will be separated for a while.
+Gerald: That is not fair.
+Anne: You do not have to like the consequence, but you do have to accept it.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- put your foot down — firmly enforce a rule.
-- take charge — assume control.
-- calm down — become less emotional.
-- break out of — escape.
-- follow through — carry out a decision completely.
+- **follow through** — carry out what was promised or decided.
+- **hold someone accountable** — require someone to accept responsibility.
+- **push back** — resist or object to a demand.
+- **stick to a decision** — refuse to change a decision under pressure.
+- **calm down** — become less upset or agitated.
 
-## Conversation 2 — The Pond Incident
+## Conversation 2 — Mrs. Raymond Blames Anne
 
-Mina: Gerald was never really in deep water, was he?
-Anne: No, but I did not know that when I first saw him fall.
-Mina: And Geraldine jumped in after him?
-Anne: Without thinking for a second.
-Mina: Those two really do care about each other.
-Anne: Fiercely. Even after they have been fighting.
+Mrs. Raymond: I trusted you to keep them safe.
+Anne: I understand that you were frightened, but I need you to hear what actually happened.
+Mrs. Raymond: The doctor was here. What else am I supposed to think
+Anne: Gerald escaped, went to a place he had been forbidden to visit, and fell in. I called the doctor to be cautious.
+Mrs. Raymond: I may have jumped to conclusions.
+Anne: That is all I am asking you to recognize.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- jump in — enter suddenly or become involved quickly.
-- rush over — move quickly toward someone.
-- pull through — recover from danger or illness.
-- warm up — become warmer.
-- look out for — protect or watch over someone.
+- **jump to conclusions** — form an opinion before knowing all the facts.
+- **hear someone out** — listen until someone has finished explaining.
+- **own up to** — admit responsibility for something.
+- **cool off** — become calmer after anger or fear.
+- **put something in perspective** — see something in a more balanced way.
 
 ## Practice
 
@@ -126,102 +81,119 @@ Anne: Fiercely. Even after they have been fighting.
   {
     "type": "choice",
     "instant": true,
-    "target": "quell",
-    "prompt": "What finally quells the twins’ fight",
+    "target": "inference",
+    "prompt": "Why does Anne choose to separate the twins during punishment",
     "options": [
-      "Anne speaks with firm authority",
-      "Mrs. Raymond returns",
-      "Mr. Grand shouts at them",
-      "Ivy apologizes"
+      "Their closeness has helped reinforce their misbehavior, so separation makes the consequence meaningful",
+      "She wants Geraldine to sleep while Gerald cleans the house",
+      "Mrs. Raymond instructed her to separate them every afternoon",
+      "The twins refuse to speak to each other"
     ],
-    "answer": "Anne speaks with firm authority",
-    "explanation": "The twins respond when Anne uses a quiet but unmistakably authoritative tone."
-  },
-  {
-    "type": "choice",
-    "instant": true,
-    "target": "precautionary",
-    "prompt": "Why does Anne call the doctor",
-    "options": [
-      "As a precaution because the soaked twins are shivering badly",
-      "Because Gerald breaks his leg",
-      "Because Ivy becomes sick",
-      "Because Mrs. Raymond orders her to"
-    ],
-    "answer": "As a precaution because the soaked twins are shivering badly",
-    "explanation": "Anne fears they may have become dangerously chilled."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "break out of",
-    "prompt": "Complete the sentence. Gerald ________ ________ ________ the hall closet through the window.",
-    "answer": "breaks out of",
-    "accepted": ["breaks out of", "broke out of"],
-    "explanation": "To “break out of” a place means escape from it."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "take charge",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {"speaker": "Rebecca", "text": "What did you do when you found them fighting"},
-      {"speaker": "Anne", "text": "I finally had to ________ and separate them."}
-    ],
-    "options": ["take charge", "give in", "drop by", "run out"],
-    "answer": "take charge",
-    "explanation": "To “take charge” means assume control of a situation."
+    "answer": "Their closeness has helped reinforce their misbehavior, so separation makes the consequence meaningful",
+    "explanation": "The twins are distressed by separation, which makes it an effective boundary after their joint misconduct."
   },
   {
     "type": "choice",
     "instant": true,
     "target": "detail",
-    "prompt": "Why does Geraldine jump into the pond",
+    "prompt": "How does Gerald escape from the hall closet",
     "options": [
-      "She thinks Gerald may be drowning",
-      "She wants to swim",
-      "Anne tells her to rescue the boat",
-      "She is trying to escape punishment"
+      "He climbs through the window onto the porch roof",
+      "Geraldine unlocks the door for him",
+      "He breaks the door with a chair",
+      "Mrs. Trent secretly releases him"
     ],
-    "answer": "She thinks Gerald may be drowning",
-    "explanation": "She reacts immediately when she sees her brother in the water."
+    "answer": "He climbs through the window onto the porch roof",
+    "explanation": "The open window and porch roof explain his escape route."
   },
   {
     "type": "fill",
     "instant": false,
-    "target": "warm up",
-    "prompt": "Complete the sentence. Anne uses dry clothes and hot-water bottles to help the twins ________ ________.",
-    "answer": "warm up",
-    "accepted": ["warm up"],
-    "explanation": "To “warm up” means become warmer after being cold."
+    "target": "jump to conclusions",
+    "prompt": "Complete the sentence. Mrs. Raymond ________ ________ ________ when she blames Anne before hearing the full sequence of events.",
+    "answer": "jumps to conclusions",
+    "accepted": [
+      "jumps to conclusions",
+      "jumped to conclusions"
+    ],
+    "explanation": "The phrase means forming a judgment before having enough information."
   },
   {
     "type": "dialogue",
     "instant": true,
-    "target": "look out for",
-    "prompt": "Choose the best phrase.",
+    "target": "hear out",
+    "prompt": "Choose the most natural phrase.",
     "dialogue": [
-      {"speaker": "Mina", "text": "They may fight constantly, but Geraldine jumped into the water for him."},
-      {"speaker": "Daniel", "text": "She clearly ________ her brother."}
+      {
+        "speaker": "Anne",
+        "text": "I know you are upset, but there is more to the story."
+      },
+      {
+        "speaker": "Mrs. Raymond",
+        "text": "All right. I will ________ you ________ before I say anything else."
+      }
     ],
-    "options": ["looks out for", "runs out of", "puts up with", "turns down"],
-    "answer": "looks out for",
-    "explanation": "To “look out for” someone means protect or care about that person’s safety."
+    "options": [
+      "hear / out",
+      "put / off",
+      "take / on",
+      "turn / over"
+    ],
+    "answer": "hear / out",
+    "explanation": "To hear someone out is to listen until the explanation is complete."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "inference",
-    "prompt": "Why does Rebecca avoid saying she told Anne so",
+    "target": "nuance",
+    "prompt": "Why does Anne call the doctor even after the twins begin warming up",
     "options": [
-      "She sees that Anne is exhausted and chooses kindness",
-      "She has forgotten warning Anne",
-      "She believes the twins behaved perfectly",
-      "She is afraid of Mrs. Raymond"
+      "She wants medical reassurance because of the cold water and the family history of pneumonia",
+      "She intends to frighten Mrs. Raymond",
+      "She thinks the pond water is poisonous",
+      "She wants the doctor to punish Gerald"
     ],
-    "answer": "She sees that Anne is exhausted and chooses kindness",
-    "explanation": "Instead of teasing Anne, Rebecca offers to make her a good supper."
+    "answer": "She wants medical reassurance because of the cold water and the family history of pneumonia",
+    "explanation": "Her choice is cautious rather than panicked."
+  },
+  {
+    "type": "fill",
+    "instant": false,
+    "target": "stick to",
+    "prompt": "Complete the sentence. Anne decides to ________ ________ her punishment even when the twins protest being separated.",
+    "answer": "stick to",
+    "accepted": [
+      "stick to"
+    ],
+    "explanation": "To stick to a decision means continue with it despite pressure to change."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "B2 interpretation",
+    "prompt": "What is ironic about the twins’ reaction when Anne prepares to leave",
+    "options": [
+      "They blame her for the danger but then beg her to babysit them again",
+      "They remain angry with Anne even after their mother returns",
+      "They pretend not to know who Anne is",
+      "They ask Mrs. Trent to become their babysitter"
+    ],
+    "answer": "They blame her for the danger but then beg her to babysit them again",
+    "explanation": "Their affection for Anne contradicts their earlier attempt to shift responsibility onto her."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "natural response",
+    "prompt": "Which reply best reflects Anne’s mature response to Rebecca at the end",
+    "options": [
+      "I have learned that good intentions are not always enough when boundaries are ignored",
+      "Children are terrible and I never want to see one again",
+      "You were right about everything and I was wrong about everything",
+      "I should have bought the encyclopedia and avoided the whole day"
+    ],
+    "answer": "I have learned that good intentions are not always enough when boundaries are ignored",
+    "explanation": "Anne is exhausted but does not reduce the experience to a simplistic judgment of children."
   }
 ]
 ```

@@ -2,95 +2,72 @@
 
 ## Story Summary
 
-By early afternoon, Anne was beginning to believe that the Raymond twins could be managed after all. They had eaten a peaceful lunch, helped with the dishes, and behaved almost like ordinary children when they had clear work to do. Her confidence was still fragile, however, and at two o’clock it was tested again.
+By early afternoon the Raymond house had become peaceful enough for Anne to believe she had gained control of the day. The twins had eaten well, helped with the dishes, and responded to useful work far better than they had responded to vague requests for good behavior. Anne was still alert, but the confidence Rebecca Dew had shaken was beginning to return. She even planned a small picnic near the pond and promised to show Gerald and Geraldine how to blow colored soap bubbles if they behaved while she handled one important interruption.
 
-Mr. James Grand arrived at the cottage. As chairman of the High School board of trustees, he was an important man for Anne to keep on good terms with. He was leaving soon for an educational conference in Kingsport and needed to discuss several school matters before he went. Anne would have preferred to meet him later at Windy Poplars, where she could give him her full attention, but he had no free evening. More importantly, Anne wanted his support for new equipment at the school. She could not afford to treat the conversation casually.
+At two o'clock James Grand arrived. As chairman of the High School board, he was not a visitor Anne could dismiss or ask to return at a more convenient time. She needed his support in an approaching argument over new school equipment, and he was leaving for an educational conference before she would have another chance to speak with him. Anne knew from experience that Mr. Grand was basically reasonable but sensitive to the way ideas were presented. If she pushed too hard, he could become defensive. If she allowed the conversation to wander, she might lose the opportunity altogether.
 
-Before going into the parlor with him, she called Gerald and Geraldine and spoke very clearly. They were to play quietly in the back yard until she finished her business. If they behaved, Anne promised, they could have a little picnic by the pond afterward and make colored soap bubbles.
+Before taking him into the parlor, Anne went outside and spoke to the twins. She explained that the meeting mattered and asked them to play quietly in the back yard. Gerald immediately proposed a financial arrangement and asked whether good behavior was worth a quarter. Anne refused to turn obedience into a business transaction. She told him she expected him to behave because he had given his word and because she trusted him to act responsibly. Gerald promised. Geraldine echoed the promise with equal solemnity.
 
-Gerald studied the offer and asked whether good behavior was worth a quarter for each twin.
+For a few minutes, everything might have gone well, but the fragile calm ended when Ivy Trent arrived. She was younger than the twins, carefully dressed, and already skilled at displaying whatever she possessed to its best advantage. That afternoon she wore spotless white, polished brown buttoned boots, and bright scarlet ribbons at her waist, shoulders, and hair. Geraldine immediately noticed every detail. Mrs. Raymond dressed her children sensibly rather than fashionably, and Geraldine had long envied Ivy's endless supply of pretty clothes. Ivy, unfortunately, enjoyed being envied.
 
-Anne refused to bargain. She told him she expected him to behave because a gentleman should know how to keep a promise. Gerald looked thoughtful. Geraldine copied his solemn expression. Together they promised to be very good.
+She asked Geraldine what she thought of the new ribbons. Geraldine answered by repeating every sentence in a mocking tone. At first Ivy tried to ignore her, but the imitation continued until irritation replaced pride. Gerald added a comment about whether the clothes had been paid for, and Ivy's face reddened. The quarrel might still have ended with insults if Ivy had not turned her attention to Gerald and announced that she had decided he would be her beau.
 
-They might even have succeeded if Ivy Trent had not arrived.
+Gerald reacted as if she had accused him of a crime. He refused at once. Ivy, completely certain of her own attractiveness and authority, told him he had no choice. Geraldine repeated Ivy's words with delighted cruelty. Within minutes the argument became a contest of pride. Gerald threatened Ivy's doll and then her ribbons. Ivy threatened to tell her mother. No adult was present to interrupt the escalation, because Anne and Mr. Grand were still in the parlor discussing school business.
 
-Ivy was a neighborhood child whom the twins disliked with great energy. Adults considered her a model of good behavior. She was always clean, carefully dressed, and confident that everyone would admire her. That afternoon she appeared in a spotless white embroidered dress, new brown buttoned boots, and brilliant scarlet ribbons at her waist, shoulders, and hair. Geraldine noticed every ribbon at once.
+When Gerald threatened to tear off the ribbons, Geraldine immediately supported the idea. The twins rushed Ivy, pulled her toward the woodshed, and turned an ugly argument into a physical attack. Ivy fought and screamed, but the two older children overpowered her. They tore away the scarlet bows and sash that had started the quarrel. Then Gerald noticed cans of red and green paint left behind by workmen. What began as revenge for Ivy's boasting became far more serious. The twins pulled down her stockings, painted broad stripes on her legs, splashed paint over her white dress and new boots, and pushed burrs into her curls.
 
-Ivy asked whether Geraldine liked her new sash and shoulder bows. Geraldine answered by repeating Ivy’s words in a mocking voice. When Ivy pointed out that Geraldine had no shoulder bows of her own, Geraldine continued the imitation with even greater enthusiasm.
+By the time they released her, Ivy no longer looked like the proud child who had entered the yard. Her clothes were ruined, her hair was tangled, and humiliation had replaced her confidence. Gerald told her the experience would teach her not to order people to become her beaus. Ivy ran home sobbing, while Geraldine threw the torn ribbons after her.
 
-Gerald joined the quarrel by announcing that Ivy’s beautiful clothes had probably not been paid for. Ivy turned red and declared that her mother always paid her bills. The argument grew sharper. Then Ivy calmly announced that she had decided Gerald was the handsomest boy on the street and intended to make him her beau.
+Only then did the twins begin to think about Anne. Their excitement vanished as they realized how obvious the evidence was. They hurried up the back stairs toward the bathroom, hoping to wash away the paint before she came looking for them. Inside the parlor, Anne was still trying to keep Mr. Grand focused on the needs of the High School. She had no idea that the promise she had accepted so confidently had already been broken in a spectacular way.
 
-Gerald stared at her in horror. He said he would not be anyone’s beau, especially Ivy Trent’s. Ivy replied that he had to be. To Gerald’s outrage, Geraldine suddenly agreed with Ivy and told her brother that he certainly did have to be her beau.
+The situation was especially bitter because Anne had not ignored the children for personal amusement. She had been carrying out her responsibilities as principal, arguing for resources she believed her students genuinely needed. Before the meeting she had given Gerald and Geraldine clear expectations and even offered them something pleasant to look forward to afterward. They had understood and had promised to cooperate.
 
-The situation became impossible. A few minutes earlier Gerald and Geraldine had been united against Ivy. Now Gerald was furious with both girls, while Geraldine seemed delighted to have discovered a new way to annoy him. Ivy, confident in the power of her white dress and scarlet ribbons, continued ordering Gerald about as though the matter had already been settled.
-
-Inside the parlor, Anne knew nothing of this. Mr. Grand was speaking seriously about school affairs, and she listened with care. She wanted better equipment for Summerside High and knew that winning his support required patience and good judgment. She had no reason to believe the promised quiet in the back yard had already disappeared.
-
-Outside, Gerald’s embarrassment turned into anger. At last he threatened to tear off Ivy’s ribbons and sash. Geraldine, who had been supporting Ivy only to annoy her brother, immediately changed sides and approved the plan.
-
-The twins seized Ivy and pulled her into the woodshed, where her cries would not easily reach the parlor. Gerald held her while Geraldine removed the great hair bow, the shoulder bows, and the scarlet sash. If they had stopped there, the punishment would already have been cruel enough. But Gerald noticed several cans of paint left by workmen and had another idea.
-
-The twins used red and green paint to make broad stripes on Ivy’s lower legs. Paint splashed onto her new boots and the white dress she had been so proud of. Then they pushed burrs into her curls. By the time they finished, the perfect little visitor who had arrived like a picture in a fashion book looked completely changed.
-
-Ivy cried with rage. Gerald and Geraldine were delighted with their revenge. They had listened to Ivy’s boasting for a long time, and in their own wild minds they believed they had finally corrected her pride. Gerald told her to go home and remember not to order people to become her beau.
-
-Ivy shouted that she would tell her mother everything. Then, in her fury, she called Gerald ugly.
-
-Geraldine’s loyalty changed the atmosphere at once. She might fight with her brother from morning until night, but an outsider was not allowed to insult him. She threw Ivy’s scarlet bows after her and ordered her to take them away.
-
-Ivy ran from the yard in tears.
-
-The twins looked at each other and realized that Anne might appear at any moment. Their own hands and clothes carried traces of the paint, and they knew enough about adult reactions to understand that evidence should disappear. Without wasting time, they hurried up the back stairs toward the bathroom.
-
-Anne remained in the parlor with Mr. Grand, discussing school equipment and educational plans as calmly as if the cottage were the quietest place in Summerside. She believed Gerald and Geraldine were keeping their solemn promise in the back yard.
-
-Outside, Ivy was already running home to her mother, her beautiful white dress ruined, her ribbons in her hands, and a story ready that would bring the afternoon crashing into Anne’s carefully managed plans.
+When Mr. Grand finally began preparing to leave, Anne felt relieved. She believed the difficult part of the conversation had gone reasonably well and expected to reward the twins for their patience. The unnatural silence outside should have warned her, but she was still thinking about school equipment and the points she had managed to win with the chairman. She stepped toward the door expecting to find two children eager for a picnic. Instead, the consequences of what had happened in the woodshed were already walking back toward the Raymond house.
 
 ## Vocabulary & Nuance
 
-- **impeccable** — perfect and without obvious fault.
-- **condescending** — behaving as though you are superior to someone.
-- **taunting** — deliberately trying to make someone angry through mocking words.
-- **retaliate** — respond to an attack or insult by doing something in return.
-- **indignant** — angry because you believe something is unfair or insulting.
-- **show off** — try to impress others by displaying something proudly.
-- **gang up on** — join together against one person.
-- **get out of hand** — become difficult or impossible to control.
-- **stand up for** — defend someone.
-- **clean up** — remove dirt, mess, or evidence of a messy activity.
+- **escalation** — a process in which a conflict becomes more serious or intense.
+- **defensive** — quick to protect oneself from criticism or pressure.
+- **transaction** — an exchange in which something is given for something else.
+- **solemnity** — seriousness in manner or expression.
+- **display** — show something in a way intended to attract attention.
+- **irritation** — a feeling of annoyance that may grow over time.
+- **overpower** — defeat or control someone by greater strength or force.
+- **humiliation** — a strong feeling of shame caused by being embarrassed publicly.
+- **spectacular** — very striking or dramatic, sometimes in a negative way.
+- **consequence** — a result or effect of an action.
 
-## Conversation 1 — Showing Off
+## Conversation 1 — Anne Prepares the Twins
 
-Mina: Ivy did not simply visit. She came over to display every new ribbon and boot.
-Daniel: So Geraldine thought she was **showing off**?
-Mina: Exactly.
-Daniel: That still does not excuse what the twins did.
-Mina: Of course not. Their reaction got completely **out of hand**.
+Anne: I need twenty minutes with Mr. Grand, and I need you two to keep things calm while I am inside.
+Gerald: What do we get if we pull it off
+Anne: You get my trust, which I would rather not turn into a payment system.
+Geraldine: And the picnic afterward
+Anne: Yes, provided nothing gets out of hand while I am busy.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- show off — try to impress others.
-- get out of hand — become uncontrollable.
-- pick on — repeatedly bother or mistreat someone.
-- gang up on — join with others against one person.
-- back off — stop threatening or pressuring someone.
+- **pull something off** — succeed in doing something difficult.
+- **get out of hand** — become uncontrolled.
+- **hold someone to something** — expect someone to keep a promise or agreement.
+- **come through** — do what was expected when it matters.
+- **count on** — depend on someone or something.
 
-## Conversation 2 — Loyalty Between the Twins
+## Conversation 2 — A Conflict Escalates
 
-Anne: They fight each other constantly.
-Rebecca: But let anyone else insult one of them.
-Anne: Geraldine immediately **stood up for** Gerald when Ivy called him ugly.
-Rebecca: That is how those two are.
-Anne: Enemies one minute and allies the next.
-Rebecca: Family loyalty can work very quickly.
+Ivy: I only asked whether you liked my new ribbons.
+Geraldine: You were showing them off and you know it.
+Gerald: Just drop it, Ivy.
+Ivy: I will not, and I have already decided you are going to be my beau.
+Gerald: You cannot make that call for me. Back off.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- stand up for — defend someone.
-- turn on — suddenly attack or criticize.
-- team up — join together for a purpose.
-- make fun of — mock someone.
-- lash out — react angrily and suddenly.
+- **show off** — display something in order to impress people.
+- **drop it** — stop discussing or pursuing a subject.
+- **make the call** — make a decision.
+- **back off** — move away or stop pressuring someone.
+- **wind someone up** — annoy or provoke someone deliberately.
 
 ## Practice
 
@@ -99,102 +76,118 @@ Rebecca: Family loyalty can work very quickly.
   {
     "type": "choice",
     "instant": true,
-    "target": "impeccable",
-    "prompt": "Why do the twins dislike Ivy Trent",
+    "target": "motive",
+    "prompt": "Why can Anne not simply postpone the meeting with Mr. Grand",
     "options": [
-      "She appears perfectly behaved and often acts superior to them",
-      "She has stolen their toys",
-      "She refuses to speak to Gerald",
-      "She is much older than they are"
+      "She needs his support and he is leaving for a conference",
+      "Mrs. Raymond ordered her to meet him",
+      "He is delivering medicine for the twins",
+      "He has come to collect the encyclopedia payment"
     ],
-    "answer": "She appears perfectly behaved and often acts superior to them",
-    "explanation": "Ivy’s spotless appearance and condescending manner irritate both twins."
-  },
-  {
-    "type": "choice",
-    "instant": true,
-    "target": "indignant",
-    "prompt": "What makes Ivy especially indignant",
-    "options": [
-      "The twins mock her clothes and challenge her claims",
-      "Anne asks her to leave immediately",
-      "Mr. Grand refuses to speak to her",
-      "Gerald gives her a gift"
-    ],
-    "answer": "The twins mock her clothes and challenge her claims",
-    "explanation": "Ivy becomes angry because she feels insulted and challenged."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "show off",
-    "prompt": "Complete the sentence. Geraldine believes Ivy has come over mainly to ________ ________ her new clothes.",
-    "answer": "show off",
-    "accepted": ["show off"],
-    "explanation": "To “show off” means deliberately display something to impress others."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "out of hand",
-    "prompt": "Choose the best expression.",
-    "dialogue": [
-      {"speaker": "Anne", "text": "I expected them to tease each other a little."},
-      {"speaker": "Rebecca", "text": "Instead the whole thing got completely ________."}
-    ],
-    "options": ["out of hand", "under way", "on purpose", "in turn"],
-    "answer": "out of hand",
-    "explanation": "Something that gets “out of hand” becomes difficult to control."
-  },
-  {
-    "type": "choice",
-    "instant": true,
-    "target": "detail",
-    "prompt": "What begins the twins’ strongest conflict with Ivy",
-    "options": [
-      "Ivy announces that Gerald must become her beau",
-      "Ivy asks Anne for money",
-      "Gerald breaks Ivy’s toy",
-      "Geraldine invites Ivy to lunch"
-    ],
-    "answer": "Ivy announces that Gerald must become her beau",
-    "explanation": "Gerald strongly rejects Ivy’s announcement, and the argument escalates."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "gang up on",
-    "prompt": "Complete the sentence. Gerald and Geraldine ________ ________ ________ Ivy in the woodshed.",
-    "answer": "gang up on",
-    "accepted": ["gang up on", "ganged up on"],
-    "explanation": "To “gang up on” someone means join together against that person."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "stand up for",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {"speaker": "Mina", "text": "Geraldine had been fighting with Gerald earlier."},
-      {"speaker": "Daniel", "text": "But she still ________ him when Ivy insulted him."}
-    ],
-    "options": ["stood up for", "ran out of", "gave away", "looked down on"],
-    "answer": "stood up for",
-    "explanation": "“Stand up for” means defend another person."
+    "answer": "She needs his support and he is leaving for a conference",
+    "explanation": "The meeting is time-sensitive and important to Anne’s responsibilities as principal."
   },
   {
     "type": "choice",
     "instant": true,
     "target": "inference",
-    "prompt": "Why do the twins hurry toward the bathroom after Ivy leaves",
+    "prompt": "What most directly turns the children’s verbal quarrel into a serious incident",
     "options": [
-      "They want to remove evidence of the prank before Anne sees them",
-      "They want to take a bath before supper",
-      "They are preparing another fishing trick",
-      "They are looking for Mrs. Raymond"
+      "The twins decide to act physically against Ivy and then use the paint",
+      "Anne refuses to pay Gerald for good behavior",
+      "Mr. Grand stays longer than expected",
+      "Ivy wears brown boots instead of black ones"
     ],
-    "answer": "They want to remove evidence of the prank before Anne sees them",
-    "explanation": "They know Anne will disapprove and want to clean up before she notices."
+    "answer": "The twins decide to act physically against Ivy and then use the paint",
+    "explanation": "The conflict becomes serious when insults shift into physical force and property damage."
+  },
+  {
+    "type": "fill",
+    "instant": false,
+    "target": "out of hand",
+    "prompt": "Complete the sentence. Anne asks the twins to behave so that nothing gets ________ ________ ________ while she is meeting Mr. Grand.",
+    "answer": "out of hand",
+    "accepted": [
+      "out of hand"
+    ],
+    "explanation": "Something out of hand has become difficult or impossible to control."
+  },
+  {
+    "type": "dialogue",
+    "instant": true,
+    "target": "back off",
+    "prompt": "Choose the most natural phrase.",
+    "dialogue": [
+      {
+        "speaker": "Ivy",
+        "text": "I have decided you will be my beau."
+      },
+      {
+        "speaker": "Gerald",
+        "text": "That is not your decision. You need to ________ ________."
+      }
+    ],
+    "options": [
+      "back / off",
+      "bring / up",
+      "come / across",
+      "take / over"
+    ],
+    "answer": "back / off",
+    "explanation": "Back off means stop pressuring or move away from a conflict."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "nuance",
+    "prompt": "Why is Geraldine particularly sensitive to Ivy’s clothes",
+    "options": [
+      "She envies the fashionable things Ivy is allowed to wear",
+      "She believes Ivy stole the clothes from her",
+      "She thinks fashionable clothes are morally wrong",
+      "She plans to buy identical clothes for Anne"
+    ],
+    "answer": "She envies the fashionable things Ivy is allowed to wear",
+    "explanation": "Her jealousy makes Ivy’s deliberate display especially provocative."
+  },
+  {
+    "type": "fill",
+    "instant": false,
+    "target": "show off",
+    "prompt": "Complete the sentence. Ivy appears to come over mainly to ________ ________ her new ribbons and boots.",
+    "answer": "show off",
+    "accepted": [
+      "show off"
+    ],
+    "explanation": "To show off is to display something in order to impress others."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "B2 judgment",
+    "prompt": "Which statement best explains why Anne is not simply careless during the incident",
+    "options": [
+      "She has set clear expectations and is occupied with a legitimate professional duty",
+      "She has forgotten that she agreed to babysit",
+      "She believes children should never be supervised",
+      "She leaves the house to visit Windy Poplars"
+    ],
+    "answer": "She has set clear expectations and is occupied with a legitimate professional duty",
+    "explanation": "The twins break a clear promise while Anne is handling necessary school business."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "paraphrase",
+    "prompt": "Which sentence best captures the final mood of the chapter",
+    "options": [
+      "Anne thinks the difficult meeting is ending just as a much larger problem is about to confront her",
+      "Anne has solved both her school problem and the twins’ behavior problem",
+      "Ivy and the twins have already apologized to one another",
+      "Mr. Grand discovers the woodshed incident and punishes the children"
+    ],
+    "answer": "Anne thinks the difficult meeting is ending just as a much larger problem is about to confront her",
+    "explanation": "The ending creates dramatic contrast between Anne’s relief and the approaching consequences."
   }
 ]
 ```

@@ -2,130 +2,79 @@
 
 ## Story Summary
 
-Tuesday arrived under a gray November sky. Cold showers passed over the hills, and the wind carried the raw feeling of winter. Anne tried to tell herself that weather had nothing to do with a marriage, but the gloomy day made her more uneasy about Dovie and Jarvis.
+Tuesday arrived under a gray November sky that seemed determined to make Anne doubt every piece of advice she had given. Cold showers crossed the hills, and the roads looked bleak beneath the low clouds. Anne told herself that weather was not an omen, yet the gloom worked on her imagination. If the marriage failed, Dovie might always remember that Anne had encouraged her to go through with it. If Franklin never forgave his daughter, Anne could hardly claim to have been a neutral observer.
 
-For the first time since giving her advice, she seriously considered what might happen if the plan ended badly. Dovie had listened to her because she trusted her. If the marriage were unhappy, Anne would always remember that she had encouraged it. If Franklin never forgave his daughter, Anne would feel responsible for helping Dovie defy him.
+By night the rain had stopped, but the air was raw and cold. Anne sat in the tower room correcting school papers while Dusty Miller slept near the stove. She had just begun to hope that no news meant the plan was unfolding quietly when a violent knock struck the front door. Hardly anyone used that entrance. Rebecca Dew appeared from her room with alarm on her face, and Anne went quickly to the window. Jarvis Morrow stood below, and the sight of him told Anne at once that Dovie had failed to appear. When she hurried downstairs, she found him close to panic. He had waited at the end of the Elmcroft lane for hours while the minister, his sister, and the rest of the family waited in town. He did not know whether Franklin had returned unexpectedly, whether Aunt Maggie had discovered the plan, or whether Dovie had simply lost her nerve. He was afraid to approach the house himself because his presence might make matters worse. Anne, he insisted, was the only person he could trust to find out what had happened.
 
-By evening the rain had stopped, though the air remained cold. Anne sat in the tower room correcting school papers. Dusty Miller was curled near the stove, perfectly comfortable and completely unconcerned with secret weddings.
+Anne had no desire to walk down a dark lane toward Elmcroft and its famous bulldog, but she could not refuse. She had supported the plan from the beginning, and Dovie herself had called Anne her only real friend. Jarvis drove her as far as the lane. Anne made him stay there while she continued alone beneath moving clouds and occasional moonlight.
 
-Then someone struck the formal front door with such force that the sound seemed to shake the house.
+Only one window showed a light. Aunt Maggie answered the side door and seemed completely unaware that a wedding party was waiting elsewhere in Summerside. Dovie, she said, had been upset all day and had gone to bed early. Anne climbed the stairs, knocked once, and entered.
 
-Rebecca Dew was instantly alarmed. Almost no one used that door. Anne went to the tower window, looked down, and recognized Jarvis Morrow.
+Dovie was sitting in bed by the light of a small candle, crying. Anne's sympathy did not disappear, but it hardened into impatience. Jarvis had been waiting in the cold for two hours. Friends and family had arranged everything. Dovie had promised to come. Now, at the last possible moment, she had allowed fear to erase the decision she had made.
 
-Her heart sank.
+Dovie confessed that she had hardly slept the night before. Once she began thinking, every sacrifice seemed unbearable. She had imagined a church wedding with flowers, a white veil, silver slippers, and presents. A private ceremony at Julia's suddenly seemed shameful and disappointing. Above all, the thought of Franklin's anger had become impossible to ignore.
 
-He came inside pale and desperate. Dovie had not appeared. He had waited at the end of the Elmcroft lane for hours in the cold. At Julia’s house the minister was waiting, the family had gathered, and supper stood ready. Jarvis did not know whether Franklin had returned unexpectedly or Aunt Maggie had discovered the plan. He only knew that Dovie had failed him again.
+Anne refused to let the conversation turn into another endless circle. She told Dovie to get out of bed and dress. When Dovie protested that it was too late, Anne said it was now or never. Jarvis might forgive fear, but he would not continue allowing Dovie to play with his future. If she humiliated him after promising to come, Anne believed he would finally walk away.
 
-He could not go directly to Elmcroft. If someone saw him near the house, the situation might become worse. He begged Anne to go instead.
+Dovie then shifted from fear to practical objections, but Anne refused to let any of them become an escape route. When Dovie protested that she had nothing suitable to wear, Anne chose the rose taffeta. When she worried about having no trousseau, Anne reminded her that one could be bought later. Even the possibility that Aunt Maggie might hear them lost its force when Anne pointed out that she was in the kitchen and slightly deaf. One excuse after another collapsed under a direct answer until Dovie was left with the real issue, whether she would act despite being afraid.
 
-Anne stared at him. She had not planned to become a messenger in a secret wedding. Yet she could not deny that she had helped bring the matter to this point. Dovie trusted her, and Jarvis had no one else to send.
+Anne gave her ten minutes to dress. The firmness worked. Dovie climbed out of bed, and Anne helped fasten the rose taffeta while Dovie continued worrying aloud. She wondered whether the dress had become too tight and whether Jarvis would still love her if she gained weight. The question was so thoroughly Dovie that Anne almost laughed. Fear had not disappeared, but movement had begun to replace paralysis.
 
-She put on her coat.
+They left Elmcroft quietly and returned to Jarvis. His relief was mixed with irritation after the long wait. At Julia's house he urged Dovie not to look as if marriage were a disaster and reminded her that they had a train to catch. The ceremony went forward at last.
 
-Jarvis drove her as far as the entrance to the long Elmcroft lane. Anne insisted on walking the rest of the way alone. Clouds moved across the moon, and the wind stirred the bare trees. She remembered every story she had heard about Franklin’s bulldog and wished, not for the first time, that helping people were sometimes less complicated.
+Once Dovie was actually married, a remarkable change came over her. The decision could no longer be reversed, and the uncertainty that had tortured her seemed to fall away. She looked happy and safe beside Jarvis. Anne saw that Dovie's fear had never meant she did not love him. It had meant that making an irreversible choice felt almost impossible after years of surrendering decisions to her father.
 
-Only one light showed in the house.
+Then Dovie asked Anne for one more favor. Franklin would be home the next day, and someone had to tell him. Dovie believed Anne could smooth over almost anything and begged her to break the news. Anne felt that she herself could use some smoothing over after the evening, but responsibility kept her from refusing. She promised to go.
 
-Aunt Maggie answered the side door. She seemed surprised to see Anne but not suspicious. Dovie, she explained, had been nervous and upset all day and had gone to bed early. She was not ill.
+Late that night Anne returned to Windy Poplars exhausted. Rebecca Dew, unable to sleep without learning the result, followed her to the tower room in her nightdress with a square of flannel around her head. She listened to the whole story with intense satisfaction until Anne mentioned the visit to Franklin. Then even Rebecca became serious. She predicted rage, sarcasm, and possibly objects flying through windows.
 
-Anne went upstairs and found Dovie sitting in bed by the light of a small candle, crying.
-
-For once, sympathy did not come first.
-
-Anne asked whether she had forgotten that Jarvis was waiting to marry her.
-
-Dovie had not forgotten. That was exactly the problem. She had spent the previous night imagining every possible consequence. By morning the plan that had seemed brave at Windy Poplars felt terrible. She began thinking about her father’s anger, about what people would say, and about the church wedding she had always imagined. She had pictured flowers, a white veil, a proper wedding dress, silver slippers, and gifts. Running away in an ordinary dress suddenly seemed like losing everything a bride was supposed to have.
-
-Anne told her to get out of bed.
-
-Dovie looked at her in shock and said it was too late.
-
-Anne answered that it was now or never. Jarvis had already waited for hours in the cold. He had prepared everything. If Dovie failed him again after giving her word, Anne doubted that even his patience and love would survive it.
-
-Dovie hoped he would understand.
-
-Anne said he had understood long enough.
-
-The objections began again. Dovie had nothing suitable to wear. Anne told her to put on the rose taffeta dress. Dovie had no trousseau. Anne said she could buy one later. Dovie feared that Franklin would never forgive her. Anne admitted that he might not, but that fear had been present from the beginning and could not be solved from a bed at Elmcroft.
-
-At last Anne gave her ten minutes to dress.
-
-The firmness worked where persuasion had failed. Dovie slipped out of bed and put on the rose taffeta. She continued worrying while Anne fastened it. Was the dress becoming too tight. Would Jarvis still love her if she grew heavier. Why could she not be tall and slim and pale like Anne. What if Aunt Maggie heard them moving about.
-
-Anne answered each question briskly. Aunt Maggie was in the kitchen and slightly deaf. The dress looked lovely. Jarvis wanted Dovie, not a different figure. The important thing was to leave the house.
-
-Anne found Dovie’s hat and coat and packed a few necessary things into a small bag. When Dovie finally stood ready, she asked in a trembling voice whether she looked terrible.
-
-Anne softened. She told her sincerely that she looked beautiful.
-
-They left Elmcroft and walked down the lane.
-
-Jarvis was waiting. Relief crossed his face first, followed immediately by irritation. After two hours in the cold, he had earned both feelings. He told Dovie not to look as though marriage to him were a disaster and reminded her that they had an eleven o’clock train to catch.
-
-At Julia’s house everything was ready. The minister performed the ceremony, and within a short time the long, uncertain engagement was over.
-
-The change in Dovie was almost immediate. Once the decision could no longer be reversed, much of her fear disappeared. She looked happier and more secure, as though crossing one firm line had quieted months of anxiety. She thanked Anne warmly and said that she and Jarvis owed everything to her.
-
-Then she asked for another favor.
-
-Franklin would return from Charlottetown the next day. Dovie wanted Anne to tell him about the marriage. She was certain Anne could persuade him to forgive her.
-
-Anne nearly laughed from exhaustion. After everything that evening, she felt she needed someone to comfort her. Still, she knew she could hardly refuse. She had encouraged the marriage and delivered the bride.
-
-She promised to go.
-
-When Anne returned to Windy Poplars late that night, Rebecca Dew was waiting in her night clothes with a square of flannel around her head. She followed Anne upstairs and listened eagerly to the entire story. Rebecca was delighted that Franklin Westcott had finally been defeated, but even she admitted that she did not envy Anne the next part of the adventure.
-
-The wedding had been accomplished.
-
-Now Anne had to tell the bride’s father.
+Anne climbed into bed knowing the wedding crisis was over but another confrontation waited. She had spent the evening persuading Dovie to keep a promise. The next evening she would have to face the man whose authority Dovie had just defied. For once Anne did not feel adventurous about being involved in other people's affairs. She felt only tired, responsible, and very curious about what Franklin Westcott would do when he heard the truth.
 
 ## Vocabulary & Nuance
 
-- **apprehensive** — anxious because something unpleasant may happen.
-- **irrevocably** — in a way that cannot be reversed.
-- **distraught** — extremely worried or upset.
-- **reluctance** — unwillingness to do something.
-- **responsible** — having a duty or feeling accountable for what happens.
-- **go through with** — complete something difficult that was planned.
-- **chicken out** — informal expression meaning become too frightened to continue.
-- **smooth something over** — reduce anger or conflict.
-- **show up** — arrive as expected.
-- **follow through** — do what you promised to do.
+- **omen** — an event believed to signal what may happen in the future.
+- **neutral observer** — someone who watches without influencing the outcome.
+- **paralysis** — an inability to act or decide because of fear or pressure.
+- **irreversible** — impossible to change back to an earlier state.
+- **humiliate** — make someone feel deeply embarrassed or ashamed.
+- **objection** — a reason for resisting or opposing something.
+- **confrontation** — a direct and often difficult meeting or conflict.
+- **defy** — openly refuse to obey a person or rule.
+- **accountability** — responsibility for one’s choices and their results.
+- **resolve** — the determination to continue despite difficulty.
 
-## Conversation 1 — Dovie Does Not Show Up
+## Conversation 1 — Anne Confronts Dovie
 
-Jarvis: She was supposed to meet me two hours ago.
-Anne: And she has not **shown up** at all?
-Jarvis: Not once. I do not know what happened.
-Anne: I will go to Elmcroft.
-Jarvis: Thank you. I cannot risk making trouble at the house.
-Anne: Stay here. I will find out what is going on.
+Anne: Jarvis has been waiting in the cold for hours. You cannot disappear and expect that not to matter.
+Dovie: I panicked. Once I started thinking about everything I would lose, I could not move.
+Anne: Then separate the fear from the decision. Do you still want to marry him
+Dovie: Yes.
+Anne: Then follow through. You can be frightened and still do what you decided to do.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- show up — arrive.
-- find out — discover information.
-- wait around — remain somewhere waiting.
-- go wrong — develop a problem.
-- check on — see whether someone is safe or whether something is happening.
+- **follow through** — complete a decision or promise.
+- **freeze up** — become unable to act because of fear or pressure.
+- **go through with** — complete something difficult that has been planned.
+- **talk oneself out of** — persuade oneself not to do something.
+- **come down to** — be reduced to the essential issue.
 
-## Conversation 2 — Anne Pushes Dovie to Act
+## Conversation 2 — Dovie Asks for Another Favor
 
-Dovie: I cannot do it. I have **chickened out**.
-Anne: You have already promised Jarvis.
-Dovie: I am terrified.
-Anne: Fear does not erase the promise.
-Dovie: What if Father never forgives me?
-Anne: That is a real risk, but you still have to decide whether you will **follow through**.
+Dovie: There is one more thing, and I know it is a lot to ask.
+Anne: After tonight, that introduction worries me.
+Dovie: Will you tell Father before someone else does
+Anne: You are asking me to walk straight into the fallout.
+Dovie: I know, but you are the only person who might get through to him.
+Anne: I cannot promise to change his mind, but I will tell him myself.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- chicken out — become too frightened to continue.
-- follow through — complete what you promised.
-- get dressed — put on clothes.
-- hurry up — move or act faster.
-- back out — withdraw from a commitment.
+- **be a lot to ask** — request something difficult or demanding.
+- **walk into the fallout** — enter a situation where consequences are already developing.
+- **get through to** — make someone understand or listen.
+- **smooth something over** — reduce anger or conflict after a problem.
+- **face up to** — accept and deal with a difficult reality.
 
 ## Practice
 
@@ -134,52 +83,65 @@ Anne: That is a real risk, but you still have to decide whether you will **follo
   {
     "type": "choice",
     "instant": true,
-    "target": "apprehensive",
-    "prompt": "Why is Anne apprehensive on the wedding day",
+    "target": "inference",
+    "prompt": "Why does Anne become firm rather than comforting when she finds Dovie in bed",
     "options": [
-      "She worries that her advice may have serious consequences",
-      "She has forgotten the wedding date",
-      "She dislikes Jarvis",
-      "She plans to leave Summerside that night"
+      "She believes more sympathy would allow Dovie to continue avoiding the decision she already made",
+      "Anne has stopped caring about Dovie’s feelings",
+      "Jarvis asked Anne to frighten Dovie",
+      "Dovie has decided she no longer loves Jarvis"
     ],
-    "answer": "She worries that her advice may have serious consequences",
-    "explanation": "Anne knows Dovie agreed to the plan largely because Anne encouraged her."
+    "answer": "She believes more sympathy would allow Dovie to continue avoiding the decision she already made",
+    "explanation": "Anne recognizes that the crisis requires action, not another round of reassurance."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "distraught",
-    "prompt": "Why is Jarvis distraught when he reaches Windy Poplars",
+    "target": "nuance",
+    "prompt": "What changes in Dovie immediately after the marriage",
     "options": [
-      "Dovie has failed to meet him for the wedding",
-      "The minister has refused to come",
-      "Franklin has already forgiven them",
-      "Anne has canceled the plan"
+      "The uncertainty disappears because the decision can no longer be postponed",
+      "She becomes angry with Jarvis for arranging the ceremony",
+      "She decides to return to Elmcroft alone",
+      "She regrets following Anne’s advice at once"
     ],
-    "answer": "Dovie has failed to meet him for the wedding",
-    "explanation": "He has waited for hours and does not know what happened."
+    "answer": "The uncertainty disappears because the decision can no longer be postponed",
+    "explanation": "Once the choice is irreversible, the fear created by indecision loses much of its power."
   },
   {
     "type": "fill",
     "instant": false,
-    "target": "show up",
-    "prompt": "Complete the sentence. Jarvis waits for hours, but Dovie does not ________ ________.",
-    "answer": "show up",
-    "accepted": ["show up"],
-    "explanation": "To “show up” means arrive as expected."
+    "target": "go through with",
+    "prompt": "Complete the sentence. Dovie nearly fails to ________ ________ ________ the wedding because fear overwhelms her at the last moment.",
+    "answer": "go through with",
+    "accepted": [
+      "go through with"
+    ],
+    "explanation": "To go through with something means complete a difficult plan despite hesitation."
   },
   {
     "type": "dialogue",
     "instant": true,
-    "target": "chicken out",
-    "prompt": "Choose the best phrase.",
+    "target": "get through to",
+    "prompt": "Choose the most natural phrase.",
     "dialogue": [
-      {"speaker": "Anne", "text": "You promised to meet Jarvis tonight."},
-      {"speaker": "Dovie", "text": "I know, but I became frightened and ________."}
+      {
+        "speaker": "Dovie",
+        "text": "Father may refuse to listen to anyone."
+      },
+      {
+        "speaker": "Anne",
+        "text": "I cannot guarantee anything, but I will try to ________ ________ ________ him."
+      }
     ],
-    "options": ["chickened out", "took over", "turned up", "brought up"],
-    "answer": "chickened out",
-    "explanation": "To “chicken out” means become too frightened to continue with a plan."
+    "options": [
+      "get / through / to",
+      "run / out / on",
+      "take / over / from",
+      "look / down / on"
+    ],
+    "answer": "get / through / to",
+    "explanation": "To get through to someone means make that person understand or listen."
   },
   {
     "type": "choice",
@@ -187,49 +149,53 @@ Anne: That is a real risk, but you still have to decide whether you will **follo
     "target": "detail",
     "prompt": "What dress does Anne tell Dovie to wear",
     "options": [
-      "Her rose taffeta dress",
-      "A white wedding gown",
+      "The rose taffeta dress",
+      "A white church gown",
       "A black traveling dress",
-      "A green velvet dress"
+      "Anne’s green voile dress"
     ],
-    "answer": "Her rose taffeta dress",
-    "explanation": "Anne chooses a practical dress that Dovie already owns."
+    "answer": "The rose taffeta dress",
+    "explanation": "Anne answers Dovie’s clothing objection by choosing a dress she already owns."
   },
   {
     "type": "fill",
     "instant": false,
-    "target": "follow through",
-    "prompt": "Complete the sentence. Anne insists that Dovie must ________ ________ on the promise she made to Jarvis.",
-    "answer": "follow through",
-    "accepted": ["follow through"],
-    "explanation": "To “follow through” means complete what you promised to do."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "smooth over",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {"speaker": "Dovie", "text": "Will you tell Father and try to calm him"},
-      {"speaker": "Anne", "text": "You want me to ________ things ________ after the wedding."}
+    "target": "freeze up",
+    "prompt": "Complete the sentence. Dovie ________ ________ when the wedding night arrives, even though she had agreed to the plan earlier.",
+    "answer": "freezes up",
+    "accepted": [
+      "freezes up",
+      "froze up"
     ],
-    "options": ["smooth / over", "turn / down", "run / across", "take / apart"],
-    "answer": "smooth / over",
-    "explanation": "To “smooth things over” means reduce tension after a conflict."
+    "explanation": "To freeze up means become unable to act because of fear or pressure."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "sequence",
-    "prompt": "What does Dovie ask Anne to do after the wedding",
+    "target": "B2 interpretation",
+    "prompt": "What does Dovie’s behavior suggest about long-term control",
     "options": [
-      "Tell Franklin Westcott about the marriage",
-      "Arrange another wedding ceremony",
-      "Return her rose dress",
-      "Go to Kingsport with them"
+      "It can make independent decisions feel dangerous even when a person knows what she wants",
+      "It always destroys affection for the controlling person",
+      "It makes people incapable of any later change",
+      "It guarantees that rebellion will be easy once planned"
     ],
-    "answer": "Tell Franklin Westcott about the marriage",
-    "explanation": "Dovie wants Anne to break the news and try to gain her father’s forgiveness."
+    "answer": "It can make independent decisions feel dangerous even when a person knows what she wants",
+    "explanation": "Dovie’s fear reflects years of adapting herself to Franklin’s authority."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "paraphrase",
+    "prompt": "Which sentence best captures Anne’s position at the end",
+    "options": [
+      "She is relieved the marriage happened but uneasy about the responsibility she has accepted",
+      "She is excited to provoke Franklin for entertainment",
+      "She believes all future problems are solved",
+      "She regrets ever meeting Jarvis or Dovie"
+    ],
+    "answer": "She is relieved the marriage happened but uneasy about the responsibility she has accepted",
+    "explanation": "The wedding succeeds, but Anne must now face its consequences directly."
   }
 ]
 ```

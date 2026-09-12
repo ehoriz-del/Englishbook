@@ -2,81 +2,70 @@
 
 ## Story Summary
 
-Early in September, Anne returned to Windy Poplars for her third and final year as principal of Summerside High School. The house looked almost exactly as it had when she left for the summer, yet Anne felt at once that something was different. Katherine Brooke was no longer in Summerside. During the previous year, the two women had slowly become close friends, and the tower room had often been filled with their long talks, arguments, jokes, and plans. Now Katherine was beginning a new part of her life, and Anne knew there would be evenings when the room would seem unusually quiet without her.
+When Anne came back to Windy Poplars in September, the house greeted her with the familiar mixture of comfort and personality she had grown to love. The white walls, green shutters, whispering poplars, and view toward the harbor were unchanged, yet Anne could not enter the place in quite the same spirit as before. This was her third and final year as principal of Summerside High. The knowledge rested quietly behind everything she saw. She was returning home, but she was also beginning a long goodbye.
 
-She unpacked her books and clothes, settled once more at the familiar little desk, and wrote to Gilbert. She had seen him only once since May, and the distance between them made the letter feel more precious. In it, she described the small changes that had taken place at Windy Poplars while she was away. The old red cow had died, and Aunt Kate, Aunt Chatty, and Rebecca Dew had decided not to buy another one. From now on, they would get milk and cream from Mr. Cherry. Rebecca spoke of the change as though an important member of the household had disappeared.
+The summer had been happy, although Gilbert had been able to spend only a short time with her. Katherine Brooke had come to Green Gables later, and Anne had watched with pleasure as the once bitter young teacher continued to change. Katherine had resigned from Summerside High and planned to take a secretarial course at Redmond. She had finally admitted that teaching had never suited her, and now she seemed eager rather than resentful when she spoke about the future. Anne missed her almost as soon as she left. The new junior teacher in Summerside was cheerful, rosy, and friendly, but Anne sensed at once that the friendship would be simple. Katherine had hidden a complicated inner life behind her sharp manner. The new teacher seemed exactly what she appeared to be.
 
-Anne was sorry for another reason. Little Elizabeth had often come to the garden gate to fetch milk, and the errand had given her a natural excuse to visit Windy Poplars. Without the cow, that excuse was gone. Still, there was one hopeful sign. Mrs. Campbell had become a little less strict about Elizabeth’s visits, and the child could now come simply because she wanted to see Anne. That was not complete freedom, but it was more than she had once been allowed.
+Windy Poplars itself had changed in smaller ways. Rebecca Dew informed Anne that the old red cow had died during the summer. Aunt Kate and Aunt Chatty had decided not to replace her and would buy milk and cream instead. Rebecca reported the decision with a seriousness that made the loss sound almost like a change in government. Anne was sorry for another reason. Little Elizabeth had once used the excuse of fetching milk to come to the garden gate, and Anne had treasured those visits. Fortunately, Mrs. Campbell had grown less strict about Elizabeth crossing over to Windy Poplars, so the end of the milk errands would not end their friendship.
 
-The next piece of news disturbed Anne far more. Aunt Kate mentioned that they were thinking of giving Dusty Miller away. Rebecca Dew had complained about the cat all summer, and the widows had decided that peace might return to the household if Dusty found another home. Anne immediately objected. To her, Dusty Miller was part of Windy Poplars. He belonged to the kitchen, the garden, and the tower room as naturally as the furniture and the old trees outside. The thought of someone carrying him away in a basket made the house seem wrong before it had even happened.
+A more troubling change concerned Dusty Miller. Aunt Kate quietly told Anne that they meant to find another home for the cat. Rebecca had complained about him so persistently through the summer that the widows had begun to believe peace in the household required his removal. Anne protested. Dusty might be mischievous, but he belonged to Windy Poplars as naturally as the poplars themselves. Aunt Kate only sighed and said they could not go on listening to Rebecca threaten disaster every time the cat disturbed her kitchen. Anne suspected there was more affection beneath Rebecca's complaints than anyone admitted, but for the moment Dusty's future looked uncertain.
 
-There were changes at school as well. A new junior teacher had joined the staff, a cheerful young woman with rosy cheeks and an easy manner. Anne liked her at once. She was pleasant company and seemed eager to do well, but Anne already understood that this friendship would be very different from the one she had shared with Katherine. Katherine had always surprised her. Even after months of friendship, Anne had continued to discover new thoughts, new wounds, and new hopes hidden behind her sharp manner. The new teacher was much easier to know.
+As Anne settled back into school life, another small obligation appeared. Mrs. Raymond, a widow who had moved to Summerside the previous winter, needed to attend a family funeral in Charlottetown and asked Anne to look after her eight-year-old twins for a Saturday. Anne agreed without much hesitation. Mrs. Raymond had been helpful with the Dramatic Club, and Anne felt that kindness should be returned when possible. Besides, she liked children and had managed Davy Keith in some of his most energetic years. A day with two eight-year-olds did not seem like a serious test.
 
-Before Anne had time to settle completely into the school routine, another small adventure appeared. Mrs. Raymond asked whether Anne would look after her twins on Saturday while she went to Charlottetown for a relative’s funeral. The Raymond family had moved to Summerside only the previous winter. Some people thought Mrs. Raymond was too proud, but Anne remembered that she had been generous when the Dramatic Club needed help. A single day of babysitting seemed a simple way to return that kindness.
+Rebecca Dew received the news with a look that made Anne laugh. She had heard stories about Gerald and Geraldine Raymond. Their golden hair, blue eyes, and angelic expressions had deceived more than one visitor, but Rebecca insisted that the twins were capable of turning a peaceful afternoon into a public emergency. Mrs. Raymond believed strongly in giving children a natural life and disliked punishment. According to Rebecca, the twins had interpreted this philosophy as complete freedom to follow every impulse. She reminded Anne of the time a visitor had left the Raymond house under a shower of onions while Mrs. Raymond calmly explained that children were often at their worst when adults especially wanted them to behave.
 
-The twins, Gerald and Geraldine, were eight years old. Everyone agreed that they were beautiful children. They had soft pale-gold hair, blue eyes, and such innocent faces that they could easily have been mistaken for two small angels in a painting. Anne, who had always enjoyed children, thought the arrangement sounded pleasant.
+Anne defended the twins before she had even met them properly. Children, she argued, were usually manageable when adults understood them and set sensible expectations. Rebecca did not argue for long. Her silence carried the unmistakable message that experience would settle the matter more effectively than debate.
 
-Rebecca Dew did not.
+That evening Anne went up to the tower room and wrote to Gilbert. Outside, the early autumn darkness gathered around the harbor, while the poplars moved softly against the sky. She told him about Katherine's departure, the new teacher, the old cow, and Dusty Miller's uncertain position in the household. Beneath the ordinary news ran a stronger awareness that her life was moving forward. A year from now Summerside would belong to memory. The tower room where she had written so many letters would no longer be hers, and marriage to Gilbert would no longer be a future event imagined from a distance.
 
-When Anne told her about Saturday, Rebecca stopped what she was doing and looked at her with the expression she usually wore when she believed someone was walking calmly toward disaster. She warned Anne not to be deceived by Gerald and Geraldine’s appearance. According to Rebecca, the twins had already become famous in the neighborhood for their wild behavior. Mrs. Raymond did not believe in punishment and preferred to speak of children living naturally and freely. Rebecca thought this theory had been tested much too generously.
+The thought made Anne both happy and unexpectedly tender toward everything around her. She had spent two years believing Windy Poplars was a temporary home, yet temporary things could take deep root. Rebecca's sharp remarks, Aunt Chatty's gentle anxieties, Aunt Kate's practical calm, Elizabeth's visits at the garden gate, and even Dusty's inconvenient habits had become part of the texture of her days. Knowing she would leave them made each detail seem more valuable.
 
-She began listing examples. Once, when the minister’s wife had visited the Raymond house, Spanish onions had suddenly come flying down the stairs. One had knocked the woman’s hat off. Mrs. Raymond, instead of being deeply ashamed, had treated the event as another example of the twins’ high spirits.
-
-Anne laughed, though she could see that Rebecca was perfectly serious. She said that she had managed many different kinds of children and did not intend to be frightened by two eight-year-olds. She had faced difficult pupils, stubborn families, and all the complications of being principal in a town where everyone knew everyone else’s business. Surely patience, affection, and a few sensible rules would be enough for one Saturday.
-
-Rebecca remained doubtful. Loving children was one thing, she said. Managing Gerald and Geraldine was another. Their sweet faces had already fooled plenty of adults.
-
-Anne refused to change her mind. Even so, as she finished her letter to Gilbert that evening, Rebecca’s warnings stayed in the back of her thoughts. Her third year in Summerside had begun quietly, but already several familiar parts of her life were shifting. Katherine was gone. The old cow was gone. Dusty Miller might soon be gone. Little Elizabeth was growing older. And on Saturday, Anne would spend an entire day with two children whom Rebecca Dew plainly considered a natural disaster in matching shoes.
-
-Anne smiled as she put down her pen. She still believed she could manage them. By Saturday night, she would know whether that confidence had been sensible or wonderfully foolish.
+Before she went to bed, Anne thought once more about Saturday. She could almost hear Rebecca predicting catastrophe, and the idea amused her. She still believed patience, imagination, and firmness would be enough. The Raymond twins might be lively, but surely no pair of children could deserve the reputation Summerside had given them. With that comfortable confidence, Anne put the matter out of her mind. Saturday, she expected, would provide nothing worse than a few amusing incidents for her next letter to Gilbert.
 
 ## Vocabulary & Nuance
 
-- **reconciled** — willing to accept a situation that cannot easily be changed.
-- **protest** — express strong disagreement or objection.
-- **suitable** — right or appropriate for a particular purpose.
-- **permissive** — allowing a great deal of freedom and setting few limits.
-- **unmanageable** — very difficult to control.
-- **settle back into** — become comfortable again in a familiar routine.
-- **give away** — transfer something to another person without payment.
-- **look after** — take care of someone.
-- **take someone in** — deceive someone by appearing different from what you really are.
-- **make light of** — treat something as less serious than it really is.
+- **bittersweet** — containing happiness and sadness at the same time.
+- **transitional** — connected with movement from one stage of life to another.
+- **underlying** — present beneath the surface even when it is not directly stated.
+- **complacent** — too confident that a situation will remain easy or favorable.
+- **reciprocal** — involving a return of help, feeling, or action between people.
+- **apprehensive** — uneasy because something difficult may be about to happen.
+- **disarming** — making suspicion or resistance fade because something seems harmless or appealing.
+- **anticipate** — expect something and think about it before it happens.
+- **attachment** — a strong emotional connection to a person or place.
+- **take for granted** — fail to appreciate something because it feels familiar or secure.
 
 ## Conversation 1 — Returning to a Familiar Place
 
-Mina: Does coming back feel strange after the summer?
-Anne: A little. I have **settled back into** the tower room quickly, but Summerside feels different without Katherine.
-Mina: At least Windy Poplars is familiar.
-Anne: Yes. I know the house so well now that even the smallest changes stand out.
-Mina: Such as the cow being gone?
-Anne: And Dusty Miller possibly being given away. I am not happy about that at all.
+Anne: Coming back feels comforting, but I am already aware that this is my last year here.
+Gilbert: That sounds bittersweet. Are you finding it hard to settle back in
+Anne: Not exactly. I have slipped back into the routine easily, but I keep noticing things I will miss.
+Gilbert: Maybe knowing it will end is making you take it in more fully.
+Anne: That is exactly it. I do not want to rush through a year I may later wish I had appreciated more.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- settle back into — become comfortable again with a familiar routine.
-- stand out — be especially noticeable.
-- get used to — become accustomed to something.
-- miss out on — lose the chance to experience something.
-- hold on to — keep something rather than let it go.
+- **settle back in** — become comfortable again after returning.
+- **ease back into** — return gradually to a familiar routine.
+- **take something in** — absorb the details or emotional meaning of something.
+- **take stock of** — pause to assess a situation carefully.
+- **come to terms with** — gradually accept an important change or reality.
 
-## Conversation 2 — A Warning About the Twins
+## Conversation 2 — Rebecca Warns Anne
 
-Rebecca: Those children may look like angels, but do not let that fool you.
-Anne: I have looked after plenty of children.
-Rebecca: Not Gerald and Geraldine.
-Anne: You think they will be impossible?
-Rebecca: I think you will **find out** soon enough.
-Anne: I still believe patience will help.
-Rebecca: Then I hope your patience can **hold up** until supper.
+Rebecca: You are seriously going to spend the day with the Raymond twins
+Anne: I am. Their mother helped us last year, so I want to return the favor.
+Rebecca: Do not say I failed to warn you. Those two know how to wear people down.
+Anne: I have handled lively children before.
+Rebecca: Then perhaps you are due for a new definition of lively.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- find out — discover the truth.
-- hold up — remain strong or effective.
-- fool someone — deceive someone.
-- get away with — avoid punishment for something wrong.
-- wear someone out — make someone extremely tired.
+- **return the favor** — do something helpful for someone who helped you.
+- **wear someone down** — gradually exhaust or weaken someone.
+- **be due for** — be likely or expected to experience something soon.
+- **handle something** — manage a difficult situation effectively.
+- **take someone at their word** — accept what someone says as true.
 
 ## Practice
 
@@ -85,102 +74,118 @@ Rebecca: Then I hope your patience can **hold up** until supper.
   {
     "type": "choice",
     "instant": true,
-    "target": "reconciled",
-    "prompt": "What change makes Anne less worried about Little Elizabeth",
+    "target": "inference",
+    "prompt": "Why does Anne experience her return to Windy Poplars differently this year",
     "options": [
-      "Mrs. Campbell has become more willing to let Elizabeth visit Windy Poplars",
-      "Elizabeth has moved permanently to Green Gables",
-      "The old red cow has returned",
-      "Rebecca has begun teaching Elizabeth"
+      "She knows the year will end with a major change in her life",
+      "She has decided she dislikes Summerside",
+      "She expects to lose her position immediately",
+      "She no longer wants to write to Gilbert"
     ],
-    "answer": "Mrs. Campbell has become more willing to let Elizabeth visit Windy Poplars",
-    "explanation": "Elizabeth no longer needs the milk errand as her only reason to visit."
+    "answer": "She knows the year will end with a major change in her life",
+    "explanation": "Her final year makes familiar places feel temporary and more precious."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "permissive",
-    "prompt": "Why does Rebecca describe Mrs. Raymond as a permissive parent",
+    "target": "nuance",
+    "prompt": "What does Anne mean when she senses there is nothing more to discover in the new junior teacher",
     "options": [
-      "She avoids punishing the twins and allows them a great deal of freedom",
-      "She makes them study every evening",
-      "She sends them to boarding school",
-      "She refuses to let them play outside"
+      "The teacher seems pleasant but emotionally uncomplicated",
+      "The teacher refuses to speak to Anne",
+      "The teacher has hidden serious misconduct",
+      "The teacher is less intelligent than the students"
     ],
-    "answer": "She avoids punishing the twins and allows them a great deal of freedom",
-    "explanation": "Mrs. Raymond believes strongly in letting the twins live naturally."
+    "answer": "The teacher seems pleasant but emotionally uncomplicated",
+    "explanation": "Anne contrasts her with Katherine, whose guarded personality had concealed greater depth."
   },
   {
     "type": "fill",
     "instant": false,
-    "target": "look after",
-    "prompt": "Complete the sentence. Anne agrees to ________ ________ Gerald and Geraldine on Saturday.",
-    "answer": "look after",
-    "accepted": ["look after"],
-    "explanation": "To “look after” someone means to take care of that person."
+    "target": "settle back in",
+    "prompt": "Complete the sentence. Anne quickly manages to ________ ________ ________ at Windy Poplars even though the year feels different.",
+    "answer": "settle back in",
+    "accepted": [
+      "settle back in"
+    ],
+    "explanation": "The phrase means become comfortable again after returning."
   },
   {
     "type": "dialogue",
     "instant": true,
-    "target": "take in",
-    "prompt": "Choose the best phrase.",
+    "target": "wear down",
+    "prompt": "Choose the most natural response.",
     "dialogue": [
-      {"speaker": "Rebecca", "text": "Their faces look innocent."},
-      {"speaker": "Anne", "text": "But you think people are easily ________ by that angelic look."}
+      {
+        "speaker": "Rebecca",
+        "text": "Dusty Miller has been causing trouble in the kitchen all summer."
+      },
+      {
+        "speaker": "Anne",
+        "text": "Has Aunt Kate finally been ________ ________ by all the complaints"
+      }
     ],
-    "options": ["taken in", "turned down", "put off", "brought up"],
-    "answer": "taken in",
-    "explanation": "To be “taken in” means to be deceived."
+    "options": [
+      "worn / down",
+      "looked / up",
+      "taken / apart",
+      "held / off"
+    ],
+    "answer": "worn / down",
+    "explanation": "To wear someone down is to exhaust their resistance over time."
   },
   {
     "type": "choice",
     "instant": true,
     "target": "detail",
-    "prompt": "Why are Aunt Kate and Aunt Chatty considering giving Dusty Miller away",
+    "prompt": "Why is Anne sorry that the old red cow is gone",
     "options": [
-      "Rebecca has complained about him repeatedly",
-      "Anne has become allergic to cats",
-      "The cat belongs to Mr. Cherry",
-      "Dusty has stopped coming home"
+      "Elizabeth used to have a natural reason to visit for milk",
+      "Anne had planned to sell the cow",
+      "Gilbert had given the cow to the widows",
+      "The school depended on the cow for lunches"
     ],
-    "answer": "Rebecca has complained about him repeatedly",
-    "explanation": "They hope that removing the cat may restore peace in the household."
+    "answer": "Elizabeth used to have a natural reason to visit for milk",
+    "explanation": "The milk errands had helped sustain Anne and Elizabeth’s contact."
   },
   {
     "type": "fill",
     "instant": false,
-    "target": "settle back into",
-    "prompt": "Complete the sentence. Anne quickly ________ ________ ________ life at Windy Poplars.",
-    "answer": "settles back into",
-    "accepted": ["settles back into", "settled back into"],
-    "explanation": "The expression means become comfortable again with a familiar routine."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "hold up",
-    "prompt": "Choose the best expression.",
-    "dialogue": [
-      {"speaker": "Rebecca", "text": "You will need a great deal of patience tomorrow."},
-      {"speaker": "Anne", "text": "I hope mine can ________ all day."}
+    "target": "take in",
+    "prompt": "Complete the sentence. Because this is her final year, Anne wants to ________ ________ every familiar detail instead of taking it for granted.",
+    "answer": "take in",
+    "accepted": [
+      "take in"
     ],
-    "options": ["hold up", "give away", "take off", "run across"],
-    "answer": "hold up",
-    "explanation": "If something “holds up,” it remains effective under pressure."
+    "explanation": "To take something in is to notice and absorb it fully."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "inference",
-    "prompt": "Why does Anne still agree to care for the twins despite Rebecca’s warnings",
+    "target": "paraphrase",
+    "prompt": "Which sentence best captures Rebecca’s attitude toward Anne’s plan to babysit the twins",
     "options": [
-      "She believes she can manage children with patience and sensible guidance",
-      "She wants to punish Mrs. Raymond",
-      "She hopes to send the twins away",
-      "She has never heard anything negative about them"
+      "She believes experience will prove her warning more effectively than argument",
+      "She is jealous that Anne was asked instead of her",
+      "She thinks Anne should punish the twins before meeting them",
+      "She expects the children to behave perfectly for Anne"
     ],
-    "answer": "She believes she can manage children with patience and sensible guidance",
-    "explanation": "Anne trusts her experience with children and does not yet know how difficult the day will be."
+    "answer": "She believes experience will prove her warning more effectively than argument",
+    "explanation": "Rebecca stops arguing because she expects the twins themselves to make her point."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "B2 motive",
+    "prompt": "Why does Anne agree to help Mrs. Raymond despite the twins’ reputation",
+    "options": [
+      "She values reciprocity and trusts her own experience with children",
+      "She wants to prove Rebecca wrong at any cost",
+      "She needs extra money for her wedding",
+      "She hopes to recruit the twins for the school"
+    ],
+    "answer": "She values reciprocity and trusts her own experience with children",
+    "explanation": "Her decision combines gratitude toward Mrs. Raymond with confidence in her own judgment."
   }
 ]
 ```
