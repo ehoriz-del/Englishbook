@@ -14,7 +14,7 @@ Mrs. Campbell, however, refuses to allow it. She believes public performance wil
 
 Elizabeth cries in Anne’s tower room. She says the disappointment makes her feel as though she will become “Lizzie” forever, using the name she associates with the least happy part of herself. She also says she feels “like a leopard,” when she means that she feels like a leper, separated from everyone else.
 
-Anne decides to visit The Evergreens. She does not announce that she is going there to argue about the concert. Instead, she creates a respectable reason for the visit: she asks to borrow the memoirs of the Reverend James Wallace Campbell because they contain information she can use in her history lessons.
+Anne decides to visit The Evergreens. She does not announce that she is going there to argue about the concert. Instead, she creates a respectable reason for the visit. She asks to borrow the memoirs of the Reverend James Wallace Campbell because they contain information she can use in her history lessons.
 
 The Woman lets Anne into the gloomy drawing room. The room is formal and stiff, with chairs placed against the walls and a piano that looks as though no one ever plays it.
 

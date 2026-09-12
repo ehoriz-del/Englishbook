@@ -14,7 +14,7 @@ The next Saturday Lewis comes for Anne in a very old buggy drawn by an equally o
 
 Anne and Lewis drive toward the Armstrong farm. The autumn day is pleasant, and Anne talks about Lewis’s future. She is convinced that he will succeed because he is willing to work hard.
 
-On the way, however, they hear devastating news: Teddy Armstrong has died.
+On the way, however, they hear devastating news. Teddy Armstrong has died.
 
 Anne can hardly believe it. The little boy had seemed so healthy and alive when they met him only a short time earlier. The photograph they are carrying suddenly has a completely different meaning.
 

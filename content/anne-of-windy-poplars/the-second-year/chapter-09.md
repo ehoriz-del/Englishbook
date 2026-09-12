@@ -4,7 +4,7 @@
 
 A few days after Cousin Ernestine Bugle’s visit, Anne writes to Gilbert from the tower room at Windy Poplars. Ernestine’s habit of beginning nearly every thought with “I’m afraid” is still fresh in Anne’s mind.
 
-Anne jokingly imitates her. She writes a long list of ridiculous things she could worry about: turning gray while still young, ending up poor, having all her pupils fail their final examinations, getting hydrophobia because Mr. Hamilton’s dog barked at her, having her umbrella turn inside out, discovering that her hair is not really auburn, developing a mole on her nose when she is fifty, finding that the school is a firetrap, discovering a mouse in her bed, or even wondering whether Gilbert became engaged to her only because she was always nearby.
+Anne jokingly imitates her and writes a long list of ridiculous things she could worry about. She imagines turning gray while still young, ending up poor, having all her pupils fail their final examinations, getting hydrophobia because Mr. Hamilton’s dog barked at her, having her umbrella turn inside out, discovering that her hair is not really auburn, developing a mole on her nose when she is fifty, finding that the school is a firetrap, discovering a mouse in her bed, or even wondering whether Gilbert became engaged to her only because she was always nearby.
 
 After listing the fears, Anne assures Gilbert that she has not lost her mind. She is simply feeling the aftereffects of Ernestine’s visit.
 
@@ -20,7 +20,7 @@ The scene makes Anne think of Avonlea. She imagines walking with Gilbert along o
 
 The letter becomes more openly affectionate as it ends. Anne admits that she is very much in love with Gilbert. Her playful imitation of Ernestine’s fears has led her back to the person with whom she most wants to share the uncertain future.
 
-The chapter is brief and consists almost entirely of Anne’s letter. There is no major outside event. Anne is in the tower room, writing to Gilbert, looking out at a windy spring night, remembering Ernestine’s endless anxieties, and thinking about how she herself wants to approach whatever comes next.
+Anne remains in the tower room, writing to Gilbert and looking out at the windy spring night. She remembers Ernestine’s endless anxieties, thinks about the future, and ends the letter by telling Gilbert how deeply she loves him.
 
 ## Vocabulary & Nuance
 

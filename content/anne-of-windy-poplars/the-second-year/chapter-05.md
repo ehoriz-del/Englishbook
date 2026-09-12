@@ -18,7 +18,7 @@ When they are returning toward Green Gables, they stop near an old fence and loo
 
 Anne suddenly notices that Katherine is crying.
 
-Katherine tells Anne that she feels trapped in a life she hates. She looks at Anne and sees someone who seems to have everything she lacks: friends, beauty, confidence, love, and a future with Gilbert. Katherine believes Anne has always moved through a world that welcomed her.
+Katherine tells Anne that she feels trapped in a life she hates. She looks at Anne and sees someone who seems to have everything she lacks, including friends, beauty, confidence, love, and a future with Gilbert. Katherine believes Anne has always moved through a world that welcomed her.
 
 She says that she has no real friends and believes that if she died, very few people would miss her.
 
@@ -48,7 +48,7 @@ Katherine says that the struggle has left her bitter. She knows that her pupils 
 
 She tells Anne that she hates teaching and does not want to spend the rest of her life doing it.
 
-What Katherine really wants is to travel. She remembers a picture that hung in the attic room where she lived as a child: a desert spring surrounded by palm trees, with camels in the distance. She has never forgotten it.
+What Katherine really wants is to travel. She remembers a picture that hung in the attic room where she lived as a child. It showed a desert spring surrounded by palm trees, with camels in the distance. She has never forgotten it.
 
 She dreams of seeing the Southern Cross, the Taj Mahal, the ruins of Karnak, and other places far beyond Prince Edward Island. She wants to experience the world for herself instead of only reading about it.
 
@@ -62,7 +62,7 @@ She worries that she has told Anne too much and exposed feelings she normally hi
 
 They return to Green Gables after the long winter walk. The cold air has brought color to Katherine’s face, and Anne notices that she looks younger and more attractive when she is relaxed.
 
-The Christmas celebrations, gifts, and the puppy will come in the next chapter. For now, Katherine has done something far more unusual for her: she has trusted someone enough to tell the truth about her childhood, her anger, and the life she wishes she could have.
+Katherine worries that she has told Anne too much. Anne reassures her, and they return to Green Gables after the long winter walk. Katherine looks more relaxed than she did when they left the house.
 
 ## Vocabulary & Nuance
 

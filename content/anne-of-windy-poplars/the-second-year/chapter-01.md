@@ -24,7 +24,7 @@ Aunt Chatty has a small problem of her own. She secretly tells Anne that she wan
 
 Anne promises to help if Aunt Kate objects. The conversation reminds Anne that even adults who seem settled and practical can have small wishes they are embarrassed to admit.
 
-That evening Anne sits alone in the tower room. She thinks about how much easier and warmer life in Summerside feels now. She has a secure place at Windy Poplars, her school year has begun well, and people who once opposed her now treat her with trust. She also has several new concerns already occupying her thoughts: Little Elizabeth’s happiness, Lewis Allen’s future, the Dramatic Club, and the everyday problems of the people around her.
+That evening Anne sits alone in the tower room. She thinks about how much easier and warmer life in Summerside feels now. She has a secure place at Windy Poplars, her school year has begun well, and people who once opposed her now treat her with trust. She also has several new concerns already occupying her thoughts, including Little Elizabeth’s happiness, Lewis Allen’s future, the Dramatic Club, and the everyday problems of the people around her.
 
 The second year has begun without the hostility and uncertainty that marked the first. Anne is no longer trying to prove that she belongs in Summerside. She has work to do, people to care about, and a home waiting for her at the end of each school day.
 

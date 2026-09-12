@@ -54,7 +54,7 @@ Then his behavior changes. He begins speaking to Anne in a romantic tone and tel
 
 Anne immediately leaves.
 
-At the end of the chapter, Anne believes she has helped two young people admit that their engagement was a mistake. She does not yet know that Hazel will return with a very different interpretation of what Anne has done.
+Anne leaves Terry as soon as his attention toward her becomes romantic. She believes Hazel and Terry have both admitted that the engagement was a mistake, but Hazel will soon return with a very different interpretation of Anne’s involvement.
 
 ## Vocabulary & Nuance
 

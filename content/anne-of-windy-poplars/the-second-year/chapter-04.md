@@ -10,7 +10,7 @@ On a very cold December evening, Anne walks to the boarding house on Temple Stre
 
 Mrs. Dennis, Katherine’s landlady, receives Anne in the parlour. She begins talking about Katherine almost immediately. Mrs. Dennis complains that Katherine is in a bad mood because of some local gossip she repeated to her.
 
-Anne dislikes hearing a landlady criticize her boarder. She points out that Mrs. Dennis might also repeat something positive: the school inspector considers Katherine one of the best teachers in the Maritimes.
+Anne dislikes hearing a landlady criticize her boarder. She points out that Mrs. Dennis might also repeat something positive. The school inspector considers Katherine one of the best teachers in the Maritimes.
 
 During the conversation Anne learns that Katherine wants a dog. Mrs. Dennis has refused to allow one in the house, even though Katherine offered to pay for its food and take care of it herself. Anne quietly suggests that perhaps the rule could be reconsidered.
 
@@ -32,7 +32,7 @@ Katherine begins to consider the invitation seriously. She admits that she does 
 
 Anne describes Green Gables and the people there. Katherine remains cautious, but she is interested.
 
-At last Katherine agrees to go on one condition: Anne must not wish her a merry Christmas. Katherine says she has no intention of being merry and does not want cheerful holiday phrases forced on her.
+At last Katherine agrees to go, but on one condition. Anne must not wish her a merry Christmas. Katherine says she has no intention of being merry and does not want cheerful holiday phrases forced on her.
 
 Anne agrees that she personally will respect the rule, though she warns Katherine that Davy and Dora may be impossible to control.
 
