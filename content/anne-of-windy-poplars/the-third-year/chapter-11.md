@@ -2,108 +2,83 @@
 
 ## Story Summary
 
-By the time supper and the long evening conversation were over, the weather outside Tomgallon House had become much worse. Wind drove the rain against the windows, and the dark road back to Windy Poplars no longer looked safe or inviting. Miss Minerva listened to the storm for a moment and decided the matter without hesitation. Anne would stay the night.
+Supper at Tomgallon House was as grand as Anne had expected. The dining room held another chandelier, a large gilt mirror, and a table set with old china, silver, and crystal. The meal itself was excellent. For a few precious minutes Miss Minerva concentrated on food, and Anne ate with relief, afraid that a careless question might release another flood of family tragedy.
 
-Anne tried to hide her disappointment. She had enjoyed the strange evening, but she had also reached the point where her own tower room, Rebecca Dew’s familiar voice, and the ordinary sounds of Windy Poplars seemed more attractive than all the grandeur of the Tomgallons. Still, going out into the storm would have been foolish, and there was no polite way to argue with both common sense and Miss Minerva.
+A sleek black cat eventually entered, settled near Miss Minerva, and asked for attention with a rough meow. The old woman immediately poured cream into a saucer for him. The simple gesture changed something in Anne's view of her hostess. It was easier to see a lonely woman behind the diamonds and family pride when Miss Minerva bent to serve a cat with quiet affection.
 
-Her hostess led her upstairs.
+The pause did not last. One dish reminded Miss Minerva of an aunt famous for sponge cake. That aunt led to another relative with a poor appetite, then to Miss Minerva's father, who had been so unforgiving that after his son married against his wishes, he altered the Lord's Prayer during family worship rather than repeat words about forgiving others. Anne listened in disbelief. The story was grim, but the detail was so perfectly suited to the stubborn man being described that it also had a strange comic force.
 
-The room prepared for Anne had once belonged to Aunt Annabella, one of the many Tomgallon relatives whose life had ended unhappily. Miss Minerva did not simply open the door and wish Anne good night. She supplied enough history about Aunt Annabella to make the room feel occupied before Anne had even entered it properly.
+After supper they moved into the smallest drawing room, which was still larger than many ordinary parlors. A fire burned warmly while Anne crocheted and Miss Minerva knitted. The old woman talked almost continuously. She called the house a place of tragic memories. Anne finally managed to ask whether anything pleasant had ever happened there.
 
-When the door finally closed behind Miss Minerva, Anne looked around.
+Miss Minerva admitted that there had once been parties, laughter, and happy days, though she seemed far less interested in them. She then changed direction abruptly and asked whether Anne was truly writing a book about everyone in Summerside. Anne denied the rumor. Miss Minerva looked almost disappointed. If Anne ever did write such a book, she said, the Tomgallon stories were available, provided the names were disguised.
 
-The room was beautiful in an old and heavy way. A high walnut bed stood against one wall, covered with a bright crazy quilt. There was a green dressing table, an ornate mirror, thick curtains, old furniture, silver candlesticks, and portraits that seemed unusually watchful in the candlelight. Above the mirror hung the picture of a proud young woman whom Anne knew must be Annabella.
+Anne glanced toward the windows and realized how late it had become. She began to say she should return to Windy Poplars, but the weather answered before Miss Minerva did. Rain struck the glass, and the wind moved around the old house with enough force to make the road unsafe. Miss Minerva announced that Anne would stay the night.
 
-Outside, wind pushed at the house and rain beat steadily on the windows.
+Anne had no wish to walk through a March storm, yet spending the night in a mansion filled with stories of sudden deaths was not an entirely comfortable alternative. She accepted. They played parchesi, which had the unexpected benefit of silencing the family history for a while, and later ate cinnamon toast with cocoa from delicate old cups.
 
-Anne began getting ready for bed. She told herself firmly that she was no longer a child who could be frightened by a room simply because someone had told her sad stories about it. Old houses made noises. Curtains moved in drafts. Mirrors reflected shapes. Branches touched windows. None of these things meant that a dead Tomgallon had returned to inspect the guest.
+At last Miss Minerva led Anne upstairs. The guest room belonged in appearance to the calmer side of the house. A green dressing table stood beneath a mirror, silver candlesticks held the light, and a colorful quilt covered the bed. Anne had just begun to feel reassured when Miss Minerva explained that the room had belonged to Aunt Annabella, once the most beautiful of the Tomgallons. Her portrait looked down from above the mirror.
 
-This excellent reasoning worked for several minutes.
+The details became steadily less comforting. The flannel nightgown laid out for Anne had last been worn by Miss Minerva's mother before she died in it. The room was also the place where Oscar Tomgallon had once returned to life after the family had believed him dead for two days. According to Miss Minerva, the tragic part was that some relatives would have preferred him to remain dead. With that final piece of information, she wished Anne a good night and left.
 
-Then something tapped against the window.
+For several minutes Anne stood in the room listening to the storm. All the stories she had heard seemed to remain in the air. The mirror looked capable of reflecting more than the present. The portrait of Annabella had a proud expression that became more unsettling the longer Anne studied it. Wind moved through the trees outside, and the old house answered with unfamiliar creaks.
 
-Anne stopped brushing her hair and listened.
+Anne knew exactly what her imagination was doing. That did not immediately stop it. She pictured generations of jealousy, grief, illness, and anger settling into the rooms like invisible dust. For a moment she wanted to leave despite the storm.
 
-The sound came again.
+Then she deliberately changed the story she was telling herself. A house that had stood for so many generations could not have contained only misery. Children must have laughed in those halls, young people had danced in the ballroom before anyone dropped dead there, babies had been welcomed, and ordinary meals had been enjoyed without becoming part of family legend. Someone had even made excellent sponge cake. Richard, the unforgiven son, had loved someone enough to marry without permission. If the walls held memory at all, happiness had as much right to remain as tragedy.
 
-A branch, she decided. Of course it was a branch. She continued preparing for bed, though her imagination had already begun producing less sensible possibilities. The mirror caught the candlelight at a strange angle, and for a moment Anne thought she had seen movement behind her. She turned quickly. Nothing was there.
+The shift restored Anne's balance. She brushed out her hair beneath Annabella's portrait, opened the closet despite half expecting some family skeleton in the literal sense, and put on the enormous flannel nightgown. The bed had been warmed with hot bricks. Once Anne was under the covers, the sound of rain gradually stopped being threatening and became merely weather. Before long she was asleep.
 
-She laughed under her breath and wished Katherine Brooke could see her. Katherine would probably have made one dry remark and gone peacefully to sleep.
+Morning transformed the house. Red sunrise showed through the dark fir branches, and what had seemed haunted at midnight became old furniture, portraits, and a perfectly ordinary guest room. At breakfast Miss Minerva told Anne how much she had enjoyed the visit. Only then did she mention that the previous day had been her birthday. There was no one left, she said quietly, who remembered it now.
 
-Anne climbed into the high bed and pulled the covers around her. The colorful quilt, which might have looked cheerful by daylight, seemed almost too bright in the uncertain candlelight. The wind continued. Somewhere in the house a door or piece of wood creaked. Then another sound came from the hall.
+That small confession affected Anne more than all the dramatic histories. Miss Minerva's endless stories were not only vanity. They filled a silence created by the disappearance of almost everyone who had once shared her world.
 
-Anne reminded herself that Tomgallon House contained servants, furniture, old pipes, and a great deal of wood. A house this size could make enough noises to support a dozen ghosts without needing a single real one.
-
-That thought helped.
-
-A little.
-
-She tried closing her eyes, but closing them made her imagination stronger. She opened them again and looked toward the portrait of Annabella. The painted woman’s expression seemed different from the way it had looked earlier. Anne knew perfectly well that paintings did not change expression. Unfortunately, knowing a thing and feeling it were not always the same.
-
-Minutes passed.
-
-The room grew colder as the fire weakened. The storm outside continued to move over the house. Anne began to miss Windy Poplars with almost painful affection. She pictured Aunt Kate and Aunt Chatty in their familiar rooms and Rebecca Dew making some practical complaint in the kitchen. Even Dusty Miller seemed like excellent company compared with a silent portrait and a family history full of tragedy.
-
-At last tiredness became stronger than imagination. Anne could not remain alert forever. She settled deeper into the bed and allowed the sounds of the storm to become part of the background rather than messages from the past.
-
-Sometime in the night she fell asleep.
-
-Morning changed everything.
-
-Gray daylight entered the room, and objects that had seemed mysterious became ordinary again. The mirror was only a mirror. The curtains were only curtains. The portrait of Annabella looked proud but completely harmless. The great bed was comfortable, the quilt was merely colorful, and the noises of the night could easily be explained by weather and an old house.
-
-Anne sat up and smiled at herself.
-
-She could now see exactly what had happened. Miss Minerva had filled her mind with generations of tragedy, the storm had supplied the proper sounds, and Anne’s own imagination had done the rest. It had been a perfect combination.
-
-She did not regret the night. In fact, once daylight had returned, the experience became almost enjoyable in memory. She had been frightened, but she had also learned again how quickly her imagination could transform a room. The same gift that allowed her to find beauty and wonder in ordinary places could also make a shadow seem alive.
-
-When Anne finally left Tomgallon House, she carried a lively story back to Windy Poplars and a new appreciation for her own small tower room. Tomgallon House was grander, richer, and filled with history.
-
-But Windy Poplars, she decided, was a much better place to sleep.
+Back at Windy Poplars, Rebecca dismissed Miss Minerva as a poor old thing who had little except the family curse. Anne smiled at the description but understood it. That night, writing to Gilbert, she decided that Tomgallon House belonged to Yesterday. She was glad to admire the past without living inside it. When she imagined the home she and Gilbert would someday make, she wanted a place where memory would grow from ordinary happiness rather than become a substitute for it.
 
 ## Vocabulary & Nuance
 
-- **susceptibility** — the quality of being easily influenced or affected.
-- **oppressive** — causing discomfort through heaviness or pressure.
-- **sinister** — suggesting something threatening or evil.
-- **magnificence** — great beauty and impressiveness.
-- **perspective** — a calmer and more balanced way of seeing things.
-- **settle down** — become calmer and more relaxed.
-- **keep up** — continue at the same level.
-- **give in** — stop resisting.
-- **wake up** — stop sleeping and become conscious.
-- **laugh off** — treat something as unimportant by joking about it.
+- **hostess** — a woman who receives or entertains guests.
+- **unforgiving** — unwilling to stop blaming someone or release anger.
+- **alternative** — one of two or more possible choices.
+- **unsettling** — causing quiet anxiety or discomfort.
+- **deliberately** — in a conscious and intentional way.
+- **restore** — bring something back to an earlier or better condition.
+- **vanity** — excessive pride in oneself or one’s importance.
+- **substitute** — something used in place of something else.
+- **confession** — an admission of a personal fact or feeling.
+- **perspective** — a balanced way of viewing or understanding a situation.
 
-## Conversation 1 — Anne Realizes She Must Stay
+## Conversation 1 — The Storm Changes the Plan
 
-Miss Minerva: My dear, the storm has become too violent for you to go home.
-Anne: Then I suppose I must **settle down** here for the night.
-Miss Minerva: Certainly. Aunt Annabella’s room is prepared.
-Anne: That sounds more impressive than comforting.
+Anne: I should start back before it gets any later.
+Miss Minerva: You are not walking home in this weather. That is out of the question.
+Anne: I admit the road does not look inviting.
+Miss Minerva: Then it is settled. Stay the night and we will make the best of it.
+Anne: All right. I will take my chances with the Tomgallon ghosts.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- settle down — accept a place or situation and become calmer.
-- go home — return to one’s home.
-- keep up — continue without stopping.
-- blow up — suddenly intensify or explode, not literal here.
-- see through — understand the truth about something.
+- **be out of the question** — be impossible or unacceptable.
+- **make the best of** — handle an imperfect situation as positively as possible.
+- **take one’s chances** — accept a risk and proceed.
+- **wait something out** — remain somewhere until a problem such as bad weather ends.
+- **settle in** — become comfortable in a place for a period of time.
 
-## Conversation 2 — Anne Battles Her Imagination
+## Conversation 2 — Anne Puts the Night in Perspective
 
-Anne: I know perfectly well this room is harmless.
-Anne: Still I may **give in** to panic if that curtain moves again.
-Anne: No, I must be sensible.
-Anne: At least in the morning I shall be able to laugh it all off.
+Rebecca: You look as if Tomgallon House kept you awake until morning.
+Anne: It nearly did. After all those family tragedies, I let my imagination run away with me.
+Rebecca: I suppose every creak sounded like a ghost looking for company.
+Anne: For a while. Then I talked myself down and reminded myself that happy things must have happened there too.
+Rebecca: Sensible of you. A house should not be allowed to live on bad memories alone.
+Anne: Exactly. Once I put it in perspective, I could finally settle in and sleep.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- give in — stop resisting.
-- laugh off — treat something by joking about it.
-- lie down — put oneself in a resting position.
-- wake up — become conscious after sleep.
-- keep up — maintain something.
+- **run away with someone** — cause someone's imagination or emotions to become uncontrolled.
+- **talk oneself down** — deliberately calm oneself after fear or anxiety rises.
+- **put something in perspective** — view something in a more balanced and realistic way.
+- **settle in** — become comfortable enough in a place to relax.
+- **shake something off** — recover from an unpleasant feeling or experience.
 
 ## Practice
 
@@ -112,128 +87,118 @@ Anne: At least in the morning I shall be able to laugh it all off.
   {
     "type": "choice",
     "instant": true,
-    "target": "setting",
-    "prompt": "Why must Anne remain at Tomgallon House overnight",
+    "target": "inference",
+    "prompt": "Why does the black cat change Anne’s impression of Miss Minerva",
     "options": [
-      "The storm makes it impossible to return safely to Windy Poplars",
-      "Miss Minerva refuses to open the front door",
-      "Rebecca Dew forgets to fetch her",
-      "Anne becomes seriously ill after supper"
+      "Caring for it reveals an ordinary affectionate side beneath her formal manner",
+      "The cat proves the house is not cursed",
+      "Miss Minerva admits she dislikes her family",
+      "The cat belongs to Rebecca Dew"
     ],
-    "answer": "The storm makes it impossible to return safely to Windy Poplars",
-    "explanation": "Weather forces the overnight stay."
+    "answer": "Caring for it reveals an ordinary affectionate side beneath her formal manner",
+    "explanation": "A simple act of tenderness makes Miss Minerva feel more human and less purely imposing."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "atmosphere",
-    "prompt": "What makes Aunt Annabella’s room especially unsettling",
+    "target": "nuance",
+    "prompt": "What helps Anne finally sleep in Aunt Annabella’s room",
     "options": [
-      "Its old furnishings and tragic associations feed Anne’s imagination",
-      "It is completely empty and unfinished",
-      "It is next to the noisy kitchen",
-      "It contains school examination papers"
+      "She deliberately balances the tragic stories with imagined memories of ordinary happiness",
+      "Miss Minerva stays beside the bed all night",
+      "Rebecca arrives to keep her company",
+      "Anne learns every frightening story was invented"
     ],
-    "answer": "Its old furnishings and tragic associations feed Anne’s imagination",
-    "explanation": "The room itself and the stories attached to it create the effect."
+    "answer": "She deliberately balances the tragic stories with imagined memories of ordinary happiness",
+    "explanation": "Anne uses perspective to keep her imagination from treating tragedy as the house’s only history."
   },
   {
     "type": "fill",
     "instant": false,
-    "target": "give in",
-    "prompt": "Complete the sentence. Anne tries not to ________ ________ to fear, even though the room feels eerie.",
-    "answer": "give in",
+    "target": "out of the question",
+    "prompt": "Complete the sentence. Walking back to Windy Poplars in the storm is ________ ________ ________ ________.",
+    "answer": "out of the question",
     "accepted": [
-      "give in"
+      "out of the question"
     ],
-    "explanation": "To “give in” means stop resisting."
+    "explanation": "The phrase means impossible or not reasonably acceptable."
   },
   {
     "type": "dialogue",
     "instant": true,
-    "target": "laugh off",
-    "prompt": "Choose the best phrase.",
+    "target": "run away with",
+    "prompt": "Choose the most natural phrase.",
     "dialogue": [
       {
         "speaker": "Anne",
-        "text": "I am terrified now."
+        "text": "I know nothing supernatural is happening."
       },
       {
         "speaker": "Anne",
-        "text": "But by morning I hope I can ________ it ________."
+        "text": "My imagination is simply ________ ________ ________ me because of everything I heard tonight."
       }
     ],
     "options": [
-      "laugh / off",
-      "write / down",
-      "hand / over",
-      "carry / on"
+      "running / away / with",
+      "coming / down / on",
+      "taking / after / from",
+      "putting / up / with"
     ],
-    "answer": "laugh / off",
-    "explanation": "To “laugh something off” means treat it as unimportant with humor."
+    "answer": "running / away / with",
+    "explanation": "When imagination runs away with someone, it becomes difficult to control."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "character",
-    "prompt": "What does the chapter reveal about Anne",
+    "target": "detail",
+    "prompt": "What does Miss Minerva reveal only the next morning",
     "options": [
-      "Her imagination enriches life but also makes her vulnerable to fear",
-      "She has become entirely practical and unimaginative",
-      "She dislikes old houses in every situation",
-      "She wants to live at Tomgallon House permanently"
+      "That the previous day was her birthday",
+      "That Anne’s room had never belonged to a Tomgallon",
+      "That she plans to sell the house immediately",
+      "That she has invited Gilbert for breakfast"
     ],
-    "answer": "Her imagination enriches life but also makes her vulnerable to fear",
-    "explanation": "The chapter shows both the strength and weakness of imagination."
+    "answer": "That the previous day was her birthday",
+    "explanation": "The quiet revelation explains part of the emotional meaning of Anne’s visit."
   },
   {
     "type": "fill",
     "instant": false,
-    "target": "settle down",
-    "prompt": "Complete the sentence. At last Anne tries to ________ ________ in the great bed and force herself to sleep.",
-    "answer": "settle down",
+    "target": "make the best of",
+    "prompt": "Complete the sentence. Since Anne cannot safely leave, she decides to ________ ________ ________ ________ the unexpected overnight stay.",
+    "answer": "make the best of",
     "accepted": [
-      "settle down"
+      "make the best of"
     ],
-    "explanation": "To “settle down” means become calmer and more stable."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "keep up",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {
-        "speaker": "Miss Minerva",
-        "text": "The wind is stronger than ever."
-      },
-      {
-        "speaker": "Anne",
-        "text": "I hope it does not ________ ________ all night long."
-      }
-    ],
-    "options": [
-      "keep / up",
-      "put / away",
-      "turn / out",
-      "lay / down"
-    ],
-    "answer": "keep / up",
-    "explanation": "To “keep up” means continue at the same level."
+    "explanation": "To make the best of a situation means handle it as positively as possible."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "meaning",
-    "prompt": "Why does the room seem less frightening in the morning",
+    "target": "B2 interpretation",
+    "prompt": "Why does Miss Minerva’s birthday confession affect Anne more than the dramatic family stories",
     "options": [
-      "Daylight changes Anne’s perspective and weakens the power of suggestion",
-      "Miss Minerva removes all the furniture",
-      "Rebecca Dew comes to rescue her before dawn",
-      "Aunt Annabella’s ghost explains everything"
+      "It reveals the present loneliness underneath Miss Minerva’s fascination with the past",
+      "It proves Miss Minerva has forgotten her own age",
+      "It makes Anne believe the family curse is real",
+      "It explains why the storm began"
     ],
-    "answer": "Daylight changes Anne’s perspective and weakens the power of suggestion",
-    "explanation": "The place is the same, but Anne’s mind experiences it differently."
+    "answer": "It reveals the present loneliness underneath Miss Minerva’s fascination with the past",
+    "explanation": "The confession turns the stories from entertainment into evidence of what Miss Minerva has lost."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "paraphrase",
+    "prompt": "What does Anne mean by thinking of Tomgallon House as Yesterday",
+    "options": [
+      "The house is dominated by memory, while Anne wants a life that continues to create new experience",
+      "The house is physically located west of Windy Poplars",
+      "Anne believes old houses should always be destroyed",
+      "Miss Minerva refuses to discuss anything that happened before Anne arrived"
+    ],
+    "answer": "The house is dominated by memory, while Anne wants a life that continues to create new experience",
+    "explanation": "Yesterday becomes Anne’s image for a place where the past has become stronger than the present."
   }
 ]
 ```

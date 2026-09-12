@@ -2,94 +2,81 @@
 
 ## Story Summary
 
-Little Elizabeth had been waiting for the promised outing to Flying Cloud with an excitement that made the ordinary days before it almost impossible to endure. To Anne, the plan was a pleasant summer excursion. To Elizabeth, it was much more. She had spent years imagining Tomorrow as a wonderful place where life would finally become free and beautiful, and Flying Cloud had somehow become part of that dream.
+By June, Anne's final weeks in Summerside were slipping away too quickly for Little Elizabeth. For years the child had spoken of Tomorrow as if it were a country hidden just beyond the edge of ordinary life. Tomorrow was where freedom waited, where people might love without restraint, and where the narrow rules of The Evergreens would lose their power. Anne's friendship had brought Elizabeth closer to that imagined country than anyone else had. Now Anne was preparing to leave Summerside, and Elizabeth feared that Tomorrow might disappear with her.
 
-On the night before the trip, Elizabeth prepared for bed with unusual seriousness. She wanted to fall asleep quickly so morning would come sooner, but excitement made sleep difficult. Before she settled under the covers, she kissed a hidden picture of Miss Shirley and prayed for fine weather.
+Anne tried to reassure her. She promised another visit to Green Gables before the wedding if permission could be arranged. Elizabeth listened, but she had learned not to trust possibilities that depended on her grandmother. She knew Mrs. Campbell had never fully approved of her closeness with Anne. Once Miss Shirley left Windy Poplars, Elizabeth suspected that every door would close again.
 
-The next day was bright and clear.
+Anne shared some of that fear. Months had passed since she wrote to Pierce Grayson in Paris, and no answer had come. She did not know whether the letter had reached him or whether he had chosen to ignore it. The uncertainty made each visit with Elizabeth feel both precious and inadequate.
 
-When Anne came for her, Elizabeth’s happiness seemed to change her whole face. She was neatly dressed and almost painfully eager. The moment they left The Evergreens, she began looking around as though the road itself were new. Anne understood. For a child who lived under constant rules, simply walking freely beside someone she loved could feel like an adventure.
+Then Anne was given an errand that required a trip to Flying Cloud, a small island near the coast. She managed to get permission to take Elizabeth with her. To Anne, it was a pleasant outing. To Elizabeth, the invitation sounded like a passport into the world she had been waiting for.
 
-The road toward Flying Cloud passed through a summer landscape filled with light. Buttercups and daisies grew beside the way. Clover moved in the breeze. Beyond the fields the water shone silver-blue, and distant hills softened into the horizon. Anne did not hurry. She let Elizabeth stop, notice flowers, ask questions, and enjoy the feeling that no one was waiting to correct the way she walked or spoke.
+The night before, Elizabeth prepared for bed in a state of almost painful excitement. She brushed her golden hair and secretly took a newspaper photograph of Anne from its hiding place in a drawer. She kissed the picture before putting it away. Wind shook the house, and Elizabeth worried that rain might cancel the trip. Sitting up in bed, she prayed with practical directness for fine weather.
 
-Elizabeth drank in the freedom. At times she talked quickly, and at other times she became quiet because the beauty around her seemed too large for words. She had spent so much of her childhood looking at life through windows that being outside in it felt almost unbelievable.
+The next afternoon was bright and clear. As soon as Elizabeth and Anne walked away from The Evergreens, the child felt something inside her loosen. The Woman watched from the doorway, but for once that disapproving gaze could not call her back. Anne and Elizabeth followed the harbor road through fields of buttercups, clover, and daisies. The sea flashed beyond them, the harbor changed color with the light, and a soft wind seemed to move in the same direction they did.
 
-As they approached Flying Cloud, her excitement increased. The place belonged to the private geography of her imagination. Tomorrow had always been somewhere beyond the limits of The Evergreens, a country where people were kind and wishes might come true. Now, walking beside Anne, she felt as though she had crossed into it.
+Elizabeth wanted the walk to continue forever. Every bend in the road revealed another view. She listened to Anne talk about words, winds, and places she had never seen. Sometimes Elizabeth did not understand the reference, but she loved the movement of Anne's thoughts. With Miss Shirley, the world never seemed limited to what stood directly in front of them.
 
-At the cottage she was allowed to relax completely. There was no need to sit stiffly or wait for permission before enjoying something. When food was discussed, Elizabeth shyly asked for ice cream with strawberry jam, a combination that seemed wonderfully luxurious to her.
+At last Anne pointed toward Flying Cloud, a narrow island lying a short distance offshore. They crossed in a small boat. Elizabeth, impressed that Anne could row, watched the island grow closer and felt certain she had finally entered Tomorrow. There were trees, a house, wild strawberries, and a small bay. Everything seemed arranged to prove that ordinary rules no longer applied.
 
-During the visit she met a man she did not know.
+A maid at the house told Anne that Mrs. Thompson, whom she had come to see about a Ladies' Aid supper, was gathering wild strawberries at the far end of the island. Anne noticed that Elizabeth looked tired after the long walk and asked whether she could rest in the living room. Elizabeth obeyed, though she would have preferred to follow.
 
-He was gentle with her from the beginning. He did not ask questions in the cold, serious way adults sometimes did. Instead he listened. He seemed interested in what she thought and what she wanted. Elizabeth, who was sensitive to every change in an adult’s manner, warmed to him quickly.
+The room was beautiful and airy, with flowers and open windows looking toward the water. Elizabeth had only been alone for a short time when a man entered. For one startled moment she wondered whether he might be a gypsy, one of the mysterious people her grandmother believed capable of kidnapping children. Then she looked at his hazel eyes, brown hair, square chin, and friendly smile and decided that being kidnapped by him might not be entirely unpleasant.
 
-The man looked at her with an expression she could not understand. There was tenderness in it, but also sadness. He appeared to be studying her face as though searching for something familiar. Elizabeth noticed this without feeling afraid. In fact, she liked him almost immediately.
+The man asked who she was. Elizabeth answered that she was herself, then gave her name. The moment she said Elizabeth Grayson, something changed in his face. He was silent for a second, but Elizabeth did not know why.
 
-When he asked what she would enjoy, she mentioned the ice cream and strawberry jam. He made sure she had it. The small treat delighted her, but the kindness behind it mattered even more.
+He invited her to sit down and offered her something to eat while she waited for Anne. Elizabeth, testing the laws of Tomorrow, asked whether she could choose anything she wanted. When he said yes, she requested ice cream with strawberry jam. The combination would have been unthinkable at The Evergreens. At Flying Cloud it appeared almost immediately.
 
-They talked about Flying Cloud and Tomorrow. Elizabeth explained that Tomorrow was the wonderful place she had always imagined beyond the present. The man listened seriously instead of laughing. He said, with a sadness Elizabeth could not understand, that he would rather go back to Yesterday.
+They talked easily. The man did not question her in the controlling way adults often did. He listened. He looked at her repeatedly with a tenderness Elizabeth noticed but could not explain. She felt comfortable with him almost at once. When he said he had to leave because Anne was returning, she surprised herself by feeling disappointed.
 
-For a moment the words seemed to place them on opposite sides of time. Elizabeth was reaching toward a future she had never had. The stranger seemed to be looking backward toward something lost.
+Before he went, Elizabeth told him that Flying Cloud was Tomorrow, the place she had always wanted to reach. The man answered that he did not care much for Tomorrow. He would rather get back into Yesterday. Elizabeth felt sorry for him. She could not imagine why anyone in such a beautiful place would prefer the past.
 
-He left before Anne returned to the room, and Elizabeth was sorry to see him go. She could not explain why the meeting had felt important. She only knew that she hoped she might see him again.
-
-Anne, meanwhile, had no idea that the letter she had written earlier had already begun changing Elizabeth’s life. The quiet stranger was Pierce Grayson, the child’s father. He had come because Anne’s words had reached him. He wanted to see Elizabeth before deciding what he should do next.
-
-The rest of the afternoon still felt like a dream to Elizabeth. The beauty of Flying Cloud, the freedom of the road, and the strange kind man blended together into one bright memory. Anne was happy simply to see the child so alive. For once Elizabeth was not measuring her words or wondering what Mrs. Campbell would permit.
-
-Eventually they began the journey back.
-
-The peaceful mood continued until, around a bend, the sound of pounding hoofs suddenly broke through the summer quiet. A team of horses was rushing out of control along the road.
-
-Anne saw the danger first.
-
-She cried out.
-
-The shining day that had seemed like Elizabeth’s first real visit to Tomorrow changed in a single moment into confusion and fear.
-
-Elizabeth’s happiness made Anne unusually quiet at moments. She had seen the child happy before, especially at Green Gables, but the freedom of this day had a different quality. Elizabeth was older now and more aware of what she had been missing. She did not merely enjoy the scenery. She noticed that no one was correcting her, calling her back, or telling her that a small pleasure was foolish. Anne could almost see the tension leaving her little by little as the road carried them farther from The Evergreens.
+Anne returned without seeing him, and the outing continued. Later, as Anne and Elizabeth rowed back and walked toward the mainland road, Elizabeth looked behind her for one last view of the island. At that moment a team of runaway horses pulling a wagon came around the bend with the driver struggling to control them. Anne saw the danger and cried out, and the afternoon that had felt like a perfect entrance into Tomorrow ended in a blur of movement. Elizabeth had no time to understand what was happening. Yet before the danger arrived, something more important had already taken place at Flying Cloud. A man who had crossed an ocean because of Anne's letter had finally seen the daughter he scarcely knew. Elizabeth, without knowing his identity, had already begun to trust him.
 
 ## Vocabulary & Nuance
 
-- **threshold** — a point of entering a new state or stage.
-- **deprivation** — a painful lack of something needed.
-- **radiant** — full of joy, brightness, or happiness.
-- **instinctively** — in a natural way without conscious reasoning.
-- **intimacy** — a close and warm feeling between people.
-- **set out** — begin a journey.
-- **reach for** — try to attain or touch.
-- **open up** — become more emotionally expressive or accessible.
-- **break into** — suddenly begin, as in tears or laughter, not literal entry.
-- **come true** — be realized after being hoped for.
+- **restraint** — control that limits freedom of action or expression.
+- **inadequate** — not enough for a particular need or purpose.
+- **passport** — something that gives access to a new experience, used figuratively here.
+- **disapproving** — showing that one believes something is wrong or unacceptable.
+- **reference** — a mention of something that may require outside knowledge to understand.
+- **unthinkable** — so unlikely or unacceptable that it is difficult to imagine.
+- **tenderness** — gentle affection and care.
+- **identity** — who a person is.
+- **blur** — something difficult to see or remember clearly because events happen rapidly.
+- **instinctive** — done or felt naturally without deliberate reasoning.
 
-## Conversation 1 — Elizabeth Anticipates the Trip
+## Conversation 1 — Elizabeth Looks Forward to Flying Cloud
 
-Elizabeth: Do you truly think tomorrow will be fine
-Anne: I hope so, and if it is we shall **set out** after luncheon.
-Elizabeth: Then Tomorrow may finally come true.
-Anne: For one day at least, I think it will.
+Elizabeth: What if it rains tomorrow and Grandmother changes her mind
+Anne: We cannot control every possibility, so let us not borrow trouble before it arrives.
+Elizabeth: That is difficult when good things so often get taken away.
+Anne: I know. But for tonight, hold on to the fact that we have permission and a plan.
+Elizabeth: Then I will try not to talk myself out of being happy before anything has happened.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- set out — begin a journey.
-- come true — be realized after being hoped for.
-- look forward to — feel pleased in anticipation.
-- dress up — put on special clothes.
-- fall asleep — begin sleeping.
+- **borrow trouble** — worry in advance about a problem that has not happened.
+- **hold on to** — keep one’s attention or emotional grip on something.
+- **talk oneself out of** — persuade oneself not to feel or do something.
+- **look forward to** — anticipate something with pleasure.
+- **count on** — depend on something as likely or reliable.
 
-## Conversation 2 — At Flying Cloud
+## Conversation 2 — Elizabeth Meets the Stranger
 
-Man: What would you like to eat
-Elizabeth: Could I have ice cream with strawberry jam on it
-Man: Of course. You may ask for exactly what you want here.
-Elizabeth: Then perhaps Tomorrow is finally **opening up** to me.
+Man: You seem very certain this place is Tomorrow.
+Elizabeth: It has everything Today never seems to have.
+Man: Such as
+Elizabeth: Freedom, ice cream with strawberry jam, and people who do not tell me what I am supposed to feel.
+Man: That is a demanding standard for an island.
+Elizabeth: So far it is living up to it.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- open up — become accessible or emotionally available.
-- sit down — take a seat.
-- look after — take care of.
-- come across — meet unexpectedly.
-- warm to — begin to like someone.
+- **live up to** — meet the standard created by an expectation.
+- **put someone at ease** — make another person feel relaxed and safe.
+- **let one’s guard down** — become less cautious and more emotionally open.
+- **strike up a rapport** — quickly develop an easy and positive connection.
+- **take to someone** — begin liking someone quickly and naturally.
 
 ## Practice
 
@@ -98,128 +85,118 @@ Elizabeth: Then perhaps Tomorrow is finally **opening up** to me.
   {
     "type": "choice",
     "instant": true,
-    "target": "emotion",
-    "prompt": "Why is the excursion so meaningful to Elizabeth",
+    "target": "inference",
+    "prompt": "Why does Elizabeth treat the outing as more than an ordinary walk",
     "options": [
-      "It gives her a taste of freedom and loving companionship",
-      "It allows her to avoid school examinations",
-      "It proves that Rebecca Dew likes cats",
-      "It lets her move to Kingsport immediately"
+      "It represents the freedom and possibility she has long associated with Tomorrow",
+      "She expects Anne to buy her expensive clothes",
+      "She has been promised that she can move to Flying Cloud permanently",
+      "She wants to avoid attending school examinations"
     ],
-    "answer": "It gives her a taste of freedom and loving companionship",
-    "explanation": "The outing answers a deep emotional need in Elizabeth."
+    "answer": "It represents the freedom and possibility she has long associated with Tomorrow",
+    "explanation": "The outing gives physical form to the hopeful world Elizabeth has imagined for years."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "nuance",
+    "prompt": "What is significant about the man’s reaction when Elizabeth says her full name",
+    "options": [
+      "He recognizes that she is the daughter he has come to see",
+      "He thinks she has given a false name",
+      "He remembers meeting Anne at school",
+      "He realizes she is related to Miss Minerva"
+    ],
+    "answer": "He recognizes that she is the daughter he has come to see",
+    "explanation": "His brief silence reflects recognition that Elizabeth cannot yet understand."
+  },
+  {
+    "type": "fill",
+    "instant": false,
+    "target": "look forward to",
+    "prompt": "Complete the sentence. Elizabeth has been ________ ________ ________ the trip so intensely that she worries even the weather may take it away.",
+    "answer": "looking forward to",
+    "accepted": [
+      "looking forward to"
+    ],
+    "explanation": "To look forward to something means anticipate it with pleasure."
+  },
+  {
+    "type": "dialogue",
+    "instant": true,
+    "target": "live up to",
+    "prompt": "Choose the most natural phrase.",
+    "dialogue": [
+      {
+        "speaker": "Man",
+        "text": "You expected Tomorrow to be wonderful."
+      },
+      {
+        "speaker": "Elizabeth",
+        "text": "Yes, and Flying Cloud is ________ ________ ________ that expectation so far."
+      }
+    ],
+    "options": [
+      "living / up / to",
+      "getting / out / of",
+      "coming / down / with",
+      "putting / off / on"
+    ],
+    "answer": "living / up / to",
+    "explanation": "To live up to an expectation means be as good as hoped."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "B2 inference",
+    "prompt": "Why does Elizabeth trust the stranger unusually quickly",
+    "options": [
+      "He listens without controlling her and responds with gentle attention",
+      "He tells her that Mrs. Campbell sent him",
+      "He promises to buy her a new house immediately",
+      "Anne has introduced him as a family friend"
+    ],
+    "answer": "He listens without controlling her and responds with gentle attention",
+    "explanation": "His manner gives Elizabeth a kind of respect and warmth she rarely receives from adults."
+  },
+  {
+    "type": "fill",
+    "instant": false,
+    "target": "take to",
+    "prompt": "Complete the sentence. Elizabeth seems to ________ ________ the stranger almost immediately, even before she knows who he is.",
+    "answer": "take to",
+    "accepted": [
+      "take to"
+    ],
+    "explanation": "To take to someone means begin liking that person naturally and quickly."
   },
   {
     "type": "choice",
     "instant": true,
     "target": "detail",
-    "prompt": "What hidden object does Elizabeth kiss before bed",
+    "prompt": "What unusual treat does Elizabeth request",
     "options": [
-      "A picture of Miss Shirley",
-      "A map of Summerside",
-      "A ring from her mother",
-      "A letter from Gilbert"
+      "Ice cream with strawberry jam",
+      "Chocolate cake with orange marmalade",
+      "Tea with whipped cream",
+      "Strawberries with hot cocoa"
     ],
-    "answer": "A picture of Miss Shirley",
-    "explanation": "The gesture shows her devotion to Anne."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "set out",
-    "prompt": "Complete the sentence. On the beautiful afternoon, Anne and Elizabeth ________ ________ together for Flying Cloud.",
-    "answer": "set out",
-    "accepted": [
-      "set out"
-    ],
-    "explanation": "To “set out” means begin a journey."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "come true",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {
-        "speaker": "Elizabeth",
-        "text": "I have dreamed of Tomorrow for so long."
-      },
-      {
-        "speaker": "Anne",
-        "text": "Today perhaps part of that dream has ________ ________."
-      }
-    ],
-    "options": [
-      "come / true",
-      "gone / over",
-      "sat / up",
-      "put / by"
-    ],
-    "answer": "come / true",
-    "explanation": "A dream “comes true” when it is realized."
-  },
-  {
-    "type": "choice",
-    "instant": true,
-    "target": "inference",
-    "prompt": "What is special about the unknown man at Flying Cloud",
-    "options": [
-      "He feels an immediate tenderness toward Elizabeth",
-      "He is annoyed that Anne brought a child",
-      "He has no interest in speaking to her",
-      "He is planning to leave Summerside forever that hour"
-    ],
-    "answer": "He feels an immediate tenderness toward Elizabeth",
-    "explanation": "His behavior suggests a hidden bond."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "open up",
-    "prompt": "Complete the sentence. At Flying Cloud, a world that had seemed distant begins to ________ ________ before Elizabeth.",
-    "answer": "open up",
-    "accepted": [
-      "open up"
-    ],
-    "explanation": "To “open up” means become accessible."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "warm to",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {
-        "speaker": "Anne",
-        "text": "You seem to like our new friend."
-      },
-      {
-        "speaker": "Elizabeth",
-        "text": "Yes, I took to him at once and ________ ________ him immediately."
-      }
-    ],
-    "options": [
-      "warmed / to",
-      "fell / through",
-      "put / down",
-      "passed / by"
-    ],
-    "answer": "warmed / to",
-    "explanation": "To “warm to” someone means begin to like that person."
+    "answer": "Ice cream with strawberry jam",
+    "explanation": "The freedom to choose the strange combination makes Flying Cloud feel magical to her."
   },
   {
     "type": "choice",
     "instant": true,
     "target": "structure",
-    "prompt": "Why does the out of control team of horses matter at the end",
+    "prompt": "Why is the runaway-horse incident placed at the end of the chapter",
     "options": [
-      "It abruptly turns the hopeful outing into a crisis that leads to the next chapter",
-      "It proves that the man was dangerous",
-      "It forces Anne to cancel her wedding",
-      "It makes Elizabeth hate Flying Cloud"
+      "It abruptly breaks the dreamlike outing and creates urgency for the next chapter",
+      "It proves Flying Cloud was unsafe all along",
+      "It prevents Elizabeth from ever speaking to Anne again",
+      "It reveals the stranger’s identity before he leaves"
     ],
-    "answer": "It abruptly turns the hopeful outing into a crisis that leads to the next chapter",
-    "explanation": "The danger shifts the story dramatically."
+    "answer": "It abruptly breaks the dreamlike outing and creates urgency for the next chapter",
+    "explanation": "The sudden danger shifts the narrative from wonder to crisis while the hidden reunion is still unresolved."
   }
 ]
 ```

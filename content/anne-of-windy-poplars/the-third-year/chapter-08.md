@@ -2,100 +2,76 @@
 
 ## Story Summary
 
-The next evening Anne walked toward Elmcroft through a cold November fog. She had faced many difficult conversations during her years in Summerside, but few had made her as uneasy as this one. Dovie and Jarvis were married, and Anne had promised to tell Franklin Westcott. Every story she had ever heard about him returned to her as she approached the house. He was said to be proud, sharp, stubborn, and impossible to cross. Anne did not truly believe he would harm her, yet she knew that a few cruel words could be harder to face than open anger.
+The next evening Anne walked toward Elmcroft through a November fog that softened the road, the fields, and even the outlines of the houses. Under other circumstances she might have enjoyed the strange beauty of it. That night the fog only made the errand feel more uncertain. Dovie and Jarvis were safely married, but Franklin Westcott knew nothing about it, and Anne had promised to be the person who told him.
 
-Elmcroft itself did little to comfort her. The house stood dark and serious beyond the trees, and the family bulldog waited at the top of the steps like a guard. Anne forced herself to walk past him calmly. If Franklin was going to frighten her, she was determined that his dog would not do it first.
+She was not seriously afraid that he would hurt her. Still, Summerside had provided a generous collection of stories about Franklin's temper. More than his anger, Anne dreaded his sarcasm. Open rage could be answered or endured. Sarcasm had a way of leaving a wound after the conversation was over. As she approached Elmcroft, Anne remembered Aunt Jamesina's old advice about avoiding the role of messenger when the news was bad. Unfortunately, she had accepted the role before remembering the advice.
 
-Aunt Maggie let her in and explained that Franklin had not yet returned from Charlottetown. She took Anne to the library to wait.
+The house rose out of the fog with towers at its corners and a rounded cupola above the roof. On the top step sat the large bulldog that had appeared in so many warnings. Anne considered going around to another entrance, then imagined Franklin watching from a window and discovering that she was afraid of his dog. Pride settled the matter. She walked directly up the steps. The animal barely moved.
 
-The room surprised her. She had expected something severe and formal, but the library was warm and lived in. A fire burned in the grate. The carpet was worn. Books covered the shelves. Pipes and familiar objects lay about in a way that suggested comfort rather than display. The bulldog followed Anne inside, circled once, and settled near her feet as if he had already decided she belonged there.
+Franklin had not yet returned from Charlottetown, so Aunt Maggie showed Anne into the library to wait. The room immediately complicated her expectations. Instead of being severe and joyless, it was shabby, comfortable, and full of books. A fire burned in the grate. Pipes and well-used furniture suggested private habits that belonged to a man capable of pleasure. The bulldog followed Anne inside and settled at her feet with complete trust. She began to suspect that Elmcroft might contain more contradictions than Summerside gossip allowed.
 
-For a few minutes she sat listening to the fire and rehearsing possible sentences. Every opening sounded wrong. She could not imagine a graceful way to tell a proud father that his daughter had married secretly after he had forbidden the match.
+When Franklin arrived, however, his manner did little to reassure her. He appeared in the doorway with a hard expression, greeted her roughly, and asked what she wanted. Anne decided that any attempt to soften the message would only prolong the discomfort. She asked him to hear her out and told him directly that Dovie had married Jarvis the previous night. Anne braced herself for the explosion everyone in Summerside had taught her to expect, but nothing of the kind followed. Franklin merely sat down, asked when the wedding had taken place, and listened while she explained. Then, to her astonishment, he threw back his head and began one of his strange fits of soundless laughter. Anne could not decide whether this was an alarming form of anger or genuine amusement. Believing Dovie needed protection, she quickly took responsibility. She said she had encouraged the marriage and asked Franklin to blame her rather than his daughter.
 
-When Franklin finally entered, Anne’s prepared speeches disappeared.
+That was when Franklin's version of the story began to emerge. He had never believed Jarvis was unsuitable. Before opposing the match, he had quietly investigated the young lawyer and satisfied himself that Jarvis was decent, capable, and financially secure. His real concern was Dovie. He loved his daughter, but he thought she had become weak from a lifetime of being protected and indulged. If he welcomed Jarvis too easily, Franklin feared Dovie would drift into marriage without ever choosing anything firmly for herself.
 
-He was as formidable as people described him. His grizzled brows and deep-set eyes gave him a hard expression, and his manner was abrupt. He did not waste time on social conversation. Anne decided that directness was her only hope.
+So he had created resistance deliberately. He had forbidden Jarvis the house, rejected the match, and acted the part of the impossible father because he believed opposition would force Dovie to discover how much she wanted Jarvis. Franklin had expected the lovers to become more determined under pressure. Jarvis had done exactly that. Dovie had not. Her habit of giving in to stronger personalities was so deep that Franklin had begun to worry his strategy would fail.
 
-She told him that Dovie had married Jarvis Morrow the night before.
+The irony left Anne almost speechless. She had spent weeks believing she was helping Dovie escape Franklin's control, while Franklin had been waiting for someone to help Dovie resist it. He admitted that he was relieved Anne had succeeded. If Dovie had continued hesitating, Jarvis might eventually have walked away. Franklin himself would then have faced an awkward choice. He could keep playing the tyrant and risk ruining his daughter's happiness, or he could back down openly and lose the effect he had been trying to create.
 
-Then she waited.
+Anne could not entirely approve of the method. Franklin had used fear as a tool, and Dovie's distress had been real. Yet the revelation made him less simple than the villain Summerside had created. He was controlling, proud, and fond of manipulation, but he was also concerned with his daughter's future and far more observant than people believed. His plan had been risky, but it had not grown from hatred of Jarvis.
 
-Franklin lowered himself into a leather chair and asked when the wedding had taken place. Anne answered. A long silence filled the library. The fire cracked behind him while she watched his face, certain that anger was about to break through the calm expression.
+As the conversation continued, Anne's fear gave way to amusement. Franklin listened to the details of the wedding with obvious enjoyment, smoking his pipe while the bulldog rested comfortably near Anne. He thanked her for providing the courage Dovie had lacked. He also asked her to keep his strategy secret from Jarvis. He wanted the young man to believe he had won a genuine battle rather than participated in a test designed by his father-in-law.
 
-Instead, Franklin began to laugh.
+By the time Franklin walked Anne to the door, the man she had expected to face no longer existed in quite the same form. He even sent a teasing message to Rebecca Dew and thanked Anne again. Outside, the fog had begun to clear, and the night felt lighter than it had on the walk to Elmcroft.
 
-The laugh was almost soundless and therefore more confusing than ordinary laughter. Anne stared at him, wondering whether this strange reaction was his way of becoming furious. She quickly began defending Dovie. If anyone was to blame, she said, Franklin should blame her. Dovie had been frightened and uncertain. Anne had encouraged her to keep her promise to Jarvis.
+Rebecca was waiting for a report when Anne returned. Because Anne had promised Franklin secrecy, she gave only the safe version. He had taken the news better than expected, and she believed he would forgive Dovie. Rebecca immediately credited Anne's famous ability to talk people around. Anne accepted the compliment without explaining that she had hardly needed to persuade him at all.
 
-Franklin listened, still amused.
-
-Then he explained something Anne had never imagined.
-
-He had not opposed Jarvis because he thought the young man unworthy. On the contrary, he had quietly investigated him long ago and discovered that Jarvis was respectable, capable, and likely to make Dovie a good husband. Franklin’s real concern was Dovie herself. He loved his daughter, but he believed she had become too soft and too dependent on other people’s decisions. If he simply approved the marriage, she would drift into it without ever learning to choose anything for herself.
-
-So Franklin had played the part of the impossible father.
-
-He had forbidden Jarvis to visit. He had made the relationship difficult. He had counted on opposition to strengthen Dovie’s determination and force her to act for herself. At first the plan seemed clever. Then Franklin discovered its weakness. Dovie might love Jarvis and still be too afraid to defy him. As the months passed, Franklin himself became trapped. If he suddenly gave permission, he would have to admit that his opposition had been partly a performance. Yet if he continued, Dovie might lose Jarvis altogether.
-
-Anne listened in growing astonishment.
-
-The terrible family conflict that had occupied half the town had, at least in part, been created by Franklin himself. His methods were certainly questionable, but his motive was very different from the cruelty people had imagined. He wanted Dovie to become strong enough to make a choice.
-
-When Anne described how she had gone to Elmcroft, pulled Dovie out of bed, helped her into the rose taffeta dress, and delivered her to Jarvis, Franklin looked almost delighted. Anne had solved the problem he could no longer solve without losing his pride. Dovie had finally acted. Jarvis had finally married her. Franklin could now appear to be the stern father who had been defeated and later become the forgiving one.
-
-He thanked Anne with complete sincerity.
-
-Anne could hardly believe that she had spent the walk to Elmcroft imagining his fury. A little while earlier she had feared every movement of his eyebrows. Now she found herself laughing with him. Even the bulldog seemed to approve of the change, resting comfortably against her as though the evening had become an ordinary friendly visit.
-
-Franklin asked her not to explain his entire plan to Jarvis. He preferred his new son in law to believe that he had fought a heroic battle and won Dovie against serious opposition. Anne agreed. She suspected that the truth might spoil the story Jarvis would enjoy telling himself for years.
-
-When Anne finally rose to leave, Franklin accompanied her politely and thanked her again. He even sent a humorous message to Rebecca Dew.
-
-Outside, the fog still lay over the road, but Anne’s walk back to Windy Poplars felt very different from the walk out. Franklin Westcott had not become a gentle man. He was still proud, difficult, and fond of controlling a situation. Yet he was no longer the simple villain Summerside had created in its gossip.
-
-Anne smiled to herself as she went home. Once again, a person had turned out to be far more complicated than the story told about him.
+Later, climbing into bed, Anne thought about how confidently people had told her what Franklin Westcott was like. They had been wrong, and so had she. The evening did not persuade her that Franklin's methods were wise, but it reminded her that a reputation can flatten a complicated person into a single story. She had gone to Elmcroft expecting a furious father and found instead a strategist who had nearly trapped himself inside his own performance.
 
 ## Vocabulary & Nuance
 
-- **brusque** — abrupt and not very polite in speech or manner.
-- **sarcasm** — speech that says the opposite of what is meant in order to mock or hurt.
-- **domineering** — trying to control other people too strongly.
-- **shrewd** — showing sharp practical judgment.
-- **threshold** — the point where a new stage begins.
-- **brace oneself** — prepare mentally for something difficult.
-- **play a role** — act in a certain way, sometimes deliberately.
-- **let on** — reveal secret information.
-- **figure out** — understand or solve something.
-- **turn out** — develop in a particular way in the end.
+- **complicate** — make something less simple or more difficult to understand.
+- **contradiction** — a combination of qualities or facts that seem not to fit together.
+- **prolong** — make something continue for longer.
+- **investigate** — examine facts carefully in order to discover the truth.
+- **deliberately** — in a planned and intentional way.
+- **strategy** — a planned method for achieving a goal.
+- **manipulation** — controlling a situation or person indirectly to produce a desired result.
+- **revelation** — a surprising fact that changes how a situation is understood.
+- **flatten** — reduce something complex to an overly simple version.
+- **perspective** — a particular way of understanding or judging something.
 
 ## Conversation 1 — Anne Breaks the News
 
-Anne: Mr. Westcott, I came to tell you that Dovie married Jarvis last night.
-Franklin: So it finally **turned out** that way, did it
-Anne: Please do not blame her too severely.
-Franklin: Sit down first. You had better hear the whole matter out.
+Anne: I am going to say this directly because there is no useful way to dress it up. Dovie married Jarvis last night.
+Franklin: And I suppose you are waiting for me to lose my temper.
+Anne: I was prepared for a strong reaction.
+Franklin: Then I am afraid I am going to disappoint you.
+Anne: That may be the best disappointment I have had all week.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- turn out — happen or develop in the end.
-- hear out — listen until the speaker finishes.
-- sit down — take a seat.
-- break the news — tell someone important or difficult information.
-- blame for — hold someone responsible for something.
+- **dress something up** — present something in a softer or more attractive way.
+- **lose one’s temper** — become openly angry.
+- **brace for** — prepare for something difficult or unpleasant.
+- **hear someone out** — listen until the person finishes.
+- **come as a surprise** — be unexpected.
 
-## Conversation 2 — Franklin Explains Himself
+## Conversation 2 — Franklin Reveals the Plan
 
-Franklin: I had already **figured out** that Jarvis was an honest man.
-Anne: Then why did you oppose him so fiercely
-Franklin: I wanted Dovie to make a real choice and stop drifting.
-Anne: So you were only playing a role all along
+Franklin: I knew Jarvis was a good man before I ever threw him out.
+Anne: Then you put both of them through all this on purpose
+Franklin: I wanted Dovie to stop letting other people make every decision for her.
+Anne: You came dangerously close to pushing the whole thing too far.
+Franklin: I know. That is why I am more grateful to you than you realize.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- figure out — understand after thinking or investigating.
-- play a role — act in a deliberate part.
-- all along — from the beginning, even if it was hidden.
-- back down — retreat from a position.
-- give away — reveal a secret unintentionally.
+- **put someone through** — cause someone to experience something difficult.
+- **push something too far** — continue an action beyond a safe or reasonable limit.
+- **back down** — withdraw from a position or demand.
+- **give the game away** — reveal a secret plan.
+- **come close to** — nearly reach a particular result.
 
 ## Practice
 
@@ -104,128 +80,118 @@ Anne: So you were only playing a role all along
   {
     "type": "choice",
     "instant": true,
-    "target": "brusque",
-    "prompt": "Why does Anne expect the meeting with Franklin to be difficult",
+    "target": "inference",
+    "prompt": "Why does the library begin to change Anne’s view of Franklin before he even arrives",
     "options": [
-      "She believes he may answer with cutting sarcasm and cold manners",
-      "She thinks he has forgotten Dovie completely",
-      "She knows he has already welcomed Jarvis",
-      "She plans to ask him for money"
+      "Its warmth and books suggest a private side that does not match his harsh public reputation",
+      "Anne discovers a letter proving he supports Jarvis",
+      "Aunt Maggie tells Anne every rumor is false",
+      "The room has been decorated for Dovie’s wedding"
     ],
-    "answer": "She believes he may answer with cutting sarcasm and cold manners",
-    "explanation": "Anne fears his sarcasm and reputation more than any physical threat."
+    "answer": "Its warmth and books suggest a private side that does not match his harsh public reputation",
+    "explanation": "The setting introduces evidence that Franklin may be more complicated than the town’s stories suggest."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "nuance",
+    "prompt": "Why does Franklin oppose Jarvis even though he considers him a suitable husband",
+    "options": [
+      "He wants Dovie to develop the will to make a firm choice for herself",
+      "He hopes Jarvis will marry someone wealthier",
+      "He has promised Dovie to another man",
+      "He believes lawyers should not marry young"
+    ],
+    "answer": "He wants Dovie to develop the will to make a firm choice for herself",
+    "explanation": "His opposition is a strategy aimed at Dovie’s lack of independence, though the method is questionable."
+  },
+  {
+    "type": "fill",
+    "instant": false,
+    "target": "dress up",
+    "prompt": "Complete the sentence. Anne decides not to ________ the news ________ because Franklin is unlikely to respond well to a long introduction.",
+    "answer": "dress up",
+    "accepted": [
+      "dress up"
+    ],
+    "explanation": "To dress up difficult news means present it in a softened or more attractive form."
+  },
+  {
+    "type": "dialogue",
+    "instant": true,
+    "target": "push too far",
+    "prompt": "Choose the most natural phrase.",
+    "dialogue": [
+      {
+        "speaker": "Anne",
+        "text": "Your plan nearly cost Dovie the relationship."
+      },
+      {
+        "speaker": "Franklin",
+        "text": "I admit I may have ________ it too ________."
+      }
+    ],
+    "options": [
+      "pushed / far",
+      "taken / after",
+      "put / away",
+      "brought / in"
+    ],
+    "answer": "pushed / far",
+    "explanation": "To push something too far means carry it beyond a reasonable or safe point."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "B2 judgment",
+    "prompt": "What makes Franklin morally complicated rather than simply cruel",
+    "options": [
+      "His goal includes Dovie’s welfare, but he uses fear and manipulation to pursue it",
+      "He never cares what happens to Dovie",
+      "He secretly dislikes both Dovie and Jarvis",
+      "He has no idea that his behavior affects other people"
+    ],
+    "answer": "His goal includes Dovie’s welfare, but he uses fear and manipulation to pursue it",
+    "explanation": "His motives are partly protective while his methods remain controlling."
+  },
+  {
+    "type": "fill",
+    "instant": false,
+    "target": "back down",
+    "prompt": "Complete the sentence. Franklin admits that if Dovie had not acted, he might eventually have been forced to ________ ________ openly.",
+    "answer": "back down",
+    "accepted": [
+      "back down"
+    ],
+    "explanation": "To back down means withdraw from a strongly stated position."
   },
   {
     "type": "choice",
     "instant": true,
     "target": "detail",
-    "prompt": "What surprises Anne about the library at Elmcroft",
+    "prompt": "What does Franklin ask Anne not to reveal to Jarvis",
     "options": [
-      "It is cheerful and comfortable rather than severe",
-      "It contains no books at all",
-      "It is full of wedding decorations",
-      "It has been turned into a schoolroom"
+      "That his opposition was partly a deliberate strategy",
+      "That Dovie nearly missed the wedding",
+      "That Aunt Maggie knew about the marriage",
+      "That he plans to leave Summerside"
     ],
-    "answer": "It is cheerful and comfortable rather than severe",
-    "explanation": "The room softens Anne’s idea of Franklin."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "turn out",
-    "prompt": "Complete the sentence. In the end, the conversation ________ ________ far better than Anne expected.",
-    "answer": "turned out",
-    "accepted": [
-      "turned out"
-    ],
-    "explanation": "To “turn out” means develop in a certain way in the end."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "hear out",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {
-        "speaker": "Franklin",
-        "text": "Sit down first."
-      },
-      {
-        "speaker": "Anne",
-        "text": "You mean you will ________ me ________ before judging"
-      }
-    ],
-    "options": [
-      "hear / out",
-      "break / in",
-      "take / off",
-      "pull / over"
-    ],
-    "answer": "hear / out",
-    "explanation": "To “hear someone out” means listen until that person finishes speaking."
+    "answer": "That his opposition was partly a deliberate strategy",
+    "explanation": "He wants Jarvis to believe the resistance was entirely genuine."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "shrewd",
-    "prompt": "What does Anne gradually realize about Franklin",
+    "target": "paraphrase",
+    "prompt": "Which statement best expresses Anne’s final lesson from the visit",
     "options": [
-      "He is a shrewd man whose rough behavior hides a plan",
-      "He is completely unaware of Dovie’s feelings",
-      "He never respected Jarvis at all",
-      "He only cares about social gossip"
+      "A strong reputation can hide a person whose motives and character are more complicated than the public story",
+      "People with bad reputations are usually secretly kind",
+      "Gossip should always be ignored because it is never accurate",
+      "Franklin’s strategy proves manipulation is the best way to help people"
     ],
-    "answer": "He is a shrewd man whose rough behavior hides a plan",
-    "explanation": "Anne sees that he understood more than she had guessed."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "let on",
-    "prompt": "Complete the sentence. Franklin does not ________ ________ to Jarvis that the opposition was partly strategic.",
-    "answer": "let on",
-    "accepted": [
-      "let on"
-    ],
-    "explanation": "To “let on” means reveal secret information."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "back down",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {
-        "speaker": "Anne",
-        "text": "Why did you not simply give permission"
-      },
-      {
-        "speaker": "Franklin",
-        "text": "Because then I would have had to ________ ________ too openly."
-      }
-    ],
-    "options": [
-      "back / down",
-      "come / across",
-      "fill / in",
-      "set / up"
-    ],
-    "answer": "back / down",
-    "explanation": "To “back down” means retreat from a position."
-  },
-  {
-    "type": "choice",
-    "instant": true,
-    "target": "theme",
-    "prompt": "What larger idea does Anne learn in this chapter",
-    "options": [
-      "People may hide genuine love behind difficult behavior",
-      "Every rumor in Summerside is accurate",
-      "Parents should never interfere in marriage",
-      "Courage always appears in obvious ways"
-    ],
-    "answer": "People may hide genuine love behind difficult behavior",
-    "explanation": "The chapter complicates Anne’s earlier judgment of Franklin."
+    "answer": "A strong reputation can hide a person whose motives and character are more complicated than the public story",
+    "explanation": "Anne does not fully approve of Franklin, but she recognizes that the town’s simple version of him was incomplete."
   }
 ]
 ```

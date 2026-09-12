@@ -2,88 +2,76 @@
 
 ## Story Summary
 
-On a dark March evening, Anne dressed carefully and went to Tomgallon House for supper with Miss Minerva. She had passed the great house many times during her years in Summerside, but entering it as an invited guest felt different. From the road it had always seemed to belong to another age, a house that had somehow remained standing while the world around it moved on.
+On a dark, windy evening in March, Anne climbed the broad steps of Tomgallon House and felt as if she were approaching a building that had been waiting a century to tell its stories. She had passed the mansion many times when only one or two windows showed light. Now every part of it seemed illuminated. The stone urns, the lions beside the steps, and the massive front door looked almost theatrical under the lamps.
 
-That night lights shone from many windows, and the broad entrance looked almost grand enough for a public ceremony. Stone lions guarded the steps. Anne suddenly wondered whether her dress was fine enough and wished, for half a second, that she had chosen something more impressive.
+For a moment Anne regretted choosing her green voile instead of the cream silk Rebecca had recommended. Then Miss Minerva appeared in the hall, and any concern about clothing disappeared into curiosity. The older woman wore black velvet, diamonds, and a large cameo. Her iron-gray hair was arranged with formal precision, and she carried the old-fashioned style so naturally that it seemed less like fashion than authority.
 
-Miss Minerva received her with formal kindness. She wore black velvet, a diamond comb in her iron-gray hair, and a large cameo. On another woman the style might have looked old-fashioned. On Miss Minerva it seemed natural, as though she and the house had agreed long ago not to follow ordinary rules of fashion.
+Miss Minerva welcomed Anne with genuine warmth, but she had barely finished the greeting before the house itself became the subject of conversation. Tomgallon House, she explained, had once been a center of social life on the Island. Important visitors had come, famous parties had been held, and the family had considered itself almost a local dynasty. Now Miss Minerva was the last of the line. She said this without self-pity, then added with unmistakable satisfaction that the Tomgallons had been under a curse.
 
-Almost immediately she began showing Anne around.
+Anne's imagination immediately woke up. A family curse in a great old mansion was exactly the kind of phrase that might once have sent her inventing stories for an entire afternoon. Miss Minerva, however, needed no invention. She began supplying history.
 
-The rooms were magnificent. Anne saw heavy curtains, mirrors, silver, crystal, old furniture, portraits, carved wood, and objects that had belonged to generations of Tomgallons. Yet the beauty never remained simple for more than a moment. Every room had a story, and almost every story ended badly.
+The grand staircase had been the scene of the first tragedy. Miss Minerva's great-grandfather had fallen down it and broken his neck during the housewarming held to celebrate the completion of the mansion. She pointed toward the place with such dramatic certainty that Anne could almost picture the event on the faded carpet. From there the tour continued through hallways lined with portraits and photographs, past the famous stained-glass window, and into rooms preserved with the dignity of a museum.
 
-Miss Minerva would point to a chair and remember who had sat there during an unhappy engagement. A portrait led to the story of a marriage that had disappointed the family. A staircase reminded her of an accident. Another room belonged forever, in her mind, to some old quarrel or death. Anne listened politely, but after a while she began to feel that the whole house was crowded with invisible people who had never truly left it.
+Every object seemed to have a story, and nearly every story ended badly. A bedroom recalled a death. A portrait introduced an unhappy marriage. A piece of furniture brought back a quarrel, an accident, or a family scandal. Even the stained-glass window and the tiger-skin rug seemed to belong to a world in which decoration could never remain merely decorative. Miss Minerva moved through the rooms with the certainty of a curator who knew where every memory belonged, pausing beneath portraits to identify faces and family connections that would have meant nothing to an outsider. Anne tried at first to respond politely, but Miss Minerva rarely paused long enough to require help. The stories flowed into one another until the house began to feel less like a home than an archive of catastrophe.
 
-The grand staircase was especially impressive. Portraits watched from the walls, and the warm light from candles and lamps reflected from polished wood. A tiger-skin rug lay on the floor, giving the hall an almost theatrical appearance. Miss Minerva moved through the space as though she were not simply the owner but also the keeper of every memory attached to it.
+Some of the histories were so extreme that Anne had difficulty deciding whether to be horrified or amused. One relative had poisoned her husband with poisonous mushrooms, although the family preferred to describe the event as an unfortunate mistake. Another had taken laudanum after an unhappy marriage. Miss Minerva discussed these events with the calm seriousness of someone reviewing old household accounts. She was less interested in moral judgment than in preserving the details accurately.
 
-Anne’s imagination responded at once. She could picture dances, formal dinners, proud young women in fine dresses, and family arguments behind closed doors. She also began to understand that Miss Minerva did not remember the past casually. She lived with it. The Tomgallons had once been one of the great families of the district. Now Miss Minerva was the last of them, moving through rooms that were far too large for her present life.
+The ballroom offered no escape. It had once hosted famous dances attended by people from across the Island. Miss Minerva pointed out the expensive chandelier and then identified the corner where a great-aunt had dropped dead while dancing. The woman had been disappointed in love. Miss Minerva found the idea of breaking one's heart over a man difficult to understand and dismissed men, in general, as rather trivial creatures.
 
-Supper was served with all the elegance Anne had expected. The table was beautifully arranged, and the food was excellent. Anne, whose healthy appetite had survived both grandeur and family tragedy, enjoyed it thoroughly. A large black cat appeared and was given cream by Miss Minerva. That small act of tenderness made the old woman seem suddenly less distant.
+Anne, who was very much in love with Gilbert, kept her disagreement to herself, although the contrast between Miss Minerva's certainty and her own hopes for marriage almost made her smile. As room followed room, however, she began to notice something beneath the comedy. Miss Minerva had inherited an enormous house but almost no living family. The people in the portraits were not simply historical characters to her. They were the population of her private world. Their tragedies gave her stories to tell, identities to preserve, and a sense that she still belonged to something larger than her solitary present.
 
-After supper they sat before the fire. Anne worked at her crochet while Miss Minerva knitted and continued talking about the Tomgallons. The stories came one after another. Some were sad, some strange, and a few so dramatic that Anne had to remind herself they had happened to real people rather than characters in a book.
+That recognition made Anne gentler in her judgments. Miss Minerva clearly enjoyed the dramatic power of being the last Tomgallon, and she could make even a family misfortune sound like a distinction. Yet the pride was mixed with loneliness. The mansion had been built for generations of people, but most of its rooms now existed without the daily noise of ordinary life.
 
-During the conversation Miss Minerva mentioned a rumor Anne had not heard. People were saying that Anne was writing a book about Summerside.
+Anne also became aware of how different this house was from Windy Poplars. Both were old enough to carry memories, but Windy Poplars still gathered new ones every day. Rebecca argued in the kitchen. Dusty Miller appeared where he was least wanted. Aunt Chatty worried. Aunt Kate managed practical matters. Anne wrote letters in the tower. At Tomgallon House, the present seemed almost required to move quietly so it would not disturb the past.
 
-Anne nearly dropped her work. She denied it immediately. No such book existed, and she had no plan to turn her neighbors into characters. The rumor amused her, but it also made her uncomfortable. Summerside could create a complete story from the smallest piece of information, and Anne knew how easily an innocent remark might become evidence by the time it reached the other side of town.
+By the time the tour reached its end, Anne felt as though she had met several generations without leaving the building. She was fascinated, entertained, and slightly exhausted. She had expected a formal supper with a dignified old lady. Instead she had entered a family mythology preserved room by room.
 
-Miss Minerva seemed willing to accept Anne’s denial and soon returned to her family history.
-
-As the evening went on, Anne became more aware of the loneliness behind the formal surroundings. Miss Minerva was proud of Tomgallon House and everything connected with it, but she had very few living companions to share it. The portraits, stories, and old rooms filled the space that people might have filled in another home.
-
-Anne did not pity her in a simple way. Miss Minerva was strong, intelligent, and entirely capable of managing her own life. Yet Anne could feel how closely the old woman’s identity was tied to people who had been dead for years. She preserved their joys, mistakes, quarrels, and grief almost as carefully as she preserved the furniture.
-
-Outside, the wind strengthened. Rain began to strike the windows, and the darkness beyond the glass made the lighted rooms feel more separated from the rest of Summerside.
-
-Anne glanced toward the windows and wondered how bad the weather would become before it was time to go home.
-
-She had expected an unusual supper. She had not expected Tomgallon House itself to feel like a world with its own rules, or to discover that one could be both fascinated and slightly uneasy at the same time.
-
-The night, however, was not finished with her yet.
-
-Before the meal ended, Anne also noticed how carefully Miss Minerva maintained the old customs of the house. Nothing seemed accidental. The arrangement of the table, the service, the lamps, and even the way each room was opened to a guest belonged to habits that had probably been repeated for decades. Anne admired the beauty of it while also feeling how little space there was for change. In Windy Poplars, people argued, laughed, moved furniture, and complained about cats. At Tomgallon House, the past seemed to decide where everything should remain.
+Outside, the March wind pressed against the windows, but the house remained brilliant with light. Anne could not yet know that the worsening weather would keep her there long after supper. For the moment she followed Miss Minerva toward the dining room, already wondering how many more Tomgallon disasters could possibly remain untold.
 
 ## Vocabulary & Nuance
 
-- **gracious** — pleasant, kind, and courteous.
-- **ceremonial** — formal and connected with ritual or tradition.
-- **overawed** — made to feel impressed and slightly intimidated.
-- **lineage** — family line and ancestry.
-- **pathos** — a quality that causes pity or sadness.
-- **show around** — take someone through a place and present it.
-- **fade away** — become weaker or less intense.
-- **belong to** — be connected naturally with something.
-- **live with** — exist together with or under the influence of something.
-- **hold on to** — keep something and refuse to let it go.
+- **dynasty** — a powerful family whose influence continues across generations.
+- **theatrical** — dramatic in a way that resembles a performance.
+- **precision** — the quality of being exact and carefully controlled.
+- **archive** — a collection of historical records or materials.
+- **catastrophe** — a sudden event causing great damage or suffering.
+- **solitary** — living or spending time alone.
+- **distinction** — a quality or achievement that makes someone stand out.
+- **mythology** — a collection of stories through which a group understands its past.
+- **preserve** — keep something from being lost or forgotten.
+- **inhabit** — live in or occupy a place, sometimes figuratively through memory.
 
-## Conversation 1 — Anne Arrives at Tomgallon House
+## Conversation 1 — Miss Minerva Begins the Tour
 
-Miss Minerva: Welcome, my dear. Come in out of the wind.
-Anne: Thank you. The whole house seems lit **up** for a festival.
-Miss Minerva: I do not often entertain, so I do things properly when I do.
-Anne: I already feel rather overawed.
+Miss Minerva: This house has seen more history than most families would care to admit.
+Anne: You sound almost proud of that.
+Miss Minerva: I am proud that we remember it. Families become dishonest when they tidy up the past too much.
+Anne: I agree about honesty, although your family seems to have given you unusually dramatic material.
+Miss Minerva: My dear, we never did anything by halves.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- lit up — filled with light.
-- come in — enter.
-- show around — guide someone through a place.
-- dress up — wear more formal clothing.
-- take in — observe and absorb.
+- **tidy up the past** — make past events sound neater or less troubling than they were.
+- **do something by halves** — do something without full effort or intensity, usually used in the negative.
+- **live up to** — meet an expectation or reputation.
+- **pass down** — transmit something from one generation to another.
+- **stand out** — be especially noticeable or distinctive.
 
-## Conversation 2 — Talking by the Fire
+## Conversation 2 — Anne Sees the Loneliness Beneath the Stories
 
-Miss Minerva: People say you are writing a book about Summerside.
-Anne: I hope no one has made that story **up** on my account.
-Miss Minerva: In a small town, stories grow quickly.
-Anne: That is exactly what makes them dangerous.
+Anne: Do you ever find the house too quiet now
+Miss Minerva: Quiet is not the same as empty when one has memories.
+Anne: No, but memories cannot answer back.
+Miss Minerva: That may be one of their advantages.
+Anne: You make a strong case, but I still think I would choose a noisy kitchen over a silent ballroom.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- make up — invent something that is not true.
-- grow up — develop to adulthood, not used literally here.
-- hold on to — keep something tightly.
-- die out — gradually disappear.
-- look back on — remember and think about the past.
+- **answer back** — reply, often in a challenging or lively way.
+- **make a case** — give reasons in support of a view.
+- **choose something over something** — prefer one option to another.
+- **hold on to** — keep something emotionally or physically.
+- **be surrounded by** — have many things or people around oneself.
 
 ## Practice
 
@@ -92,129 +80,118 @@ Anne: That is exactly what makes them dangerous.
   {
     "type": "choice",
     "instant": true,
-    "target": "setting",
-    "prompt": "What makes Tomgallon House feel unusual to Anne",
+    "target": "inference",
+    "prompt": "Why does Anne become less judgmental of Miss Minerva as the tour continues",
     "options": [
-      "Its grandeur is mixed with an atmosphere of sadness and old memories",
-      "It is noisy and crowded with children",
-      "It has been turned into a school dormitory",
-      "It is plain and modern inside"
+      "She sees that the dramatic family stories also help Miss Minerva live with loneliness",
+      "Miss Minerva promises Anne a valuable inheritance",
+      "Anne discovers that none of the stories are true",
+      "Miss Minerva apologizes for talking about the family"
     ],
-    "answer": "Its grandeur is mixed with an atmosphere of sadness and old memories",
-    "explanation": "Anne experiences the house as both splendid and melancholy."
+    "answer": "She sees that the dramatic family stories also help Miss Minerva live with loneliness",
+    "explanation": "Anne recognizes that the stories preserve connection to a family that has largely disappeared."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "nuance",
+    "prompt": "What is unusual about Miss Minerva’s attitude toward the family curse and tragedies",
+    "options": [
+      "She treats them as part of the family identity rather than only as sources of shame",
+      "She refuses to mention any unpleasant event",
+      "She is terrified to enter most rooms",
+      "She believes Anne caused the curse"
+    ],
+    "answer": "She treats them as part of the family identity rather than only as sources of shame",
+    "explanation": "Miss Minerva takes a certain pride in preserving even grim family history."
+  },
+  {
+    "type": "fill",
+    "instant": false,
+    "target": "pass down",
+    "prompt": "Complete the sentence. The stories have been ________ ________ through generations and now survive mainly through Miss Minerva.",
+    "answer": "passed down",
+    "accepted": [
+      "passed down"
+    ],
+    "explanation": "To pass something down is to transmit it to a later generation."
+  },
+  {
+    "type": "dialogue",
+    "instant": true,
+    "target": "make a case",
+    "prompt": "Choose the most natural phrase.",
+    "dialogue": [
+      {
+        "speaker": "Anne",
+        "text": "I still think a lively home sounds better than a grand empty one."
+      },
+      {
+        "speaker": "Miss Minerva",
+        "text": "Then you will have to ________ a stronger ________ than that if you mean to persuade me."
+      }
+    ],
+    "options": [
+      "make / case",
+      "put / away",
+      "take / turn",
+      "bring / end"
+    ],
+    "answer": "make / case",
+    "explanation": "To make a case is to present reasons supporting an opinion."
   },
   {
     "type": "choice",
     "instant": true,
     "target": "detail",
-    "prompt": "How does Miss Minerva present the rooms of her house",
+    "prompt": "What happened to Miss Minerva’s great-grandfather at the housewarming",
     "options": [
-      "By connecting them to family stories and tragedies",
-      "By apologizing for how empty they are",
-      "By refusing to discuss the past",
-      "By comparing them to Green Gables"
+      "He fell down the staircase and broke his neck",
+      "He disappeared during a storm",
+      "He lost the house in a card game",
+      "He was injured by the tiger-skin rug"
     ],
-    "answer": "By connecting them to family stories and tragedies",
-    "explanation": "Each room comes with a history."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "show around",
-    "prompt": "Complete the sentence. Miss Minerva ________ Anne ________ the house while explaining its history.",
-    "answer": "shows around",
-    "accepted": [
-      "shows around",
-      "showed around"
-    ],
-    "explanation": "To “show someone around” means guide them through a place."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "make up",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {
-        "speaker": "Miss Minerva",
-        "text": "So you are writing a book about everyone in Summerside"
-      },
-      {
-        "speaker": "Anne",
-        "text": "I hope no one simply ________ that story ________."
-      }
-    ],
-    "options": [
-      "made / up",
-      "put / on",
-      "turned / over",
-      "broke / off"
-    ],
-    "answer": "made / up",
-    "explanation": "To “make up” a story means invent it."
-  },
-  {
-    "type": "choice",
-    "instant": true,
-    "target": "pathos",
-    "prompt": "Why is Miss Minerva more touching than ridiculous",
-    "options": [
-      "Her grandeur hides loneliness and attachment to a vanished world",
-      "She gives Anne a large amount of money",
-      "She wants to move to Avonlea immediately",
-      "She refuses to speak about her family"
-    ],
-    "answer": "Her grandeur hides loneliness and attachment to a vanished world",
-    "explanation": "Anne senses the sadness behind Miss Minerva’s formal manner."
+    "answer": "He fell down the staircase and broke his neck",
+    "explanation": "Miss Minerva presents this as one of the earliest tragedies associated with the house."
   },
   {
     "type": "fill",
     "instant": false,
     "target": "hold on to",
-    "prompt": "Complete the sentence. Miss Minerva seems determined to ________ ________ every memory connected with the family.",
+    "prompt": "Complete the sentence. Miss Minerva seems to ________ ________ ________ every family story because memory connects her to the people who are gone.",
     "answer": "hold on to",
     "accepted": [
       "hold on to"
     ],
-    "explanation": "To “hold on to” means keep and refuse to release."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "take in",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {
-        "speaker": "Anne",
-        "text": "There is so much to see in every room."
-      },
-      {
-        "speaker": "Miss Minerva",
-        "text": "Yes, and you must ________ it all ________ slowly."
-      }
-    ],
-    "options": [
-      "take / in",
-      "cut / off",
-      "pull / in",
-      "show / off"
-    ],
-    "answer": "take / in",
-    "explanation": "To “take in” means observe and absorb."
+    "explanation": "To hold on to something means keep it rather than let it disappear."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "theme",
-    "prompt": "What broader idea does this chapter explore",
+    "target": "B2 comparison",
+    "prompt": "How does Anne mentally contrast Tomgallon House with Windy Poplars",
     "options": [
-      "The past can dominate a place long after its great days are over",
-      "School discipline is always unfair",
-      "Animals understand people better than humans do",
-      "Marriage solves every emotional problem"
+      "Tomgallon House preserves the past, while Windy Poplars continues to create lively present-day memories",
+      "Tomgallon House is smaller and less historic",
+      "Windy Poplars has no strong personalities living in it",
+      "Both houses feel equally dominated by silence"
     ],
-    "answer": "The past can dominate a place long after its great days are over",
-    "explanation": "Tomgallon House is almost ruled by memory."
+    "answer": "Tomgallon House preserves the past, while Windy Poplars continues to create lively present-day memories",
+    "explanation": "The contrast helps Anne understand why grandeur alone does not make a house feel alive."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "paraphrase",
+    "prompt": "Which statement best captures the atmosphere at the end",
+    "options": [
+      "Anne is fascinated but mentally tired after moving through a house crowded with remembered lives",
+      "Anne wants to leave immediately because she believes the curse will kill her",
+      "Anne has become convinced that Miss Minerva dislikes her",
+      "Anne has forgotten the family stories before supper begins"
+    ],
+    "answer": "Anne is fascinated but mentally tired after moving through a house crowded with remembered lives",
+    "explanation": "The tour is compelling but overwhelming because every room carries another intense story."
   }
 ]
 ```

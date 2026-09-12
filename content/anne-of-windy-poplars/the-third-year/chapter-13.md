@@ -2,118 +2,82 @@
 
 ## Story Summary
 
-At first, Little Elizabeth knew only that the room would not stay still.
+When Elizabeth began to wake, the room would not stay where it belonged. The ceiling seemed to move, the furniture shifted at the edge of her vision, and voices reached her as though they were traveling through water. She tried to remember what had happened after leaving Flying Cloud, but the memory dissolved whenever she reached for it. Her head felt heavy, and keeping her eyes open required more effort than she wanted to make. Through the confusion she finally recognized Anne's voice, and the familiar sound steadied her. If Miss Shirley was nearby, whatever had happened could not be entirely terrible. Elizabeth lay still and listened. A man was speaking too. His voice pulled another memory into focus. She remembered the airy room on the island, the ice cream with strawberry jam, and the stranger who had looked at her with such unexpected tenderness. The pieces were present, but they did not yet fit together.
 
-Light moved strangely above her. Voices came and went as though they were traveling from a great distance. She tried to remember where she was, but the thoughts slipped away before she could hold them. Her body felt heavy, and even opening her eyes required effort.
+When Elizabeth opened her eyes again, Anne and the man came closer to the bed. Anne looked pale and tired, as if she had been frightened almost beyond endurance, yet there was relief in her face. The man was smiling down at Elizabeth with the same warm expression she had noticed at Flying Cloud.
 
-Then one voice became familiar.
+Anne explained the accident gently. A team of runaway horses had knocked Elizabeth down on the mainland road. For a terrible moment Anne had thought she was dead. They had carried her back to Flying Cloud, where the man had telephoned for a doctor and nurse. Elizabeth had been stunned rather than seriously injured, and the doctor expected her to recover fully.
 
-Miss Shirley.
+The explanation answered one question and opened several larger ones. Elizabeth could not understand why the stranger was still there, why Anne sounded so excited whenever she spoke to him, or why he looked at her as if she were not a child he had met that afternoon but someone he had been afraid to lose. Anne let her wonder for only a moment before telling her the truth. The man beside the bed was Pierce Grayson, her father.
 
-Anne was nearby.
+For years, the word father had referred to someone distant enough to become almost imaginary. He lived in France, while the adults around Elizabeth avoided explaining either his absence or the history behind it. She knew he belonged to her life, but not in the way Miss Shirley did or even Grandmother did. He existed in a space made of unanswered questions. Now the kind man from Flying Cloud was sitting beside her bed, close enough to touch.
 
-That knowledge made Elizabeth feel safer. She let her eyes close again, listening. Another voice was speaking too, a man’s voice that she had heard before. Slowly a memory returned. Flying Cloud. Ice cream with strawberry jam. A kind face. A stranger who had listened when she talked about Tomorrow.
+Elizabeth's first response showed how disoriented she still was. If her father lived in France, perhaps she had somehow arrived there. Nothing about Tomorrow had followed ordinary rules so far. Pierce bent toward her and answered with gentle humor. He was very much here, and he had come for her.
 
-When Elizabeth became more fully awake, she saw him beside the bed.
+The words were simple, but Elizabeth needed time to absorb them. She had imagined reunion many times without knowing what it would feel like. In imagination, happiness arrived complete. In the real room, happiness came mixed with weakness, disbelief, and the fear that something precious might disappear before she understood it.
 
-Anne was there too, looking tired and deeply relieved. The accident with the runaway horses had frightened everyone. Elizabeth had been injured, but she was safe now and recovering. The danger had passed.
+Pierce did not rush her. He kissed her and stayed close while she worked her way through the questions that mattered most. She wanted to know whether they would really live together and whether he meant to remain with her instead of disappearing again. His answers were immediate and reassuring. When she finally asked if Grandmother and the Woman would be part of their new household, his firm refusal removed another of the walls Elizabeth had believed permanent.
 
-The greater surprise was the man.
+She did not need a long explanation of the years that had separated them. That would come later, when she was older and stronger. What mattered now was that Pierce had acted. Anne's letter had reached him. He had come to Summerside before approaching Mrs. Campbell because he wanted to see the situation for himself. Flying Cloud belonged to the company he worked for, giving him a place to stay quietly while he decided how to proceed. There he had encountered Elizabeth before Anne returned to the room and had recognized her as soon as she gave her name.
 
-He had not appeared at Flying Cloud by chance. His name was Pierce Grayson.
+For Pierce, the afternoon had transformed an idea into a daughter. Distance and old family bitterness had allowed him to treat time as if there would always be more of it. Anne's letter had challenged that comfortable delay. Meeting Elizabeth had destroyed it completely. The child who spoke about Tomorrow, asked for an outrageous dessert, and looked at him with open curiosity was not a responsibility waiting somewhere in the future. She was present, and he already loved her.
 
-He was her father.
+Anne stood beside the bed and watched the connection form without trying to direct it. Months earlier she had wondered whether writing to Pierce was an unacceptable interference. Now she felt no triumph, only relief. She had not created the love between father and daughter. She had simply carried information across a silence that should not have existed for so long.
 
-For a few seconds Elizabeth could only stare at him.
+Elizabeth studied Pierce as he spoke, watching him with the seriousness of a child who had learned not to trust happiness too quickly. Pierce seemed to understand. He did not demand affection or overwhelm her with explanations. He answered, waited, and allowed her to look at him. That patience mattered. At The Evergreens, adults usually told Elizabeth how to behave before asking what she felt. Here, for perhaps the first time in a decision of enormous importance, her own feelings had room to exist.
 
-The father she had imagined for years had never possessed a clear face. He had belonged to stories, questions, and the mysterious country of Tomorrow. Adults at The Evergreens rarely spoke of him in a way that helped her understand anything. Yet the kind stranger she had liked almost at once was now sitting beside her bed, looking at her with an expression of love and regret.
+The nurse eventually returned and made it clear that her patient needed rest. Elizabeth knew she had only a moment left before Anne and Pierce would be sent out. Looking at the man who was no longer a stranger, she understood the day in the language she had always used for hope and told them that she had found Tomorrow. The phrase meant more now than an island, a pleasant walk, or freedom from rules for an afternoon. Tomorrow had become a future in which she was wanted. Pierce had not merely discovered that he had a daughter. He had chosen to make his life with her. The household that had defined Elizabeth's world would no longer define what came next.
 
-Pierce leaned close and spoke gently.
+Outside the room, Pierce thanked Anne for the letter. He said he had found a treasure he had not known he possessed. Anne knew there would still be difficult conversations with Mrs. Campbell and practical arrangements to make. Years of distance could not be repaired in a single sunset. Yet the central question had already been answered. Pierce was not leaving Elizabeth behind again.
 
-Anne’s letter had brought him back. Until receiving it, he had not understood what his absence had meant to his daughter. Old misunderstandings and family bitterness had allowed the years to pass. Perhaps he had told himself there would be time later. Perhaps distance had made it easier not to face painful memories. But Anne’s description of Elizabeth had made the child real to him again.
-
-He had come to Summerside quietly because he wanted to see her before deciding how to approach the family. At Flying Cloud he had watched Elizabeth without revealing who he was. He had listened to her talk and discovered a daughter he hardly knew, yet already loved.
-
-Now the accident had destroyed any reason for secrecy.
-
-Elizabeth’s first questions came slowly. Was he truly her father. Had he really come for her. Would he go away again.
-
-Pierce answered without hesitation. He wanted her with him.
-
-The words were almost too large for Elizabeth to understand.
-
-All her life important decisions had been made around her. Adults decided where she lived, what she wore, when she spoke, and how she should behave. She had learned to create imaginary selves and imaginary futures because so little of real life belonged to her.
-
-Now her father was saying that he chose her.
-
-Elizabeth asked whether she could live with him always. He said yes. She asked questions about what would happen next, including whether the people from The Evergreens would come too. Each answer changed the shape of her future. The old household no longer stood around her like a wall.
-
-Anne remained nearby, but she did not interrupt the reunion. She had done what she could. Months earlier she had sat at her desk wondering whether she had any right to interfere. Then she had written because doing nothing seemed worse. Now she watched father and daughter together and felt a quiet relief stronger than any pride.
-
-Pierce himself seemed overwhelmed by what he had almost lost. The child in the bed was no longer an idea connected with painful memories. She was Elizabeth, with her strange phrases, her imagination, her courage, and her hunger for affection. He told Anne that he had found a treasure he had not known he possessed.
-
-Elizabeth understood the moment in her own way.
-
-For years she had spoken about Tomorrow. Tomorrow was the place where life would be different. In Tomorrow, people would love her freely. In Tomorrow, she would not always have to be careful. In Tomorrow, something wonderful might happen that would make sense of the loneliness she could not explain.
-
-Now, looking at her father, she realized that Tomorrow had arrived.
-
-The idea did not disappear simply because she had grown closer to reality. Instead reality finally became large enough to contain the dream. The kind stranger at Flying Cloud was her father. The man from Yesterday had come back to give her a future.
-
-The room was quiet except for their voices. Elizabeth was still weak, and there would be practical matters to settle later. Mrs. Campbell would have opinions. Arrangements would have to be made. Years of separation could not be erased in one afternoon.
-
-But the most important decision had already been made.
-
-Pierce Grayson was not leaving his daughter behind again.
-
-Elizabeth lay back against the pillows, tired but peaceful. Anne watched her face and saw something she had rarely seen there at The Evergreens. The child no longer looked as though happiness existed somewhere just out of reach.
-
-She had found Tomorrow.
-
-Elizabeth watched her father carefully as he spoke, as though she were testing whether he might vanish if she looked away. Pierce seemed to understand. He did not rush her questions or ask her to feel more than she was ready to feel. He remained close, answering simply and allowing her to study him. That patience mattered almost as much as his words. For a child who had spent years adjusting herself to the moods and rules of adults, being allowed to ask what she truly wanted to know was itself a new kind of freedom.
+As the light faded, Elizabeth rested against the pillows with a peace Anne had rarely seen on her face. The future was no longer a beautiful country that existed just out of reach. It had entered the room, taken a chair beside her bed, and promised to stay.
 
 ## Vocabulary & Nuance
 
-- **disoriented** — confused about where one is or what is happening.
-- **vindicated** — shown to be right or justified.
-- **restoration** — the act of returning something to its proper condition.
-- **luminous** — glowing with emotional brightness or beauty.
-- **destiny** — the course a life seems meant to take.
-- **wake up** — regain consciousness or stop sleeping.
-- **turn out to be** — prove to be after uncertainty.
-- **step into** — take on a role or responsibility.
-- **take back** — return with one to another place.
-- **belong to** — properly be connected with or owned by.
+- **disoriented** — confused about place, time, or what has happened.
+- **dissolve** — fade or disappear gradually.
+- **endurance** — the ability to continue through pain or difficulty.
+- **absorb** — take in and understand information or emotion.
+- **disbelief** — difficulty accepting that something is true.
+- **permanent** — lasting and not expected to change.
+- **transform** — change something significantly.
+- **interference** — involvement in a situation where one may not have been invited.
+- **overwhelm** — affect someone so strongly that it becomes difficult to respond.
+- **central** — most important to the main issue.
 
-## Conversation 1 — Elizabeth Wakes
+## Conversation 1 — Elizabeth Tries to Understand
 
-Elizabeth: Miss Shirley, who is that man
-Anne: He is someone very important to you, dear.
-Pierce: I am your father, and I have come to **take you back** with me.
-Elizabeth: Then Tomorrow is real after all.
+Elizabeth: I have wanted you to come for so long that I do not quite know what to do now that you are actually here.
+Pierce: You do not have to decide how you feel all at once. We have time to come to terms with what we have missed.
+Elizabeth: And you are not going to change your mind once everything becomes complicated
+Pierce: No. I am here to stay, and I intend to follow through on that promise.
+Elizabeth: I may need a while to take all of this in.
+Pierce: Then take the time. I would rather earn your trust than rush you into giving it.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- take back — bring someone back with you.
-- wake up — become conscious after sleep.
-- turn out to be — prove to be.
-- come back — return.
-- look after — care for.
+- **come to terms with** — gradually accept a difficult or emotionally complicated reality.
+- **be here to stay** — remain for the long term rather than temporarily.
+- **follow through on** — do what one has promised or committed to doing.
+- **take something in** — fully absorb and understand information or emotion.
+- **rush someone into** — pressure someone to act or decide before they are ready.
 
-## Conversation 2 — Anne and Pierce Speak
+## Conversation 2 — Pierce Thanks Anne
 
-Pierce: Your letter changed everything.
-Anne: I only hoped you would **come back** and see her for yourself.
-Pierce: Now that I have seen her, nothing will keep me away again.
-Anne: Then the future has opened at last.
+Pierce: Your letter forced me to face up to something I had been putting off for far too long.
+Anne: I was afraid I might be overstepping, but doing nothing felt worse.
+Pierce: You gave me information I should have made the effort to discover myself.
+Anne: Then what matters is how you move forward from here.
+Pierce: I intend to step up, make up for lost time where I can, and give Elizabeth something solid to count on.
+Anne: That will matter more than any explanation of the past.
 
-### Phrasal verbs & expressions
+### Phrasal Verbs & Expressions
 
-- come back — return.
-- see for oneself — discover personally.
-- step into — take up a role.
-- make up for — compensate for something.
-- carry through — complete successfully.
+- **face up to** — accept and deal directly with a difficult truth.
+- **put off** — delay dealing with something that needs attention.
+- **move forward** — continue after a difficult situation with a constructive plan.
+- **step up** — accept responsibility and take necessary action.
+- **make up for lost time** — use present time well after a period of delay or missed opportunity.
 
 ## Practice
 
@@ -122,130 +86,118 @@ Anne: Then the future has opened at last.
   {
     "type": "choice",
     "instant": true,
-    "target": "revelation",
-    "prompt": "What truth is revealed when Elizabeth wakes",
+    "target": "inference",
+    "prompt": "Why does Pierce avoid overwhelming Elizabeth with explanations",
     "options": [
-      "The kind man from Flying Cloud is her father, Pierce Grayson",
-      "Miss Minerva is her aunt",
-      "Gilbert has arrived from Kingsport",
-      "Rebecca Dew caused the accident"
+      "He understands she needs time and emotional safety before processing the full history",
+      "He does not remember why he came to Summerside",
+      "Anne has forbidden him to speak",
+      "The nurse tells him never to discuss family matters"
     ],
-    "answer": "The kind man from Flying Cloud is her father, Pierce Grayson",
-    "explanation": "The chapter reveals the true identity of the stranger."
+    "answer": "He understands she needs time and emotional safety before processing the full history",
+    "explanation": "His patience contrasts with the controlling adults Elizabeth has known."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "meaning",
-    "prompt": "Why is the reunion especially moving for Elizabeth",
+    "target": "nuance",
+    "prompt": "What does Tomorrow mean by the end of the chapter",
     "options": [
-      "The stranger she already liked becomes the father she longed for",
-      "Her grandmother suddenly apologizes",
-      "Anne promises to stay with her forever",
-      "She is allowed to keep three cats"
+      "A real future in which Elizabeth is wanted, loved, and able to live with her father",
+      "Only the island called Flying Cloud",
+      "A fantasy Elizabeth must give up as she grows older",
+      "A plan for Anne to adopt Elizabeth"
     ],
-    "answer": "The stranger she already liked becomes the father she longed for",
-    "explanation": "Her emotional intuition is confirmed by truth."
+    "answer": "A real future in which Elizabeth is wanted, loved, and able to live with her father",
+    "explanation": "The symbol shifts from imagined possibility to a concrete new life."
   },
   {
     "type": "fill",
     "instant": false,
-    "target": "turn out to be",
-    "prompt": "Complete the sentence. The man at Flying Cloud ________ ________ ________ Elizabeth’s father.",
-    "answer": "turns out to be",
+    "target": "take in",
+    "prompt": "Complete the sentence. Elizabeth needs time to ________ ________ the fact that the stranger from Flying Cloud is her father.",
+    "answer": "take in",
     "accepted": [
-      "turns out to be",
-      "turned out to be"
+      "take in"
     ],
-    "explanation": "This phrase means proves to be after uncertainty."
+    "explanation": "To take something in means absorb and understand it fully."
   },
   {
     "type": "dialogue",
     "instant": true,
-    "target": "step into",
-    "prompt": "Choose the best phrase.",
+    "target": "here to stay",
+    "prompt": "Choose the most natural phrase.",
     "dialogue": [
       {
-        "speaker": "Anne",
-        "text": "Elizabeth has needed you for a long time."
+        "speaker": "Elizabeth",
+        "text": "Are you going to leave again"
       },
       {
         "speaker": "Pierce",
-        "text": "Then I must ________ ________ my place in her life at once."
+        "text": "No. I am ________ ________ ________ in your life."
       }
     ],
     "options": [
-      "step / into",
-      "put / by",
-      "go / over",
-      "break / through"
+      "here / to / stay",
+      "out / of / line",
+      "down / to / earth",
+      "up / for / grabs"
     ],
-    "answer": "step / into",
-    "explanation": "To “step into” a role means take it on."
+    "answer": "here / to / stay",
+    "explanation": "To be here to stay means remain for the long term."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "theme",
-    "prompt": "What does Elizabeth mean by saying she has found Tomorrow",
+    "target": "B2 interpretation",
+    "prompt": "Why does Anne feel relief rather than pride",
     "options": [
-      "She has entered the loving future she once only imagined",
-      "She has forgotten the accident completely",
-      "She has decided to remain at The Evergreens",
-      "She wants to travel overseas immediately"
+      "She sees herself as having reopened communication rather than created the father-daughter bond",
+      "She regrets writing the letter",
+      "She believes Pierce will take all credit for the reunion",
+      "She is embarrassed that Elizabeth likes Pierce"
     ],
-    "answer": "She has entered the loving future she once only imagined",
-    "explanation": "Tomorrow symbolizes fulfilled hope."
+    "answer": "She sees herself as having reopened communication rather than created the father-daughter bond",
+    "explanation": "Anne recognizes that the love and responsibility belong to Pierce and Elizabeth, not to her."
   },
   {
     "type": "fill",
     "instant": false,
-    "target": "come back",
-    "prompt": "Complete the sentence. After Anne’s letter, Pierce finally ________ ________ to see his daughter.",
-    "answer": "came back",
+    "target": "put off",
+    "prompt": "Complete the sentence. Pierce admits that distance allowed him to ________ ________ facing the reality of Elizabeth’s life.",
+    "answer": "put off",
     "accepted": [
-      "came back",
-      "come back"
+      "put off"
     ],
-    "explanation": "To “come back” means return."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "make up for",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {
-        "speaker": "Pierce",
-        "text": "I have lost many years."
-      },
-      {
-        "speaker": "Anne",
-        "text": "You cannot erase them, but you can still ________ ________ them through love."
-      }
-    ],
-    "options": [
-      "make / up for",
-      "take / after",
-      "write / off",
-      "come / down"
-    ],
-    "answer": "make / up for",
-    "explanation": "To “make up for” means compensate for a loss or wrong."
+    "explanation": "To put something off means delay dealing with it."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "Anne’s role",
-    "prompt": "How does Anne contribute most to this happy ending",
+    "target": "detail",
+    "prompt": "Why was Pierce at Flying Cloud",
     "options": [
-      "She creates the reunion by writing the courageous letter",
-      "She forces Miss Minerva to tell the truth",
-      "She buys Flying Cloud for Elizabeth",
-      "She persuades Rebecca Dew to adopt Elizabeth"
+      "It was connected with the company he worked for, and he had come quietly to see Elizabeth before approaching Mrs. Campbell",
+      "He had purchased the island for Anne",
+      "He was attending Miss Minerva’s birthday party",
+      "He was hiding from Jarvis Morrow"
     ],
-    "answer": "She creates the reunion by writing the courageous letter",
-    "explanation": "Anne acts through sympathy and practical courage."
+    "answer": "It was connected with the company he worked for, and he had come quietly to see Elizabeth before approaching Mrs. Campbell",
+    "explanation": "His presence is the result of Anne’s letter and his decision to investigate the situation personally."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "paraphrase",
+    "prompt": "Which statement best captures the closing image",
+    "options": [
+      "The future Elizabeth once imagined as distant has become personal and present through her father’s decision to stay",
+      "Elizabeth has decided to forget everything about The Evergreens immediately",
+      "The accident has made Elizabeth afraid of the future",
+      "Anne now believes every problem in Elizabeth’s life is permanently solved"
+    ],
+    "answer": "The future Elizabeth once imagined as distant has become personal and present through her father’s decision to stay",
+    "explanation": "The ending connects the symbol of Tomorrow with a concrete change in Elizabeth’s life."
   }
 ]
 ```
