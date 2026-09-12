@@ -57,7 +57,7 @@
           "title": "The Second Year",
           "level": "Early B2",
           "totalChapters": 13,
-          "publishedChapters": 0
+          "publishedChapters": 5
         },
         {
           "id": "the-third-year",
@@ -489,6 +489,51 @@
         "level": "Early B2",
         "file": "content/anne-of-windy-poplars/the-first-year/chapter-17.md",
         "image": "images/anne-of-windy-poplars/the-first-year/chapter-17.webp"
+      },
+      {
+        "number": 1,
+        "title": "Back to Windy Poplars",
+        "part": "the-second-year",
+        "partTitle": "The Second Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-second-year/chapter-01.md",
+        "image": "images/anne-of-windy-poplars/the-second-year/chapter-01.webp"
+      },
+      {
+        "number": 2,
+        "title": "The Farmhouse on the Dawlish Road",
+        "part": "the-second-year",
+        "partTitle": "The Second Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-second-year/chapter-02.md",
+        "image": "images/anne-of-windy-poplars/the-second-year/chapter-02.webp"
+      },
+      {
+        "number": 3,
+        "title": "Teddy’s Photograph",
+        "part": "the-second-year",
+        "partTitle": "The Second Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-second-year/chapter-03.md",
+        "image": "images/anne-of-windy-poplars/the-second-year/chapter-03.webp"
+      },
+      {
+        "number": 4,
+        "title": "An Invitation for Katherine",
+        "part": "the-second-year",
+        "partTitle": "The Second Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-second-year/chapter-04.md",
+        "image": "images/anne-of-windy-poplars/the-second-year/chapter-04.webp"
+      },
+      {
+        "number": 5,
+        "title": "Katherine Opens Her Heart",
+        "part": "the-second-year",
+        "partTitle": "The Second Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-second-year/chapter-05.md",
+        "image": "images/anne-of-windy-poplars/the-second-year/chapter-05.webp"
       }
     ],
     "annes-house-of-dreams": [],
