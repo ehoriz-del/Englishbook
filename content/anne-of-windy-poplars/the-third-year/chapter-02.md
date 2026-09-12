@@ -2,77 +2,49 @@
 
 ## Story Summary
 
-On Saturday morning Anne goes to the Raymond house to take care of Gerald and Geraldine while their mother travels to Charlottetown for a funeral. The house is a pretty, old-fashioned cottage on a street that gradually reaches into the countryside.
+Saturday morning was bright when Anne walked to the Raymond house, determined to prove that Rebecca Dew had exaggerated. The cottage stood where the town began to thin into countryside, with a garden around it and the comfortable look of a home that had been lived in happily. Anne arrived expecting noise and movement, but at first everything seemed almost too peaceful.
 
-Mrs. Raymond is already dressed to leave. Her clothing seems surprisingly cheerful for a funeral, especially her large flowered hat, but Anne cannot deny that she looks beautiful. The twins sit on the stairs while their mother introduces them.
+Mrs. Raymond was already dressed for the funeral in Charlottetown. Her hat was large and decorated with flowers, and Anne privately thought it looked more suitable for a summer garden party than a solemn occasion. Still, Mrs. Raymond wore it beautifully. Gerald and Geraldine sat on the stairs behind her, quiet, golden-haired, and wide-eyed. Looking at them, Anne found it difficult to connect them with Rebecca’s alarming stories.
 
-Gerald and Geraldine are eight years old and almost impossibly attractive. They have pink-and-white complexions, large blue eyes, and soft pale-gold hair. Their expressions are so innocent that Anne understands why people might have trouble believing Rebecca Dew’s stories about them.
+Mrs. Raymond spoke warmly about Anne in front of the children. She told them how kind Miss Shirley was to come and stay with them, then asked if they would be perfectly good. Gerald and Geraldine nodded with serious faces. At that moment they looked so innocent that Anne almost felt guilty for remembering Rebecca’s warnings.
 
-Mrs. Raymond tells them that dear Miss Shirley has kindly come to take care of them and asks whether they will be perfectly good. Both children nod seriously and somehow manage to look even more angelic.
+The instructions that followed were less reassuring. Mrs. Raymond asked Anne not to let the twins sail boats in the bathtub. They were not to go wading in the pond either. She explained that their father had died of pneumonia and that she was especially afraid of the children getting chilled. She also admitted that the twins quarreled fiercely with each other, though they became loyal allies the instant anyone else criticized one of them.
 
-Before leaving, Mrs. Raymond gives Anne a long set of instructions. She admits that she may have spoiled the twins a little but insists that love is better than punishment. She says children should be natural and full of spirit.
+Mrs. Raymond spoke proudly of her ideas about raising children. She did not believe much in punishment. Children needed love, freedom, and room to develop naturally. Anne agreed with part of that philosophy, though the specific warnings about bathtubs and ponds suggested that nature had already developed in several unexpected directions.
 
-She asks Anne not to let them sail boats in the bathtub or go wading in the pond. She is particularly afraid of them catching cold because their father died of pneumonia. Mrs. Raymond also explains that the twins quarrel with each other but are fiercely loyal if anyone outside the family attacks one of them.
+At last Mrs. Raymond left. She had barely gone down the path when Gerald appeared at an upstairs window and shouted that he wanted to go to the funeral too because the twins never got to have any fun. His mother turned in alarm and begged Anne to go upstairs at once.
 
-The children have never been separated for an entire day. Mrs. Raymond considered taking one twin to the funeral but decided she could not manage a child there.
+Anne found the bathroom in confusion. Gerald had wrapped himself in a coyote skin from the parlor floor and was pretending to be a wolf. Geraldine had hold of his legs and seemed prepared to push or pull him toward the open window. She was furious because he had stuck out his tongue at her. Gerald argued calmly that the tongue belonged to him and that he had a right to do what he liked with his own property.
 
-Anne reassures her and says she is sure the three of them will have a beautiful day together. Mrs. Raymond is delighted because she believes Anne understands children.
+Anne decided that discussing ownership of tongues would lead nowhere. She suggested games in the garden, stories, and perhaps a pleasant hour before lunch. Gerald announced that he wanted to be a wolf. Geraldine, who had been fighting him only a moment before, instantly decided that being a wolf sounded excellent. Both began demanding the same thing at once.
 
-The first sign of trouble arrives before their mother is even out of sight.
+Before Anne could restore order, the doorbell rang.
 
-Gerald suddenly leans out of an upstairs window and shouts that he wants to go to the funeral because the twins never get to have fun like that. Mrs. Raymond realizes the children are in the bathroom and begs Anne to go upstairs immediately.
+The visitor was Miss Pamela Drake, a woman with one of the most determined selling spirits in Summerside. She was taking orders for a new encyclopedia and had the rare ability to ignore every polite sign that a customer wanted her to leave. Anne explained that the High School already owned an encyclopedia. Miss Drake replied that it was ten years out of date. Anne said she was busy with the twins. Miss Drake smiled as if this were an interesting but irrelevant detail.
 
-Gerald has wrapped a coyote skin from the parlor floor around himself because he wants to play wolf. When Anne reaches the bathroom, Geraldine is holding her brother by the legs and appears to be trying to force him toward the window.
+Soon Anne found herself trapped on a rustic garden bench while Miss Drake opened her prospectus and began praising the paper, the engravings, the type, the binding, and the payment plan. Anne tried to interrupt. Miss Drake continued. Anne said again that she did not need the books. Miss Drake simply moved to another advantage.
 
-Geraldine demands that Anne stop Gerald from sticking out his tongue at her. Gerald argues that his tongue belongs to him and that he should be free to use it as he likes.
+Meanwhile the garden had become suspiciously quiet. Gerald and Geraldine were nowhere in sight.
 
-Anne avoids entering the argument. She suggests that since lunch is only an hour away, they go into the garden, play games, and tell stories.
+Miss Drake finally placed a fountain pen in Anne’s hand and began guiding her toward the order form. Anne, who had faced angry school trustees more comfortably than this, was wondering how to escape without being openly rude when a terrible scream came from Miss Drake.
 
-Gerald refuses because he wants to play wolf. Geraldine immediately joins him, and both children begin shouting that they want to play wolf together.
+Her hat had risen from her head. Her spectacles followed. Then, to Anne’s astonishment, a false front of hair lifted into the air as well. All three objects hung from hooks and cords attached to a fishing line. At the upstairs bathroom window two pale-gold heads appeared. Gerald was holding a fishing rod with the proud concentration of a successful sportsman.
 
-Before Anne can settle the question, the doorbell rings.
+For one frozen second no one moved. Then Miss Drake grabbed at her head and Anne rushed toward the house. By the time she reached the bathroom, the twins had vanished. From the window Anne saw Miss Drake gathering her scattered possessions and marching away with furious dignity. The fountain pen went with her. For perhaps the first time in her career, she had failed to complete a sale.
 
-The caller is Miss Pamela Drake, a woman known throughout Summerside for selling things. She is difficult to get rid of because she ignores hints and seems to have unlimited time. On this occasion she is taking orders for an expensive new encyclopedia.
+Anne found Gerald and Geraldine sitting on the back porch eating apples as peacefully as if they had spent the morning reading Scripture. Gerald looked pleased with himself. Anne knew the trick could not be ignored. Yet part of her was shamefully grateful. Gerald had done in one instant what Anne had been unable to do in half an hour.
 
-Anne says she does not need it because the High School already has a good encyclopedia. Miss Drake answers that the school’s edition is ten years out of date. She insists that Anne sit down on a rustic garden bench while she explains the advantages of the new set.
+She was still deciding how stern to be when Gerald looked at Geraldine’s apple and calmly announced that she had swallowed a large worm hidden inside it. Geraldine immediately became sick. Her face turned pale, her confidence disappeared, and Anne had to forget discipline while she cared for her.
 
-Miss Drake praises the paper, engravings, print, and payment plan. Anne tries repeatedly to escape the sales presentation, but Miss Drake refuses to notice her lack of interest.
+By the time Geraldine recovered, lunch was ready. The twins ate well and caused no trouble at the table. Afterwards Geraldine helped dry the dishes and Gerald carefully put them away. Their small hands were surprisingly capable when they had a clear task.
 
-Meanwhile, Gerald and Geraldine disappear into the house.
+Anne’s confidence returned a little. Perhaps, she thought, the children were not wicked or impossible. They were energetic, imaginative, and almost completely without training. With firm guidance they might behave very well.
 
-Miss Drake finally puts a fountain pen into Anne’s hand and pressures her to sign the order. Anne is growing desperate.
+She gave Gerald only a mild reprimand for the fishing-rod trick. She asked whether he thought his behavior had been gentlemanly. Gerald considered the question and admitted that it had not. Then his face brightened and he added that it had been excellent fishing.
 
-Suddenly Miss Drake gives a scream.
+Anne had to turn away so he would not see her smile.
 
-Her hat, spectacles, and false front of hair are rising into the air above her head. Two pale-gold heads appear at the upstairs bathroom window.
-
-Gerald is holding a fishing rod. He has attached several cords and hooks to it and somehow managed to catch all three items at once.
-
-Miss Drake is left looking almost unrecognizable. Anne rushes into the house and up the stairs. By the time she reaches the bathroom, the twins have disappeared.
-
-Looking down from the window, Anne sees an enraged Miss Drake collecting her possessions, including the fountain pen, and marching away. For once, the persistent saleswoman has failed to make a sale.
-
-Anne finds the twins on the back porch calmly eating apples.
-
-She knows Gerald’s behavior cannot simply be ignored. At the same time, he has rescued her from a very uncomfortable situation. Anne struggles to decide how severe she should be.
-
-Before she can do much, Gerald tells Geraldine that she has swallowed a large worm hidden in her apple. Geraldine immediately becomes violently sick.
-
-Anne spends a considerable amount of time caring for her. By the time Geraldine recovers, it is lunch time.
-
-Anne decides to give Gerald only a mild reprimand for the fishing-rod prank. Miss Drake has suffered no permanent harm, and Anne suspects the woman will never tell anyone exactly what happened because she would prefer to avoid public embarrassment.
-
-Anne asks Gerald whether he considers his behavior gentlemanly. Gerald calmly admits that it was not gentlemanly but says it was excellent fun and proudly calls himself a fisherman.
-
-Lunch is peaceful because both children are busy eating. Mrs. Raymond has prepared a very good meal before leaving.
-
-After lunch Anne washes the dishes. Geraldine helps dry them, and Gerald carefully puts them away. Both children are surprisingly capable when given specific tasks.
-
-Anne begins to think that Rebecca and the neighbors may have judged them too harshly. They are energetic and badly trained, but they respond reasonably well when Anne gives them clear instructions.
-
-She decides that what they need most is firm, wise guidance.
-
-The day, however, is not yet half over.
+The day was not yet half over, but already she understood one thing clearly. Rebecca Dew had not invented the twins’ reputation. Gerald and Geraldine were charming, intelligent, affectionate, and exhausting. They could look like angels while planning disaster, and any adult who trusted appearances around them was likely to learn a lesson very quickly.
 
 ## Vocabulary & Nuance
 

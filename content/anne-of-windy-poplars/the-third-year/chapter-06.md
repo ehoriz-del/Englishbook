@@ -2,121 +2,73 @@
 
 ## Story Summary
 
-After the High School commencement, Jarvis Morrow walks home with Anne and finally speaks openly about his situation with Dovie Westcott.
+After the High School commencement, Jarvis Morrow walked home with Anne through the evening streets of Summerside. The town was quiet after the excitement of the school event, and for a while they spoke about ordinary things. Then Jarvis became serious.
 
-He is exhausted by the long engagement and Franklin Westcott’s refusal to accept him.
+He was tired of waiting for Dovie.
 
-Anne tells Jarvis that he may have to run away with Dovie.
+The secret engagement had lasted more than a year, and nothing had changed. Franklin Westcott still refused to accept him. Dovie still said she loved him. Every plan ended with the same difficulty. She could promise courage when she was with Jarvis, but once she returned to Elmcroft, fear took over again.
 
-She hears how experienced the advice sounds and privately laughs at herself, but she believes ordinary rules may not fit this situation.
+Jarvis admitted that he had reached the end of his patience. He loved Dovie deeply, but he could not remain in the same uncertain position forever. Anne listened and, before she had time to consider how experienced she sounded, told him that perhaps he would have to run away with her.
 
-Jarvis explains that the main problem is not arranging a marriage. It is getting Dovie to agree.
+The words amused Anne the moment they left her mouth. Here she was, a respectable school principal, calmly advising a young lawyer to elope. But the more Jarvis explained, the less wild the idea seemed.
 
-He has a simple plan.
+His plan was not dramatic. He did not intend to carry Dovie away in the middle of the night and disappear across the province. His sister Julia, Mrs. Stevens, would open her home to them. A minister could be present. Jarvis’s family could witness the marriage. Afterwards the newly married couple could leave for a honeymoon with Aunt Bertha in Kingsport.
 
-Dovie could come quietly to the home of his sister Julia, Mrs. Stevens. Jarvis would arrange for a minister to be there. They could marry respectfully in front of his family and then leave for a honeymoon with Aunt Bertha in Kingsport.
+To Jarvis, this was hardly an elopement at all. It was simply a private wedding without Franklin’s permission.
 
-Jarvis insists that such a plan would hardly count as a dramatic elopement.
+The real difficulty was Dovie.
 
-Dovie, however, is terrified of her father.
+Jarvis believed years of obedience had weakened her confidence. Franklin had made decisions for her so completely that she hardly knew how to make a large one for herself. When Jarvis spoke to her face to face, she almost found the courage to leave. Then she went home, imagined her father’s anger, and became frightened again.
 
-She has spent her whole life giving in to Franklin’s wishes. Jarvis believes she has lost the ability to make a strong independent decision.
+Anne asked whether Dovie truly wanted to marry him.
 
-He has tried repeatedly to persuade her.
+Jarvis had no doubt about that. What he doubted was whether she could act.
 
-When Dovie is with him, she almost agrees. As soon as she returns home, fear takes control again and she sends word that she cannot do it.
+Anne became practical. If Dovie loved him enough to become his wife, she had to accept that marriage would bring consequences. Franklin might be furious. He might refuse to forgive her for a long time. But Dovie could not ask Jarvis to remain suspended between hope and disappointment indefinitely.
 
-Dovie is still deeply attached to her father and cannot bear the idea that he may never forgive her.
+Jarvis hesitated. If he forced her to choose, what if she chose her father.
 
-Anne tells Jarvis that Dovie must choose.
+Anne told him that uncertainty was already making the choice for both of them. He had been patient. Now he needed to be clear. He should tell Dovie that he loved her, that he wanted to marry her, and that he could not continue waiting without an end.
 
-If she truly loves Jarvis enough to marry him, she must be willing to accept the consequences of disobeying Franklin.
+A few evenings later Dovie came secretly to Windy Poplars.
 
-Jarvis worries that if he forces a choice, Dovie may choose her father.
+She was upset before she even sat down. Jarvis had followed Anne’s advice and spoken firmly. He had said the situation must end one way or the other. Dovie now wanted Anne to decide what she should do.
 
-Anne does not think that will happen.
+Anne refused.
 
-Jarvis admits he cannot continue indefinitely. He loves Dovie intensely, but he is beginning to feel foolish about spending years waiting for someone who cannot decide.
+She could give advice, but she would not make Dovie’s life choice for her.
 
-Anne warns him that romantic language will not solve the problem. She tells him to use plain common sense.
+Dovie explained again why she was afraid. Franklin’s temper had controlled the house for years. When Jarvis first began visiting, Franklin had not simply expressed disapproval. He had ordered him away and threatened to set the family bulldog on him if he returned. Dovie knew that if she married without permission, her father might never forgive her.
 
-He should tell Dovie clearly that the uncertainty must end. She must either marry him or release him.
+Then, almost in the same breath, she said she could not live without Jarvis.
 
-Jarvis agrees to make one final effort.
+Anne looked at her steadily. If that was true, she said, then Dovie ought to live with Jarvis.
 
-A few evenings later, Dovie comes secretly to Windy Poplars to speak with Anne.
+Dovie was shocked by the simplicity of the answer. She began to speak of elopement as though it meant disgrace, scandal, and a life spent hiding from society.
 
-She is upset and asks Anne to decide for her.
+Anne cut through the dramatic picture. Dovie would not be climbing from a bedroom window into a carriage driven by masked strangers. She would walk into Summerside. She would go to Julia’s respectable home. A minister and members of Jarvis’s family would be there. She would marry the man to whom she had already been engaged for more than a year.
 
-Dovie says Jarvis has become unusually stern. He has told her that the situation cannot continue.
+The only truly frightening part was that Franklin had not given permission.
 
-She explains again how frightening Franklin can be.
+That, Anne knew, was frightening enough for Dovie.
 
-When Jarvis first began visiting her, Franklin ordered him away and threatened to set the family bulldog on him if he returned.
+They talked for a long time. Each time Dovie reached for a new objection, Anne brought her back to the same question. What did she want her life to be. Did she want to marry Jarvis or not.
 
-Dovie knows that if she marries without permission, her father may never forgive her.
+At last Dovie said yes.
 
-At the same time, she tells Anne she cannot live without Jarvis.
+She trusted Anne. If Anne believed the plan was honorable, Dovie would try to be brave.
 
-Anne answers that if Dovie cannot live without him, she should live with him.
+Once the decision was made, practical details followed quickly. Franklin would soon be away in Charlottetown. That would be the safest evening. Dovie would leave Elmcroft quietly and meet Jarvis at the end of the lane. He would have the marriage license ready. Together they would go to Julia’s house, where the minister and the witnesses would be waiting.
 
-Anne tries to reduce the frightening word elopement. Dovie would not be disappearing into the night with no support. She would simply come into Summerside, go to Julia’s house, marry in front of respectable people, and leave with her husband.
+Dovie did not want Jarvis to come any closer to Elmcroft because Aunt Maggie might see him. Even at this stage, fear shaped the edges of the plan.
 
-Dovie admits that Franklin would still call it eloping.
+Later Jarvis came to Anne with the news that Dovie had agreed. His relief was almost boyish. Tuesday night was chosen for the wedding.
 
-She remains frightened, but Anne pushes her to think about what she actually wants.
+Anne was glad for him, but a small uneasiness remained. She knew Dovie’s courage was strongest when someone else stood beside her. On Tuesday she would have to leave the house alone, walk down the long lane alone, and keep moving even while every old habit told her to turn back.
 
-Dovie finally says she will take Anne’s advice.
+The plan sounded simple when Jarvis described it. A license, a lane, a waiting family, a minister, and a train to catch afterwards.
 
-She trusts Anne and believes Anne would not tell her to do something morally wrong.
-
-The plan becomes specific.
-
-Franklin will soon be away in Charlottetown. On that evening, Dovie will leave Elmcroft and meet Jarvis at the end of the lane.
-
-Jarvis will have the marriage license ready.
-
-They will go to Julia’s house, where the minister and Jarvis’s family will be waiting.
-
-Jarvis later tells Anne triumphantly that Dovie has agreed.
-
-The wedding is set for the following Tuesday night.
-
-He plans to meet Dovie at the end of the lane because she is afraid that Aunt Maggie may see him if he comes closer to the house.
-
-From there, they will go directly to Julia’s and be married quickly.
-
-Jarvis is relieved and excited. He believes he has finally overcome Franklin’s long opposition.
-
-Anne has now moved from observer to active adviser.
-
-She has encouraged Jarvis to give Dovie a final choice, and she has personally persuaded Dovie to accept the plan.
-
-The decision feels sensible to Anne because both young people clearly want to marry and Franklin’s refusal has no obvious reasonable basis.
-
-Still, the plan depends on Dovie doing something she has failed to do for more than a year.
-
-She must leave Elmcroft on the appointed night.
-
-She must walk down the lane.
-
-She must meet Jarvis.
-
-And she must continue to Julia’s house instead of turning back out of fear.
-
-Jarvis believes the matter is finally settled.
-
-Anne hopes he is right.
-
-Jarvis’s frustration is no longer only romantic disappointment. He is beginning to feel that the long delay is making him look foolish. He has tried patience, persuasion, and repeated promises, but every conversation seems to end in the same place. He describes Dovie as someone he loves deeply but cannot quite reach because her fear of Franklin always returns.
-
-Anne refuses to let him hide behind romantic language. She understands that he loves Dovie, but she tells him that poetry and longing will not solve a practical problem. The couple need a decision, not another emotional conversation. Jarvis must tell Dovie clearly that the engagement cannot remain suspended forever.
-
-When Dovie comes to Windy Poplars, she shows exactly why Jarvis is so frustrated. She wants Anne to make the decision for her. She asks for reassurance that leaving her father’s house would not make her a bad daughter. She is frightened by Franklin’s temper, by the bulldog, by the possibility of permanent rejection, and by the idea of doing something that Summerside may call an elopement.
-
-Anne keeps returning Dovie to the central fact. Dovie says she cannot live without Jarvis, so Anne tells her she must act on that belief. Dovie cannot expect Jarvis to keep waiting while she avoids every consequence. Anne does not pretend the choice is easy. She simply refuses to let fear make the choice automatically.
-
-Once Dovie agrees, the plan becomes practical rather than romantic. Jarvis will secure the license. Julia will provide the house. A minister and family witnesses will be present. Dovie only has to leave Elmcroft at the agreed time and reach the end of the lane. For everyone except Dovie, it sounds simple.
+But Anne understood that the distance from Elmcroft to the end of that lane might feel longer to Dovie than any journey she had ever taken.
 
 ## Vocabulary & Nuance
 

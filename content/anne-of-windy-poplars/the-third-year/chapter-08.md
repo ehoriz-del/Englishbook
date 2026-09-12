@@ -2,21 +2,89 @@
 
 ## Story Summary
 
-Anne walks to Elmcroft on a foggy November evening with a very uneasy heart. She expects one of the most unpleasant interviews of her life. Dovie and Jarvis have finally married, and Anne has promised to be the one who tells Franklin Westcott. Stories about him have made him seem almost legendary in Summerside. People describe him as sharp tongued, domineering, and dangerous to cross. Anne does not truly believe he will become violent, yet she knows his sarcasm can wound more deeply than shouting. That makes the walk feel long and uncomfortable.
+Anne walked toward Elmcroft the next evening with considerably less confidence than she had shown Dovie. A gray fog lay over the November road, and the bare branches along the lane seemed to make the old Westcott house look even more severe. Anne had promised to tell Franklin about the marriage, but every story she had ever heard about his temper returned to her before she reached the door.
 
-Even the sight of Elmcroft adds to her anxiety. The house looks severe, and the famous bulldog is sitting at the top of the steps like a guard. Anne forces herself to pass the dog without showing fear because she will not let Franklin think she is timid. Aunt Maggie lets her in and brings her to the library while Franklin is still on his way home from Charlottetown. The room surprises Anne. It is not cold and forbidding. It is shabby but cheerful, with a fire, rugs, books, and the unmistakable signs of a man who enjoys smoking and reading. The bulldog follows her in and quietly settles at her feet, which is another surprise.
+She did not truly expect violence. Franklin was a gentleman, however difficult he might be. What Anne feared was something more familiar and perhaps more uncomfortable. She expected sarcasm, cold anger, and a few sentences sharp enough to make her wish she had stayed safely at Windy Poplars.
 
-When Franklin arrives, he is brusque and unsmiling. He does not offer any social comfort. Anne quickly realizes that careful preparation will only make the moment worse, so she states the truth directly. Dovie has married Jarvis Morrow. Anne braces herself for anger. Instead Franklin sits down and asks a simple question about when the wedding happened. Then, after a pause that feels endless to Anne, he throws back his head and begins one of his strange fits of silent laughter.
+The bulldog was sitting near the steps when she arrived. Anne remembered that Franklin had once threatened to use the animal against Jarvis. She walked past it with as much dignity as she could manage. The dog watched her, then followed her inside without objection.
 
-At first Anne cannot understand what is happening. She assumes his reaction must be some unusual form of fury. She courageously takes the blame upon herself and pleads with him not to punish Dovie. Franklin then begins to speak in a way that changes the entire meaning of the story. He says he has known for some time that Jarvis is a decent fellow. In fact, he secretly investigated him. His objections were never based on the belief that Jarvis was unworthy. Franklin thought Dovie cared for Jarvis, but he also believed his daughter had become too weak and indecisive. He wanted to force her into a situation where she would either make a firm choice or lose Jarvis altogether.
+Aunt Maggie admitted Anne and told her that Franklin had not yet returned from Charlottetown. She showed Anne into the library to wait.
 
-What looked like heartless tyranny now reveals itself as a deliberate plan. Franklin had refused to let Jarvis visit and had played the role of the impossible father because he knew that being denied would make the attachment stronger. At the same time, he discovered a serious problem in his strategy. Dovie’s weakness might be greater than he had guessed. She loved Jarvis, yet she might never find the courage to act. Franklin confesses that this possibility has been worrying him. He could not easily surrender and grant permission because that would destroy the lesson and his pride, yet he also dreaded the thought that his scheme might fail and leave Dovie miserable.
+The room surprised her.
 
-Once Anne tells him the whole story of the secret marriage, Franklin feels enormous relief. He is not offended but grateful. Anne’s practical interference did what he himself could not do. It gave Dovie enough firmness to cross the threshold into a new life. Franklin says plainly that Anne has done him a great service. He even admits, with dry humor, that she saved him from having to retreat and accept Jarvis openly. Now he can play the sorrowful but forgiving father and preserve his authority at the same time.
+Anne had imagined something dark and unfriendly, but the library was worn and comfortable. Books filled the shelves. A fire burned in the grate. The red carpet was old, the furniture had been used rather than displayed, and pipes and small personal objects gave the room the feeling of a man who actually lived in it. The bulldog came in, stretched out near Anne’s feet, and behaved as if they were old friends.
 
-This revelation completely changes Anne’s feelings. The terrifying figure of gossip becomes a shrewd, humorous, rather theatrical man whose methods are questionable but whose love for his daughter is real. She begins to see that Franklin understands human nature far better than most people around him know. He is proud, indirect, and manipulative, yet he is not cruel in the way Summerside imagines. He asks Anne not to reveal his secret plan to Jarvis, because he wants his future son in law to keep believing he fought a true battle for Dovie.
+By the time Franklin entered, Anne had almost begun to relax.
 
-By the end of the visit Anne is laughing with Franklin instead of fearing him. The bulldog sleeps contentedly with his head near her lap, symbolizing how much the atmosphere has changed. Franklin accompanies her politely to the door, thanks her warmly, and sends a humorous message to Rebecca Dew. Anne leaves Elmcroft astonished and amused. She has once again learned that gossip rarely tells the whole truth. The chapter turns what seemed a dark domestic conflict into a comic and surprisingly tender scene. Anne also gains a richer understanding of adulthood. Love does not always appear in obvious or gentle forms. Sometimes it hides behind strategy, pride, and eccentric behavior. Franklin Westcott remains difficult, but Anne now sees that even his rough manners cover a fiercely protective heart.
+He changed that immediately.
+
+He greeted her in his usual abrupt manner and gave no sign that he expected important news. Anne considered beginning carefully, but caution suddenly felt worse than the truth. She told him that Dovie and Jarvis had been married the night before.
+
+Then she waited.
+
+Franklin sat down.
+
+He asked when it had happened.
+
+Anne answered.
+
+There was a long pause.
+
+She prepared herself for anger.
+
+Instead Franklin began to laugh.
+
+It was one of his strange soundless laughs, the kind that made his face change without producing much noise. Anne did not know what to think. For one wild moment she wondered whether this was how Franklin behaved when he was most furious.
+
+She hurried to take responsibility. Dovie had been frightened. Jarvis had been waiting. Anne had advised them. If Franklin wanted to blame someone, he should blame her rather than his daughter.
+
+Franklin looked at her with open amusement.
+
+Then he told Anne something that changed the whole story.
+
+He had known for a long time that Jarvis Morrow was a good young man.
+
+Franklin had investigated him carefully. Jarvis had a respectable family, a useful profession, good character, and every sign of becoming a successful husband. Franklin’s opposition had never been based on a belief that Jarvis was unworthy.
+
+Anne stared at him.
+
+Franklin explained that he had another problem. Dovie was too soft, too obedient, and too afraid of making decisions. She had spent her life allowing other people to choose for her. Franklin believed that if he simply approved the marriage, Dovie might drift into it without ever learning to stand on her own feet.
+
+So he had opposed Jarvis.
+
+He had forbidden visits, used his temper, and made himself appear impossible because he wanted Dovie to want something strongly enough to act for herself. Being denied Jarvis, Franklin thought, would either prove that the love was shallow or force Dovie to become brave.
+
+The plan had worked only partly.
+
+Dovie’s love had certainly grown stronger. Her courage had not.
+
+As the months passed, Franklin began to worry that he had created a problem he could not solve. He did not want to surrender openly because that would destroy the whole lesson and, perhaps more importantly, wound his pride. Yet he also did not want Dovie to lose Jarvis simply because she was unable to take one decisive step.
+
+Anne slowly understood why Franklin was laughing.
+
+Her interference had solved his difficulty.
+
+She had done the pushing he could no longer do. She had persuaded Dovie to act. Now Franklin could be shocked, offended, and eventually forgiving without ever admitting that the marriage was exactly what he wanted.
+
+He thanked Anne.
+
+The words were so unexpected that Anne almost laughed too.
+
+Franklin asked her not to tell Jarvis the truth. He preferred his new son in law to believe that he had fought a heroic battle against an unreasonable father. A young husband, Franklin suggested, might value his wife more if he thought he had won her against serious opposition.
+
+Anne could not approve completely of Franklin’s methods. There were easier and kinder ways to help a daughter grow stronger. Still, the terrifying tyrant of Summerside gossip had become much more complicated. Under the harsh manner was a father who loved Dovie, trusted Jarvis, and had been trying, in his own strange way, to prepare his daughter for adult life.
+
+The conversation became almost friendly. Franklin’s humor appeared more clearly once Anne stopped fearing him. The bulldog slept peacefully beside her, completely useless as a symbol of danger. The fire burned warmly, and Elmcroft no longer felt like the house of a villain.
+
+When Anne finally rose to leave, Franklin walked with her to the door. He thanked her again and sent a dry, teasing message to Rebecca Dew.
+
+Anne stepped back into the fog feeling both relieved and amused.
+
+She had gone to Elmcroft expecting judgment. Instead she had discovered a secret plan.
+
+Once again, Summerside had reminded her that people rarely fit the simple stories told about them. Franklin Westcott was still proud, controlling, and difficult. But he was also clever, humorous, and deeply attached to his daughter.
+
+Anne smiled to herself as she walked home. She had helped Dovie escape one kind of fear and had discovered that the great enemy in the story had been hoping for almost the same ending all along.
 
 ## Vocabulary & Nuance
 
