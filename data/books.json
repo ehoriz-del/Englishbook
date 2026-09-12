@@ -49,19 +49,22 @@
           "id": "the-first-year",
           "title": "The First Year",
           "level": "Early B2",
-          "totalChapters": 17
+          "totalChapters": 17,
+          "publishedChapters": 17
         },
         {
           "id": "the-second-year",
           "title": "The Second Year",
           "level": "Early B2",
-          "totalChapters": 13
+          "totalChapters": 13,
+          "publishedChapters": 0
         },
         {
           "id": "the-third-year",
           "title": "The Third Year",
           "level": "Early B2",
-          "totalChapters": 14
+          "totalChapters": 14,
+          "publishedChapters": 0
         }
       ]
     },
@@ -378,6 +381,114 @@
         "level": "Early B2",
         "file": "content/anne-of-windy-poplars/the-first-year/chapter-05.md",
         "image": "images/anne-of-windy-poplars/the-first-year/chapter-05.webp"
+      },
+      {
+        "number": 6,
+        "title": "Elizabeth and the Dream of Tomorrow",
+        "part": "the-first-year",
+        "partTitle": "The First Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-first-year/chapter-06.md",
+        "image": "images/anne-of-windy-poplars/the-first-year/chapter-06.webp"
+      },
+      {
+        "number": 7,
+        "title": "Captain Abraham’s Secret",
+        "part": "the-first-year",
+        "partTitle": "The First Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-first-year/chapter-07.md",
+        "image": "images/anne-of-windy-poplars/the-first-year/chapter-07.webp"
+      },
+      {
+        "number": 8,
+        "title": "A Truce with the Pringles",
+        "part": "the-first-year",
+        "partTitle": "The First Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-first-year/chapter-08.md",
+        "image": "images/anne-of-windy-poplars/the-first-year/chapter-08.webp"
+      },
+      {
+        "number": 9,
+        "title": "Dinner with the Taylors",
+        "part": "the-first-year",
+        "partTitle": "The First Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-first-year/chapter-09.md",
+        "image": "images/anne-of-windy-poplars/the-first-year/chapter-09.webp"
+      },
+      {
+        "number": 10,
+        "title": "Breaking Cyrus Taylor’s Silence",
+        "part": "the-first-year",
+        "partTitle": "The First Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-first-year/chapter-10.md",
+        "image": "images/anne-of-windy-poplars/the-first-year/chapter-10.webp"
+      },
+      {
+        "number": 11,
+        "title": "Fairyland and Happy News",
+        "part": "the-first-year",
+        "partTitle": "The First Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-first-year/chapter-11.md",
+        "image": "images/anne-of-windy-poplars/the-first-year/chapter-11.webp"
+      },
+      {
+        "number": 12,
+        "title": "Pauline’s One Great Wish",
+        "part": "the-first-year",
+        "partTitle": "The First Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-first-year/chapter-12.md",
+        "image": "images/anne-of-windy-poplars/the-first-year/chapter-12.webp"
+      },
+      {
+        "number": 13,
+        "title": "A Day of Freedom",
+        "part": "the-first-year",
+        "partTitle": "The First Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-first-year/chapter-13.md",
+        "image": "images/anne-of-windy-poplars/the-first-year/chapter-13.webp"
+      },
+      {
+        "number": 14,
+        "title": "Pauline Comes Home Happy",
+        "part": "the-first-year",
+        "partTitle": "The First Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-first-year/chapter-14.md",
+        "image": "images/anne-of-windy-poplars/the-first-year/chapter-14.webp"
+      },
+      {
+        "number": 15,
+        "title": "Wedding Weekend at Bonnyview",
+        "part": "the-first-year",
+        "partTitle": "The First Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-first-year/chapter-15.md",
+        "image": "images/anne-of-windy-poplars/the-first-year/chapter-15.webp"
+      },
+      {
+        "number": 16,
+        "title": "The Light in the Attic Window",
+        "part": "the-first-year",
+        "partTitle": "The First Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-first-year/chapter-16.md",
+        "image": "images/anne-of-windy-poplars/the-first-year/chapter-16.webp"
+      },
+      {
+        "number": 17,
+        "title": "The First Year Ends",
+        "part": "the-first-year",
+        "partTitle": "The First Year",
+        "level": "Early B2",
+        "file": "content/anne-of-windy-poplars/the-first-year/chapter-17.md",
+        "image": "images/anne-of-windy-poplars/the-first-year/chapter-17.webp"
       }
     ],
     "annes-house-of-dreams": [],
