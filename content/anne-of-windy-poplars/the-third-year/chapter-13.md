@@ -2,121 +2,75 @@
 
 ## Story Summary
 
-For Little Elizabeth, the next moments came in broken pieces.
+At first, Little Elizabeth knew only that the room would not stay still.
 
-There had been the road, the sunlight, Anne beside her, and then the terrible movement of the runaway horses. After that came confusion. When Elizabeth began to understand the world again, she was lying in a bed.
+Light moved strangely above her. Voices came and went as though they were traveling from a great distance. She tried to remember where she was, but the thoughts slipped away before she could hold them. Her body felt heavy, and even opening her eyes required effort.
 
-The room seemed to move when she opened her eyes. Her body felt heavy, and voices reached her as though from far away. She could not remember at first where she was or why Anne sounded so worried.
+Then one voice became familiar.
 
-Then she heard another voice.
+Miss Shirley.
 
-She knew it.
+Anne was nearby.
 
-It belonged to the kind man from Flying Cloud.
+That knowledge made Elizabeth feel safer. She let her eyes close again, listening. Another voice was speaking too, a man’s voice that she had heard before. Slowly a memory returned. Flying Cloud. Ice cream with strawberry jam. A kind face. A stranger who had listened when she talked about Tomorrow.
 
-Elizabeth tried to look toward him. He was near the bed, and the expression on his face was no longer the quiet curiosity she remembered. It was open tenderness and fear.
+When Elizabeth became more fully awake, she saw him beside the bed.
 
-Anne was there too.
+Anne was there too, looking tired and deeply relieved. The accident with the runaway horses had frightened everyone. Elizabeth had been injured, but she was safe now and recovering. The danger had passed.
 
-Gradually the truth came into focus.
+The greater surprise was the man.
 
-The stranger was Pierce Grayson.
+He had not appeared at Flying Cloud by chance. His name was Pierce Grayson.
 
-He was Elizabeth’s father.
+He was her father.
 
-The words were almost too large for her to understand.
+For a few seconds Elizabeth could only stare at him.
 
-For years her father had existed only as an absence. Adults avoided speaking of him or spoke in ways that made him seem distant and unreachable. Elizabeth had built dreams around him because there was nothing else to build with. She had imagined that someday he might come and love her. She had even asked God for it.
+The father she had imagined for years had never possessed a clear face. He had belonged to stories, questions, and the mysterious country of Tomorrow. Adults at The Evergreens rarely spoke of him in a way that helped her understand anything. Yet the kind stranger she had liked almost at once was now sitting beside her bed, looking at her with an expression of love and regret.
 
-Now the man beside her bed was saying he was that father.
+Pierce leaned close and spoke gently.
 
-Elizabeth looked at him again.
+Anne’s letter had brought him back. Until receiving it, he had not understood what his absence had meant to his daughter. Old misunderstandings and family bitterness had allowed the years to pass. Perhaps he had told himself there would be time later. Perhaps distance had made it easier not to face painful memories. But Anne’s description of Elizabeth had made the child real to him again.
 
-This was the same man who had listened to her at Flying Cloud. He had not laughed at Tomorrow. He had ordered the ice cream and strawberry jam she wanted. He had looked at her as if she mattered before she knew any reason why he should.
+He had come to Summerside quietly because he wanted to see her before deciding how to approach the family. At Flying Cloud he had watched Elizabeth without revealing who he was. He had listened to her talk and discovered a daughter he hardly knew, yet already loved.
 
-Suddenly those small kindnesses became more important.
+Now the accident had destroyed any reason for secrecy.
 
-Pierce explained that he had come because of Anne’s letter.
+Elizabeth’s first questions came slowly. Was he truly her father. Had he really come for her. Would he go away again.
 
-The letter had reached him far away and forced him to think about everything he had lost. Old misunderstandings, pride, distance, and grief had allowed years to pass. During those years Elizabeth had grown from a baby into a thoughtful little girl, and he had not been there to see it.
+Pierce answered without hesitation. He wanted her with him.
 
-Anne had written plainly about the child’s loneliness.
+The words were almost too large for Elizabeth to understand.
 
-She had told him enough to make silence impossible.
+All her life important decisions had been made around her. Adults decided where she lived, what she wore, when she spoke, and how she should behave. She had learned to create imaginary selves and imaginary futures because so little of real life belonged to her.
 
-Pierce came to Prince Edward Island wanting to see Elizabeth before he decided what to do. Flying Cloud gave him that chance. He met her first without announcing himself, perhaps because he needed to know whether affection could exist between them before the name of father changed everything.
+Now her father was saying that he chose her.
 
-It had existed at once.
+Elizabeth asked whether she could live with him always. He said yes. She asked questions about what would happen next, including whether the people from The Evergreens would come too. Each answer changed the shape of her future. The old household no longer stood around her like a wall.
 
-Now, beside the bed after the accident, there was no reason to hide.
+Anne remained nearby, but she did not interrupt the reunion. She had done what she could. Months earlier she had sat at her desk wondering whether she had any right to interfere. Then she had written because doing nothing seemed worse. Now she watched father and daughter together and felt a quiet relief stronger than any pride.
 
-Elizabeth asked the questions that mattered most to her.
+Pierce himself seemed overwhelmed by what he had almost lost. The child in the bed was no longer an idea connected with painful memories. She was Elizabeth, with her strange phrases, her imagination, her courage, and her hunger for affection. He told Anne that he had found a treasure he had not known he possessed.
 
-Would he keep her.
+Elizabeth understood the moment in her own way.
 
-Would she live with him.
+For years she had spoken about Tomorrow. Tomorrow was the place where life would be different. In Tomorrow, people would love her freely. In Tomorrow, she would not always have to be careful. In Tomorrow, something wonderful might happen that would make sense of the loneliness she could not explain.
 
-Would they be together from now on.
+Now, looking at her father, she realized that Tomorrow had arrived.
 
-Pierce answered with certainty.
+The idea did not disappear simply because she had grown closer to reality. Instead reality finally became large enough to contain the dream. The kind stranger at Flying Cloud was her father. The man from Yesterday had come back to give her a future.
 
-Yes.
+The room was quiet except for their voices. Elizabeth was still weak, and there would be practical matters to settle later. Mrs. Campbell would have opinions. Arrangements would have to be made. Years of separation could not be erased in one afternoon.
 
-He wanted his daughter.
+But the most important decision had already been made.
 
-He had lost too many years already.
+Pierce Grayson was not leaving his daughter behind again.
 
-Elizabeth asked about The Evergreens, about her grandmother, and about the Woman. The old life still seemed close enough to pull her back. Pierce made it clear that she would not simply return to the same cold routine. Her future would be different.
+Elizabeth lay back against the pillows, tired but peaceful. Anne watched her face and saw something she had rarely seen there at The Evergreens. The child no longer looked as though happiness existed somewhere just out of reach.
 
-The relief on Elizabeth’s face was almost painful for Anne to see.
+She had found Tomorrow.
 
-A child should never have had to wonder whether anyone wanted her.
-
-Pierce leaned close to his daughter, and the tenderness between them needed very few words. He had discovered that the little girl he had thought of from a distance was not a duty or a problem from the past. She was someone he loved.
-
-Elizabeth, in turn, was discovering that the father of her dreams was not merely alive. He had come for her.
-
-Anne stood nearby and let the moment belong to them.
-
-She felt a deep gratitude that was almost too strong to speak. When she had written the letter, she had worried that she was interfering in matters she did not fully understand. Pierce might have been offended. The family might have become angry. Nothing might have happened at all.
-
-Instead, a door had opened.
-
-Anne had not created the love between father and daughter. She had only made it possible for them to stand close enough to recognize it.
-
-For Elizabeth, the meaning of Tomorrow changed in that room.
-
-Tomorrow had once been a distant country inside her imagination. It was the place where she hoped life would finally become kind. She had connected it with roads, gardens, freedom, and all the things missing from The Evergreens.
-
-Now she realized that Tomorrow was not a place she had to search for forever.
-
-It had come to her.
-
-Her father was beside her bed.
-
-He wanted her with him.
-
-The future was no longer something controlled entirely by Mrs. Campbell and household rules.
-
-Elizabeth said, with the simple certainty of a child who suddenly understands a great truth, that she had found Tomorrow.
-
-Pierce had found something too.
-
-He spoke of discovering a treasure he had not known he possessed. The years of separation could not be returned. He could not go back and be present for the childhood he had missed. But he could begin now.
-
-That promise mattered more than regret.
-
-As Elizabeth rested, the room became peaceful. The accident that had brought fear into the day now seemed almost like the final doorway through which the truth had entered.
-
-Anne watched father and daughter together and thought of the quiet night when she had written the letter in the tower room. At that time she had only hoped.
-
-Now hope had a face.
-
-For Elizabeth, it had the face of a father bending over her with love.
-
-Tomorrow was no longer beyond the next hill.
-
-It had arrived.
+Elizabeth watched her father carefully as he spoke, as though she were testing whether he might vanish if she looked away. Pierce seemed to understand. He did not rush her questions or ask her to feel more than she was ready to feel. He remained close, answering simply and allowing her to study him. That patience mattered almost as much as his words. For a child who had spent years adjusting herself to the moods and rules of adults, being allowed to ask what she truly wanted to know was itself a new kind of freedom.
 
 ## Vocabulary & Nuance
 

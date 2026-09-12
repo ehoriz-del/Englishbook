@@ -2,93 +2,51 @@
 
 ## Story Summary
 
-Little Elizabeth knew about the plan before she went to bed, and that knowledge made sleep almost impossible.
+Little Elizabeth had been waiting for the promised outing to Flying Cloud with an excitement that made the ordinary days before it almost impossible to endure. To Anne, the plan was a pleasant summer excursion. To Elizabeth, it was much more. She had spent years imagining Tomorrow as a wonderful place where life would finally become free and beautiful, and Flying Cloud had somehow become part of that dream.
 
-Anne had promised to take her to Flying Cloud the next day.
+On the night before the trip, Elizabeth prepared for bed with unusual seriousness. She wanted to fall asleep quickly so morning would come sooner, but excitement made sleep difficult. Before she settled under the covers, she kissed a hidden picture of Miss Shirley and prayed for fine weather.
 
-To most people it was only an outing. To Elizabeth it was something much larger. For years she had spoken of Tomorrow as if it were a secret country just beyond the edge of ordinary life. Tomorrow was where beautiful things might finally happen. Tomorrow was where she could be free, loved, and unafraid. Now Flying Cloud had become connected with that dream, and the thought of going there with Anne made the coming day seem almost magical.
+The next day was bright and clear.
 
-At The Evergreens, Elizabeth prepared carefully. She was not a child who could simply throw herself into excitement without remembering rules. Her clothes were arranged. Her boots were ready. Before sleeping she took out a hidden picture of Miss Shirley and kissed it. Then she prayed that the weather would be fine.
+When Anne came for her, Elizabeth’s happiness seemed to change her whole face. She was neatly dressed and almost painfully eager. The moment they left The Evergreens, she began looking around as though the road itself were new. Anne understood. For a child who lived under constant rules, simply walking freely beside someone she loved could feel like an adventure.
 
-Morning brought sunshine.
+The road toward Flying Cloud passed through a summer landscape filled with light. Buttercups and daisies grew beside the way. Clover moved in the breeze. Beyond the fields the water shone silver-blue, and distant hills softened into the horizon. Anne did not hurry. She let Elizabeth stop, notice flowers, ask questions, and enjoy the feeling that no one was waiting to correct the way she walked or spoke.
 
-When Elizabeth stepped outside with Anne, she felt as though a door had opened.
+Elizabeth drank in the freedom. At times she talked quickly, and at other times she became quiet because the beauty around her seemed too large for words. She had spent so much of her childhood looking at life through windows that being outside in it felt almost unbelievable.
 
-The road itself seemed wonderful. They walked through a June world filled with green fields, buttercups, daisies, clover, and the bright blue of distant water. The breeze moved gently across the countryside. Hills lay soft in the distance, and the harbor flashed with light.
+As they approached Flying Cloud, her excitement increased. The place belonged to the private geography of her imagination. Tomorrow had always been somewhere beyond the limits of The Evergreens, a country where people were kind and wishes might come true. Now, walking beside Anne, she felt as though she had crossed into it.
 
-Elizabeth drank in everything.
+At the cottage she was allowed to relax completely. There was no need to sit stiffly or wait for permission before enjoying something. When food was discussed, Elizabeth shyly asked for ice cream with strawberry jam, a combination that seemed wonderfully luxurious to her.
 
-At The Evergreens she was always being told how to sit, how to speak, when to come in, and what not to do. Beside Anne she could walk quickly, stop to look at a flower, ask a question, or simply be silent without feeling watched. Freedom was not a grand speech. It was the feeling of choosing where to place her feet on a sunny road.
+During the visit she met a man she did not know.
 
-Anne noticed the change in her. Elizabeth’s face looked younger when she was happy. Her careful expression disappeared. She laughed more easily and moved as if the air itself were lighter.
+He was gentle with her from the beginning. He did not ask questions in the cold, serious way adults sometimes did. Instead he listened. He seemed interested in what she thought and what she wanted. Elizabeth, who was sensitive to every change in an adult’s manner, warmed to him quickly.
 
-Flying Cloud came into view like the answer to a long wish.
+The man looked at her with an expression she could not understand. There was tenderness in it, but also sadness. He appeared to be studying her face as though searching for something familiar. Elizabeth noticed this without feeling afraid. In fact, she liked him almost immediately.
 
-The place had the charm of something half real and half imagined. To Elizabeth, it was not merely a cottage or a pleasant corner of the coast. It belonged to Tomorrow.
+When he asked what she would enjoy, she mentioned the ice cream and strawberry jam. He made sure she had it. The small treat delighted her, but the kindness behind it mattered even more.
 
-Anne understood the importance of that name and did not tease her. She had spent too much of her own childhood giving beautiful names to places no one else thought remarkable. She knew that imagination could make a hard life bearable, and she wanted Elizabeth to keep that gift.
+They talked about Flying Cloud and Tomorrow. Elizabeth explained that Tomorrow was the wonderful place she had always imagined beyond the present. The man listened seriously instead of laughing. He said, with a sadness Elizabeth could not understand, that he would rather go back to Yesterday.
 
-At Flying Cloud the child was allowed small pleasures that felt enormous to her. She could relax, look around, and choose what she wanted. Even the thought of ice cream with strawberry jam seemed like a celebration.
+For a moment the words seemed to place them on opposite sides of time. Elizabeth was reaching toward a future she had never had. The stranger seemed to be looking backward toward something lost.
 
-At one point Elizabeth found herself with a man she did not know.
+He left before Anne returned to the room, and Elizabeth was sorry to see him go. She could not explain why the meeting had felt important. She only knew that she hoped she might see him again.
 
-He was quiet and kind. He did not speak to her as adults at The Evergreens usually did. There was no command in his voice and no cold examination in his eyes. Instead, he looked at her with an expression Elizabeth could not understand. It was gentle and sad at the same time.
+Anne, meanwhile, had no idea that the letter she had written earlier had already begun changing Elizabeth’s life. The quiet stranger was Pierce Grayson, the child’s father. He had come because Anne’s words had reached him. He wanted to see Elizabeth before deciding what he should do next.
 
-The man asked what she would like to eat.
+The rest of the afternoon still felt like a dream to Elizabeth. The beauty of Flying Cloud, the freedom of the road, and the strange kind man blended together into one bright memory. Anne was happy simply to see the child so alive. For once Elizabeth was not measuring her words or wondering what Mrs. Campbell would permit.
 
-Elizabeth, after a little hesitation, said she would like ice cream with strawberry jam.
+Eventually they began the journey back.
 
-He treated the request as perfectly reasonable.
-
-That alone made her like him.
-
-They talked.
-
-Elizabeth told him about Flying Cloud and about Tomorrow. To her surprise, he did not laugh. He listened seriously, as if the strange world inside her imagination mattered.
-
-The man said something about wishing he could return to Yesterday.
-
-Elizabeth did not understand the sadness behind the words, but she remembered them.
-
-She felt oddly comfortable with him. The feeling was so immediate that it puzzled her. He was a stranger, yet something in his face and voice seemed familiar in a way she could not explain.
-
-He too seemed deeply affected by the meeting. He watched her when she was not looking and spoke with unusual tenderness. Still, he did not tell her who he was.
-
-Before Anne returned, he said he had to leave.
-
-Elizabeth was disappointed.
-
-She had known him only a short time, yet his going felt like the end of something she had barely begun to understand.
-
-Anne came back, and the day continued. Elizabeth remained happy, but the unknown man stayed in her thoughts.
-
-What she did not know was that Anne’s letter had already crossed the distance between Summerside and Pierce Grayson. The man at Flying Cloud had not appeared by chance. He had come because of that letter, wanting to see the daughter from whom he had been separated for so long.
-
-He had not been ready to reveal himself immediately.
-
-Perhaps he needed first to see Elizabeth as a real child rather than as the distant figure created by years of family conflict. Now he had seen her. He had spoken to her. He had watched her smile over ice cream and listened to her talk about Tomorrow.
-
-The distance between father and daughter had already begun to collapse, though Elizabeth knew nothing of it.
-
-Later Anne and Elizabeth started back.
-
-The afternoon still seemed beautiful. The road curved through the countryside, and the peaceful day had the feeling of a dream that might continue forever.
-
-Then the sound of horses changed everything.
-
-A team came around a bend out of control.
+The peaceful mood continued until, around a bend, the sound of pounding hoofs suddenly broke through the summer quiet. A team of horses was rushing out of control along the road.
 
 Anne saw the danger first.
 
-There was no time for a careful plan. The quiet road filled suddenly with noise, movement, and confusion.
+She cried out.
 
-Anne cried out.
+The shining day that had seemed like Elizabeth’s first real visit to Tomorrow changed in a single moment into confusion and fear.
 
-In an instant the gentle world of flowers, sea, and sunshine disappeared beneath fear.
-
-The day that had brought Elizabeth closer than ever to Tomorrow now ended with a violent uncertainty.
-
-Anne had wanted to give the child one perfect day of freedom. Instead, as the runaway team rushed toward them, she could only act and hope that the happiness they had found would not be taken away before Elizabeth even understood how close it had come.
+Elizabeth’s happiness made Anne unusually quiet at moments. She had seen the child happy before, especially at Green Gables, but the freedom of this day had a different quality. Elizabeth was older now and more aware of what she had been missing. She did not merely enjoy the scenery. She noticed that no one was correcting her, calling her back, or telling her that a small pleasure was foolish. Anne could almost see the tension leaving her little by little as the road carried them farther from The Evergreens.
 
 ## Vocabulary & Nuance
 

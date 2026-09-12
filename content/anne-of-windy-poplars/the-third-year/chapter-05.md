@@ -2,51 +2,45 @@
 
 ## Story Summary
 
-A few days after Anne’s exhausting adventure with Gerald and Geraldine, Mrs. Raymond came to Windy Poplars to apologize. She had had time to think about the pond, the doctor, and the frightened scene she had created when she returned home. Now she admitted that she had spoken too quickly and too sharply. Anne accepted the apology without difficulty. She liked Mrs. Raymond, and she knew that fear for one’s children could make a person unreasonable. Still, Anne had learned one practical lesson from the experience. She would not volunteer to spend another entire day alone with the twins.
+A few days after the adventure with the Raymond twins, Mrs. Raymond came to Windy Poplars to apologize. She had had time to think about the scene that greeted her on her return from Charlottetown, and she admitted that fear had made her speak too quickly. Anne accepted the apology without difficulty. She still liked Mrs. Raymond and remembered the help she had given the Dramatic Club. Even so, Anne had no intention of volunteering to spend another entire day alone with Gerald and Geraldine.
 
-With that matter settled, Summerside soon offered her a different kind of problem. This one did not involve paint, fishing rods, or shallow ponds. It involved two young people who had been engaged for more than a year and seemed no nearer to marriage than on the day they first promised themselves to each other.
+The twins soon gave way to a different topic, one that seemed to interest half of Summerside. For more than a year, Jarvis Morrow and Dovie Westcott had been secretly engaged, yet they appeared no closer to marriage than when the engagement began.
 
-Their names were Dovie Westcott and Jarvis Morrow.
+Aunt Kate knew the story well because she was distantly related to Dovie. She considered Jarvis an excellent match and had little patience with Dovie’s father, Franklin Westcott. Aunt Kate had known Dovie’s mother and believed Franklin had made the woman’s married life unnecessarily difficult. Rebecca Dew’s opinion was even stronger. As far as Rebecca was concerned, Franklin was a stubborn man who enjoyed controlling everyone around him.
 
-Everyone in Summerside seemed to have an opinion about them. Aunt Kate followed the story with special interest because she was distantly related to Dovie and had known the Westcott family for years. In her view, Jarvis was exactly the sort of young man any sensible father should welcome. He was a successful young lawyer, came from a respectable family, and had good prospects. He was steady, intelligent, and well liked. There was nothing obviously reckless or unsuitable about him.
+Anne tried to listen without becoming involved, but the story attracted her immediately.
 
-Dovie herself was nineteen and very pretty in a soft, appealing way. She had warm brown hair touched with chestnut, blue eyes with long dark lashes, and a round, gentle face. Her real name was Sibyl, though almost no one used it. She was affectionate and kind, but she had spent her whole life under the strong authority of her father, Franklin Westcott.
+Jarvis was a successful young lawyer from a respected Summerside family. He had good prospects, a steady character, and no obvious fault that could explain Franklin’s opposition. Dovie, whose real name was Sibyl, was nineteen, pretty, gentle, and affectionate. She had soft brown hair touched with chestnut, blue eyes, and a manner that made people want to protect her. Unfortunately, she had spent most of her life under her father’s authority and had learned to fear displeasing him.
 
-Franklin lived at Elmcroft, a large old house outside Summerside. He was a tall, severe man who did not welcome company and did not encourage young men to visit his daughter. When Jarvis first began calling at Elmcroft, Franklin quickly decided that there had been enough of it. He ordered Jarvis to stop coming and told Dovie she was not to see him again.
+Franklin lived at Elmcroft, an old-fashioned house outside town. He was tall, severe, and unsociable, with the reputation of a man who expected obedience. He had never allowed Dovie much freedom with young men. When Jarvis began visiting her, Franklin quickly forbade him to return and told Dovie that the relationship must end.
 
-The order came too late.
+The order came too late. Dovie and Jarvis were already deeply in love.
 
-Dovie and Jarvis were already in love.
+Since then, the engagement had existed in an uncomfortable half-life. Jarvis could not visit openly. Dovie did not dare defy her father. They could make promises to each other, but they could not turn those promises into a plan. Month after month passed while the same obstacle remained in place.
 
-Their engagement continued in secret, but Franklin’s disapproval made every step difficult. Jarvis could not visit openly. Dovie was frightened of being discovered. Ordinary courtship had become a complicated system of stolen meetings, messages, and promises. What should have been a happy period in their lives became a long test of patience.
+Summerside, which rarely ignored a private romance, had formed strong opinions. Most people sympathized with the young couple. Rebecca believed Franklin wanted Dovie to remain at Elmcroft forever so that she could eventually become his housekeeper. Others wondered how long Jarvis would continue waiting.
 
-Rebecca Dew had no sympathy for Franklin’s position. She thought him unreasonable and controlling. In her opinion, his real motive was simple. If Dovie married, Franklin would lose the daughter who kept house for him and organized his domestic life. Rebecca said he was thinking of his own comfort and hiding it behind the language of parental authority.
+There were already signs that his patience was weakening. Someone claimed to have seen him cutting Dovie’s name out of a tree where he had once carved it. There was also gossip that a Palmer girl had begun showing interest in him. Jarvis’s family did not think he should spend the best years of his youth waiting for a girl who could not make up her mind.
 
-Anne did not know how much of the town gossip to believe. Summerside could turn a small fact into a large story by supper time. Still, she had seen enough of Dovie to know that the girl was genuinely afraid of her father. She loved Jarvis, but the idea of openly disobeying Franklin seemed almost impossible to her.
+Anne tried to remind herself that she had recently learned a painful lesson from Hazel Marr and Terry Garland. She knew exactly how dangerous it could be to step into another person’s romance. Hazel had once begged for help and then accused Anne of destroying her happiness. A sensible woman might have heard the story of Dovie and Jarvis, wished them well, and turned her attention to school work.
 
-Jarvis was beginning to lose patience. People had noticed signs of it. One story said he had been seen cutting Dovie’s name out of a tree where he had once carved it. Another rumor claimed that a Palmer girl was showing interest in him. Jarvis’s family thought he had waited long enough and should stop allowing his future to depend on a girl who could never make a firm decision.
+Anne was not always that sensible woman.
 
-Anne found herself thinking about the situation more than she meant to. She knew very well that interfering in another person’s romance could end badly. Hazel Marr and Terry Garland had already taught her how quickly people could change their minds and blame the helpful outsider. Yet the lesson had not cured Anne of wanting to help.
+The more she heard, the harder it became to remain detached. Dovie loved Jarvis but seemed unable to act. Jarvis loved Dovie but could not wait forever. Franklin’s refusal had no clear connection to Jarvis’s character or prospects. To Anne, the whole situation felt like a door that needed only one firm push.
 
-Dovie’s problem seemed painfully simple from the outside. She loved Jarvis. Jarvis loved her. Both wanted to marry. The only thing standing between them was Franklin’s refusal and Dovie’s fear. Anne could not understand how two people could allow that condition to continue forever.
+Later that evening, her thoughts moved from Dovie to Little Elizabeth. Moonlight lay over the poplars, the harbor, the valley, and the distant hills. Anne stood by the tower window and imagined the same moon shining over Avonlea and Green Gables. She wished Gilbert were beside her.
 
-At the same time, another worry was growing quietly in Anne’s mind.
+Then she thought of Elizabeth, who had loved moonlight walks during her visit to Green Gables. At The Evergreens, the child rarely experienced the night except through a window. She was nearly ten now. Mrs. Campbell and the Woman provided food, clothing, and physical comfort, but Anne had become increasingly convinced that they did not understand what else a growing child needed.
 
-Little Elizabeth was nearly ten now. She still lived at The Evergreens under the watchful eyes of Mrs. Campbell and the Woman. She was fed well, dressed properly, and protected from every physical discomfort. Yet Anne knew that a child needed more than food, clothes, and a respectable house.
+Elizabeth was imaginative, affectionate, and hungry for companionship. She wanted stories, freedom, beauty, and someone who listened to her as though her thoughts mattered. During her two weeks at Green Gables, she had changed almost before Anne’s eyes. She had laughed more freely, explored the outdoors, helped with ordinary household work, and discovered that a home could be both orderly and warm.
 
-Elizabeth needed affection. She needed freedom. She needed the chance to laugh loudly, ask strange questions, wander under the sky, and feel that someone was glad she existed.
+Back at The Evergreens, the old restrictions had closed around her again.
 
-Her two weeks at Green Gables had shown Anne what happened when Elizabeth was given those things. The careful, quiet child had become lively and joyful. She had climbed trees, laughed at hens, eaten berries, helped in the kitchen, and gone to sleep without fear. Back at The Evergreens, the old restrictions closed around her again.
+Anne worried about what would happen as Elizabeth grew older. A little girl could escape into imaginary places and give different names to her moods. A young woman would need more than imagination to build a life. Yet every important decision still belonged to adults who believed that providing material comfort was enough.
 
-Anne often thought of the moonlit walks Elizabeth had loved at Green Gables. At The Evergreens she could see moonlight through a window, but she could not simply step outside and wander in it. The difference seemed small to the adults who controlled her life. To Anne it represented almost everything that was missing.
+That night two different problems stayed with Anne. Dovie was nineteen and afraid to choose the man she loved because she feared her father. Elizabeth was younger and equally limited by adults who did not understand her inner life.
 
-One evening Anne sat at the tower window while moonlight silvered the poplars and the distant harbor. She thought of Gilbert and wished he were beside her. Then her thoughts moved back to Dovie and Elizabeth.
-
-They were very different ages, but each seemed trapped by the will of older people. Dovie was nineteen and afraid to choose the man she loved. Elizabeth was still a child and had almost no power to choose anything at all.
-
-Anne knew she could not live their lives for them. She also knew that doing nothing did not always feel like wisdom.
-
-For the moment she made no plan. But both names stayed in her thoughts, and anyone who knew Anne Shirley well might have guessed that sooner or later thought would become action.
+Anne did not yet have a plan for either of them. She only knew that doing nothing felt increasingly difficult.
 
 ## Vocabulary & Nuance
 

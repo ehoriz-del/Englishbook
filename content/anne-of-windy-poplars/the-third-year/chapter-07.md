@@ -2,121 +2,83 @@
 
 ## Story Summary
 
-The Tuesday chosen for Dovie and Jarvis’s wedding came under a low November sky. Cold rain passed over the hills, and the wind had the raw feeling of approaching winter. Anne told herself that weather had nothing to do with the success of a marriage, but all day the grayness made her uneasy.
+Tuesday arrived under a gray November sky. Cold showers passed over the hills, and the wind carried the raw feeling of winter. Anne tried to tell herself that weather had nothing to do with a marriage, but the gloomy day made her more uneasy about Dovie and Jarvis.
 
-For the first time she began to think seriously about her own part in the plan.
+For the first time since giving her advice, she seriously considered what might happen if the plan ended badly. Dovie had listened to her because she trusted her. If the marriage were unhappy, Anne would always remember that she had encouraged it. If Franklin never forgave his daughter, Anne would feel responsible for helping Dovie defy him.
 
-It was easy to advise courage when one did not have to face Franklin Westcott. Dovie had agreed partly because Anne had urged her not to waste her future through fear. If the marriage went badly, or if Franklin refused to forgive his daughter, Anne knew she would remember that fact.
+By evening the rain had stopped, though the air remained cold. Anne sat in the tower room correcting school papers. Dusty Miller was curled near the stove, perfectly comfortable and completely unconcerned with secret weddings.
 
-By evening the rain had stopped. Anne sat in the tower room correcting papers while Dusty Miller slept near the stove. The house was peaceful, and the wedding should already have been moving toward its happy conclusion.
+Then someone struck the formal front door with such force that the sound seemed to shake the house.
 
-Then someone struck the front door with a knock so violent that Rebecca Dew nearly dropped what she was carrying.
+Rebecca Dew was instantly alarmed. Almost no one used that door. Anne went to the tower window, looked down, and recognized Jarvis Morrow.
 
-The formal front entrance of Windy Poplars was rarely used. Anne went to the window and looked down.
+Her heart sank.
 
-Jarvis Morrow stood below.
+He came inside pale and desperate. Dovie had not appeared. He had waited at the end of the Elmcroft lane for hours in the cold. At Julia’s house the minister was waiting, the family had gathered, and supper stood ready. Jarvis did not know whether Franklin had returned unexpectedly or Aunt Maggie had discovered the plan. He only knew that Dovie had failed him again.
 
-Even from the tower she could see that something was wrong.
+He could not go directly to Elmcroft. If someone saw him near the house, the situation might become worse. He begged Anne to go instead.
 
-He came inside pale, wet, and desperate. Dovie had not appeared. He had waited at the end of the Elmcroft lane for hours in the cold. At Julia’s house the minister was waiting. The family was waiting. Supper was ready. The marriage license was ready. Everything had been prepared except the bride.
-
-Jarvis did not know what had happened. Perhaps Franklin had returned unexpectedly. Perhaps Aunt Maggie had discovered the plan. Perhaps Dovie had become ill. He dared not go to the house himself because his arrival might create a scene and make matters worse.
-
-He asked Anne to go.
-
-For a moment Anne simply stared at him. She had advised the plan, encouraged Dovie, and told Jarvis to be firm. Somehow the whole affair had now arrived at her front door and asked her to continue.
+Anne stared at him. She had not planned to become a messenger in a secret wedding. Yet she could not deny that she had helped bring the matter to this point. Dovie trusted her, and Jarvis had no one else to send.
 
 She put on her coat.
 
-Jarvis drove her as far as the long lane leading to Elmcroft. Anne insisted that he stay there. She would walk the rest of the way alone.
+Jarvis drove her as far as the entrance to the long Elmcroft lane. Anne insisted on walking the rest of the way alone. Clouds moved across the moon, and the wind stirred the bare trees. She remembered every story she had heard about Franklin’s bulldog and wished, not for the first time, that helping people were sometimes less complicated.
 
-The night was cold and unsettled. Clouds crossed the moon, and the dark house at the end of the lane looked less inviting with every step. Anne remembered stories about the Westcott bulldog and wished she had not remembered them.
+Only one light showed in the house.
 
-Aunt Maggie answered the side door. She seemed surprised to see Anne and said Dovie was upstairs in bed. She was not physically ill, but she had been nervous all day and had finally gone to her room.
+Aunt Maggie answered the side door. She seemed surprised to see Anne but not suspicious. Dovie, she explained, had been nervous and upset all day and had gone to bed early. She was not ill.
 
-Anne climbed the stairs.
+Anne went upstairs and found Dovie sitting in bed by the light of a small candle, crying.
 
-Dovie was sitting up in bed by the light of a small candle, crying.
+For once, sympathy did not come first.
 
-Anne did not begin gently.
+Anne asked whether she had forgotten that Jarvis was waiting to marry her.
 
-She asked whether Dovie had forgotten that she was supposed to be married that night.
+Dovie had not forgotten. That was exactly the problem. She had spent the previous night imagining every possible consequence. By morning the plan that had seemed brave at Windy Poplars felt terrible. She began thinking about her father’s anger, about what people would say, and about the church wedding she had always imagined. She had pictured flowers, a white veil, a proper wedding dress, silver slippers, and gifts. Running away in an ordinary dress suddenly seemed like losing everything a bride was supposed to have.
 
-Dovie had forgotten nothing. That was the problem. She had spent the entire night before thinking. By morning her courage had disappeared. She had imagined her father’s anger, the gossip of the town, and all the things she would lose by marrying secretly.
+Anne told her to get out of bed.
 
-She had also begun mourning the wedding she had always imagined. There would be no church filled with flowers, no white veil, no silver slippers, no elegant gifts arranged for visitors to admire. She had dreamed of those things for years. Suddenly the practical little wedding at Julia’s house seemed poor and frightening.
+Dovie looked at her in shock and said it was too late.
 
-Anne listened until Dovie had finished.
+Anne answered that it was now or never. Jarvis had already waited for hours in the cold. He had prepared everything. If Dovie failed him again after giving her word, Anne doubted that even his patience and love would survive it.
 
-Then she told her to get out of bed.
+Dovie hoped he would understand.
 
-Dovie stared at her.
+Anne said he had understood long enough.
 
-Anne repeated the instruction.
+The objections began again. Dovie had nothing suitable to wear. Anne told her to put on the rose taffeta dress. Dovie had no trousseau. Anne said she could buy one later. Dovie feared that Franklin would never forgive her. Anne admitted that he might not, but that fear had been present from the beginning and could not be solved from a bed at Elmcroft.
 
-Dovie said it was too late.
+At last Anne gave her ten minutes to dress.
 
-Anne said it was now or never.
+The firmness worked where persuasion had failed. Dovie slipped out of bed and put on the rose taffeta. She continued worrying while Anne fastened it. Was the dress becoming too tight. Would Jarvis still love her if she grew heavier. Why could she not be tall and slim and pale like Anne. What if Aunt Maggie heard them moving about.
 
-Jarvis had been standing in the cold for hours. He had trusted Dovie’s promise. If she failed him again, Anne did not believe he would continue waiting. Love could survive many difficulties, but no one could be expected to build a future on endless uncertainty.
+Anne answered each question briskly. Aunt Maggie was in the kitchen and slightly deaf. The dress looked lovely. Jarvis wanted Dovie, not a different figure. The important thing was to leave the house.
 
-Dovie began a new objection. She had nothing to wear.
+Anne found Dovie’s hat and coat and packed a few necessary things into a small bag. When Dovie finally stood ready, she asked in a trembling voice whether she looked terrible.
 
-Anne told her to put on the rose taffeta dress.
+Anne softened. She told her sincerely that she looked beautiful.
 
-Dovie had no trousseau.
+They left Elmcroft and walked down the lane.
 
-She could buy one later.
+Jarvis was waiting. Relief crossed his face first, followed immediately by irritation. After two hours in the cold, he had earned both feelings. He told Dovie not to look as though marriage to him were a disaster and reminded her that they had an eleven o’clock train to catch.
 
-The dress felt too tight.
+At Julia’s house everything was ready. The minister performed the ceremony, and within a short time the long, uncertain engagement was over.
 
-Then she would wear it before it became tighter.
+The change in Dovie was almost immediate. Once the decision could no longer be reversed, much of her fear disappeared. She looked happier and more secure, as though crossing one firm line had quieted months of anxiety. She thanked Anne warmly and said that she and Jarvis owed everything to her.
 
-What if Jarvis stopped loving her if she became plump.
+Then she asked for another favor.
 
-Anne told her that Jarvis had already chosen her as she was.
+Franklin would return from Charlottetown the next day. Dovie wanted Anne to tell him about the marriage. She was certain Anne could persuade him to forgive her.
 
-What if Aunt Maggie heard them.
+Anne nearly laughed from exhaustion. After everything that evening, she felt she needed someone to comfort her. Still, she knew she could hardly refuse. She had encouraged the marriage and delivered the bride.
 
-Aunt Maggie was downstairs and slightly deaf.
+She promised to go.
 
-One excuse after another fell apart under Anne’s practical answers.
+When Anne returned to Windy Poplars late that night, Rebecca Dew was waiting in her night clothes with a square of flannel around her head. She followed Anne upstairs and listened eagerly to the entire story. Rebecca was delighted that Franklin Westcott had finally been defeated, but even she admitted that she did not envy Anne the next part of the adventure.
 
-Finally Dovie began to dress.
+The wedding had been accomplished.
 
-Anne fastened the rose taffeta, found the hat and coat, and packed a few necessary things into a bag. Dovie’s hands trembled, but she was moving now. Once action replaced imagination, fear had less room to grow.
-
-When they left Elmcroft, Jarvis was still waiting.
-
-Relief passed over his face so quickly that even his irritation could not hide it. He had been cold, worried, and humiliated, and he told Dovie not to look as though marriage to him were a sentence of death. They needed to hurry if they wanted to catch the eleven o’clock train.
-
-At Julia’s house everything was ready.
-
-The minister performed the ceremony. The family witnessed it. Dovie and Jarvis were married.
-
-Almost at once Dovie changed. The fear that had followed her down the Elmcroft lane seemed to fall away. She looked happy, secure, and certain in a way Anne had rarely seen before. The decision was no longer waiting to be made. It had been made.
-
-Dovie thanked Anne with all her heart.
-
-Then she asked one more favor.
-
-Franklin was returning from Charlottetown the next day. Someone had to tell him what had happened. Dovie believed Anne had a special gift for persuading difficult people. Would Anne go to Elmcroft and explain the marriage.
-
-Anne, who felt that she herself needed comfort after the evening, almost laughed.
-
-Still, she had helped bring the plan into being. She promised.
-
-Dovie tried to reassure her. Franklin might be terrible, but at least he would not kill Anne.
-
-Late that night Anne returned to Windy Poplars. Rebecca Dew had waited up. She followed Anne to the tower room wearing her night clothes and a square of flannel around her head and demanded every detail.
-
-Rebecca was delighted that Franklin Westcott had finally been defeated.
-
-Then Anne told her about the next day’s visit.
-
-Rebecca’s satisfaction faded into sympathy.
-
-The wedding was over, but Anne’s part in the adventure was not. She had helped Dovie walk out of Elmcroft as a frightened daughter. Now she had to walk back in and tell Franklin Westcott that Dovie had returned to Summerside as Jarvis Morrow’s wife.
+Now Anne had to tell the bride’s father.
 
 ## Vocabulary & Nuance
 

@@ -2,63 +2,49 @@
 
 ## Story Summary
 
-By early afternoon Anne had begun to believe that the worst of the day might be over. Geraldine had recovered from the imagined worm in her apple, the dishes were washed, and the twins had behaved almost beautifully when given simple work. Anne was tired but encouraged. Perhaps the secret was to keep them occupied and to speak to them as sensible people.
+By early afternoon, Anne was beginning to believe that the Raymond twins could be managed after all. They had eaten a peaceful lunch, helped with the dishes, and behaved almost like ordinary children when they had clear work to do. Her confidence was still fragile, however, and at two o’clock it was tested again.
 
-At two o’clock Mr. James Grand arrived.
+Mr. James Grand arrived at the cottage. As chairman of the High School board of trustees, he was an important man for Anne to keep on good terms with. He was leaving soon for an educational conference in Kingsport and needed to discuss several school matters before he went. Anne would have preferred to meet him later at Windy Poplars, where she could give him her full attention, but he had no free evening. More importantly, Anne wanted his support for new equipment at the school. She could not afford to treat the conversation casually.
 
-Mr. Grand was chairman of the High School board of trustees, and Anne needed to discuss several important school matters with him before he left for an educational conference in Kingsport. She would have preferred to meet him at Windy Poplars, where she could think without interruption, but his schedule made that impossible. If she wanted his support for new school equipment, she had to talk with him now.
+Before going into the parlor with him, she called Gerald and Geraldine and spoke very clearly. They were to play quietly in the back yard until she finished her business. If they behaved, Anne promised, they could have a little picnic by the pond afterward and make colored soap bubbles.
 
-Before going into the parlor, Anne called Gerald and Geraldine to her. She explained that she needed quiet for a little while. If they played peacefully in the back yard, she promised that afterwards they could have a picnic by the pond and make colored soap bubbles.
+Gerald studied the offer and asked whether good behavior was worth a quarter for each twin.
 
-Gerald listened seriously and then asked whether she would pay each of them a quarter for good behavior.
+Anne refused to bargain. She told him she expected him to behave because a gentleman should know how to keep a promise. Gerald looked thoughtful. Geraldine copied his solemn expression. Together they promised to be very good.
 
-Anne refused at once. She did not intend to hire children to be decent. Instead she told Gerald that she trusted him to behave like a gentleman. The compliment pleased him. Geraldine also promised to be good, and for a moment both children seemed genuinely determined to keep their word.
+They might even have succeeded if Ivy Trent had not arrived.
 
-If no one had come through the gate, they might even have succeeded.
+Ivy was a neighborhood child whom the twins disliked with great energy. Adults considered her a model of good behavior. She was always clean, carefully dressed, and confident that everyone would admire her. That afternoon she appeared in a spotless white embroidered dress, new brown buttoned boots, and brilliant scarlet ribbons at her waist, shoulders, and hair. Geraldine noticed every ribbon at once.
 
-The visitor was Ivy Trent.
+Ivy asked whether Geraldine liked her new sash and shoulder bows. Geraldine answered by repeating Ivy’s words in a mocking voice. When Ivy pointed out that Geraldine had no shoulder bows of her own, Geraldine continued the imitation with even greater enthusiasm.
 
-Ivy belonged to the neighborhood and was known as one of those children adults loved to praise. She was always clean, carefully dressed, and properly behaved. That afternoon she looked especially neat in a white embroidered dress, new brown boots, and bright scarlet ribbons at her waist, shoulders, and hair. Geraldine took one look at the ribbons and disliked them immediately.
+Gerald joined the quarrel by announcing that Ivy’s beautiful clothes had probably not been paid for. Ivy turned red and declared that her mother always paid her bills. The argument grew sharper. Then Ivy calmly announced that she had decided Gerald was the handsomest boy on the street and intended to make him her beau.
 
-Ivy was proud of her clothes and made no effort to hide it. She asked Geraldine whether she liked the sash. Geraldine repeated the question in a mocking voice. Ivy pointed out that Geraldine had no shoulder bows of her own. Geraldine copied that sentence too. Gerald, enjoying the argument, announced that Ivy’s new clothes probably had not even been paid for.
+Gerald stared at her in horror. He said he would not be anyone’s beau, especially Ivy Trent’s. Ivy replied that he had to be. To Gerald’s outrage, Geraldine suddenly agreed with Ivy and told her brother that he certainly did have to be her beau.
 
-Ivy became indignant and insisted that her mother always paid her bills. She had come expecting admiration, not insults.
+The situation became impossible. A few minutes earlier Gerald and Geraldine had been united against Ivy. Now Gerald was furious with both girls, while Geraldine seemed delighted to have discovered a new way to annoy him. Ivy, confident in the power of her white dress and scarlet ribbons, continued ordering Gerald about as though the matter had already been settled.
 
-The quarrel might still have ended there if Ivy had not turned her attention to Gerald. She had decided that Gerald was the handsomest boy on the street, and she calmly announced that she intended to make him her beau.
+Inside the parlor, Anne knew nothing of this. Mr. Grand was speaking seriously about school affairs, and she listened with care. She wanted better equipment for Summerside High and knew that winning his support required patience and good judgment. She had no reason to believe the promised quiet in the back yard had already disappeared.
 
-Gerald reacted as though she had threatened him with prison.
+Outside, Gerald’s embarrassment turned into anger. At last he threatened to tear off Ivy’s ribbons and sash. Geraldine, who had been supporting Ivy only to annoy her brother, immediately changed sides and approved the plan.
 
-He said he would not be her beau. Ivy replied that he had to be. Then Geraldine, who had spent the last several minutes mocking Ivy, suddenly joined the opposite side and informed her brother that he did indeed have to be Ivy’s beau.
+The twins seized Ivy and pulled her into the woodshed, where her cries would not easily reach the parlor. Gerald held her while Geraldine removed the great hair bow, the shoulder bows, and the scarlet sash. If they had stopped there, the punishment would already have been cruel enough. But Gerald noticed several cans of paint left by workmen and had another idea.
 
-Gerald was trapped between two determined girls and became furious.
+The twins used red and green paint to make broad stripes on Ivy’s lower legs. Paint splashed onto her new boots and the white dress she had been so proud of. Then they pushed burrs into her curls. By the time they finished, the perfect little visitor who had arrived like a picture in a fashion book looked completely changed.
 
-Inside the house Anne was talking earnestly with Mr. Grand about school needs. She knew that gaining his support required patience. He was not an unreasonable man, but money for new equipment had to be discussed carefully. Anne listened, explained, persuaded, and had no idea that her carefully arranged quiet afternoon was collapsing a few yards away.
+Ivy cried with rage. Gerald and Geraldine were delighted with their revenge. They had listened to Ivy’s boasting for a long time, and in their own wild minds they believed they had finally corrected her pride. Gerald told her to go home and remember not to order people to become her beau.
 
-In the back yard the children’s argument grew steadily worse. Ivy became bossier. Gerald became angrier. Geraldine changed sides whenever it promised more excitement. Finally Gerald threatened to tear off Ivy’s beautiful ribbons. Geraldine approved the idea at once.
+Ivy shouted that she would tell her mother everything. Then, in her fury, she called Gerald ugly.
 
-The twins pulled Ivy into the woodshed where her cries would be harder to hear from the house. Gerald held her while Geraldine removed the large bow from her hair, the bows from her shoulders, and the scarlet sash from her waist. Ivy fought and shouted, but the twins were united now and worked with the quick energy that always appeared when they were doing something forbidden.
+Geraldine’s loyalty changed the atmosphere at once. She might fight with her brother from morning until night, but an outsider was not allowed to insult him. She threw Ivy’s scarlet bows after her and ordered her to take them away.
 
-Then Gerald noticed several paint cans left by workmen.
+Ivy ran from the yard in tears.
 
-The sight gave him a new idea.
+The twins looked at each other and realized that Anne might appear at any moment. Their own hands and clothes carried traces of the paint, and they knew enough about adult reactions to understand that evidence should disappear. Without wasting time, they hurried up the back stairs toward the bathroom.
 
-The twins pulled down Ivy’s stockings enough to paint broad red and green stripes on her lower legs. Some paint splashed onto her spotless white dress and new boots. Geraldine, still unsatisfied, found burrs and pushed them into Ivy’s carefully arranged curls.
+Anne remained in the parlor with Mr. Grand, discussing school equipment and educational plans as calmly as if the cottage were the quietest place in Summerside. She believed Gerald and Geraldine were keeping their solemn promise in the back yard.
 
-When they finally released her, Ivy was hardly recognizable as the perfect little visitor who had walked through the gate. Her dress was stained, her ribbons were gone, her boots were marked with paint, and burrs caught painfully in her hair.
-
-Ivy burst into tears.
-
-Gerald felt no sympathy. He told her that the experience should teach her not to order boys to become her beau. Ivy shouted that she would tell her mother everything and, in her anger, called Gerald ugly.
-
-That insult changed Geraldine instantly. She might fight with her brother every hour of the day, but no outsider was allowed to attack him. She grabbed Ivy’s scarlet bows and threw them after her as the crying girl ran toward home.
-
-The moment Ivy disappeared down the street, the twins understood that they had a new problem. Anne must not see the paint on their hands and clothes. They hurried upstairs by the back way, planning to wash before she came looking for them.
-
-In the parlor Anne was still speaking with Mr. Grand. The conversation had gone well, and she felt pleased with her careful work. She had no reason to think the children were doing anything more serious than playing in the yard.
-
-The contrast would have been almost comic if poor Ivy had not been involved. Anne was using patience and diplomacy to improve the High School while, only a few rooms away, Gerald and Geraldine were proving that her theory about firm but gentle guidance had several important weaknesses.
-
-By the time Mr. Grand rose to leave, the promise of good behavior had been completely forgotten. The quiet back yard Anne had imagined existed only in her mind. Outside, one furious little girl was running home to her mother, and upstairs two angel-faced twins were desperately trying to remove the evidence of one of their worst adventures yet.
+Outside, Ivy was already running home to her mother, her beautiful white dress ruined, her ribbons in her hands, and a story ready that would bring the afternoon crashing into Anne’s carefully managed plans.
 
 ## Vocabulary & Nuance
 

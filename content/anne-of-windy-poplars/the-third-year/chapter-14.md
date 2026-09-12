@@ -2,111 +2,61 @@
 
 ## Story Summary
 
-Anne sat in the tower room at Windy Poplars and wrote to Gilbert for the last time from that familiar desk.
+For the last time, Anne sat in the tower room at Windy Poplars and wrote to Gilbert.
 
-The thought felt almost impossible.
+The room was as familiar as any place could be. For three years it had held her books, letters, plans, worries, and dreams. From its windows she had watched weather move across Summerside, seen moonlight over the roofs, and looked toward The Evergreens while wondering about Little Elizabeth. Here she had written page after page to Gilbert when he was far away. Soon there would be no need for those long letters.
 
-For three years the tower room had been the place where she gathered the events of Summerside and sent them across the distance to him. She had written about school troubles, strange neighbors, friendships, mistakes, comic adventures, and quiet evenings. When she missed Gilbert, she wrote. When something delighted her, she wanted to tell him. The letters had become part of the rhythm of her life.
+Their waiting was almost over.
 
-Soon she would not need them in the same way.
+Anne should have felt only joy, and she did feel joy, but it was mixed with a sadness she had not fully expected. When she first arrived in Summerside, three years had seemed like an enormous stretch of time. She had been a young principal entering a town that did not particularly want her. The Pringles had opposed her. School politics had confused her. Windy Poplars had been only the place where she rented a room.
 
-The waiting years were nearly over.
+Now the years seemed to have passed almost too quickly.
 
-Marriage was close enough to feel real.
+As she packed, memories appeared everywhere. A book reminded her of an evening conversation. A view from the window brought back one of Little Elizabeth’s visits. A chair recalled Katherine Brooke. Even ordinary household sounds carried meaning because she knew she would soon stop hearing them every day.
 
-Anne looked around the room and felt happiness and sadness at once. She was going toward the life she wanted, but that did not make leaving easy.
+Summerside itself had changed around her, or perhaps Anne’s place within it had changed. She was no longer the outsider who had to prove herself. She had earned the trust of pupils, families, and people who once watched her with suspicion. She had helped with school events, entered household quarrels she probably should have avoided, encouraged romances, repaired misunderstandings, and made friends in places where she had expected only acquaintances.
 
-When she had first come to Summerside, three years had seemed very long. She had been younger, uncertain of the town, and anxious about her position at the High School. The Pringles had opposed her. Other people had watched her carefully. Windy Poplars had been only a place to live while she did her work and waited for the future.
+Some adventures had been comic. Some had frightened her. A few had taught her not to be quite so confident about fixing other people’s lives. Yet taken together they had made these years rich.
 
-Now it was home.
+Leaving the school was difficult, but leaving Windy Poplars was harder.
 
-The change had happened so gradually that Anne could not point to a single moment. Aunt Kate and Aunt Chatty had become more than landladies. Their habits, opinions, and little household worries were woven into her days. Rebecca Dew, with her sharp tongue and loyal heart, had become one of the people Anne loved most in Summerside.
+Aunt Kate and Aunt Chatty had long ago ceased to feel like landladies. Their habits, stories, worries, and kindnesses had become part of Anne’s daily life. They had made room for her without demanding that she become anyone different. Aunt Chatty’s gentle emotion and Aunt Kate’s practical affection had created a home that Anne had never expected to find in Summerside.
 
-Even Dusty Miller seemed part of the memory of the house.
+And then there was Rebecca Dew.
 
-Anne thought of mornings when sunlight touched the garden, evenings when rain moved over the roof, and winter nights when the tower room felt like a small warm world above the sleeping house. She remembered laughter coming from downstairs and the sound of Rebecca moving through the kitchen.
+Rebecca could complain about almost anything. She could declare a cat useless while secretly loving him, insult a neighbor’s foolishness with perfect confidence, and turn a small household event into a matter of principle. Yet beneath all her sharp comments was fierce loyalty. Anne knew that Rebecca’s affection was deep precisely because she rarely expressed it in a simple way.
 
-She also thought of the people who had come into her life because she lived there.
+The final days were full of packing and farewells. Every task made departure more real. Anne moved through the house noticing details she had taken for granted. The garden looked different when she knew she was seeing it for the last time as a resident. The tower stairs seemed shorter. Even the rooms downstairs carried the feeling of something ending.
 
-Little Elizabeth had appeared at the gate, shy and hungry for affection. Katherine Brooke had begun as a difficult colleague and become a dear friend. Dovie and Jarvis had carried their impossible romance into Anne’s hands. Gerald and Geraldine had nearly exhausted her in a single day. Miss Minerva had given her a night full of Tomgallon ghosts that were mostly made of wind, candlelight, and imagination.
+At moments she wanted to stop the process, not because she doubted her future with Gilbert, but because she wished she could keep this part of her life as well. Then she reminded herself that happiness did not require remaining in one place forever. She could love Windy Poplars and still leave it.
 
-The years had not been empty waiting.
+The thought of Gilbert pulled her forward.
 
-They had been life.
+For years their future had existed in letters and plans. Now marriage was close enough to feel real. Anne would soon leave the life of waiting and begin the life they had imagined together. She was not moving into uncertainty in the way she had when she first came to Summerside. She was moving toward someone she loved.
 
-At school, too, Anne had changed. She had arrived determined to do well but unsure whether Summerside would ever accept her. Now the hostility of the first year seemed distant. Students trusted her. Families who had once been suspicious treated her with respect. The town had become familiar enough that she could predict which story would reach Rebecca first and which person would turn a small event into a week of conversation.
+That knowledge made the farewells bearable.
 
-Anne smiled at the thought.
+When the actual moment of departure came, Aunt Kate and Aunt Chatty stood near the house to say goodbye. Their affection was open, and Anne knew she would miss them more than she could say. The garden was bright, the poplars stood around the familiar white house, and the carriage waited.
 
-Packing made the ending more real.
+Anne climbed in and looked back.
 
-Books came down from shelves. Small objects disappeared into boxes. Drawers that had held her things for years slowly emptied. Each ordinary action carried a memory.
+Then Rebecca Dew appeared at the tower window.
 
-Aunt Chatty became emotional more than once. Aunt Kate tried to remain practical, but Anne could see feeling beneath the practical instructions. No one wanted the final morning to arrive too quickly.
+True to herself, Rebecca had found a farewell more dramatic than an ordinary wave. She leaned out and swung a large white bath towel through the air as though Anne were a ship sailing away from shore.
 
-Rebecca handled the approaching farewell in her own way.
+Anne laughed even as tears filled her eyes.
 
-She complained.
+The sight was ridiculous, loving, and completely perfect.
 
-There were things to organize, things Anne might forget, things that should be packed differently, and things no sensible person would leave until the last minute. The more Rebecca talked, the clearer it became that she was unhappy.
+The carriage began to move. Windy Poplars slowly slipped farther behind, but Anne continued looking back as long as she could. She knew she would return to Summerside someday and that the people she loved there would remain part of her life. Still, she also knew that this particular season could not be repeated.
 
-Anne did not tease her.
+The young woman who had first arrived to become principal was leaving as someone changed by three years of work, friendship, mistakes, laughter, and responsibility.
 
-She understood.
+Ahead lay Gilbert and the life they had waited for.
 
-On the day of departure, Windy Poplars looked especially beautiful. Summer light rested on the white house and green shutters. The garden was full, the poplars stood tall, and everything seemed determined to look exactly as Anne would want to remember it.
+Behind her, high in the tower window, a white towel was still waving.
 
-There were final embraces.
-
-Aunt Chatty’s eyes were wet.
-
-Aunt Kate spoke warmly, though she tried to keep her voice steady.
-
-Anne promised that leaving did not mean forgetting. Summerside was not going to vanish simply because she was moving into another life.
-
-Then it was time to go.
-
-Anne climbed into the carriage with her luggage and looked back.
-
-The house stood behind the garden, full of the people and rooms that had sheltered three important years of her life.
-
-Someone waved from below.
-
-Then Anne looked up toward the tower.
-
-Rebecca Dew was at the window.
-
-She had chosen a farewell signal entirely suitable to Rebecca Dew. Instead of a delicate handkerchief, she was waving a large white bath towel with great energy.
-
-Anne laughed through her tears.
-
-It was ridiculous.
-
-It was perfect.
-
-The carriage began to move.
-
-Windy Poplars slowly slipped farther away.
-
-Anne kept looking back as long as she could.
-
-She was not leaving because she had become tired of the place. She was leaving because one part of her life had reached its natural end. That made the sadness gentler, though not smaller.
-
-Ahead waited Gilbert.
-
-For years he had been the person at the other end of her letters. Soon there would be no need to describe a sunset to him after it was over. They would be able to stand together and watch it.
-
-That thought filled Anne with quiet joy.
-
-She had once imagined the future as a road bending out of sight. Summerside had been one stretch of that road. Green Gables belonged to another. Now the road was turning again.
-
-Anne knew enough about life not to expect every mile ahead to be easy. But she was ready for it.
-
-Behind her, Windy Poplars remained in sunlight, and somewhere at the tower window Rebecca was probably still waving the bath towel long after Anne was too far away to see it.
-
-Anne carried the image with her.
-
-She was leaving the house, but not the years it had given her.
+Before the carriage came, Anne walked through the house one more time without telling anyone she was doing it. She paused at familiar doorways and looked into rooms that had become part of her daily map of the world. Nothing was grand enough to impress a stranger, yet every corner carried a memory. She could almost hear old conversations as she passed. The house did not seem empty, but full of the life she was leaving behind. That made the last few minutes both harder and sweeter.
 
 ## Vocabulary & Nuance
 

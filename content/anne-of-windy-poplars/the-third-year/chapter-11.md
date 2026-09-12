@@ -2,117 +2,65 @@
 
 ## Story Summary
 
-The storm settled the matter before Anne could make any decision of her own.
+By the time supper and the long evening conversation were over, the weather outside Tomgallon House had become much worse. Wind drove the rain against the windows, and the dark road back to Windy Poplars no longer looked safe or inviting. Miss Minerva listened to the storm for a moment and decided the matter without hesitation. Anne would stay the night.
 
-Rain struck the windows of Tomgallon House, and the wind moved around the great building with a deep, restless sound. The road back to Windy Poplars was no longer sensible in such weather. Miss Minerva announced that Anne would stay the night.
+Anne tried to hide her disappointment. She had enjoyed the strange evening, but she had also reached the point where her own tower room, Rebecca Dew’s familiar voice, and the ordinary sounds of Windy Poplars seemed more attractive than all the grandeur of the Tomgallons. Still, going out into the storm would have been foolish, and there was no polite way to argue with both common sense and Miss Minerva.
 
-Anne agreed because there was nothing else to do.
+Her hostess led her upstairs.
 
-She tried to sound pleased.
+The room prepared for Anne had once belonged to Aunt Annabella, one of the many Tomgallon relatives whose life had ended unhappily. Miss Minerva did not simply open the door and wish Anne good night. She supplied enough history about Aunt Annabella to make the room feel occupied before Anne had even entered it properly.
 
-In truth, after an evening filled with old family tragedies, the idea of sleeping alone in Tomgallon House did not delight her.
+When the door finally closed behind Miss Minerva, Anne looked around.
 
-Miss Minerva seemed unaware of the problem. She led Anne upstairs through dim halls and past portraits that looked more alive in candlelight than Anne wished them to. The house had seemed grand earlier in the evening. Now, with the storm outside and most of the lamps extinguished, the grandeur became something darker.
+The room was beautiful in an old and heavy way. A high walnut bed stood against one wall, covered with a bright crazy quilt. There was a green dressing table, an ornate mirror, thick curtains, old furniture, silver candlesticks, and portraits that seemed unusually watchful in the candlelight. Above the mirror hung the picture of a proud young woman whom Anne knew must be Annabella.
 
-The guest room was known as Aunt Annabella’s room.
+Outside, wind pushed at the house and rain beat steadily on the windows.
 
-That name would have been harmless if Miss Minerva had not immediately explained the story connected with it.
+Anne began getting ready for bed. She told herself firmly that she was no longer a child who could be frightened by a room simply because someone had told her sad stories about it. Old houses made noises. Curtains moved in drafts. Mirrors reflected shapes. Branches touched windows. None of these things meant that a dead Tomgallon had returned to inspect the guest.
 
-Anne listened because politeness required it. By the time Miss Minerva finished, the room no longer felt like a bedroom. It felt like a place where the past was waiting quietly for the lights to go out.
+This excellent reasoning worked for several minutes.
 
-The furniture was heavy and old. A tall walnut bed stood against the wall with a bright crazy quilt spread over it. A green dressing table held silver candlesticks and small objects that reflected the flames. Above the mirror hung the portrait of Annabella Tomgallon, beautiful, proud, and distant.
+Then something tapped against the window.
 
-Anne looked at the portrait longer than she should have.
+Anne stopped brushing her hair and listened.
 
-The painted woman seemed exactly suited to the room. She belonged to its shadows.
+The sound came again.
 
-Miss Minerva wished Anne a comfortable night and left.
+A branch, she decided. Of course it was a branch. She continued preparing for bed, though her imagination had already begun producing less sensible possibilities. The mirror caught the candlelight at a strange angle, and for a moment Anne thought she had seen movement behind her. She turned quickly. Nothing was there.
 
-Before the door closed, she made one final remark about the room’s former owner, as casually as if she were mentioning the weather. Anne wished she had not. The portrait above the mirror now seemed more watchful, and the bed looked less like a place for sleep than a piece of family history she had somehow been expected to enter.
+She laughed under her breath and wished Katherine Brooke could see her. Katherine would probably have made one dry remark and gone peacefully to sleep.
 
-The door closed.
+Anne climbed into the high bed and pulled the covers around her. The colorful quilt, which might have looked cheerful by daylight, seemed almost too bright in the uncertain candlelight. The wind continued. Somewhere in the house a door or piece of wood creaked. Then another sound came from the hall.
 
-Anne was alone.
+Anne reminded herself that Tomgallon House contained servants, furniture, old pipes, and a great deal of wood. A house this size could make enough noises to support a dozen ghosts without needing a single real one.
 
-For a few minutes she walked around the room and touched ordinary things on purpose. The back of a chair was solid wood. The brush on the dressing table was only a brush. The candles smelled of wax. She tried to reduce the room to objects she could name, but imagination kept giving those objects a second life. A curtain was a curtain until the wind moved it. Then, for one uncomfortable second, it became something waiting beside the window.
+That thought helped.
 
-She told herself firmly that she was twenty-something years old, a school principal, and a woman who had faced real difficulties. She had no reason to be afraid of a bedroom simply because an old story had been told about it.
+A little.
 
-Then the wind struck the window.
+She tried closing her eyes, but closing them made her imagination stronger. She opened them again and looked toward the portrait of Annabella. The painted woman’s expression seemed different from the way it had looked earlier. Anne knew perfectly well that paintings did not change expression. Unfortunately, knowing a thing and feeling it were not always the same.
 
-Anne turned quickly.
+Minutes passed.
 
-Nothing was there.
+The room grew colder as the fire weakened. The storm outside continued to move over the house. Anne began to miss Windy Poplars with almost painful affection. She pictured Aunt Kate and Aunt Chatty in their familiar rooms and Rebecca Dew making some practical complaint in the kitchen. Even Dusty Miller seemed like excellent company compared with a silent portrait and a family history full of tragedy.
 
-She laughed at herself and began preparing for bed.
+At last tiredness became stronger than imagination. Anne could not remain alert forever. She settled deeper into the bed and allowed the sounds of the storm to become part of the background rather than messages from the past.
 
-That should have helped. It did not.
-
-Every small sound became noticeable. A branch brushed the glass. Somewhere in the house wood settled with a soft crack. The curtains moved slightly in a draft. Candle flames changed shape. The mirror reflected pieces of the room from unexpected angles.
-
-Anne knew exactly what was happening. Miss Minerva’s stories had filled her mind, and now her imagination was using every shadow as material.
-
-Knowing that did not stop it.
-
-She unpinned her hair and avoided looking too directly into the mirror. Then she immediately felt foolish for avoiding it and looked on purpose.
-
-Her own reflection looked pale and uncertain.
-
-Above it, Annabella’s painted face remained calm.
-
-Anne decided that the portrait was not frightening. A minute later she decided the opposite.
-
-She thought longingly of Windy Poplars.
-
-The tower room suddenly seemed like the safest place in the world. She imagined its sloping ceiling, familiar furniture, and little noises she knew by heart. She imagined Rebecca Dew downstairs, probably saying that no sensible person should spend a stormy night in a house full of tragic portraits.
-
-Even Dusty Miller would have been welcome company.
-
-Anne climbed into the great bed.
-
-The crazy quilt was warm. The pillows were soft. Nothing terrible happened.
-
-For several minutes she lay perfectly still, listening.
-
-The storm continued. So did the ordinary noises of an old house.
-
-Her mind supplied explanations she did not want. Footsteps that were probably branches. A whisper that was certainly wind. A moving shadow that had no business looking as much like a person as it did.
-
-Anne pulled the covers higher and gave herself a lecture.
-
-She had spent years defending imagination as one of life’s great gifts. It could turn a pond into the Lake of Shining Waters and an ordinary road into a path of romance. She could hardly complain now because the same imagination had decided to turn a harmless bedroom into a haunted chamber.
-
-That thought almost made her laugh.
-
-Almost.
-
-Eventually tiredness became stronger than fear.
-
-No person can remain alert forever, not even in Aunt Annabella’s room during a storm.
-
-Anne fell asleep.
+Sometime in the night she fell asleep.
 
 Morning changed everything.
 
-Daylight entered the room without drama. The dark furniture became only furniture. The mirror reflected sunshine instead of candlelight. Annabella’s portrait was still proud, but no longer threatening. The curtains looked faded rather than mysterious.
+Gray daylight entered the room, and objects that had seemed mysterious became ordinary again. The mirror was only a mirror. The curtains were only curtains. The portrait of Annabella looked proud but completely harmless. The great bed was comfortable, the quilt was merely colorful, and the noises of the night could easily be explained by weather and an old house.
 
 Anne sat up and smiled at herself.
 
-Nothing in the room had changed except the light and her state of mind.
+She could now see exactly what had happened. Miss Minerva had filled her mind with generations of tragedy, the storm had supplied the proper sounds, and Anne’s own imagination had done the rest. It had been a perfect combination.
 
-That realization pleased her. The night had frightened her, but it had also reminded her how strongly suggestion could shape experience. A house could become haunted without containing a single ghost if enough stories, shadows, and imagination were placed together.
+She did not regret the night. In fact, once daylight had returned, the experience became almost enjoyable in memory. She had been frightened, but she had also learned again how quickly her imagination could transform a room. The same gift that allowed her to find beauty and wonder in ordinary places could also make a shadow seem alive.
 
-At breakfast Miss Minerva seemed completely satisfied that Anne had been comfortable.
+When Anne finally left Tomgallon House, she carried a lively story back to Windy Poplars and a new appreciation for her own small tower room. Tomgallon House was grander, richer, and filled with history.
 
-Anne did not explain every detail.
-
-Some experiences were better kept private, especially when one wanted to preserve a little dignity.
-
-When she finally left Tomgallon House, she appreciated Windy Poplars more than ever. It was smaller, less grand, and far less important to local history. But it had warmth, laughter, familiar footsteps, and people who belonged to the present.
-
-Anne had enjoyed her visit.
-
-She was also very glad to go home.
+But Windy Poplars, she decided, was a much better place to sleep.
 
 ## Vocabulary & Nuance
 

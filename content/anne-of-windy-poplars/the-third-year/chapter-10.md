@@ -2,75 +2,45 @@
 
 ## Story Summary
 
-One windy March evening Anne dressed carefully and set out for Tomgallon House.
+On a dark March evening, Anne dressed carefully and went to Tomgallon House for supper with Miss Minerva. She had passed the great house many times during her years in Summerside, but entering it as an invited guest felt different. From the road it had always seemed to belong to another age, a house that had somehow remained standing while the world around it moved on.
 
-She had passed the place many times during her years in Summerside, but she had never entered it as a guest. The house stood apart from ordinary town life, large and old, with the dignity of a family that had once considered itself very important. People spoke of the Tomgallons with a mixture of respect, curiosity, and amusement. Their name belonged to another age, and Miss Minerva Tomgallon seemed to carry that age around with her wherever she went.
+That night lights shone from many windows, and the broad entrance looked almost grand enough for a public ceremony. Stone lions guarded the steps. Anne suddenly wondered whether her dress was fine enough and wished, for half a second, that she had chosen something more impressive.
 
-The invitation to supper had intrigued Anne from the beginning.
+Miss Minerva received her with formal kindness. She wore black velvet, a diamond comb in her iron-gray hair, and a large cameo. On another woman the style might have looked old-fashioned. On Miss Minerva it seemed natural, as though she and the house had agreed long ago not to follow ordinary rules of fashion.
 
-When she arrived, the house looked almost theatrical. Light shone from many windows, and the broad entrance seemed more suited to a grand reception than to a quiet evening for two. Anne suddenly wondered whether her dress was fine enough.
+Almost immediately she began showing Anne around.
 
-Then Miss Minerva appeared.
+The rooms were magnificent. Anne saw heavy curtains, mirrors, silver, crystal, old furniture, portraits, carved wood, and objects that had belonged to generations of Tomgallons. Yet the beauty never remained simple for more than a moment. Every room had a story, and almost every story ended badly.
 
-She wore black velvet, a diamond comb, and a large cameo. Her gray hair was arranged with care, and her manner was formal without being cold. She welcomed Anne graciously and made her feel at once that the evening mattered.
+Miss Minerva would point to a chair and remember who had sat there during an unhappy engagement. A portrait led to the story of a marriage that had disappointed the family. A staircase reminded her of an accident. Another room belonged forever, in her mind, to some old quarrel or death. Anne listened politely, but after a while she began to feel that the whole house was crowded with invisible people who had never truly left it.
 
-Inside, Tomgallon House was even more impressive than Anne had imagined. The great hall contained dark polished wood, portraits in heavy frames, old rugs, carved furniture, mirrors, silver, and a staircase that seemed to rise into another century. Nothing was modern. Nothing was simple.
+The grand staircase was especially impressive. Portraits watched from the walls, and the warm light from candles and lamps reflected from polished wood. A tiger-skin rug lay on the floor, giving the hall an almost theatrical appearance. Miss Minerva moved through the space as though she were not simply the owner but also the keeper of every memory attached to it.
 
-Anne loved old houses, and at first she was delighted.
+Anne’s imagination responded at once. She could picture dances, formal dinners, proud young women in fine dresses, and family arguments behind closed doors. She also began to understand that Miss Minerva did not remember the past casually. She lived with it. The Tomgallons had once been one of the great families of the district. Now Miss Minerva was the last of them, moving through rooms that were far too large for her present life.
 
-Then Miss Minerva began telling the stories.
+Supper was served with all the elegance Anne had expected. The table was beautifully arranged, and the food was excellent. Anne, whose healthy appetite had survived both grandeur and family tragedy, enjoyed it thoroughly. A large black cat appeared and was given cream by Miss Minerva. That small act of tenderness made the old woman seem suddenly less distant.
 
-Every room appeared to have one.
+After supper they sat before the fire. Anne worked at her crochet while Miss Minerva knitted and continued talking about the Tomgallons. The stories came one after another. Some were sad, some strange, and a few so dramatic that Anne had to remind herself they had happened to real people rather than characters in a book.
 
-A portrait was not simply a portrait. It belonged to a cousin who had loved the wrong person, quarreled with the family, or died unhappily. A staircase was connected with an old family disaster. A piece of furniture had witnessed some broken engagement or long grievance. Even beautiful objects seemed to carry a shadow.
+During the conversation Miss Minerva mentioned a rumor Anne had not heard. People were saying that Anne was writing a book about Summerside.
 
-Miss Minerva guided Anne through the house slowly, speaking with the confidence of someone who had repeated these histories many times. She knew who had slept in each room, who had inherited what, who had disappointed the family, and who had died too young. She did not tell the stories as gossip. To her, they were almost part of the furniture.
+Anne nearly dropped her work. She denied it immediately. No such book existed, and she had no plan to turn her neighbors into characters. The rumor amused her, but it also made her uncomfortable. Summerside could create a complete story from the smallest piece of information, and Anne knew how easily an innocent remark might become evidence by the time it reached the other side of town.
 
-Anne listened politely, fascinated and a little overwhelmed.
+Miss Minerva seemed willing to accept Anne’s denial and soon returned to her family history.
 
-The Tomgallons had once been powerful in local society. Their family tree seemed crowded with proud men, beautiful women, difficult marriages, sudden deaths, and old quarrels. Miss Minerva remembered them all.
+As the evening went on, Anne became more aware of the loneliness behind the formal surroundings. Miss Minerva was proud of Tomgallon House and everything connected with it, but she had very few living companions to share it. The portraits, stories, and old rooms filled the space that people might have filled in another home.
 
-The dining room was magnificent. The table shone with silver and glass, and supper was excellent. Anne’s healthy appetite saved her from feeling completely intimidated by the surroundings. She could admire the china and still enjoy the food.
+Anne did not pity her in a simple way. Miss Minerva was strong, intelligent, and entirely capable of managing her own life. Yet Anne could feel how closely the old woman’s identity was tied to people who had been dead for years. She preserved their joys, mistakes, quarrels, and grief almost as carefully as she preserved the furniture.
 
-A large black cat appeared during the meal and received cream from Miss Minerva. The small act pleased Anne. It softened the old woman’s formality and made her seem less like the last keeper of a grand family museum and more like a lonely person who loved an animal.
+Outside, the wind strengthened. Rain began to strike the windows, and the darkness beyond the glass made the lighted rooms feel more separated from the rest of Summerside.
 
-As the meal continued, Anne noticed how naturally Miss Minerva moved among the old things. She knew the history of a silver dish, a chair, a picture, and even small objects that most visitors would have overlooked. To Anne, the room was crowded with beautiful possessions. To Miss Minerva, it was crowded with people who were gone. That difference made the old woman easier to understand. She was not showing off her family treasures. She was introducing Anne to the only companions who had remained with her for years.
+Anne glanced toward the windows and wondered how bad the weather would become before it was time to go home.
 
-After supper they sat before the fire. Anne took out her crochet, and Miss Minerva continued knitting while the wind moved around the old house.
+She had expected an unusual supper. She had not expected Tomgallon House itself to feel like a world with its own rules, or to discover that one could be both fascinated and slightly uneasy at the same time.
 
-The stories continued too.
+The night, however, was not finished with her yet.
 
-Anne began to understand that Miss Minerva did not merely remember the past. She lived with it. The house was so full of dead Tomgallons that there seemed almost no room for the present.
-
-Now and then Anne caught herself smiling at the dramatic way Miss Minerva described a family misfortune. Yet she also felt sorry for her. The great rooms were beautiful, but they were too large for one old woman. Memory gave Miss Minerva company, but it also kept her tied to a world that had disappeared.
-
-During the evening Miss Minerva mentioned a rumor that startled Anne.
-
-Someone in Summerside was saying that Anne was writing a book about the people of the town.
-
-Anne denied it immediately.
-
-The idea was ridiculous, but it was also alarming. Summerside had a wonderful ability to create stories from very little. Anne imagined half the town wondering whether some private foolishness was about to appear in print under a thin disguise.
-
-Miss Minerva accepted Anne’s denial, though the subject amused her.
-
-Anne wondered privately how such a rumor had begun. She had written many letters and listened to many stories, but that was hardly the same as turning Summerside into a novel.
-
-The wind grew stronger outside as the evening passed.
-
-Anne glanced toward the windows and thought of the comfortable road back to Windy Poplars, the tower room, and Rebecca Dew’s ordinary complaints. Tomgallon House was beautiful, but it did not have the warm ease of home.
-
-Still, she was glad she had come.
-
-The evening gave her a new view of Miss Minerva. The old woman could be commanding and dramatic, but she was also intelligent, lonely, and proud of the only world she had known. Every tragic story she told was a way of keeping someone alive.
-
-Anne had entered Tomgallon House expecting an unusual social call. Instead she found herself walking through generations of remembered lives.
-
-By the time supper was long over, the wind had become a storm.
-
-Anne looked again toward the windows.
-
-It was becoming clear that returning to Windy Poplars that night might not be as simple as she had expected.
+Before the meal ended, Anne also noticed how carefully Miss Minerva maintained the old customs of the house. Nothing seemed accidental. The arrangement of the table, the service, the lamps, and even the way each room was opened to a guest belonged to habits that had probably been repeated for decades. Anne admired the beauty of it while also feeling how little space there was for change. In Windy Poplars, people argued, laughed, moved furniture, and complained about cats. At Tomgallon House, the past seemed to decide where everything should remain.
 
 ## Vocabulary & Nuance
 

@@ -2,95 +2,75 @@
 
 ## Story Summary
 
-When Mr. Grand finally left the Raymond cottage, Anne stood at the door for a moment and drew a breath of relief. The school discussion had gone well, and she was already thinking of the promised picnic by the pond. Then she noticed that the yard was strangely empty.
+When Mr. Grand finally left the Raymond cottage, Anne stood at the door for a moment and listened. The house was strangely quiet. She had expected to hear Gerald and Geraldine racing through the garden or arguing somewhere near the woodshed, but there was no sign of either child.
 
-Before she could call the twins, Mrs. Trent appeared at the gate with Ivy.
+Before she could begin searching, Mrs. Trent appeared at the gate with Ivy beside her.
 
-Anne hardly recognized the child. Ivy’s spotless white dress was stained, her new boots were splashed with paint, her scarlet ribbons were gone, and burrs tangled her curls. Red and green stripes marked her legs. She was still crying, partly from anger and partly from humiliation.
+Anne hardly recognized the neat little girl who had arrived earlier in a white embroidered dress. Ivy’s face was swollen from crying. Her curls were full of burrs, her scarlet ribbons were gone, red and green paint covered her legs, and her new brown boots were splashed and stained. The white dress looked as though it had survived a small battle.
 
-Mrs. Trent was furious. She demanded to see Mrs. Raymond so that the twins’ mother could look at the result of their behavior. Anne explained that Mrs. Raymond was away and that she herself had been left in charge.
+Mrs. Trent was furious. She demanded to see Mrs. Raymond and said that a mother ought to look at the result of her children’s behavior with her own eyes. Anne explained that Mrs. Raymond was in Charlottetown and that she herself was responsible for Gerald and Geraldine that day. She apologized sincerely, expecting Mrs. Trent to turn her anger on her.
 
-To Anne’s surprise, Mrs. Trent did not blame her. She said flatly that no one could manage Gerald and Geraldine and that the whole neighborhood knew it. Her tone suggested that Anne had simply joined a large and unfortunate club.
+To Anne’s surprise, the woman did not. She said everyone on the street knew how impossible the twins could be. No one, in her opinion, could control them for long.
 
-At that exact moment, shouting and crashing came from upstairs.
+At that exact moment, a crash sounded from upstairs, followed by shouting and the unmistakable noise of a violent quarrel.
 
-Anne excused herself and hurried toward the noise. She found Gerald and Geraldine fighting each other with the same energy they had recently used against Ivy. She separated them and demanded an explanation.
+Anne excused herself and hurried up the stairs.
 
-Gerald shouted that Geraldine was still saying he had to become Ivy Trent’s beau. Geraldine shouted back that he did. Within seconds they were trying to reach each other again.
+Gerald and Geraldine were fighting with tremendous energy. Anne pulled them apart and demanded an explanation. Gerald shouted that Geraldine still insisted he had to become Ivy Trent’s beau. Geraldine, with equal determination, said he did. They tried to continue the argument even while Anne stood between them.
 
-Something in Anne’s patience finally ended. She did not raise her voice, but when she spoke there was a firmness the twins had not heard from her before. Geraldine was to go to bed for two hours. Gerald was to spend the same period in the hall closet.
+Something in Anne’s patience finally changed. All morning she had reasoned, distracted, persuaded, and forgiven. Now her voice became quiet and firm in a way the twins had not heard before. Geraldine was to go to bed for two hours. Gerald was to spend the same two hours in the hall closet.
 
-The twins stared at her in horror.
+The result was immediate horror. The twins begged to be punished together. They had never been separated for an entire day, and even two hours seemed unbearable. Anne refused to change her decision. Geraldine was sent to bed in her night clothes. Gerald went into the closet, which was large, airy, and supplied with a chair and a window. Anne made sure he was comfortable enough, locked the door, and sat nearby with a book.
 
-They had never been separated for an entire day, Mrs. Raymond had said. Now even two hours seemed unbearable. Both children begged to receive the same punishment in the same place. Anne refused. If the punishment meant anything, it had to interrupt the wild partnership that made them so powerful.
+At last there was peace.
 
-Geraldine changed into her nightclothes and climbed into bed. Gerald was placed in the large hall closet, which had a chair, fresh air, and a window. Anne made sure he was comfortable enough, then locked the door and sat nearby with a book.
+Geraldine soon fell asleep. With her eyes closed and her pale curls spread over the pillow, she looked so innocent that Anne almost doubted everything that had happened. Gerald, too, had become remarkably quiet. After about an hour, Anne began to think that perhaps the punishment had already taught its lesson. She decided to release him early.
 
-At last the house became quiet.
+She unlocked the closet door.
 
-Geraldine fell asleep almost immediately. In sleep she looked so gentle that Anne nearly doubted everything that had happened. Her face lost its stubbornness, and the pale curls on the pillow made her look younger than eight. Anne reminded herself that angels in pictures rarely put paint on other children.
+The chair was empty. The window stood open.
 
-Gerald was even quieter. After nearly an hour Anne began to feel that the punishment had worked. Perhaps he had been thinking seriously. Perhaps two hours were unnecessary. She decided she might let him out early.
+Below it lay the roof of the side porch.
 
-When she unlocked the closet, it was empty.
+Anne’s heart gave a jump. She ran downstairs and searched the yard, the woodshed, and the street. There was no Gerald. Then she remembered one of Mrs. Raymond’s strongest warnings. The pond.
 
-The window stood open.
+She hurried through the garden and along the path through a strip of scrub woodland. When the water came into view, she saw a small flat-bottomed boat near the middle. Gerald stood inside it, happily pushing himself along with a pole.
 
-Below it was the roof of the side porch.
+Anne had just reached the edge of the trees when the pole came suddenly free from the mud. Gerald lost his balance and fell backward into the pond.
 
-Anne’s heart sank. She ran downstairs and searched the yard, the woodshed, and the street. Gerald was nowhere. Then Mrs. Raymond’s warning returned to her mind. Do not let the twins go to the pond.
+Anne cried out and ran forward. For one frightening second she imagined deep water and disaster. Then Gerald stood up. The pond reached only to about his waist where he had fallen. He was wet, shocked, and embarrassed, but clearly alive.
 
-Anne ran.
+Before Anne could reach him, another cry came from behind her.
 
-The path led through the garden and into a rough patch of trees. Beyond them lay the small pond. As Anne reached the edge of the scrub, she saw Gerald in a flat-bottomed boat, using a pole to push himself around with complete satisfaction.
+Geraldine had awakened, found her brother missing, and followed Anne outside without even changing from her nightgown. She saw Gerald standing in the water and understood only one thing. Her brother was in the pond.
 
-Before she could call him, Gerald pulled hard on the pole. It came suddenly free from the mud, and he lost his balance. He fell backward into the water.
+She ran to the small wooden platform and jumped straight in.
 
-Anne cried out and rushed forward.
+The splash nearly knocked Gerald down again. Geraldine grabbed him and demanded to know whether he was drowned. Gerald, shivering and offended, assured her that he was not.
 
-For one terrible instant she imagined deep water, cold, and disaster. Then Gerald stood up. The pond reached only to about his waist where he had fallen. He was soaked and shocked, but very much alive.
+A moment later they were hugging and kissing as though the fierce quarrel of an hour earlier had never happened.
 
-A second cry came from behind Anne.
+Anne ordered both children out of the water. The afternoon had turned cold and windy, and by the time she rushed them back to the cottage their teeth were chattering. She stripped off the wet clothes, put them into Mrs. Raymond’s bed, tucked hot-water bottles at their feet, and watched their faces anxiously. Their father had died of pneumonia, and Mrs. Raymond’s warning returned to Anne with terrible force.
 
-Geraldine had awakened, found her brother gone, and followed Anne through the yard while still wearing her white nightgown. She saw Gerald standing in the pond and understood only one thing. Her brother was in the water.
+The twins were not especially grateful. Even while shivering, Gerald told Anne that she should have taken better care of them. Geraldine agreed.
 
-Without waiting for anyone, she ran to the little wooden platform and jumped in.
+Anne was too worried to argue. She sent for the doctor.
 
-Water flew everywhere. Geraldine landed beside Gerald and nearly knocked him over again. She seized him and demanded to know if he was drowned.
+By the time he arrived, the children were warm again. After examining them, he said they were in no danger and should simply stay in bed until the next day. His reassurance had barely settled Anne’s nerves when Mrs. Raymond returned from the station and learned what had happened.
 
-Gerald, dripping and offended, assured her that he was not.
+She rushed into the bedroom pale with fear and demanded how Anne could have allowed her children to get into such danger. Gerald and Geraldine, now safe and comfortable, immediately supported their mother and reminded Anne that they had already told her she should have watched them better.
 
-A moment later the twins were hugging and kissing each other as if their furious quarrel had happened in another lifetime. Anne, who was too frightened to find the scene funny yet, ordered them both out of the water.
+Anne kept her temper. She explained that the accident would not have happened if the twins had obeyed her. Mrs. Raymond replied that she had expected a schoolteacher to have more authority over children.
 
-The afternoon had turned cold and windy. By the time they reached the cottage, the twins were shivering violently. Their lips looked blue, and Anne remembered that their father had died of pneumonia.
+That was enough. Anne decided to leave.
 
-She moved quickly. Wet clothes came off. Dry nightclothes went on. Both children were put into Mrs. Raymond’s bed with hot-water bottles at their feet. Anne rubbed them warm, covered them carefully, and tried not to imagine the explanations she might soon have to give.
+Then, just as she turned away, Gerald and Geraldine sprang out of bed and threw themselves around her. They announced that they hoped someone would have a funeral every week so Anne could come back to look after them. They liked her much better than Miss Prouty, they said, and wanted to know whether she would put them into a story someday.
 
-The twins, meanwhile, had recovered enough energy to criticize her. Gerald told Anne she should have taken better care of them. Geraldine agreed through chattering teeth.
+Mrs. Raymond began to cry and said she was sure Anne had meant well. Anne answered politely, though she was far too tired for another emotional scene.
 
-Anne looked at them in disbelief but was too worried to argue. She called the doctor.
+When she finally reached Windy Poplars, Rebecca Dew was gathering late pansies in the twilight garden. Anne stood beside her and admitted that she had once thought the old saying about children being seen and not heard was terribly unfair. After spending one day with Gerald and Geraldine, she could at least understand how someone had come to invent it.
 
-By the time he arrived, both children were warmer. He examined them and said they were in no danger. If they stayed in bed until the next day, they should be perfectly well.
-
-Unfortunately, he met Mrs. Raymond on her way home from the station.
-
-She entered the house pale with fear. Seeing the twins in bed and hearing about the pond, she turned on Anne at once. How could such a thing have happened. She had trusted a schoolteacher to have authority over children.
-
-Gerald and Geraldine, safely warm now, announced that they had already told Anne the same thing.
-
-Anne held on to her dignity. She explained that if the twins had obeyed her, none of it would have happened. She had no intention of accepting blame for Gerald climbing out a window and Geraldine leaping into a pond.
-
-She was ready to leave when both twins suddenly jumped from bed and wrapped their arms around her. They declared that they hoped there would be a funeral every week so Anne could come back and look after them. They liked her much better than Miss Prouty. Gerald even asked whether she would put them into a story someday.
-
-Mrs. Raymond softened immediately and became tearful. She was sure Anne had meant well. Anne answered politely, though the phrase did not feel like much of a compliment after the day she had survived.
-
-At last Anne walked back to Windy Poplars feeling years older than she had that morning. The garden was quiet in the twilight. Rebecca Dew was gathering late pansies.
-
-Anne stopped beside her and confessed that she had always thought the old saying about children being seen and not heard was horribly unfair. After twelve hours with Gerald and Geraldine, she understood how someone might have invented it.
-
-Rebecca had every right to say that she had warned Anne. She did not.
-
-Instead she looked at Anne’s tired face, told her supper was nearly ready, and promised to make sure it was a good one.
+Rebecca, to her credit, did not say that she had warned Anne. She simply looked at Anne’s exhausted face and promised to make her a very good supper.
 
 ## Vocabulary & Nuance
 

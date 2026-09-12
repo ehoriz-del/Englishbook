@@ -2,79 +2,51 @@
 
 ## Story Summary
 
-The next weeks at Windy Poplars were quieter than the wedding adventure, but they were not empty. Life in the old house had a way of turning even small events into stories, especially when Rebecca Dew was involved.
+Life at Windy Poplars returned to its familiar mixture of small arguments, affection, and unexpected comedy. The latest trouble centered on Dusty Miller.
 
-The subject this time was Dusty Miller.
+For months Rebecca Dew had complained about the cat. According to her, Dusty was lazy, spoiled, always underfoot, and entirely too pleased with himself. She found fault with the way he slept, the places he chose to sit, and the expression on his face when he looked at her. Aunt Kate and Aunt Chatty had heard so much of this that they finally decided to take Rebecca at her word. If Dusty caused so much misery, perhaps he should go to another home.
 
-Rebecca had complained about the cat for months. According to her, he was lazy, spoiled, underfoot, and entirely too sure that every comfortable chair belonged to him. He appeared in the kitchen when food was being prepared, left hair where Rebecca did not want it, and seemed to understand perfectly that her loudest complaints rarely led to punishment.
+Anne disliked the idea, but the widows quietly allowed the plan to continue. Dusty Miller was carried away.
 
-Aunt Kate and Aunt Chatty had listened to so many speeches about Dusty Miller that they finally decided to take Rebecca at her word. If the cat was such a burden, perhaps he should be given to someone who wanted him.
+At first Rebecca behaved exactly as she had always claimed she would. The kitchen would be cleaner now, she said. No one would trip over a useless cat. There would be fewer paw marks, fewer hairs, and fewer reasons for irritation.
 
-A suitable home was found.
+Then the house grew strangely quiet.
 
-Dusty Miller disappeared from Windy Poplars.
+Dusty was no longer stretched near the stove, no longer appearing at a doorway, and no longer watching Rebecca with the calm confidence that annoyed her so much. Rebecca became increasingly cross. She complained about breakfast, weather, neighbors, and almost anything else available. The more firmly she insisted that she did not miss the cat, the clearer it became that she did.
 
-Rebecca’s first reaction was almost impressive. She behaved as if the household had finally become civilized. There would be no more cat under her feet, no more saucer waiting by the stove, no more sudden tail around the corner of the kitchen table.
+Aunt Kate and Aunt Chatty waited.
 
-But the victory did not last.
+At last Dusty Miller returned in a covered basket. The moment the basket opened and the familiar cat appeared, Rebecca’s true feelings escaped all at once. She welcomed him with such noisy relief that no one could pretend any longer that her complaints had meant dislike. Dusty accepted the celebration with the natural dignity of a cat who had probably known the truth from the beginning.
 
-The kitchen seemed wrong without him. Rebecca found herself looking toward the door at the times when Dusty usually appeared. She complained that the house was too quiet. If anyone mentioned the cat, she said sharply that she was glad to be rid of him. Then she found another reason to be cross.
+Anne enjoyed the whole performance, but another subject had been occupying her thoughts much more seriously. Little Elizabeth still lived next door at The Evergreens, surrounded by rules, silence, and adults who believed that good care meant good food, clean clothes, and obedience. Anne knew those things mattered, but she also knew how much was missing.
 
-Anne watched with growing amusement. Aunt Kate and Aunt Chatty watched too. None of them needed Rebecca to confess anything. Her unhappiness had already done it for her.
+Elizabeth was affectionate, imaginative, and deeply lonely. During her visits to Windy Poplars, and especially during her two weeks at Green Gables, she had shown how quickly she responded to warmth. Give her freedom to walk outdoors, people who listened, and a place where laughter was welcome, and she seemed to become another child. Back at The Evergreens, she returned to careful movements and quiet dreams.
 
-Finally the widows arranged Dusty Miller’s return.
+Most painful of all was the mystery of her father.
 
-He came back in a covered basket, and when the lid was lifted, the familiar face appeared as if he had simply been away on business. Rebecca forgot every speech she had ever made against him. Her delight was immediate and impossible to hide. She scolded the others for sending him away in the first place and welcomed the cat with such satisfaction that Anne had to struggle not to laugh.
+Anne had gradually learned that Pierce Grayson was alive and living far away. Old family anger and misunderstanding had separated him from his daughter after his wife’s death. Elizabeth had grown up with almost no real knowledge of him. Because no one gave her the affection or explanation she needed, she had created a private world in which a loving father belonged to the wonderful future she called Tomorrow.
 
-The joke pleased Anne because it revealed what everyone at Windy Poplars already knew. Rebecca’s sharp words were not always the best guide to her heart. She could complain loudly and love just as strongly.
+Anne tried to respect the boundaries of another family. She knew perfectly well that Summerside people interfered far too easily in one another’s affairs, and she did not want to become another source of gossip or trouble. The experience with Hazel Marr had already taught her how dangerous good intentions could be.
 
-Yet another person was on Anne’s mind much more seriously.
+Yet she could not forget Elizabeth’s face.
 
-Little Elizabeth continued to live at The Evergreens, where every day was neat, respectable, and carefully controlled. She had food, good clothes, lessons, and protection from obvious danger. What she did not have was the easy affection Anne believed every child needed.
+One day she learned that the child had even written to God, asking for her father to come back and love her. That simple hope affected Anne more deeply than any adult argument could have done. Elizabeth was not asking for money, travel, or luxury. She wanted the person who should naturally have been part of her life.
 
-Elizabeth had grown more thoughtful as she grew older. She still spoke of Tomorrow, the wonderful future place she had imagined since she was small, but there was more sadness behind the idea now. Anne understood why. Tomorrow represented everything Elizabeth could not find at The Evergreens. Freedom. Warmth. Belonging. Someone who chose her because he loved her.
+Anne spent a long time thinking before she acted. She asked herself whether silence was really more respectful when a child was suffering. She could do nothing about old quarrels between adults, but she could at least make sure Pierce Grayson knew what kind of daughter he had and how much she needed him.
 
-The deepest absence was her father.
+So one evening, in the quiet tower room, Anne sat down at her desk and began to write.
 
-For years Elizabeth had lived with only fragments of his story. He was far away. The adults around her rarely spoke of him with kindness. Old resentment and family pride had allowed the distance to continue until the child hardly knew what was true.
+She chose her words carefully. She did not accuse Pierce. She did not attack Mrs. Campbell or describe The Evergreens as a prison. Instead she told him about Elizabeth herself. She described the child’s imagination, her sensitivity, her longing for affection, and the way she spoke about Tomorrow as though happiness existed in some country just beyond the present day. She tried to make him see not a family problem but a little girl.
 
-Anne could not stop thinking about it.
+The letter took time. Anne paused often, reading back over a sentence and changing a word when it sounded too strong. Dusty Miller, restored to the household and completely satisfied with life, slept nearby. The contrast almost made Anne smile. A cat had been absent for a short time and everyone at Windy Poplars had immediately discovered how much they cared. Elizabeth had spent years without her father, and the adults around her had allowed the separation to become ordinary.
 
-She had interfered in other people’s lives before, sometimes successfully and sometimes with embarrassing results. The memory of Hazel Marr was enough to make her cautious. It was dangerous to believe that good intentions automatically gave one the right to act.
+When the letter was finished, Anne did not know what would come of it. Pierce might ignore it. He might be angry that a stranger had written about his daughter. He might answer politely and do nothing.
 
-Still, Elizabeth was not an adult confused about romance. She was a child who had almost no power in her own life.
+Still, the letter existed now.
 
-Anne began asking herself a question she could not easily dismiss. If a person knew that a child was lonely and knew there might be someone who could change that loneliness, was silence really the safer choice.
+Anne sealed it and sent it away, carrying her concern beyond Summerside for the first time. Nothing at The Evergreens changed that night. Elizabeth still slept under the same roof, surrounded by the same rules. Yet somewhere far away, a father would soon open an envelope and read about the daughter he had not seen.
 
-One detail troubled her especially. Elizabeth had once written a letter to God, asking that her father come back and love her. The request was simple, almost painfully simple. She did not ask for money, travel, beautiful clothes, or adventure. She wanted her father.
-
-That thought stayed with Anne when she climbed to the tower room one evening and sat at her desk.
-
-The lamp threw a warm circle of light over the paper. Outside, the night lay quiet beyond the window. Dusty Miller, restored to his rightful place in the household, settled nearby with the comfortable confidence of a creature who had been forgiven without ever knowing he had been condemned.
-
-Anne took out a clean sheet of paper.
-
-She decided to write to Pierce Grayson.
-
-She did not accuse him. She did not repeat cruel gossip or pretend to understand every old quarrel in the family. Instead, she told him about Elizabeth.
-
-She described a child with a rich imagination and a hungry heart. She explained that Elizabeth was intelligent, sensitive, and deeply lonely. She wrote about the strict life at The Evergreens and about the difference Anne had seen when Elizabeth visited Green Gables. There, with kindness and freedom around her, the quiet child had laughed, explored, helped in the kitchen, climbed trees, and gone to sleep without fear.
-
-Anne wanted Pierce to understand that his daughter was not simply being fed and educated somewhere in Prince Edward Island. She was growing up. The years were passing. Every year of absence was becoming part of Elizabeth’s childhood forever.
-
-Anne paused more than once before finishing the letter. She knew she was stepping into private family territory. Pierce might be offended. He might ignore her. He might even write an angry answer.
-
-But doing nothing felt worse.
-
-At last Anne signed the letter and prepared it for posting.
-
-Nothing in the room changed when she finished. The house remained quiet. Elizabeth still slept under the rules of The Evergreens. Pierce was still far away.
-
-Yet Anne knew she had opened a door that had been closed for years.
-
-She could not know who would walk through it, or when.
-
-For the moment, all she could do was send the letter and hope that somewhere, far from Summerside, a father would read about his daughter and decide that it was not too late.
+Anne could do no more for the moment. She could only wait.
 
 ## Vocabulary & Nuance
 
