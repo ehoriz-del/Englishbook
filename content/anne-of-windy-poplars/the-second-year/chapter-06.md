@@ -18,7 +18,7 @@ A visit to Diana brought another surprise. Gilbert drove them over, and before K
 
 The local concert created a more difficult challenge. Anne had heard that Katherine could read aloud beautifully and urged her to perform. Katherine resisted because of an old humiliation. Years earlier she had taken part in a public program, heard laughter somewhere in the audience, and decided people were laughing at her. She had never performed again, so Anne gently asked the question Katherine had avoided for years and made her examine the memory rather than simply obey it. How did she know the laughter had been directed at her. Katherine had no answer.
 
-The possibility that she had built a permanent fear on an uncertain interpretation unsettled her. After several conversations, she agreed to read. Anne also persuaded her to make a little more effort with her appearance, not because beauty would solve anything but because Katherine had spent years using neglect almost as a form of armor. Her green dress was not Anne's favorite choice, yet Katherine's dark hair was arranged well, and a red chiffon collar gave warmth to her face.
+The possibility that she had built a permanent fear on an uncertain interpretation unsettled her. After several conversations, she agreed to read. Katherine had often said she could not be bothered with clothes because nobody cared how she looked, but at Green Gables she let Anne take an interest. Her green dress was not Anne's favorite choice, yet Anne arranged Katherine's dark hair with care and added a red chiffon collar that gave warmth to her face.
 
 When she stood before the audience, the first lines were the hardest. Then training and natural ability took over. Katherine's voice held the room, and when she finished, the applause was unmistakable. At the party afterward, people came to speak with her instead of keeping a cautious distance. She danced, accepted invitations, and found herself included so easily that the old story about being laughed at began to lose its power.
 
@@ -30,7 +30,7 @@ When the holiday ended, Marilla told Katherine to come again, and Anne immediate
 
 - **detached** — emotionally uninvolved or deliberately distant.
 - **interpretation** — the meaning someone gives to an event or experience.
-- **armor** — protection, used figuratively for emotional defenses.
+- **self-conscious** — uncomfortably aware of how other people may see or judge you.
 - **unmistakable** — so clear that it cannot reasonably be misunderstood.
 - **belonging** — the feeling of being accepted as part of a place or group.
 - **make yourself scarce** — leave so others can have privacy.
@@ -160,15 +160,15 @@ Anne: I think you should give the present a fair shot at correcting the past.
     "type": "choice",
     "instant": true,
     "target": "paraphrase",
-    "prompt": "Which sentence best paraphrases the idea that Katherine has used neglect as armor",
+    "prompt": "Which sentence best paraphrases Katherine's earlier attitude toward clothes",
     "options": [
-      "She has made herself look uncared for partly to protect herself from judgment and disappointment",
-      "She wears literal protective clothing",
-      "She has no interest in appearance for practical reasons only",
-      "She wants to copy Anne's style exactly"
+      "She had stopped putting much effort into her appearance because she felt nobody cared how she looked",
+      "She believed fashionable clothes were morally wrong",
+      "She wanted to copy Anne's style exactly",
+      "She could not afford any clothes at all"
     ],
-    "answer": "She has made herself look uncared for partly to protect herself from judgment and disappointment",
-    "explanation": "The metaphor suggests self-neglect has become a defensive strategy."
+    "answer": "She had stopped putting much effort into her appearance because she felt nobody cared how she looked",
+    "explanation": "Katherine says she had not bothered much with clothes because she felt no one cared about her appearance."
   },
   {
     "type": "choice",

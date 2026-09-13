@@ -22,9 +22,7 @@ Another gift from Anne was helping the child in a quieter way. At Christmas she 
 
 Later that winter, Anne attended a dance at Carry Pringle's and saw evidence that Katherine's Christmas experience had lasted beyond Green Gables. Katherine came in wearing a dark red silk dress, her hair arranged with care, and for a moment people who had known her for years seemed unsure they were looking at the same woman. The clothing helped, but Anne knew the deeper change was in Katherine's manner. She no longer entered the room braced for rejection. She spoke, laughed, and allowed herself to be included before suspicion had time to interfere.
 
-The next evening Elizabeth came to the garden gate with her face shining. Mrs. Campbell had changed her decision and said she might sing after all, provided she did not become conceited about it. Elizabeth could hardly contain her relief. Instead of carrying another refusal back to school, she could now prepare for the concert with the rest of her class.
-
-Winter soon returned the household to ordinary concerns. Aunt Chatty came down with a miserable cold, and Rebecca Dew cleaned the already tidy house before the doctor's visit. Then a silver thaw covered trees, fences, and wires with ice until Summerside glittered in the sunlight. Anne watched the changed streets from Windy Poplars while school life went on, Katherine settled more comfortably into her new habits, and Elizabeth looked forward to the concert she had nearly been forbidden to join.
+Winter soon returned the household to ordinary concerns. Aunt Chatty developed a feverish cold and began wondering whether she might need the doctor, so Rebecca Dew cleaned an already spotless house and even ironed a white nightdress that had merely lost a little color in the drawer. Later a silver thaw covered the maple grove, fences, and wires with ice until common things glittered in the sun. That evening Rebecca studied an illustrated magazine article about beautiful women and wistfully imagined what it would be like if a wand could make everyone beautiful, before deciding that somebody would still have to do the work.
 
 ## Vocabulary & Nuance
 
@@ -45,23 +43,23 @@ Elizabeth: Everyone else gets to sing. Grandmother says I cannot.
 Anne: I can see why you feel **left out**.
 Elizabeth: She has already put her foot down.
 Anne: Then I will not charge straight at the problem. Let me think it through.
-Elizabeth: You are not giving up?
-Anne: Not yet.
+Elizabeth: So you have not ruled it out?
+Anne: Not at all. I just need a way around her refusal.
 
 ### Phrasal verbs & expressions
 
 - feel left out — feel excluded from a group or activity.
 - put your foot down — refuse firmly to allow something.
 - think through — consider carefully from beginning to end.
-- give up — stop trying.
-- work around — find a way to deal with an obstacle indirectly.
+- rule something out — decide that an option is impossible or will not be considered.
+- find a way around — solve a problem without confronting the obstacle directly.
 
 ## Conversation 2 — Anne Uses Rivalry
 
 Friend: Why not simply ask Mrs. Campbell to change her mind?
 Anne: Because she would **dig in her heels**.
 Friend: So you brought up Mabel Phillips instead?
-Anne: I mentioned her voice and let an old rivalry do the rest.
+Anne: I mentioned her voice and let an old rivalry tip the balance.
 Friend: That was subtle.
 Anne: Subtle was safer than a direct fight.
 
@@ -69,8 +67,8 @@ Anne: Subtle was safer than a direct fight.
 
 - dig in your heels — stubbornly refuse to change your position.
 - bring up — introduce a topic.
-- do the rest — complete what remains after an initial action.
-- back down — withdraw from a position.
+- tip the balance — make the difference that causes one option to win out.
+- play on — use a feeling or weakness to influence someone.
 - come around — gradually change your mind.
 
 ## Practice
@@ -89,13 +87,13 @@ Anne: Subtle was safer than a direct fight.
       "Both depend on winning a public prize"
     ],
     "answer": "Both give someone a concrete image of a life that feels safer or more hopeful",
-    "explanation": "Elizabeth imagines safety through the picture while Katherine carries a real memory of belonging from Green Gables."
+    "explanation": "Elizabeth uses the picture to imagine safety, while Katherine carries the memory of belonging at Green Gables into her life in Summerside."
   },
   {
     "type": "choice",
     "instant": true,
     "target": "nuance",
-    "prompt": "Why is Anne careful not to explain her strategy to Elizabeth after Mrs. Campbell changes her mind",
+    "prompt": "Why does Anne avoid explaining her strategy to Elizabeth after Mrs. Campbell changes her mind",
     "options": [
       "She wants Elizabeth to enjoy the chance to sing without being pulled into the adults' old rivalry",
       "She is ashamed that Elizabeth has been chosen",
@@ -103,7 +101,7 @@ Anne: Subtle was safer than a direct fight.
       "She plans to cancel the concert later"
     ],
     "answer": "She wants Elizabeth to enjoy the chance to sing without being pulled into the adults' old rivalry",
-    "explanation": "Anne protects the child's happiness instead of turning the permission into a lesson about adult pride."
+    "explanation": "Anne gets the result Elizabeth needs without making the child responsible for the pride and rivalry behind it."
   },
   {
     "type": "choice",
@@ -117,7 +115,7 @@ Anne: Subtle was safer than a direct fight.
       "Anne does not know where The Evergreens is"
     ],
     "answer": "She expects direct pressure to make Mrs. Campbell more stubborn",
-    "explanation": "Anne chooses an indirect strategy because she understands Mrs. Campbell’s temperament."
+    "explanation": "Anne chooses an indirect approach because a direct argument would probably harden Mrs. Campbell's refusal."
   },
   {
     "type": "choice",
@@ -126,12 +124,12 @@ Anne: Subtle was safer than a direct fight.
     "prompt": "Why does mentioning Mabel Phillips affect Mrs. Campbell",
     "options": [
       "Family rivalry makes her dislike the idea of a Phillips girl outshining Elizabeth",
-      "Mabel has promised to teach Elizabeth",
-      "Mrs. Campbell is afraid of Mabel’s mother",
-      "Mabel owns the concert hall"
+      "Mabel has offered to pay for the concert",
+      "Mrs. Campbell is Mabel's music teacher",
+      "Elizabeth refuses to sing with Mabel"
     ],
     "answer": "Family rivalry makes her dislike the idea of a Phillips girl outshining Elizabeth",
-    "explanation": "Anne uses an existing competitive feeling rather than arguing about the concert directly."
+    "explanation": "Anne quietly uses the old Campbell and Phillips rivalry to make Mrs. Campbell reconsider."
   },
   {
     "type": "fill",
@@ -140,38 +138,37 @@ Anne: Subtle was safer than a direct fight.
     "prompt": "Complete the sentence. Mrs. Campbell eventually ________ ________ and allows Elizabeth to sing.",
     "answer": "comes around",
     "accepted": [
-      "comes around",
-      "came around"
+      "comes around"
     ],
-    "explanation": "To come around means gradually change an opinion or decision."
+    "explanation": "To come around means to change an opinion or decision after resisting it."
   },
   {
     "type": "choice",
     "instant": true,
     "target": "motive",
-    "prompt": "Why does Anne avoid directly arguing with Mrs. Campbell about the concert",
+    "prompt": "Why does the woodland picture help Elizabeth at night",
     "options": [
-      "She knows direct pressure will probably make Mrs. Campbell more stubborn, so she chooses a strategy that works with the woman's existing pride",
-      "She agrees that Elizabeth should never sing",
-      "She is afraid to enter The Evergreens",
-      "She wants Mabel Phillips to replace Elizabeth"
+      "It gives her a scene she can imagine entering, with light and her father waiting at the end of the path",
+      "It proves that her father is already living in Summerside",
+      "Mrs. Campbell has ordered her to study it before sleeping",
+      "It reminds her that the concert will be held in a forest"
     ],
-    "answer": "She knows direct pressure will probably make Mrs. Campbell more stubborn, so she chooses a strategy that works with the woman's existing pride",
-    "explanation": "Anne's method depends on understanding Mrs. Campbell's motives rather than confronting her head-on."
+    "answer": "It gives her a scene she can imagine entering, with light and her father waiting at the end of the path",
+    "explanation": "The picture gives Elizabeth a comforting mental route away from fear and toward the father she longs for."
   },
   {
     "type": "choice",
     "instant": true,
     "target": "paraphrase",
-    "prompt": "Which sentence best paraphrases the idea that Elizabeth begins to feel like herself again after permission is granted",
+    "prompt": "Which sentence best paraphrases the change Anne notices in Katherine at the dance",
     "options": [
-      "Hope returns because she can take part in something that matters to her",
-      "She decides to leave Summerside immediately",
-      "She stops caring about music",
-      "She becomes more obedient because she is frightened"
+      "Katherine is no longer entering the room expecting to dislike everyone and be disliked in return",
+      "Katherine has become the most fashionable woman in Summerside",
+      "Katherine has decided never to teach again",
+      "Katherine is pretending to enjoy herself only to please Anne"
     ],
-    "answer": "Hope returns because she can take part in something that matters to her",
-    "explanation": "The concert restores a sense of possibility and confidence."
+    "answer": "Katherine is no longer entering the room expecting to dislike everyone and be disliked in return",
+    "explanation": "The change is mainly in Katherine's openness to other people, not simply in her clothes and hair."
   },
   {
     "type": "choice",
@@ -180,12 +177,12 @@ Anne: Subtle was safer than a direct fight.
     "prompt": "Elizabeth says, 'Grandmother says I may sing after all.' What is the most natural response from Anne",
     "options": [
       "I'm so glad. Now you can focus on enjoying the music and doing your best.",
-      "Good. Make sure Mabel knows you are better than she is.",
-      "I knew your grandmother would give in if we embarrassed her.",
-      "You should refuse now to prove a point."
+      "Good. Now you should tell your grandmother why she was wrong.",
+      "You should refuse to sing so she learns a lesson.",
+      "That probably means Mabel will not sing."
     ],
     "answer": "I'm so glad. Now you can focus on enjoying the music and doing your best.",
-    "explanation": "The response celebrates Elizabeth without feeding the adults' rivalry."
+    "explanation": "This response celebrates Elizabeth's opportunity without dragging her into the adults' rivalry."
   }
 ]
 ```

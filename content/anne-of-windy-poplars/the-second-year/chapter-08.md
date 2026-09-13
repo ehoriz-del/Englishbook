@@ -2,31 +2,25 @@
 
 ## Story Summary
 
-Cousin Ernestine Bugle arrived at Windy Poplars carrying the atmosphere of bad news before anyone had heard a word. She had walked in from Lowvale and appeared tired, dusty, and wrapped in rusty black clothing that made her look prepared for mourning even on an ordinary day. She was related to the late Captain MacComber, though Aunt Kate privately considered the relationship much closer than she would have preferred. Before Ernestine had properly settled at the table, she sighed that she was afraid if she sat down she might never manage to rise again.
+Cousin Ernestine Bugle walked in from Lowvale one spring afternoon and reached the Windy Poplars supper table already exhausted by dangers that had not happened. She was a distant relative of the late Captain MacComber, though Aunt Kate privately thought even a distant connection was close enough. Ernestine kept on a worn black neckpiece because she feared drafts, lowered herself into a chair with a sigh, and announced that one day she might sit down and never manage to get up again. Aunt Chatty tried to reassure her. Ernestine immediately warned her not to bother. Comfort, in her experience, was usually premature.
 
-Anne had known pessimistic people, but Ernestine's imagination worked with extraordinary discipline. In Ernestine's mind, even harmless facts opened the door to danger, so news of a baby became a reason to imagine illness and a wedding became an excuse to predict disappointment. A repaired barn reminded her how easily roofs could be torn away by storms. Good health seemed suspicious because it might not last. Even fine weather merely gave Ernestine time to wonder what would happen when it changed.
+Rebecca Dew chose to eat in the kitchen rather than share the table with the visitor. She said Ernestine could take the flavor out of a meal merely by looking at it. That did not save Rebecca from the conversation because she still had to carry in tea, muffins, preserves, and cake. Each time she opened the kitchen door she heard another prediction. When Ernestine worried that something she had eaten might be making her ill, Aunt Chatty pointed out that it was far too early in the year for the poisonous mushrooms Ernestine had mentioned. Ernestine only shifted to the possibility that some other food had done the damage.
 
-Rebecca Dew refused to sit at the table while the visitor was present. She claimed food lost its taste in a room where every mouthful could lead to a discussion of disease or death. Nevertheless, she had to carry dishes in from the kitchen, and each entrance exposed her to another prediction. Anne watched Rebecca's expression tighten while Aunt Kate worked patiently to redirect the conversation toward safer territory. Aunt Chatty tried as well, offering small pieces of neighborhood news with the hopeful air of someone putting flowers into a room that insisted on remaining dark.
+A shadow in the cream jug became a possible spider. Failing eyesight became a future certainty. A neighbor with a rash reminded Ernestine of measles and weak family eyes. Another woman's indigestion sounded to her like a dangerous growth, and even the thought of an operation led straight to weak hearts and death under anesthetic. Rebecca kept interrupting with dry facts, but facts had little power against Ernestine's imagination. A man who had died at eighty-seven still proved, in Ernestine's view, that people had to be prepared for the end.
 
-Nothing worked for long. Aunt Kate mentioned neighbors in Lowvale, choosing people whose circumstances seemed unquestionably pleasant. Ernestine found uncertainty in every case, insisting that even a happy marriage might only be the beginning of some future disappointment. Someone who had recovered from illness might be entering a worse stage. A young couple who bought a farm could discover hidden problems in the house, the soil, or the well. If a family welcomed a baby, Ernestine remembered some alarming fact about heredity. She did not invent disasters out of cruelty. She truly believed that noticing danger early was a form of wisdom.
+Anne tried not to laugh, but Ernestine soon turned her attention to Anne's habit of laughing. Happiness itself seemed risky to her. She remembered cheerful people who had later suffered strokes and warned Anne that too much confidence might tempt fate. Then the new minister at Lowvale came under inspection because Ernestine distrusted the look of his legs and suspected he had once enjoyed dancing. His young wife loved him openly, which Ernestine found almost too romantic for a minister's household. By then Rebecca's trips from the kitchen were becoming faster and her comments sharper.
 
-At first Anne was entertained by the consistency. There was almost an art to Ernestine's ability to darken any subject. After an hour, however, the effect became physical. The warm room seemed less warm, the meal felt heavier, and a harmless wind outside began to sound more serious simply because Ernestine had already wondered whether it might damage a roof. Anne understood why Rebecca privately called her Miss Much-afraid. The name was unkind, but it captured the way fear had become Ernestine's normal method of reading the world.
+A recent wedding gave Ernestine another field to work in. Three years of courtship struck her as dangerously short, and the bride's housekeeping habits seemed to predict an unhappy future. Ernestine was especially disturbed that the girl ironed table napkins in what she considered the wrong way and had eaten an egg on her wedding morning. She compared this with older relatives who had displayed much greater suffering before and after marriage. Aunt Kate and Aunt Chatty kept trying to offer brighter examples, but each name only reminded Ernestine of another illness, unlucky marriage, family weakness, or coming disappointment.
 
-Her anxiety was not limited to obvious dangers. She worried about moral balance as if happiness itself created debt. When Aunt Kate praised a good and respected man, Ernestine agreed that he was admirable, then suggested that such goodness probably meant one of his sons would go badly wrong. Life, in her view, would not allow too much good fortune to gather in one family. Rebecca entered with tea at that moment and looked as if she was reconsidering the Christian duty of hospitality.
+Travel was no safer. A woman visiting San Francisco might encounter an earthquake and then get into trouble at the border on the way home. A cousin spending the winter in Florida might become rich and worldly. A schoolteacher with several admirers would probably fail to marry the man she loved best. When Aunt Chatty mentioned a flower called a calceolaria, Ernestine first mistook the word for a disease and seemed almost disappointed to learn it was only a plant. Even the geraniums in the room were criticized for looking unhealthy.
 
-The conversation moved on to money troubles, poor marriages, contagious illnesses, weak hearts, storms, and accidents that might happen because similar accidents had happened to somebody else years before. Ernestine also described several of her own physical symptoms in careful detail while insisting she was not the complaining sort. Anne began to feel both irritated and sorry for her. Ernestine suffered possible disasters once in imagination and then, if they actually came, would have to suffer them again in reality.
+Rebecca finally noticed that Ernestine's dress was not properly fastened. Ernestine dismissed the problem because she was wearing several petticoats and then turned that detail into another warning about modern girls, who, she had heard, wore far fewer. Rebecca wondered aloud whether anyone would be questioned about petticoats on Judgment Day and escaped to the kitchen before the others could decide how shocked they ought to be. Anne had to control her face again. The visit was becoming exhausting, but its absurdity was difficult to resist.
 
-Even pleasant memories were unsafe. A successful journey reminded Ernestine of trains that had left the track. A good crop raised questions about next year's weather. Someone's long life made her wonder whether living too long might be a burden. By supper's end, Anne felt that almost every ordinary happiness had been examined and found capable of going wrong.
+Still, Ernestine's talk was not merely comic. Every happy fact seemed to arrive in her mind already attached to a possible disaster. A good man might have troublesome sons because too much goodness in one family required some kind of balance. A new farm might contain a dangerous well. A healthy baby raised questions about heredity. Even when she spoke of her own aches and sleepless nights, Ernestine insisted she was not a person who complained. Anne began to understand why Rebecca called her Miss Much-afraid. Ernestine did not simply notice risk. She seemed unable to let any ordinary pleasure remain ordinary.
 
-When the visit finally ended, the wind had strengthened. Naturally Ernestine worried about the barn at home, the road underfoot, and whether damp air would affect her health. Anne helped her into an unfortunate hat with a tired ostrich feather while Aunt Chatty searched for a wrap. As Anne leaned closer, Ernestine noticed that her throat sounded slightly rough.
+At last Ernestine decided she must leave before dark. Preparing to go did not quiet her. She worried about wet feet, the rising wind, her barn roof, and the possibility that the climate itself was changing. She reminded Aunt Kate and Aunt Chatty that none of them could know who would still be alive the following spring. Then, while Anne helped her into her coat, Ernestine studied Anne's face and warned that red-haired people might not have especially strong constitutions.
 
-That small detail opened one final field of disaster. Ernestine warned her that sore throats could become serious if neglected, then offered a form of comfort entirely her own. If Anne happened to die young, she observed, at least she would be spared many of the troubles that came later in life.
-
-For several seconds Anne could think of no reply. Ernestine departed into the windy evening, and the front door closed behind her. The household remained silent until Rebecca came in from the kitchen and looked around as if confirming that both the furniture and the inhabitants had survived. Then everyone seemed to breathe more freely.
-
-Aunt Chatty kept trying to introduce cheerful subjects and Aunt Kate answered Ernestine with practical facts, but every topic somehow returned to illness, accident, or disappointment. Weddings suggested future misery, travel suggested disaster, and good health merely gave Ernestine another reason to predict what might go wrong next. Rebecca Dew escaped to the kitchen whenever she could and made no effort to hide how exhausting she found the visit.
-
-After Ernestine finally left, the house seemed to grow lighter. Rebecca Dew came back from the kitchen, and the others relaxed without having to say why. Anne could laugh at some of the visit, but the endless warnings stayed in her mind. By the time she went upstairs, she had heard so many possible illnesses, accidents, and unhappy endings that even ordinary things seemed less secure than they had that morning.
+Anne smiled and said she felt healthy enough, apart from a slight sore throat. Ernestine immediately found one final danger. A minor sore throat, she warned, could resemble something much more serious at first. Then she offered Anne what she apparently considered consolation. If a person died young, at least many later troubles would never have to be faced. With that dark comfort hanging in the doorway, Cousin Ernestine finally set off for Lowvale, leaving Windy Poplars suddenly quieter than it had seemed all afternoon.
 
 ## Vocabulary & Nuance
 
@@ -59,19 +53,19 @@ Rebecca: Do not encourage her from a distance.
 
 ## Conversation 2 — Anne Thinks About Fear
 
-Anne: There is a difference between preparing for a real problem and living inside an imaginary one.
+Anne: There is a difference between guarding against a real problem and living inside an imaginary one.
 Aunt Kate: Ernestine thinks worry keeps her safe.
 Anne: It mostly seems to **wear her out** before anything happens.
-Aunt Kate: Some habits are difficult to let go of.
-Anne: Especially when we mistake them for wisdom.
+Aunt Kate: Some people cling to worry because it feels like caution.
+Anne: And that makes it harder to tell one from the other.
 
 ### Phrasal verbs & expressions
 
 - wear someone out — make someone extremely tired.
 - let go of — stop holding onto something.
-- prepare for — get ready for something.
-- hold onto — continue to keep a belief or feeling.
-- mistake for — incorrectly identify one thing as another.
+- guard against — take reasonable steps to prevent or reduce a risk.
+- cling to — continue holding strongly to a belief, habit, or feeling.
+- tell one thing from another — recognize the difference between two similar things.
 
 ## Practice
 
@@ -81,57 +75,57 @@ Anne: Especially when we mistake them for wisdom.
     "type": "choice",
     "instant": true,
     "target": "inference",
-    "prompt": "What conclusion does Anne draw from the visit",
+    "prompt": "Why does Ernestine’s conversation become exhausting even when she is discussing ordinary news",
     "options": [
-      "Real trouble deserves courage when it arrives, but imagined trouble should not occupy the present",
-      "The safest life is one with no close relationships",
-      "Ernestine should never be allowed to visit relatives",
-      "People should ignore every possible risk"
+      "She turns almost every neutral or happy fact into evidence of a possible disaster",
+      "She refuses to speak to anyone except Anne",
+      "She keeps changing the subject to politics",
+      "She asks the household for money"
     ],
-    "answer": "Real trouble deserves courage when it arrives, but imagined trouble should not occupy the present",
-    "explanation": "Anne distinguishes practical readiness from constant anticipatory fear."
+    "answer": "She turns almost every neutral or happy fact into evidence of a possible disaster",
+    "explanation": "The strain comes from the repeated pattern of converting ordinary uncertainty into danger."
   },
   {
     "type": "choice",
     "instant": true,
     "target": "nuance",
-    "prompt": "Why does Anne feel sympathy as well as irritation toward Ernestine",
+    "prompt": "Why can Anne feel sorry for Ernestine even while finding her difficult",
     "options": [
-      "Ernestine appears to believe worry is responsible behavior and suffers because of it",
-      "Ernestine secretly pays all the household bills",
-      "Anne discovers Ernestine is seriously ill",
-      "Rebecca admits the visitor is always correct"
+      "Ernestine appears genuinely trapped in her habit of expecting trouble rather than deliberately trying to hurt people",
+      "Ernestine secretly apologizes after every warning",
+      "Anne believes all of Ernestine's predictions are correct",
+      "Ernestine has been ordered to speak pessimistically"
     ],
-    "answer": "Ernestine appears to believe worry is responsible behavior and suffers because of it",
-    "explanation": "Anne sees that fear has become a painful habit rather than simple unpleasantness."
+    "answer": "Ernestine appears genuinely trapped in her habit of expecting trouble rather than deliberately trying to hurt people",
+    "explanation": "Her pessimism is unpleasant, but it also seems to make Ernestine herself miserable."
   },
   {
     "type": "choice",
     "instant": true,
     "target": "foreboding",
-    "prompt": "What defines Cousin Ernestine’s way of thinking",
+    "prompt": "What best describes Cousin Ernestine’s habitual way of thinking",
     "options": [
-      "She treats ordinary situations as signs of future trouble",
-      "She refuses to discuss unpleasant subjects",
-      "She believes every problem will solve itself",
-      "She ignores health and safety completely"
+      "She treats uncertainty as a reason to expect the worst",
+      "She ignores every possible danger",
+      "She changes her opinions to please her hosts",
+      "She refuses to discuss illness or accidents"
     ],
-    "answer": "She treats ordinary situations as signs of future trouble",
-    "explanation": "Her conversation repeatedly turns neutral or pleasant facts into warnings."
+    "answer": "She treats uncertainty as a reason to expect the worst",
+    "explanation": "Nearly every topic becomes a prediction of illness, loss, or disappointment."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "hospitality",
-    "prompt": "Why is Rebecca especially irritated during the visit",
+    "target": "motive",
+    "prompt": "Why does Aunt Kate keep offering pleasant examples from Lowvale",
     "options": [
-      "She must continue serving a guest whose conversation makes the whole meal gloomy",
-      "Ernestine refuses to eat anything Rebecca cooks",
-      "Aunt Kate asks Rebecca to leave the house",
-      "Anne has invited several more guests without warning"
+      "She is trying to find a subject Ernestine cannot turn into bad news",
+      "She wants Ernestine to stay for another week",
+      "She is testing Anne's knowledge of the town",
+      "She hopes Rebecca will leave the kitchen"
     ],
-    "answer": "She must continue serving a guest whose conversation makes the whole meal gloomy",
-    "explanation": "Rebecca’s duty as part of the household keeps bringing her back into the conversation."
+    "answer": "She is trying to find a subject Ernestine cannot turn into bad news",
+    "explanation": "Aunt Kate repeatedly tries to steer the conversation toward something cheerful."
   },
   {
     "type": "fill",
@@ -142,49 +136,49 @@ Anne: Especially when we mistake them for wisdom.
     "accepted": [
       "dwell on"
     ],
-    "explanation": "To dwell on something means keep thinking or talking about it, often negatively."
-  },
-  {
-    "type": "choice",
-    "instant": true,
-    "target": "motive",
-    "prompt": "Why does Ernestine keep turning pleasant news into warnings",
-    "options": [
-      "She has developed a habit of interpreting uncertainty through fear and expects danger before evidence appears",
-      "She is secretly angry with Anne",
-      "She wants to end the family visit early",
-      "She has reliable information that every disaster will happen"
-    ],
-    "answer": "She has developed a habit of interpreting uncertainty through fear and expects danger before evidence appears",
-    "explanation": "Her outlook, not the facts themselves, drives the repeated warnings."
+    "explanation": "To dwell on something means to keep thinking or talking about it for too long."
   },
   {
     "type": "choice",
     "instant": true,
     "target": "paraphrase",
-    "prompt": "Which sentence best paraphrases the idea that Ernestine leaves a tone of mind behind",
+    "prompt": "Which sentence best paraphrases Ernestine’s idea that a very good man may have sons who go wrong",
     "options": [
-      "After she leaves, Anne notices that the woman's anxious way of thinking has begun to influence her",
-      "Ernestine forgets an object at Windy Poplars",
-      "Anne cannot remember what Ernestine said",
-      "The family wants Ernestine to move in permanently"
+      "She assumes life must somehow balance good fortune with trouble",
+      "She believes good parents always cause bad children",
+      "She knows the sons have already committed crimes",
+      "She thinks goodness is a medical condition"
     ],
-    "answer": "After she leaves, Anne notices that the woman's anxious way of thinking has begun to influence her",
-    "explanation": "The phrase describes emotional influence rather than a physical object."
+    "answer": "She assumes life must somehow balance good fortune with trouble",
+    "explanation": "Ernestine is uncomfortable allowing good news to stand without attaching a possible misfortune to it."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "inference",
+    "prompt": "What does the final sore-throat warning reveal about Ernestine",
+    "options": [
+      "Even while leaving, she cannot resist turning a small symptom into a serious possibility",
+      "She has suddenly become a trained doctor",
+      "She is angry that Anne helped her with her coat",
+      "She wants Anne to cancel school permanently"
+    ],
+    "answer": "Even while leaving, she cannot resist turning a small symptom into a serious possibility",
+    "explanation": "The final exchange repeats the same anxious pattern that has shaped the entire visit."
   },
   {
     "type": "choice",
     "instant": true,
     "target": "natural_response",
-    "prompt": "Aunt Chatty says, 'Every cheerful subject seems to become a disaster before Ernestine is finished with it.' What is the most natural response",
+    "prompt": "Ernestine says, 'You want to watch that sore throat.' What is the most natural response from Anne",
     "options": [
-      "I noticed that too. We may have to keep her worries in perspective rather than absorb them.",
-      "She's right about everything, so we should stop making plans.",
-      "We should never invite relatives again.",
-      "Let's tell her that nobody wants to hear her speak."
+      "I'll keep an eye on it, but I'm not going to assume the worst from one sore throat.",
+      "You're right. I should prepare for every possible disease immediately.",
+      "I never get sick, so there is no reason to notice it.",
+      "Please list every serious illness you can think of."
     ],
-    "answer": "I noticed that too. We may have to keep her worries in perspective rather than absorb them.",
-    "explanation": "The response recognizes the effect without becoming cruel or equally fearful."
+    "answer": "I'll keep an eye on it, but I'm not going to assume the worst from one sore throat.",
+    "explanation": "The response takes a real symptom seriously without copying Ernestine's tendency to catastrophize."
   }
 ]
 ```

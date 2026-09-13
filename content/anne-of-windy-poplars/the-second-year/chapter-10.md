@@ -16,6 +16,8 @@ Anne listened until the pattern became clear. Hazel wanted freedom from the enga
 
 Hazel pleaded for Anne to intervene, adding that Terry had a temper and making the conversation sound dangerous enough to justify handing the responsibility to someone else. She was afraid of hurting him, afraid of being blamed, and afraid she might weaken if she saw him upset. She declared that Anne was the only person wise enough to handle the situation. The praise was excessive, yet Anne was not entirely immune to it. Being trusted so completely was flattering, and Hazel's distress appeared genuine.
 
+As Hazel talked, her certainty kept changing shape. One moment she described the engagement as a trap, and the next she defended some tender memory of Terry as if it still mattered enormously. Anne began to see why Hazel found a direct decision so difficult. She wanted freedom from the engagement, but she also wanted romance, family approval, and the comfort of believing that every strong feeling in her life had special meaning. None of those wishes made the practical conversation with Terry any easier.
+
 Before leaving, Hazel put on a rosy hat that made her look even younger than she was. Anne, moved by affection despite all the drama, told her she looked lovely. Hazel accepted the compliment with almost grateful relief. Beauty, she confessed, could be a burden because people expected too much from a girl once they had heard she was pretty. Anne could not decide whether the statement was vain, insecure, or both.
 
 After Hazel left, Rebecca Dew asked how Anne had survived the conversation. Anne defended her. She remembered being talkative and romantic herself at a younger age. Rebecca remained unconvinced and suggested that Hazel possessed more appearance than substance. Anne thought the judgment unfair, though she admitted that Hazel seemed to experience every passing feeling as permanent truth.
@@ -25,10 +27,6 @@ Then Hazel went away to Kingsport for a visit, and Terry began appearing more of
 Anne remembered the tower room. Here, she thought, was the solution Hazel had begged her to provide. She told Terry that Hazel had expressed the same doubts and had been afraid to hurt him. His relief was immediate. He thanked Anne for removing a weight from his mind. For a few minutes she felt she had successfully rescued two people from an unsuitable marriage.
 
 Then the conversation shifted. Terry's gratitude became admiration. He began suggesting that meeting Anne had shown him the difference between a girl and a mature woman. Moonlight, which had already done enough damage to his judgment, seemed ready to create another romantic mistake. Anne ended the conversation quickly and escaped before he could say anything more definite.
-
-Hazel's manner kept changing as she spoke. One moment she sounded trapped by the engagement, and the next she defended some tender memory of Terry as though it proved they were meant for each other. Anne began to see that the difficulty was not simply a lack of love. Hazel wanted a decision that would preserve every possibility at once, including freedom, romance, family approval, and the flattering idea that her life was unusually dramatic.
-
-Walking away, she felt less satisfied with her interference than she had a few minutes earlier. She had carried Hazel's private words into a conversation Hazel was not present to control. Terry had accepted the information eagerly, perhaps too eagerly. Anne still believed the engagement was unwise, but for the first time she wondered whether being right about the result had made her careless about the method. She would not have long to wonder. Hazel was coming back to Summerside, and the consequences were already on their way.
 
 ## Vocabulary & Nuance
 
@@ -84,96 +82,96 @@ Anne: And that is exactly where this conversation ends.
     "type": "choice",
     "instant": true,
     "target": "inference",
-    "prompt": "What causes Anne’s confidence to weaken at the end",
+    "prompt": "What does Terry’s immediate relief when Anne tells him about Hazel’s doubts suggest",
     "options": [
-      "She realizes that a desirable outcome does not automatically justify interfering in someone else’s private decision",
-      "Hazel has already married Terry",
-      "Terry refuses to believe anything Anne says",
-      "Rebecca admits she supports the engagement"
+      "He has already been looking for a way out of the engagement himself",
+      "He plans to marry Hazel the next morning",
+      "He never understood what an engagement was",
+      "He is angry that Hazel spoke to Anne"
     ],
-    "answer": "She realizes that a desirable outcome does not automatically justify interfering in someone else’s private decision",
-    "explanation": "Anne begins to question the method even while believing the engagement itself may be unwise."
+    "answer": "He has already been looking for a way out of the engagement himself",
+    "explanation": "His relief shows that Hazel is not the only one who has begun to regret the engagement."
   },
   {
     "type": "choice",
     "instant": true,
     "target": "nuance",
-    "prompt": "What makes Hazel's dilemma more complicated than simply falling out of love with Terry",
+    "prompt": "Why is moonlight important in both Hazel’s and Terry’s explanations",
     "options": [
-      "She wants the freedom to leave while still preserving romance, approval, and every attractive future possibility",
-      "She has never spoken to Terry",
-      "She dislikes everyone in her family",
-      "She has already chosen a wedding date and refuses to change it"
+      "Each uses the romantic atmosphere to explain why strong feelings seemed more certain than they later felt",
+      "They believe moonlight has a literal magical power",
+      "They were engaged during a daytime argument",
+      "Anne has forbidden them to meet after dark"
     ],
-    "answer": "She wants the freedom to leave while still preserving romance, approval, and every attractive future possibility",
-    "explanation": "Her conflict comes from competing desires and from reluctance to accept the loss built into any real decision."
-  },
-  {
-    "type": "choice",
-    "instant": true,
-    "target": "dilemma",
-    "prompt": "What is Hazel’s real dilemma beneath the dramatic language",
-    "options": [
-      "She wants to leave the engagement without taking responsibility for causing pain",
-      "She wants Terry to move to Green Gables",
-      "She cannot decide which wedding dress to buy",
-      "She wants Anne to become a nurse with her"
-    ],
-    "answer": "She wants to leave the engagement without taking responsibility for causing pain",
-    "explanation": "Hazel asks Anne to carry the difficult conversation she herself wants to avoid."
-  },
-  {
-    "type": "choice",
-    "instant": true,
-    "target": "incompatibility",
-    "prompt": "What does Hazel use as evidence that Terry may not suit her",
-    "options": [
-      "His practical responses seem completely out of step with her romantic imagination",
-      "He refuses to speak to her mother",
-      "He plans to become a teacher",
-      "He dislikes every form of music"
-    ],
-    "answer": "His practical responses seem completely out of step with her romantic imagination",
-    "explanation": "Hazel interprets differences in temperament as signs of deeper incompatibility."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "step in",
-    "prompt": "Complete the sentence. Hazel wants Anne to ________ ________ and speak to Terry on her behalf.",
-    "answer": "step in",
-    "accepted": [
-      "step in"
-    ],
-    "explanation": "To step in means become involved to help or influence a situation."
+    "answer": "Each uses the romantic atmosphere to explain why strong feelings seemed more certain than they later felt",
+    "explanation": "The repeated explanation highlights how quickly both young people were swept up by romance."
   },
   {
     "type": "choice",
     "instant": true,
     "target": "motive",
-    "prompt": "Why does Hazel ask Anne to speak to Terry instead of ending the engagement herself",
+    "prompt": "Why does Hazel want Anne to speak to Terry",
     "options": [
-      "She wants relief from the decision and hopes Anne will carry the emotional consequences for her",
-      "She believes Anne dislikes Terry",
-      "She has forgotten where Terry lives",
-      "She wants Anne to marry him"
+      "She wants to escape the engagement without facing Terry's hurt or anger herself",
+      "She wants Anne to persuade Terry to marry sooner",
+      "She hopes Anne will invite Terry to Green Gables",
+      "She wants Terry to become a teacher"
     ],
-    "answer": "She wants relief from the decision and hopes Anne will carry the emotional consequences for her",
-    "explanation": "Hazel tries to hand responsibility for an uncomfortable choice to Anne."
+    "answer": "She wants to escape the engagement without facing Terry's hurt or anger herself",
+    "explanation": "Hazel tries to hand the most painful part of the decision to someone she trusts."
   },
   {
     "type": "choice",
     "instant": true,
     "target": "paraphrase",
-    "prompt": "Which sentence best paraphrases the idea that Hazel wants to preserve every possibility at once",
+    "prompt": "Which sentence best paraphrases Hazel’s complaint that Terry is too practical for her",
     "options": [
-      "She wants freedom from the engagement without giving up romance, approval, or the flattering parts of being engaged",
-      "She has already made a calm final decision",
-      "She is only worried about wedding expenses",
-      "She no longer cares what anyone thinks"
+      "His ordinary, practical responses often disappoint the romantic meaning she wants to give things",
+      "He refuses to work or make practical plans",
+      "He is unable to understand any spoken English",
+      "He insists that Hazel give up reading"
     ],
-    "answer": "She wants freedom from the engagement without giving up romance, approval, or the flattering parts of being engaged",
-    "explanation": "Her dilemma grows because she does not want any choice to close another option."
+    "answer": "His ordinary, practical responses often disappoint the romantic meaning she wants to give things",
+    "explanation": "Hazel treats differences in temperament as evidence that they may be incompatible."
+  },
+  {
+    "type": "fill",
+    "instant": false,
+    "target": "step in",
+    "prompt": "Complete the sentence. Hazel wants Anne to ________ ________ and handle the difficult conversation for her.",
+    "answer": "step in",
+    "accepted": [
+      "step in"
+    ],
+    "explanation": "To step in means to become involved in order to help or influence a situation."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "motive",
+    "prompt": "Why does Anne finally tell Terry what Hazel said",
+    "options": [
+      "She believes his own doubts create a chance to free both of them from an engagement neither seems to want",
+      "She wants Terry to fall in love with her",
+      "Rebecca Dew orders her to reveal Hazel's secret",
+      "Hazel has already publicly ended the engagement"
+    ],
+    "answer": "She believes his own doubts create a chance to free both of them from an engagement neither seems to want",
+    "explanation": "Anne sees Terry's confession as the opportunity Hazel had asked her to find."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "inference",
+    "prompt": "Why does Anne leave quickly when Terry’s gratitude turns into admiration",
+    "options": [
+      "She realizes the conversation is moving toward a romantic declaration she does not want to encourage",
+      "She suddenly remembers that school is on fire",
+      "She has decided to accept Terry instead of Gilbert",
+      "She wants Terry to follow her to Kingsport"
+    ],
+    "answer": "She realizes the conversation is moving toward a romantic declaration she does not want to encourage",
+    "explanation": "Anne recognizes the shift in Terry's tone and ends the situation before it goes further."
   },
   {
     "type": "choice",
@@ -187,7 +185,7 @@ Anne: And that is exactly where this conversation ends.
       "I will tell everyone in Summerside first."
     ],
     "answer": "I can help you think it through, but the decision and the conversation really need to come from you.",
-    "explanation": "A healthy response supports Hazel without taking over her responsibility."
+    "explanation": "A supportive response can help Hazel without taking ownership of her engagement."
   }
 ]
 ```
