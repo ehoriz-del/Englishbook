@@ -1,88 +1,75 @@
-# Chapter 6 — A Merry Christmas for Katherine
+# Chapter 6 — Christmas at Green Gables
 
 ## Story Summary
 
-The days before Christmas are busy and cheerful at Green Gables. Anne, Katherine, Davy, and Dora go into the woods to choose a Christmas tree. They bring home a small fir and gather evergreen branches and ground pine for decorations. Katherine joins in without the sarcasm that usually keeps people at a distance. She is surprised by how much she enjoys the simple preparations.
+By the weekend before Christmas, Green Gables had taken on the pleasant disorder that Anne loved most. The kitchen smelled of baking and spices, evergreen branches waited to be arranged, and Davy treated every preparation as if the success of the entire season depended on him. Katherine had arrived determined not to be sentimental about any of it, but the house gave her very little opportunity to remain detached. Nobody asked whether she was enjoying herself. They simply handed her branches, called her into the kitchen, and expected her to join whatever was happening.
 
-When they return to Green Gables, Gilbert is there. Katherine quietly leaves Anne and Gilbert together in the parlor and spends the evening playing games with Davy and Dora in the kitchen. She discovers that she likes Davy’s noisy energy and even enjoys going down into the cellar with him to look for sweet apples. The unfamiliar country household begins to feel less strange to her.
+She went with Anne, Davy, and Dora to bring home the Christmas tree. Snow creaked underfoot, the air had the sharp brightness of deep winter, and Katherine returned with cold cheeks and a hunger that surprised her. Davy's chatter, which might have irritated her in another setting, made her laugh more than once. Anne noticed but did not comment. She had learned that Katherine trusted happiness more easily when no one asked her to explain it.
 
-Christmas morning starts very early when Davy runs through the house ringing an old cowbell. Marilla is embarrassed because there is a guest in the house, but Katherine comes downstairs laughing instead of complaining. She has become unexpectedly friendly with Davy.
+When they reached the house, Gilbert was waiting. Katherine immediately understood that Anne had been looking forward to seeing him and made herself scarce without being asked. She went to the kitchen, where Davy drew her into a search for the best apples in the cellar. A few weeks earlier Katherine would have considered the activity childish. Now she followed him downstairs, argued cheerfully about which apples deserved the title, and forgot that she had once promised herself not to enjoy the visit too much.
 
-The family opens the parlor and begins distributing gifts before breakfast. Katherine expects perhaps one polite present from Anne, but she soon discovers that everyone has remembered her. Mrs. Lynde gives her a crocheted afghan. Dora gives her a sachet. Davy gives her a paper knife. Marilla gives her a basket filled with small jars of jam and jelly. Gilbert gives her a little bronze cat to use as a paperweight.
+Christmas morning began with enough noise to defeat even Katherine's resistance. She came downstairs expecting to watch other people open gifts, only to discover parcels bearing her own name. Marilla and Mrs. Lynde had remembered her, Davy and Dora had remembered her, and Gilbert had included her in the circle as naturally as everyone else, until the separate gifts formed one unmistakable message of welcome. Some gifts were practical and some were small, yet their combined effect was larger than their value. Katherine had spent much of her life assuming that she would be overlooked unless she made herself impossible to ignore.
 
-Then Katherine notices a small puppy under the Christmas tree. He is curled on a warm blanket and has soft ears, brown eyes, and a lively tail. A card from Anne is attached to him. Katherine immediately gathers the puppy into her arms and is deeply moved.
+Then Anne brought out the gift that mattered most. A small puppy, warm and uncertain on his feet, belonged to Katherine. For a moment Katherine could not speak, and Anne understood that the small animal had touched a wish Katherine had carried since childhood. The wish for a dog reached back into Katherine's childhood, when she had wanted companionship and been refused. Even in Summerside, Mrs. Dennis had recently denied the same request. Anne explained that the landlady had changed her mind and that arrangements had been made. Katherine gathered the puppy close with an expression Anne had never seen at school.
 
-Her first thought is that Mrs. Dennis will never allow a dog in the boarding house. Anne tells her not to worry. She has already spoken to Mrs. Dennis and arranged everything. Anne also reminds Katherine that she does not have to remain in that unpleasant boarding house forever now that she has finished paying her debt.
+The days after Christmas passed in a rhythm that slowly changed Katherine. She walked with Anne through Lover's Lane and the Haunted Wood, where snow softened familiar shapes and made the old paths seem new. On stormy afternoons they stayed indoors, eating apples, talking by the stove, and listening to wind move around the eaves. Katherine began to understand that the warmth she had envied in other people's lives was built from ordinary repetition rather than constant excitement.
 
-Katherine had expected Christmas to be uncomfortable and artificial. Instead, she finds herself surrounded by people who have included her naturally. The week continues with walks through Lover’s Lane and the Haunted Wood, winter fields, orchards, and snowy hills. Katherine and Anne talk for hours and come home hungry enough to challenge even the Green Gables pantry.
+A visit to Diana brought another surprise. Gilbert drove them over, and before Katherine had time to prepare herself, she was holding Diana's baby. She received the small bundle with visible alarm, afraid she might do something wrong. The baby's weight and trust affected her unexpectedly. On the drive back she admitted that the experience had touched something in her, though she could not describe exactly what. Anne left the feeling unnamed and allowed it to remain private.
 
-One stormy day they stay indoors. The wind beats around the house while they sit by the stove, eat apples and candy, and enjoy the warmth inside. Katherine, who once thought happiness belonged to other people, begins enjoying ordinary things without immediately criticizing them.
+The local concert created a more difficult challenge. Anne had heard that Katherine could read aloud beautifully and urged her to perform. Katherine resisted because of an old humiliation. Years earlier she had taken part in a public program, heard laughter somewhere in the audience, and decided people were laughing at her. She had never performed again, so Anne gently asked the question Katherine had avoided for years and made her examine the memory rather than simply obey it. How did she know the laughter had been directed at her. Katherine had no answer.
 
-Gilbert takes Anne and Katherine to visit Diana and her new baby daughter. Katherine has never held a baby before. She is nervous because the baby seems so small and delicate, but the experience affects her more than she expected. On the way home she admits that holding the baby did something to her emotionally, although she cannot explain exactly what.
+The possibility that she had built a permanent fear on an uncertain interpretation unsettled her. After several conversations, she agreed to read. Anne also persuaded her to make a little more effort with her appearance, not because beauty would solve anything but because Katherine had spent years using neglect almost as a form of armor. Her green dress was not Anne's favorite choice, yet Katherine's dark hair was arranged well, and a red chiffon collar gave warmth to her face.
 
-Later there is a concert followed by a party at Abner Sloane’s. Anne asks Katherine to give a reading during the program. Katherine hesitates because she once recited at another concert and later heard people laughing. She assumed they were laughing at her and has avoided performing since then.
+When she stood before the audience, the first lines were the hardest. Then training and natural ability took over. Katherine's voice held the room, and when she finished, the applause was unmistakable. At the party afterward, people came to speak with her instead of keeping a cautious distance. She danced, accepted invitations, and found herself included so easily that the old story about being laughed at began to lose its power.
 
-Anne persuades her to try again. Katherine also worries about the party because she is used to standing apart and expects that no one will ask her to dance. Anne tells her that this time she will not be outside looking in.
+Late that night, Mrs. Lynde tiptoed into the room to ask whether they wanted another blanket and assured Katherine that her puppy was warm in a basket behind the kitchen stove. After the busy evening, the quiet kindness touched Katherine almost as much as the concert had. Lying awake, she thought about the people at Green Gables and admitted to herself that the visit had given her a new outlook on life. She had not known that a household could make room for someone so naturally.
 
-Before the event, Anne rearranges Katherine’s dark hair and encourages her to pay more attention to her appearance. Katherine wears her green taffeta dress, even though Anne thinks green is the wrong color for her, and Anne adds a red chiffon collar. When Katherine looks in the mirror, she is surprised by how much younger she appears.
-
-Gilbert drives them to the hall. Katherine’s reading is a success from the first line. At the party afterward, instead of being ignored, she has more dance partners than she can accommodate. She finds herself laughing without bitterness and enjoying the evening.
-
-When they return to Green Gables, Katherine and Anne sit by the fire warming their feet. Mrs. Lynde comes in later to see whether they need another blanket and tells Katherine that the puppy is sleeping comfortably in a basket behind the kitchen stove.
-
-Katherine lies awake thinking about the people around her. She has spent years assuming that kindness always comes with conditions or pity. At Green Gables she has been treated simply as a welcome guest.
-
-When the holiday ends, Marilla tells Katherine to come again. Because Marilla does not make such invitations casually, Katherine knows she means it. Anne immediately begins making plans for future visits, including weekends and summer stays.
-
-Katherine leaves Green Gables with her puppy and with plans to change several parts of her life in Summerside. She has experienced a Christmas very different from the lonely holiday she expected to spend at her boarding house.
+When the holiday ended, Marilla told Katherine to come again, and Anne immediately began talking about future weekends and summer visits. Katherine knew Marilla did not offer invitations she did not mean. She left Green Gables with her puppy, the memory of a successful reading, and the knowledge that she was welcome to return. The boarding house in Summerside would still be the same when she reached it, but Katherine herself was no longer going back to it with quite the same expectations.
 
 ## Vocabulary & Nuance
 
-- **camaraderie** — warm friendship and easy companionship within a group.
-- **impeccable** — perfect in behavior or appearance; impossible to criticize.
-- **ingratiating** — pleasantly charming in a way that quickly wins affection.
-- **dubious** — uncertain or doubtful about something.
-- **radiant** — visibly bright, happy, or healthy.
-- **warm up to** — gradually begin to like or trust someone.
-- **come out of your shell** — become more confident and sociable.
-- **fit in** — feel accepted as part of a group.
-- **look forward to** — feel happy or excited about a future event.
-- **take someone by surprise** — surprise someone unexpectedly.
+- **detached** — emotionally uninvolved or deliberately distant.
+- **interpretation** — the meaning someone gives to an event or experience.
+- **armor** — protection, used figuratively for emotional defenses.
+- **unmistakable** — so clear that it cannot reasonably be misunderstood.
+- **belonging** — the feeling of being accepted as part of a place or group.
+- **make yourself scarce** — leave so others can have privacy.
+- **draw someone into** — cause someone to become involved in an activity or conversation.
+- **open up to** — become more willing to accept an idea or experience.
+- **hold someone back** — prevent someone from developing or acting.
+- **come out of your shell** — become more confident and socially open.
 
-## Conversation 1 — An Unexpectedly Happy Holiday
+## Conversation 1 — The Puppy
 
-Katherine: I thought I would feel awkward the entire time.
-Anne: You seem to be doing very well.
-Katherine: Everyone has made it so easy to **fit in**.
-Anne: They like you.
-Katherine: I’m still getting used to that idea.
-Anne: Then keep practicing.
-Katherine: Even Davy has **grown on me**, which may be the most surprising part.
+Katherine: You arranged all this without telling me?
+Anne: I wanted to make sure Mrs. Dennis would agree before I got your hopes up.
+Katherine: I had almost **given up on** ever having a dog.
+Anne: Then it is probably time you stopped giving up on things too early.
+Katherine: You do realize this puppy may ruin your reputation for good sense.
 
 ### Phrasal verbs & expressions
 
-- fit in — feel accepted as part of a group.
-- grow on someone — become more likable over time.
-- warm up to — gradually become friendlier toward someone.
-- settle in — become comfortable in a new place.
-- get used to — become familiar or comfortable with something.
+- give up on — stop hoping for or pursuing something.
+- get your hopes up — begin expecting something desirable.
+- follow through on — carry out a plan or promise completely.
+- take responsibility for — accept duty for someone or something.
+- ease into — become comfortable with a new situation gradually.
 
-## Conversation 2 — Trying Again After Embarrassment
+## Conversation 2 — Trying the Reading Again
 
-Katherine: I don’t want to do the reading. The last time I performed, people laughed afterward.
-Anne: Do you know they were laughing at you?
-Katherine: I assumed they were.
-Anne: Then perhaps it’s time to **give it another try**.
-Katherine: And if it goes badly?
-Anne: Then you’ll survive it. But if you avoid everything, you’ll never know what might have gone well.
+Anne: You heard laughter once, but you never knew what caused it.
+Katherine: I assumed it was aimed at me.
+Anne: That assumption has **held you back** for years.
+Katherine: And you think I should put myself out there again?
+Anne: I think you should give the present a fair shot at correcting the past.
 
 ### Phrasal verbs & expressions
 
-- give something another try — attempt something again.
-- hold back — avoid acting because of fear or uncertainty.
-- go well — happen successfully.
-- come through — succeed or perform well under pressure.
-- take a chance — do something despite uncertainty.
+- hold someone back — prevent progress or confidence.
+- put yourself out there — take a social or emotional risk by becoming visible to others.
+- give something a fair shot — make a genuine attempt before judging the result.
+- back out — withdraw from a plan.
+- come through — perform successfully under pressure.
 
 ## Practice
 
@@ -91,102 +78,111 @@ Anne: Then you’ll survive it. But if you avoid everything, you’ll never know
   {
     "type": "choice",
     "instant": true,
-    "target": "camaraderie",
-    "prompt": "What surprises Katherine about her relationship with Davy?",
+    "target": "inference",
+    "prompt": "What does the successful reading change most for Katherine",
     "options": [
-      "They quickly develop an easy, playful friendship.",
-      "He refuses to speak to her.",
-      "He is afraid of her.",
-      "He leaves Green Gables before Christmas."
+      "It weakens an old belief that public attention will automatically lead to humiliation",
+      "It convinces her to become an actress immediately",
+      "It proves everyone in Avonlea already knew her",
+      "It makes her decide to stay at Green Gables permanently"
     ],
-    "answer": "They quickly develop an easy, playful friendship.",
-    "explanation": "Katherine unexpectedly enjoys Davy’s company and plays games with him."
+    "answer": "It weakens an old belief that public attention will automatically lead to humiliation",
+    "explanation": "The new experience provides evidence against a fear she had treated as certain."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "ingratiating",
-    "prompt": "What makes the puppy especially ingratiating?",
+    "target": "nuance",
+    "prompt": "Why does Anne avoid commenting every time Katherine enjoys herself",
     "options": [
-      "His friendly appearance and lively, affectionate behavior",
-      "His ability to guard the house",
-      "His expensive collar",
-      "His unusually large size"
+      "She knows Katherine may resist feelings if she feels observed or managed",
+      "Anne does not notice Katherine changing",
+      "Marilla has forbidden private conversations",
+      "Katherine asked everyone to remain silent"
     ],
-    "answer": "His friendly appearance and lively, affectionate behavior",
-    "explanation": "“Ingratiating” describes something charming enough to win affection quickly."
+    "answer": "She knows Katherine may resist feelings if she feels observed or managed",
+    "explanation": "Anne gives the change room to develop without turning it into a performance."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "belonging",
+    "prompt": "What has the greatest effect on Katherine at Christmas",
+    "options": [
+      "She is included naturally in ordinary family life rather than treated as a special project",
+      "She receives the most expensive gift in the house",
+      "Gilbert spends the whole holiday talking to her",
+      "Mrs. Lynde praises her teaching every day"
+    ],
+    "answer": "She is included naturally in ordinary family life rather than treated as a special project",
+    "explanation": "The casual inclusion challenges Katherine’s belief that warmth belongs only to other people."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "interpretation",
+    "prompt": "What does Anne challenge about Katherine’s old performance memory",
+    "options": [
+      "Katherine never actually knew the audience was laughing at her",
+      "The performance never took place",
+      "Anne had been in the audience herself",
+      "Katherine had won a prize that night"
+    ],
+    "answer": "Katherine never actually knew the audience was laughing at her",
+    "explanation": "Anne helps her separate a painful assumption from a verified fact."
   },
   {
     "type": "fill",
     "instant": false,
-    "target": "warm up to",
-    "prompt": "Complete the sentence: During the holiday, Katherine begins to ________ ________ ________ the people at Green Gables.",
-    "answer": "warm up to",
-    "accepted": ["warm up to"],
-    "explanation": "“Warm up to” means gradually become friendlier toward someone."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "fit in",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {"speaker": "Katherine", "text": "I expected to feel like an outsider."},
-      {"speaker": "Anne", "text": "But you’ve ________ here more naturally than you expected."}
+    "target": "held back",
+    "prompt": "Complete the sentence. One uncertain memory has ________ Katherine ________ from performing for years.",
+    "answer": "held back",
+    "accepted": [
+      "held back"
     ],
-    "options": ["fit in", "run out", "backed off", "turned over"],
-    "answer": "fit in",
-    "explanation": "To “fit in” means feel accepted and comfortable as part of a group."
+    "explanation": "To hold someone back means prevent progress or confident action."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "detail",
-    "prompt": "Why is Katherine worried when she receives the puppy?",
+    "target": "motive",
+    "prompt": "Why does Anne encourage Katherine to read at the concert",
     "options": [
-      "She believes Mrs. Dennis will not allow her to keep a dog.",
-      "She is afraid of all animals.",
-      "She thinks the puppy belongs to Davy.",
-      "She plans to leave Prince Edward Island that morning."
+      "She wants Katherine to test an old fear against present evidence instead of remaining ruled by one painful memory",
+      "She needs someone to fill time in the program at any cost",
+      "She wants to embarrass Katherine publicly",
+      "Gilbert has asked Anne to prove Katherine is talented"
     ],
-    "answer": "She believes Mrs. Dennis will not allow her to keep a dog.",
-    "explanation": "Anne has already spoken to Mrs. Dennis and arranged for Katherine to keep the puppy."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "take by surprise",
-    "prompt": "Complete the sentence: The number of Christmas gifts ________ Katherine ________ surprise.",
-    "answer": "takes by",
-    "accepted": ["takes by", "took by"],
-    "explanation": "The full expression is “take someone by surprise.”"
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "give another try",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {"speaker": "Katherine", "text": "I stopped performing after one embarrassing evening."},
-      {"speaker": "Anne", "text": "Then perhaps you should ________."}
-    ],
-    "options": ["give it another try", "put it away", "break it down", "turn it in"],
-    "answer": "give it another try",
-    "explanation": "The phrase means attempt something again after a previous disappointing experience."
+    "answer": "She wants Katherine to test an old fear against present evidence instead of remaining ruled by one painful memory",
+    "explanation": "Anne sees the performance as a chance to challenge a fear built on an uncertain interpretation."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "sequence",
-    "prompt": "Which event happens last?",
+    "target": "paraphrase",
+    "prompt": "Which sentence best paraphrases the idea that Katherine has used neglect as armor",
     "options": [
-      "Marilla invites Katherine to return to Green Gables.",
-      "Katherine receives the puppy.",
-      "Anne and Katherine gather greenery for Christmas.",
-      "Katherine visits Diana’s baby."
+      "She has made herself look uncared for partly to protect herself from judgment and disappointment",
+      "She wears literal protective clothing",
+      "She has no interest in appearance for practical reasons only",
+      "She wants to copy Anne's style exactly"
     ],
-    "answer": "Marilla invites Katherine to return to Green Gables.",
-    "explanation": "Marilla’s invitation comes near the end of Katherine’s holiday."
+    "answer": "She has made herself look uncared for partly to protect herself from judgment and disappointment",
+    "explanation": "The metaphor suggests self-neglect has become a defensive strategy."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "natural_response",
+    "prompt": "Katherine says, 'What if they laugh at me again?' What is the most natural response from Anne",
+    "options": [
+      "Then we deal with what actually happens, but one old memory does not have to decide every future performance.",
+      "They definitely will, so you should cancel.",
+      "You are being ridiculous and dramatic.",
+      "Just pretend you cannot hear the audience."
+    ],
+    "answer": "Then we deal with what actually happens, but one old memory does not have to decide every future performance.",
+    "explanation": "The response acknowledges risk while encouraging a more balanced interpretation."
   }
 ]
 ```

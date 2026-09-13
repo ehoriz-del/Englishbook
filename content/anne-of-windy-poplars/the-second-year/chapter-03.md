@@ -2,98 +2,74 @@
 
 ## Story Summary
 
-Several weeks later, Lewis Allen finally develops the photographs he took on the Dawlish Road. He brings them to Windy Poplars one Sunday evening. When Anne sees the picture of Teddy Armstrong and Carlo, she is delighted by how clearly Teddy’s face has come out.
+Nearly three weeks passed before Lewis found time to develop the photographs from the Dawlish Road. When he finally arrived at Windy Poplars with the prints, the household gathered to inspect them as if he had brought news from another country. The lonely farmhouse had come out well, and Lewis thought it might have a chance in the competition. Yet the picture that held everyone's attention was Teddy Armstrong with Carlo. The boy looked straight at the camera, alive with pride and pleasure, one arm around the dog's neck.
 
-As Anne studies the photograph, she suddenly notices that Teddy looks remarkably like Lewis. The shape of his forehead, his eyes, and his expression all seem familiar. Rebecca Dew also notices the resemblance. Lewis laughs at first, but the similarity is strong enough to make everyone curious.
+Anne felt the same affection she had felt on the roadside, but another thought disturbed her. There was something familiar in Teddy's face. Rebecca Dew noticed it almost at once and said what Anne had been trying to identify. The boy looked like Lewis. The resemblance became more striking the longer they studied it. Lewis laughed at first, then remembered an old photograph of himself at roughly Teddy's age. When the two pictures were placed side by side, the laughter faded. The likeness was too strong to dismiss easily.
 
-Lewis remembers that he has an old photograph of himself taken when he was about Teddy’s age. When he compares the two pictures, the resemblance is even more obvious. Lewis has always believed that he has no close relatives on Prince Edward Island, but Anne remembers that James Armstrong originally came from New Brunswick, where Lewis’s family also lived.
+Lewis had grown up knowing very little about his extended family. There were names he had heard and relatives who had vanished into distance or silence, but no close network of people he could call his own. Anne wondered whether the resemblance might point to some forgotten connection. Lewis was curious too. Since Teddy was waiting for his photograph, they decided to deliver it in person rather than trust the post.
 
-Lewis decides not to mail Teddy’s photograph immediately. Instead, he plans to take it to the farmhouse himself so he can ask James about the possible family connection. Anne reminds him that Teddy is waiting for something to arrive by mail, and Lewis promises to send the boy another small surprise later.
+For the journey they borrowed an elderly white mare and a buggy that looked nearly as old. Rebecca Dew made several unkind observations about both until Lewis answered her with enough cheerful teasing to restore the balance. She sent them off with doughnuts and a warning not to be late. The day itself was clear and bright. Autumn had deepened, maples burned along the roadsides, and the blue hills seemed close enough to touch. Anne enjoyed the absurd vehicle because Lewis's company made discomfort easy to ignore.
 
-The next Saturday Lewis comes for Anne in a very old buggy drawn by an equally old horse. Rebecca Dew makes jokes about the appearance of the vehicle, but Lewis is not embarrassed. Anne likes that quality in him. He does not care whether other people think his clothes, work, or transportation look impressive.
+Before they reached the Armstrong farm, however, the color went out of the afternoon. Someone they met on the road told them Teddy was dead. For several moments Anne could not understand the sentence. The child had been healthy and laughing when they last saw him. She remembered the turnover, his excitement about school, and the secret plan to surprise his father with a photograph. It seemed impossible that so much eager life could have disappeared in a few weeks.
 
-Anne and Lewis drive toward the Armstrong farm. The autumn day is pleasant, and Anne talks about Lewis’s future. She is convinced that he will succeed because he is willing to work hard.
+Carlo met them near the house with none of his former excitement, subdued and restless as they approached the blue door, which stood open this time. James Armstrong sat inside with his head bowed, and grief had altered him so completely that Anne scarcely recognized the man who had once dismissed them. His face was hollow, his beard neglected, and the aggressive reserve was gone. When he saw Anne and Lewis, he remembered them. Teddy, he said, had talked about their visit afterward. James apologized for his rudeness with the dull humility of someone for whom pride had lost its importance.
 
-On the way, however, they hear devastating news. Teddy Armstrong has died.
+Lewis placed the photograph in James's hands, and the man's composure gave way as he looked down at the only picture he now possessed of Teddy. Worse, he confessed that faces would not remain clearly in his memory. Since the boy's death he had been terrified that even Teddy's features might fade. The photograph gave him something grief had already begun to steal. Anne and Lewis stayed quiet while he cried. There was nothing useful to say, and they respected the sorrow enough not to cover it with easy comfort.
 
-Anne can hardly believe it. The little boy had seemed so healthy and alive when they met him only a short time earlier. The photograph they are carrying suddenly has a completely different meaning.
+When James could speak again, he told them about Teddy's final illness. The boy had worried less about dying than about leaving his father alone. James had often spoken bitterly about heaven, but when Teddy asked whether he would see his mother again, James could not destroy the hope that made death less frightening. He had assured him that his mother would be waiting. Before the end, Teddy asked one more thing. He wanted his father to stop shutting everyone out and try to be kinder to people after he was gone. James had promised, though he admitted he had no idea how to begin.
 
-When they reach the farmhouse, Carlo is lying outside. The dog comes toward them sadly. Inside, James Armstrong looks exhausted and broken. His beard has grown, his face is hollow, and the hard expression Anne remembers has disappeared beneath grief.
+The photograph beside the old picture of Lewis opened an unexpected door. James stared at the younger image and began asking questions about Lewis's mother, birthplace, and family. The scattered facts suddenly fitted together when they realized that Lewis's mother had been James Armstrong's half sister, turning the resemblance from a mystery into a family connection. Years of separation had erased the relationship from daily life, but not from blood. Teddy had been Lewis's cousin, and James was his uncle.
 
-Lewis explains that he has brought Teddy’s photograph. When James sees it, he loses control and begins to cry. Anne and Lewis wait quietly.
+The discovery did not soften James's grief into anything simple. Teddy was still gone, and no new relationship could replace him. Yet the farmhouse no longer felt entirely sealed. James had lost the person around whom his life had been built, but he had unexpectedly found family at the very moment when loneliness seemed absolute. Lewis, who had believed himself nearly alone in the world, discovered an uncle who needed him.
 
-James tells them that he has no other photograph of Teddy. He also has difficulty remembering faces clearly in his mind. Since the child’s death, he has been terrified that he will forget exactly what Teddy looked like. The photograph gives him something he desperately needs.
+The return journey was far quieter than the outward one. Anne and Lewis had set out expecting to deliver a pleasant surprise and had instead carried Teddy's photograph into a house of grief. Lewis had also discovered an uncle he had never known. Neither of them tried to turn the day into something cheerful. They left the photograph with James and gave him time to absorb both the loss it represented and the unexpected family connection it had revealed.
 
-After a while James begins talking about his son. Teddy became ill and knew he was dying. During the illness he asked again about heaven. James had previously told Teddy that he did not believe in it, but when the boy was dying, James told him that heaven did exist.
-
-Teddy accepted the idea peacefully. He believed his mother would be there, and he trusted that God would take care of him. His main worry was leaving his father alone.
-
-Before he died, Teddy asked James to promise that he would try to behave differently toward people and would not allow himself to become completely bitter. James now feels bound by that promise.
-
-Lewis then shows James the childhood photograph of himself. James studies it carefully and asks questions about Lewis’s family. As they compare names and dates, James suddenly realizes that Lewis’s mother was his half-sister.
-
-The discovery means that Lewis is James’s nephew and Teddy was Lewis’s cousin. Lewis is astonished. He had thought he had no close family nearby.
-
-The mood in the farmhouse gradually changes. James begins talking more openly. Anne and Lewis discover that he is intelligent and well read. He had simply cut himself off from people after his wife’s death and then centered his whole life on Teddy.
-
-Anne understands why Teddy defended his father so strongly. The boy knew a gentle side of James that strangers rarely saw.
-
-Lewis returns to visit James again. During that later visit, James asks Lewis to come and live with him. James says they are both alone now and could help each other. He also wants to keep the promise he made to Teddy and become less isolated.
-
-The arrangement would help Lewis continue his education. James has the means to support him, and Lewis can provide the companionship James badly needs. Lewis accepts.
-
-The photograph Anne suggested only as a small kindness has now done several things at once. It gives James the only picture he has of Teddy, it reveals the family resemblance between Teddy and Lewis, and it brings Lewis and James together as uncle and nephew.
-
-Anne is deeply moved by the outcome. She remembers the afternoon when Teddy happily posed with Carlo and looked forward to getting his picture in the mail. None of them could have guessed what would happen only a few weeks later.
+A week later Lewis returned to the farm by himself. James asked him to come and live there. The arrangement would allow Lewis to continue his education with less financial strain, while his presence would give James companionship and practical help. Lewis accepted. Anne thought of the small decision that had started everything. She had suggested a photograph because she did not want to repay Teddy's kindness with money. The picture meant for a child's delight had become his father's most precious possession, revealed a lost family connection, and given two lonely men a way forward without pretending that grief could be undone.
 
 ## Vocabulary & Nuance
 
-- **resemblance** — a noticeable similarity between people or things.
-- **antiquated** — very old-fashioned or outdated.
-- **haggard** — looking exhausted, ill, or worn because of suffering.
-- **repulse** — a cold or hostile rejection.
-- **mute sympathy** — silent understanding and compassion.
-- **break down** — lose emotional control and begin crying or showing distress.
-- **make something up to someone** — compensate someone for a disappointment.
-- **lose track of** — stop knowing where someone is or what has happened to them.
-- **take someone in** — accept someone into a home or family situation.
-- **keep a promise** — do what you said you would do.
+- **subdued** — quieter and less energetic than usual because of emotion or circumstances.
+- **extended family** — relatives beyond parents, children, and siblings.
+- **humility** — a lack of pride or self-importance.
+- **reserve** — a habit of keeping feelings private.
+- **absolute** — complete and without exception.
+- **fit together** — form a clear explanation when combined.
+- **break down** — lose emotional control because of strong feeling.
+- **shut someone out** — refuse emotional contact or involvement.
+- **reach out** — make an effort to connect with someone.
+- **take someone in** — allow someone to live in your home or care.
 
-## Conversation 1 — When a Small Gift Becomes Important
+## Conversation 1 — The Photograph
 
-Mina: They thought they were giving Teddy a simple photograph.
-Jon: And after he died, it became almost priceless to his father.
-Mina: It’s strange how the meaning of an object can change.
-Jon: Context changes everything. Something ordinary can **take on** enormous value.
-Mina: Especially when it helps someone hold on to a person they lost.
-Jon: Exactly. The photograph gave James something memory alone could not.
+James: That is Teddy. I was afraid I would stop seeing his face clearly in my mind.
+Anne: Lewis wanted you to have the picture as soon as possible.
+James: I did not expect to **break down** like this.
+Anne: You do not have to apologize for grieving.
+James: He asked me to stop **shutting people out**. I suppose I have to start somewhere.
 
 ### Phrasal verbs & expressions
 
-- take on — acquire a new quality or importance.
-- hold on to — keep something emotionally or physically.
 - break down — lose emotional control.
-- bring back — cause a memory or feeling to return.
-- mean a great deal to — be very important to someone.
+- shut people out — refuse emotional closeness or contact.
+- start somewhere — begin even when the full solution is unclear.
+- hold on to — keep something because it matters.
+- open up — begin to speak more honestly about feelings.
 
-## Conversation 2 — Discovering Family
+## Conversation 2 — Lewis Finds Family
 
-Lewis: I grew up believing I had no family left.
-Anne: And now you’ve discovered an uncle.
-Lewis: It feels almost unreal.
-Anne: Sometimes people **lose track of** each other for years.
-Lewis: I never imagined Teddy and I could be related.
-Anne: The resemblance was the first clue.
-Lewis: And now Uncle James wants me to live with him.
-Anne: That could change both your lives.
+James: Tell me your mother’s name again.
+Lewis: Margaret Allen. Why?
+James: Because the pieces are starting to **fit together**.
+Lewis: Are you saying we are related?
+James: Your mother was my half sister. You are my nephew.
 
 ### Phrasal verbs & expressions
 
-- lose track of — stop knowing someone’s whereabouts or situation.
-- find out — discover information.
-- take someone in — welcome someone into your home.
-- turn out — prove to be true or develop in a particular way.
-- fill a gap — provide something that has been missing.
+- fit together — combine to form a clear explanation.
+- turn out — prove to be in the end.
+- trace back — follow a history to an earlier source.
+- come across — encounter or discover unexpectedly.
+- take in — fully understand surprising information.
 
 ## Practice
 
@@ -102,102 +78,112 @@ Anne: That could change both your lives.
   {
     "type": "choice",
     "instant": true,
-    "target": "resemblance",
-    "prompt": "What first makes Anne suspect a connection between Teddy and Lewis?",
+    "target": "inference",
+    "prompt": "Why is the photograph especially precious to James",
     "options": [
-      "Their strong physical resemblance in the photographs",
-      "Their identical handwriting",
-      "Their shared interest in farming",
-      "A letter from James Armstrong"
+      "He fears his memory will no longer preserve Teddy’s face clearly",
+      "He wants to enter it in Lewis’s contest",
+      "It proves Teddy attended school",
+      "It contains a message from Teddy’s mother"
     ],
-    "answer": "Their strong physical resemblance in the photographs",
-    "explanation": "Anne notices that Teddy’s eyes, forehead, and expression strongly resemble Lewis’s."
+    "answer": "He fears his memory will no longer preserve Teddy’s face clearly",
+    "explanation": "The photograph protects a visual memory that grief makes him afraid of losing."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "haggard",
-    "prompt": "Why does James look haggard when Anne and Lewis return?",
+    "target": "nuance",
+    "prompt": "What is most significant about Lewis going to live with James",
     "options": [
-      "He has been devastated by Teddy’s death.",
-      "He has been traveling for several weeks.",
-      "He has lost his farm in a storm.",
-      "He has been studying for an examination."
+      "Both men gain family and companionship without pretending Teddy can be replaced",
+      "Lewis abandons school permanently",
+      "James gives up the farm immediately",
+      "Anne arranges for Carlo to live at Windy Poplars"
     ],
-    "answer": "He has been devastated by Teddy’s death.",
-    "explanation": "His grief has left him exhausted, unshaven, and physically changed."
+    "answer": "Both men gain family and companionship without pretending Teddy can be replaced",
+    "explanation": "The new relationship offers a future while respecting the reality of loss."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "resemblance",
+    "prompt": "What first makes Anne suspect a connection between Teddy and Lewis",
+    "options": [
+      "Teddy’s photograph strongly resembles an old picture of Lewis as a boy",
+      "Teddy had used the surname Allen",
+      "James had mentioned Queen’s College",
+      "Carlo immediately recognized Lewis"
+    ],
+    "answer": "Teddy’s photograph strongly resembles an old picture of Lewis as a boy",
+    "explanation": "The visual resemblance prompts the later family questions."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "subdued",
+    "prompt": "Why does Carlo’s behavior matter when Anne and Lewis return to the farm",
+    "options": [
+      "His subdued manner reflects the changed atmosphere after Teddy’s death",
+      "He attacks Lewis because he dislikes cameras",
+      "He leads them to a hidden photograph",
+      "He has been trained to fetch the mail"
+    ],
+    "answer": "His subdued manner reflects the changed atmosphere after Teddy’s death",
+    "explanation": "The dog helps signal the loss before James explains it."
   },
   {
     "type": "fill",
     "instant": false,
     "target": "break down",
-    "prompt": "Complete the sentence: When James sees Teddy’s photograph, he ________ ________ and begins to sob.",
+    "prompt": "Complete the sentence. James ________ ________ when he sees the only photograph he has of Teddy.",
     "answer": "breaks down",
-    "accepted": ["breaks down", "broke down"],
-    "explanation": "To “break down” can mean lose emotional control."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "lose track of",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {"speaker": "Lewis", "text": "Why didn’t anyone tell me I had relatives here?"},
-      {"speaker": "Anne", "text": "The families had ________ each other years ago."}
+    "accepted": [
+      "breaks down",
+      "broke down"
     ],
-    "options": ["lost track of", "run out of", "looked down on", "put up with"],
-    "answer": "lost track of",
-    "explanation": "“Lose track of someone” means no longer know where that person is or what has happened to them."
+    "explanation": "To break down can mean lose emotional control under strong feeling."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "inference",
-    "prompt": "Why is Teddy’s photograph especially valuable to James?",
+    "target": "motive",
+    "prompt": "Why do Anne and Lewis return to the Armstrong farm in person",
     "options": [
-      "James has no other picture and struggles to remember faces clearly.",
-      "The photograph proves Teddy won a prize.",
-      "James wants to sell it to a magazine.",
-      "It shows the farmhouse in the background."
+      "They want Teddy to receive the photograph and are also curious about the striking family resemblance",
+      "They want to demand payment for the picture",
+      "They are trying to sell Carlo",
+      "They need directions to another town"
     ],
-    "answer": "James has no other picture and struggles to remember faces clearly.",
-    "explanation": "The photograph allows him to see Teddy’s face again when memory alone cannot."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "take on",
-    "prompt": "Complete the sentence with two words: After Teddy’s death, the photograph ________ ________ a much deeper meaning.",
-    "answer": "takes on",
-    "accepted": ["takes on", "took on"],
-    "explanation": "“Take on” means acquire a new quality, role, or significance."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "turn out",
-    "prompt": "Choose the best expression.",
-    "dialogue": [
-      {"speaker": "Maya", "text": "Lewis thought he had no family on the Island."},
-      {"speaker": "Noah", "text": "But James ________ to be his uncle."}
-    ],
-    "options": ["turned out", "gave in", "brought up", "ran across"],
-    "answer": "turned out",
-    "explanation": "“Turn out to be” means prove to be something that was not known earlier."
+    "answer": "They want Teddy to receive the photograph and are also curious about the striking family resemblance",
+    "explanation": "Their visit combines a promise to Teddy with growing curiosity about the resemblance."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "theme",
-    "prompt": "What larger idea does the chapter emphasize?",
+    "target": "paraphrase",
+    "prompt": "Which sentence best paraphrases the idea that the photograph changes from a souvenir into something more important",
     "options": [
-      "A small act of kindness can create consequences far beyond what anyone expected.",
-      "Family resemblance is always obvious.",
-      "Grief should be kept private.",
-      "Photography is more important than human relationships."
+      "After Teddy's death, the picture becomes a precious record and a source of connection for the family",
+      "The photograph becomes more expensive because it wins a prize",
+      "Anne decides the picture is technically poor",
+      "Lewis plans to throw the photograph away"
     ],
-    "answer": "A small act of kindness can create consequences far beyond what anyone expected.",
-    "explanation": "The simple decision to photograph Teddy ultimately comforts James and reconnects a family."
+    "answer": "After Teddy's death, the picture becomes a precious record and a source of connection for the family",
+    "explanation": "Its emotional value changes completely after Teddy's death."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "natural_response",
+    "prompt": "James Armstrong is overwhelmed when he sees Teddy's photograph. What is the most natural thing for Lewis to say",
+    "options": [
+      "Take your time. I wanted you to have this, and you do not need to say anything right now.",
+      "You should cheer up because the picture came out well.",
+      "Can you tell me whether my camera settings were correct.",
+      "I need the photograph back before we leave."
+    ],
+    "answer": "Take your time. I wanted you to have this, and you do not need to say anything right now.",
+    "explanation": "The response gives James space and recognizes his grief without trying to fix it."
   }
 ]
 ```

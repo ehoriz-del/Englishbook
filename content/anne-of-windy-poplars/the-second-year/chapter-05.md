@@ -2,115 +2,74 @@
 
 ## Story Summary
 
-Anne and Katherine leave Summerside together for the Christmas holiday. Little Elizabeth sees Anne leaving from The Evergreens and feels sad, although Anne does not know the child is watching. Elizabeth quietly hopes Anne will have a happy Christmas and come safely back to Summerside.
+On the morning Anne left Summerside for Christmas, Little Elizabeth watched from an upper window of The Evergreens. She did not run out or call after Anne because the rules of the house had trained her to contain even strong feelings. Instead, after the sleigh disappeared, she knelt and asked that Miss Shirley have a happy Christmas and return safely. Anne knew nothing of the prayer. She was already traveling toward Avonlea with Katherine Brooke beside her.
 
-During the journey Katherine is reserved. She has already warned Anne not to expect much conversation. Anne tells her that she does not mind silence and does not intend to force her to talk.
+Katherine had warned Anne not to expect conversation during the journey. Anne accepted the condition and filled the silence for herself with the winter landscape. Fields lay pale beneath the sky, dark evergreens cut across the snow, and familiar names on the route made home feel nearer with every mile. Katherine watched too, though she offered few comments. Her silence was no longer quite hostile. It seemed more like a person conserving strength in a situation she had not yet decided to trust.
 
-At Bright River, Davy meets them with the sleigh. Anne is delighted to see the familiar countryside again. As they drive toward Green Gables, she points out the places she has known since girlhood. Katherine watches everything quietly.
+Davy met them at Bright River with a sleigh and enough robes to bury both passengers. The drive revived Anne's oldest memories of coming to Green Gables with Matthew, when every turn had seemed to lead toward a future she could scarcely believe in. Katherine noticed Anne's excitement but did not mock it. By the time the lights of Green Gables appeared through the trees, she had seen enough to understand that Anne's love of home was not sentimental performance. It was rooted in belonging.
 
-When they reach Green Gables, Marilla, Rachel Lynde, Davy, and Dora welcome Katherine as Anne’s guest. No one questions her or makes a fuss over her. Katherine is not used to such an easy family atmosphere.
+Inside, nobody examined Katherine as if she were an unusual guest. Marilla welcomed her in the same practical tone she used for people she had already decided to feed. Mrs. Rachel Lynde supplied conversation without waiting for anyone's permission. Davy and Dora accepted Katherine as part of the holiday arrangements because Anne had brought her. There was supper, movement in the kitchen, local news, laughter, and the kind of informal warmth Katherine had spent years watching from outside other people's lives.
 
-After supper Anne suggests that she and Katherine go snowshoeing. Katherine admits that she used to enjoy snowshoeing, so they set out through the winter night.
+After the meal, Anne suggested a snowshoe walk. Katherine had not worn snowshoes for years, but she agreed, and soon they were crossing fields silvered by moonlight. Lover's Lane lay quiet under snow, and the bare branches of the orchard cast long shadows. Anne did not keep pointing out every beautiful detail. She had learned that Katherine resisted feelings when she thought someone was trying to produce them in her.
 
-They walk through Lover’s Lane, across snowy fields, and through the quiet woods. At first they do not talk much. Katherine seems to relax simply because she is away from the school and the boarding house.
+They stopped near the old fence where Green Gables could be seen through the trees, its windows warm against the winter dark. Anne was looking toward the house when she heard Katherine begin to cry. The sound startled her more than anger would have. Katherine had seemed built of control, sarcasm, and resistance. Tears made the defenses suddenly visible for what they were.
 
-When they are returning toward Green Gables, they stop near an old fence and look toward the house. The lighted windows stand out against the snow and darkness.
+At first Katherine was almost furious with Anne for being happy. She said Anne possessed everything she herself had missed. Friendship seemed to come naturally to her. Beauty mattered to her because she had been allowed to enjoy it. Gilbert loved her. Green Gables waited for her. Even setbacks seemed to become stories Anne could tell later with laughter. Katherine admitted that she had resented her from the beginning, not only because Anne had been given the principal's position but because she appeared to move through a world made generous for her.
 
-Anne suddenly notices that Katherine is crying.
+Anne did not answer with reassurance. She told Katherine about the years before Green Gables, when she had been an orphan passed from one household to another and valued mainly for the work she could do. She knew what it was to be unwanted and to invent imaginary companions because real affection was scarce. Katherine listened in disbelief. The bright young woman she had envied had not been protected from suffering. She had built a different life after it.
 
-Katherine tells Anne that she feels trapped in a life she hates. She looks at Anne and sees someone who seems to have everything she lacks, including friends, beauty, confidence, love, and a future with Gilbert. Katherine believes Anne has always moved through a world that welcomed her.
+Once that misunderstanding broke, Katherine's own story came out in pieces that soon became a flood. Her parents had been deeply unhappy together, and their bitterness had filled the house. After they died, relatives took Katherine in but made sure she understood the cost of her presence. She wore her cousins' castoff clothes and remembered ridicule more easily than kindness. When an uncle finally agreed to pay for teacher training, he treated the money as a debt. Katherine accepted the condition and spent years repaying every expense she believed she owed him.
 
-She says that she has no real friends and believes that if she died, very few people would miss her.
+She had finally finished. For the first time she was financially free, yet freedom had arrived after deprivation had shaped nearly every habit. She knew she could be cruel with words. She knew pupils feared her and colleagues avoided her. She often entered social situations expecting rejection, spoke defensively, and then treated other people's discomfort as proof that she had been right. Knowing the pattern did not tell her how to escape it.
 
-Anne does not simply comfort her. She tells Katherine that some of her loneliness is connected with the way she treats people. Whenever anyone tries to be friendly, Katherine often responds with sarcasm or hostility.
+The deepest confession came last. Katherine hated teaching. She saw the years ahead as one long corridor of classrooms and boarding houses. What she truly wanted was to travel. In childhood, an old print had hung in her attic room, showing palms around a desert spring and camels disappearing into the distance. She had stared at it until the unknown world seemed more real than the life around her. That desire had survived every practical disappointment.
 
-Katherine admits that Anne is right.
-
-She then tells Anne that she disliked her from the beginning. Anne was younger, popular, attractive, and had been appointed principal of the school, a position Katherine had wanted. Katherine was jealous of Anne’s clothes, friendships, engagement to Gilbert, and especially her apparent ability to enjoy life.
-
-Anne tells Katherine that her own childhood was not easy. Before coming to Green Gables, Anne was an orphan who had been sent from one household to another. She often felt unwanted and lonely.
-
-Katherine is surprised. She had assumed Anne’s happiness came from having an easy life.
-
-After hearing Anne’s story, Katherine begins telling her own.
-
-Katherine says her parents did not want her. Their marriage was unhappy, and they frequently quarreled. Both died when she was seven.
-
-Afterward Katherine was taken in by relatives. She was continually reminded that she depended on them. She wore old clothes passed down from others and received little affection.
-
-Katherine was intelligent and wanted an education, but there was no money for university. An uncle agreed to pay for her teacher training at Queen’s on the condition that she repay every cent he spent on her, including earlier expenses.
-
-Katherine accepted the arrangement. She studied, earned her teaching license, and eventually became a teacher in Summerside.
-
-For years she has lived as cheaply as possible in order to repay her uncle. She has worn inexpensive clothes, stayed in unpleasant boarding houses, and denied herself almost everything she wanted. She has only recently finished paying the debt.
-
-Katherine says that the struggle has left her bitter. She knows that her pupils are afraid of her and that most adults avoid her. She also knows that she often speaks sarcastically even when she does not need to.
-
-She tells Anne that she hates teaching and does not want to spend the rest of her life doing it.
-
-What Katherine really wants is to travel. She remembers a picture that hung in the attic room where she lived as a child. It showed a desert spring surrounded by palm trees, with camels in the distance. She has never forgotten it.
-
-She dreams of seeing the Southern Cross, the Taj Mahal, the ruins of Karnak, and other places far beyond Prince Edward Island. She wants to experience the world for herself instead of only reading about it.
-
-Anne tells Katherine that now that her debt is paid, her future does not have to be exactly like her past. Katherine is doubtful, but she listens.
-
-Anne tells her that they are going to be friends and that they will begin with ten good days at Green Gables.
-
-Katherine admits that Green Gables is the first place she has ever visited that feels like a real home. She says that perhaps she can learn to behave differently, although she is not sure how.
-
-She worries that she has told Anne too much and exposed feelings she normally hides. Anne assures her that she will not regret it.
-
-They return to Green Gables after the long winter walk. The cold air has brought color to Katherine’s face, and Anne notices that she looks younger and more attractive when she is relaxed.
-
-Katherine worries that she has told Anne too much. Anne reassures her, and they return to Green Gables after the long winter walk. Katherine looks more relaxed than she did when they left the house.
+Anne did not offer a grand solution under the moon. She told Katherine they would begin with something smaller. They would be friends, and Katherine would allow herself ten good days at Green Gables without deciding in advance that happiness was meant for other people. Katherine admitted, almost unwillingly, that the house already felt more like home than any place she had known. When they turned back, nothing in her past had changed. Yet for the first time she had told the truth to someone who did not use it against her, and that made the road to the lighted house feel different from the road they had taken out.
 
 ## Vocabulary & Nuance
 
-- **guarded** — careful not to reveal feelings or trust too quickly.
-- **vulnerable** — emotionally open to possible hurt.
-- **resentment** — lasting anger caused by feeling unfairly treated.
-- **castoff** — previously used and then given away by someone else.
-- **independent** — able to support yourself and make your own choices.
-- **open up** — begin to share private thoughts or feelings.
-- **break through** — overcome a barrier or defense.
-- **eat your heart out** — suffer deeply because of envy, longing, or disappointment.
-- **pull off a mask** — reveal a more genuine self that has been hidden.
-- **let someone in** — allow another person to know you emotionally.
+- **deprivation** — a serious lack of something needed for a healthy or satisfying life.
+- **defensive** — quick to protect oneself from criticism or hurt.
+- **resentment** — lasting anger caused by feeling badly or unfairly treated.
+- **belonging** — the feeling of being accepted and at home with others.
+- **disclose** — reveal private or previously hidden information.
+- **hold back** — stop yourself from expressing or doing something.
+- **open up** — begin to speak honestly about private feelings.
+- **let your guard down** — become less defensive and more emotionally open.
+- **grow out of** — gradually leave behind a habit or stage of life.
+- **find a way forward** — discover a practical or emotional path beyond a difficulty.
 
-## Conversation 1 — When Envy Distorts the Picture
+## Conversation 1 — Katherine Names Her Resentment
 
-Katherine: I thought your life had always been easy.
-Anne: Because you only saw the part of it that came after Green Gables.
-Katherine: I compared my worst memories with your happiest present.
-Anne: We often do that.
-Katherine: And I **ate my heart out** over things I thought you had never struggled for.
-Anne: Knowing someone’s whole story can change the comparison.
-
-### Phrasal verbs & expressions
-
-- eat your heart out — suffer because of envy or longing.
-- compare yourself with — judge yourself against another person.
-- find out — discover something previously unknown.
-- look back on — reflect on the past.
-- leave something out — omit part of a story or explanation.
-
-## Conversation 2 — Letting Someone In
-
-Anne: You don’t have to become a different person overnight.
-Katherine: I’m not sure I know how to be anything except defensive.
-Anne: Then start by noticing when you’re about to **shut someone out**.
-Katherine: That sounds easier than it is.
-Anne: Of course. But tonight you **let me in**.
-Katherine: And now I’m afraid I said too much.
-Anne: Or perhaps you finally said enough.
+Katherine: You make belonging look effortless.
+Anne: It was not always that way for me.
+Katherine: I have been **holding back** from everyone before they had a chance to reject me.
+Anne: That may protect you from disappointment, but it also keeps people out.
+Katherine: I am beginning to see that.
 
 ### Phrasal verbs & expressions
 
-- shut someone out — prevent emotional closeness.
-- let someone in — allow another person to know your real feelings.
-- open up — begin talking honestly.
-- break through — get past a barrier.
-- start over — begin again in a different way.
+- hold back — restrain yourself from acting or speaking.
+- keep someone out — prevent emotional closeness.
+- let your guard down — become less defensive.
+- open up — speak more honestly about private feelings.
+- come to see — gradually understand something.
+
+## Conversation 2 — What Katherine Really Wants
+
+Anne: If teaching makes you miserable, what would you choose if you had room to choose?
+Katherine: I would travel. I have wanted that for years.
+Anne: Then do not **write it off** as impossible before you explore your options.
+Katherine: I have spent most of my life doing exactly that.
+Anne: Maybe this is the time to find a way forward.
+
+### Phrasal verbs & expressions
+
+- write off — dismiss something as impossible or unimportant.
+- find a way forward — identify a path beyond a problem.
+- look into — investigate possibilities.
+- branch out — try new areas or activities.
+- hold on to — keep a hope, idea, or possession.
 
 ## Practice
 
@@ -119,102 +78,111 @@ Anne: Or perhaps you finally said enough.
   {
     "type": "choice",
     "instant": true,
-    "target": "guarded",
-    "prompt": "How does Katherine behave at the beginning of the trip to Green Gables?",
+    "target": "inference",
+    "prompt": "What does Katherine's decision not to mock Anne's excitement about Green Gables suggest",
     "options": [
-      "She remains emotionally guarded and warns Anne not to expect conversation.",
-      "She talks continuously about her childhood.",
-      "She immediately becomes cheerful and sociable.",
-      "She refuses to leave the train."
+      "She is beginning to understand that Anne's sense of belonging is genuine rather than childish sentiment",
+      "She has stopped noticing Anne completely",
+      "She wants to leave before arriving",
+      "She is pretending to like Avonlea only to impress Marilla"
     ],
-    "answer": "She remains emotionally guarded and warns Anne not to expect conversation.",
-    "explanation": "Katherine still protects herself by limiting conversation and emotional exposure."
+    "answer": "She is beginning to understand that Anne's sense of belonging is genuine rather than childish sentiment",
+    "explanation": "Katherine's restraint signals a shift from dismissal toward curiosity and trust."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "nuance",
+    "prompt": "Why does Anne avoid giving Katherine an immediate solution to her life",
+    "options": [
+      "Katherine first needs trust, honesty, and space before practical decisions can mean anything",
+      "Anne has no interest in Katherine’s future",
+      "Green Gables has a rule against career advice",
+      "Gilbert has asked Anne not to help Katherine"
+    ],
+    "answer": "Katherine first needs trust, honesty, and space before practical decisions can mean anything",
+    "explanation": "Anne responds to the emotional turning point before trying to organize Katherine’s future."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "belonging",
+    "prompt": "What surprises Katherine most about arriving at Green Gables",
+    "options": [
+      "She is included naturally without being required to earn everyone’s warmth first",
+      "Everyone ignores her until Christmas morning",
+      "Marilla asks her to pay for her meals",
+      "Anne introduces her as a school inspector"
+    ],
+    "answer": "She is included naturally without being required to earn everyone’s warmth first",
+    "explanation": "The ordinary welcome contrasts with Katherine’s expectation that acceptance must be earned."
   },
   {
     "type": "choice",
     "instant": true,
     "target": "resentment",
-    "prompt": "What has contributed most to Katherine’s resentment toward Anne?",
+    "prompt": "Why has Katherine resented Anne",
     "options": [
-      "She believed Anne had received naturally and easily many things Katherine had always lacked.",
-      "Anne borrowed money from Katherine.",
-      "Anne criticized Katherine’s teaching in public.",
-      "Gilbert refused to speak to Katherine."
+      "She assumes Anne has always possessed the love and opportunities Katherine lacked",
+      "Anne once borrowed money from her",
+      "Anne prevented her from attending Queen’s",
+      "Gilbert chose Anne as a teaching partner"
     ],
-    "answer": "She believed Anne had received naturally and easily many things Katherine had always lacked.",
-    "explanation": "Katherine envied Anne’s youth, friendships, position, confidence, and apparent happiness."
+    "answer": "She assumes Anne has always possessed the love and opportunities Katherine lacked",
+    "explanation": "Katherine’s jealousy comes from a mistaken picture of Anne’s past and present happiness."
   },
   {
     "type": "fill",
     "instant": false,
     "target": "open up",
-    "prompt": "Complete the sentence: During the winter walk, Katherine finally begins to ________ ________ about her childhood.",
+    "prompt": "Complete the sentence. During the moonlit walk, Katherine finally begins to ________ ________ about her childhood.",
     "answer": "open up",
-    "accepted": ["open up"],
-    "explanation": "“Open up” means begin sharing private thoughts or feelings honestly."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "let someone in",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {"speaker": "Katherine", "text": "I’ve never told anyone these things before."},
-      {"speaker": "Anne", "text": "Then tonight you finally ________ someone ________."}
+    "accepted": [
+      "open up"
     ],
-    "options": ["let / in", "turned / down", "ran / over", "put / off"],
-    "answer": "let / in",
-    "explanation": "To “let someone in” means allow that person emotional access to your private feelings."
+    "explanation": "To open up means speak more honestly about private thoughts or feelings."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "inference",
-    "prompt": "Why does Anne’s story about her own childhood matter to Katherine?",
+    "target": "motive",
+    "prompt": "Why does Katherine finally open up to Anne during the Avonlea visit",
     "options": [
-      "It breaks Katherine’s assumption that Anne has always lived an easy, protected life.",
-      "It proves Anne is older than Katherine.",
-      "It shows Anne wants to leave Green Gables.",
-      "It convinces Katherine to stop teaching immediately."
+      "The steady welcome at Green Gables makes her feel safe enough to risk honesty",
+      "Anne threatens to end their friendship",
+      "Katherine wants to impress Gilbert",
+      "Marilla asks her to give a formal speech"
     ],
-    "answer": "It breaks Katherine’s assumption that Anne has always lived an easy, protected life.",
-    "explanation": "Learning Anne’s history makes Katherine reconsider the envy and judgments she has built around an incomplete picture."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "break through",
-    "prompt": "Complete the sentence with two words: The quiet winter walk helps Anne ________ ________ Katherine’s emotional defenses.",
-    "answer": "break through",
-    "accepted": ["break through"],
-    "explanation": "“Break through” means overcome a barrier that has prevented progress or connection."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "start over",
-    "prompt": "Choose the best expression.",
-    "dialogue": [
-      {"speaker": "Katherine", "text": "I’ve been bitter for so long that I don’t know whether I can change."},
-      {"speaker": "Anne", "text": "You don’t have to erase the past to ________. You can begin differently now."}
-    ],
-    "options": ["start over", "give away", "run out", "take after"],
-    "answer": "start over",
-    "explanation": "“Start over” means begin again with a new approach."
+    "answer": "The steady welcome at Green Gables makes her feel safe enough to risk honesty",
+    "explanation": "Belonging and lack of judgment reduce Katherine's need to defend herself."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "theme",
-    "prompt": "What is the central turning point of Chapter 5?",
+    "target": "paraphrase",
+    "prompt": "Which sentence best paraphrases the idea that Katherine's silence is no longer hostile",
     "options": [
-      "Katherine trusts Anne enough to reveal the experiences behind her bitterness.",
-      "Katherine receives a puppy on Christmas morning.",
-      "Anne reorganizes the Dramatic Club.",
-      "Little Elizabeth moves to Green Gables."
+      "She is still quiet, but the quiet now suggests caution rather than rejection",
+      "She has decided never to speak again",
+      "She is secretly planning to leave at once",
+      "She is angry because nobody is entertaining her"
     ],
-    "answer": "Katherine trusts Anne enough to reveal the experiences behind her bitterness.",
-    "explanation": "The chapter’s main event is Katherine’s emotional confession and the beginning of real friendship. The Christmas gifts and puppy occur in Chapter 6."
+    "answer": "She is still quiet, but the quiet now suggests caution rather than rejection",
+    "explanation": "The emotional meaning of her silence changes as trust begins to grow."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "natural_response",
+    "prompt": "Katherine says she has spent years expecting people to dislike her. What is the most natural response from Anne",
+    "options": [
+      "That must have been exhausting. You do not have to tell me everything at once, but I am listening.",
+      "You are imagining it, so forget about it.",
+      "You should apologize to everyone you have ever met.",
+      "I knew there was something wrong with you."
+    ],
+    "answer": "That must have been exhausting. You do not have to tell me everything at once, but I am listening.",
+    "explanation": "The response validates the difficulty without taking control of Katherine's story."
   }
 ]
 ```

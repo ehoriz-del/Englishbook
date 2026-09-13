@@ -2,87 +2,74 @@
 
 ## Story Summary
 
-Anne and Lewis Allen set out along the Dawlish Road to collect subscriptions for the High School Dramatic Club. It is a beautiful autumn day, and Anne enjoys the winding country road almost as much as the purpose of the trip. Lewis brings his camera because he is still hoping to find a farmhouse good enough to photograph for the Country Homes contest.
+The Saturday of the Dramatic Club canvass opened with one of those clear autumn mornings that made Anne feel the road itself was an invitation. She and Lewis Allen left Summerside with a subscription list, Lewis's camera, and enough time to let the afternoon unfold without hurry. The Dawlish Road curved through fields and wooded hollows, revealing blue water at one turn and quiet farmhouses at the next. Anne loved the uncertainty of each bend. Lewis, more practical by nature, smiled at her enthusiasm and carried the camera as carefully as if it contained his entire winter wardrobe.
 
-They visit several homes and ask people to support the Dramatic Club. Between stops, Anne admires the countryside and Lewis looks for possible photographs. At one point they stop by a spring, and Lewis tells Anne about a time when he had once suffered badly from thirst while working on a railroad in the West. Anne is reminded that Lewis has already done difficult work in order to support himself.
+They soon developed a system for asking families to support the club. Rebecca Dew had offered confident advice before they left, much of it based on her theories about which kind of visitor could best persuade which kind of householder. Anne and Lewis followed only the parts that amused them. Some people gave readily, while others delayed, refused, or invented reasons to postpone a decision, so each gate brought a slightly different test of patience. The awkwardness of asking strangers for money became easier because they were together, and between houses they talked about school, work, and Lewis's hope of finding a farmhouse striking enough for the photography competition.
 
-A sudden shower forces them to take shelter in an abandoned blacksmith’s forge. They wait until the rain passes and then continue. After the storm, the landscape looks fresh and bright. Anne notices a small side road that seems interesting and wants to explore it. Lewis doubts that there will be anything useful there, but Anne insists.
+Around midday they stopped at a spring. Lewis folded a piece of birch bark into a rough cup and handed Anne water so cold that it seemed to wake every sense at once. The taste reminded him of a summer spent working in the West, where he had once become lost and badly thirsty. He described how ordinary water had seemed almost miraculous when he finally found it. His story was told without self-pity, which made it more impressive. Anne knew Lewis had already lived through difficulties that many of his classmates could scarcely imagine.
 
-The side road leads them to an old farmhouse. The house itself is gray and somewhat shabby, but the barns are large and prosperous-looking. Lewis thinks the farmhouse may make a good picture for the contest, so he takes a photograph before asking permission.
+A shower came up before they reached the next farm. They ran for an abandoned blacksmith's shop and watched the rain sweep over the red road. Anne rescued her hat first and worried about herself afterward. When the cloud passed, sunlight returned so quickly that the wet leaves flashed. A narrow lane, half hidden beyond the forge, caught her attention. Lewis doubted it would produce subscriptions, but Anne had never been good at walking past a mysterious road simply because it was inefficient.
 
-They go to the door and meet James Armstrong, a broad-shouldered, grizzled man with an unfriendly manner. Anne begins to explain why they are there and asks for a subscription to the Dramatic Club. James abruptly refuses and closes the door in their faces.
+The lane ended at a lonely farm. The house had a faded blue kitchen door and a severe, self-contained look, yet Lewis saw at once that it might photograph well. He used one of his remaining plates before they approached. Then Anne knocked, prepared to make another polite request for money.
 
-Anne and Lewis are surprised by his rudeness. They walk away and stop near a stone wall. Soon they hear movement in the bushes and see a little boy approaching with a large black Newfoundland dog.
+The man who opened the door was large, gray haired, and plainly uninterested in visitors. Anne had barely explained that they were canvassing for the school Dramatic Club when he shut the door in their faces. For several seconds Anne and Lewis stood in silence, too startled to react, until Lewis began to laugh and Anne, relieved by the release of tension, joined him. They had been refused before, but never with such efficient finality.
 
-The boy is Teddy Armstrong, James’s young son. Teddy has brown curls, a gentle face, worn clothes, and an open, friendly manner. He is carrying an apple turnover. He has misunderstood the situation and thinks Anne and Lewis came to the farmhouse because they were hungry. He offers the turnover to them.
+They had not gone far when a small boy came hurrying after them with a black dog almost as large as he was. The boy introduced himself as Teddy Armstrong. He had seen them leave and, misunderstanding the whole situation, had decided they must be hungry. In his hands was an apple turnover. Anne understood immediately that correcting him would spoil the gift. She and Lewis accepted it with proper seriousness and divided it between them while Teddy watched with satisfaction.
 
-Lewis is about to refuse, but Anne realizes that Teddy would be embarrassed if they rejected his gift. They accept it and share it. Teddy is pleased.
+Conversation came easily to the child. His mother was dead, and he lived with his father James Armstrong and the dog Carlo. Teddy spoke of James with such unquestioning loyalty that the rude door began to look different in Anne's memory. According to Teddy, his father cooked, cleaned, managed the farm, taught him lessons, and still found time to play when the day's work was done. Teddy was eager to grow bigger so he could help. He looked forward to attending school the following year, mostly because he wanted other boys to know.
 
-They begin talking with him. Teddy explains that his father does not like strangers very much but is good to him. Teddy’s mother is dead, and he lives alone with his father and Carlo, the dog. He does not yet attend school, though he expects to begin the next year. He says he would like to have other boys to play with.
+When the subject turned to his mother, Teddy's confidence became less certain. He had been told she was in heaven, but his father had said he did not believe in heaven. Teddy could not make the two ideas fit together, because he trusted James completely and still wanted to believe his mother existed somewhere beyond loss. Anne did not argue with a grieving man's beliefs through his son. She answered gently enough to leave the child room for hope without making promises she could not prove.
 
-Teddy talks about his father with complete loyalty. He explains that James does all the cooking and housework, runs the farm, teaches Teddy, and spends time with him when he can. Teddy seems to believe that if he grows older and helps with more of the work, his father may have time to be friendlier to other people.
+Anne wanted to thank Teddy for the turnover, but offering money would have changed the meaning of his kindness. Instead she asked whether he would like a photograph of himself. The boy's face brightened, and the idea became perfect when Lewis agreed Carlo could be included. Teddy sat with one arm around the dog's neck while Lewis used the last plate in the camera. They promised to send him a copy through the post. Teddy decided not to tell his father until the parcel arrived.
 
-The conversation turns to Teddy’s mother. Teddy has been told that she is in heaven, but he also says his father does not believe in heaven. Because Teddy trusts his father deeply, the subject confuses him. Anne is touched by the seriousness with which the little boy speaks.
+As they moved from house to house, the work became less like a school duty and more like a shared adventure. A refusal that might have embarrassed Anne alone became something she and Lewis could laugh about once they were back on the road. Their easy companionship mattered because neither had to pretend the afternoon was grander than it was. They could be disappointed, amused, tired, and curious without spoiling the day.
 
-Anne wants to thank Teddy for the turnover. Instead of giving him money, she asks whether he would like to have his photograph taken. Teddy is delighted, especially when Anne says Carlo can be in the picture too.
-
-Anne arranges Teddy and the dog together. Teddy puts an arm around Carlo, and Lewis uses the last photographic plate in his camera. Teddy is very excited about receiving the finished photograph through the mail and says he wants it to be a surprise for his father.
-
-Before Anne and Lewis leave, Anne kisses Teddy’s sunburned face. Teddy and Carlo stand together and wave as the visitors walk away.
-
-When Anne returns to Windy Poplars, she tells Aunt Kate, Aunt Chatty, and Rebecca Dew about James Armstrong and Teddy. Rebecca knows the family history. James’s wife died several years earlier. Before her death he had been quiet but not especially unfriendly. After losing her, he withdrew from other people and became much harder.
-
-James refuses to hire a housekeeper and has devoted his life to Teddy. The people at Windy Poplars agree that the little boy is probably too isolated, but they also know that James loves him intensely.
-
-Anne thinks again about the strange visit. She had first seen only an unpleasant man who shut the door in her face, but Teddy’s affection for his father makes that first impression less simple. Lewis, meanwhile, has a photograph that may help him in his contest and another photograph that will soon become very important to the Armstrong family.
+At the turn of the lane, Anne looked back. Teddy and Carlo were still standing together, the boy waving with all the energy in his small body. The image stayed with her long after she and Lewis reached the main road. Later Rebecca Dew explained that James Armstrong had withdrawn from almost everyone after his wife's death. The harsh man at the blue door and the devoted father Teddy described were not two different people after all. Anne went to bed thinking about how little a stranger could know from one closed door, and how much could be hidden behind it.
 
 ## Vocabulary & Nuance
 
-- **meandering** — following a winding, indirect course.
-- **picturesque** — visually attractive in a charming or old-fashioned way.
-- **premonition** — a strong feeling that something is going to happen.
-- **tactless** — likely to offend or embarrass because of poor social judgment.
-- **refinement** — qualities of culture, good manners, or sensitivity.
-- **off the beaten track** — away from commonly traveled or familiar places.
-- **take someone aback** — surprise or shock someone.
-- **laugh something off** — treat something unpleasant as less serious by joking.
-- **take the hint** — understand an indirect suggestion.
-- **look back** — turn to see something behind you; also remember the past.
+- **self-contained** — not depending on others and often emotionally private.
+- **unquestioning** — accepting something completely without doubt.
+- **misinterpret** — understand something in the wrong way.
+- **self-pity** — sadness focused on one’s own difficulties.
+- **finality** — the quality of making something seem completely finished.
+- **turn up unexpectedly** — appear or develop unexpectedly.
+- **make a dash for** — move quickly toward a place or goal.
+- **pass by without stopping** — continue beyond something without stopping.
+- **make sense of** — understand something confusing.
+- **look back on** — remember and reconsider a past event.
 
-## Conversation 1 — Accepting a Child’s Gift
+## Conversation 1 — After the Door Slams
 
-Lewis: I almost told Teddy we didn’t need the food.
-Anne: I know. But that would have embarrassed him.
-Lewis: You think we were right to accept it?
-Anne: Absolutely. Sometimes accepting a gift is how you respect the person giving it.
-Lewis: I suppose I was thinking about what was practical.
-Anne: And I was thinking about what his kindness meant.
-Lewis: Good thing I **took the hint** when you nudged me.
+Anne: Well, that was efficient.
+Lewis: He did not exactly **warm to** the Dramatic Club.
+Anne: I barely got the words out before he shut us down.
+Lewis: At least we do not have to **follow up** with him next week.
+Anne: You always manage to find the practical side.
 
 ### Phrasal verbs & expressions
 
-- take the hint — understand an indirect message.
-- turn something down — refuse an offer.
-- give something back — return something.
-- reach out to — make a friendly or supportive effort toward someone.
-- warm to someone — gradually begin to like or trust someone.
+- warm to — begin to like or accept someone or something.
+- shut someone down — stop someone from continuing or dismiss what they are saying.
+- get the words out — manage to say something, often with difficulty.
+- follow up — contact someone again or continue an earlier action.
+- move on — continue to the next thing.
 
-## Conversation 2 — Looking Beyond First Impressions
+## Conversation 2 — Talking with Teddy
 
-Maya: If someone slammed a door in my face, I’d assume he was simply rude.
-Jon: That was Anne’s first reaction too.
-Maya: But Teddy changed the picture.
-Jon: Exactly. He gave them enough information to **see past** his father’s behavior.
-Maya: Grief doesn’t excuse everything, but it can explain why someone **shuts people out**.
-Jon: And understanding the reason can change how you respond.
+Teddy: Pa says we do fine on our own.
+Anne: It sounds as though you two **look out for** each other.
+Teddy: I will help more when I grow up.
+Anne: You already seem to **pitch in** where you can.
+Teddy: Carlo does too, though he is better at eating than working.
 
 ### Phrasal verbs & expressions
 
-- see past — look beyond an obvious surface impression.
-- shut people out — prevent others from becoming emotionally close.
-- open up — become more willing to communicate.
-- come across as — give a particular impression.
-- get over — recover emotionally from a difficult event.
+- stand by — continue to support someone, especially in difficulty.
+- pitch in — help with shared work.
+- grow into — gradually develop into a particular role or kind of person.
+- see eye to eye — share the same view or understanding.
+- count on — depend on someone with confidence.
 
 ## Practice
 
@@ -91,102 +78,121 @@ Jon: And understanding the reason can change how you respond.
   {
     "type": "choice",
     "instant": true,
-    "target": "meandering",
-    "prompt": "Why does Anne enjoy the Dawlish Road?",
-    "options": [
-      "Its bends make her feel that surprises may be waiting ahead.",
-      "It is the shortest road in the county.",
-      "It has no houses at all.",
-      "It leads directly to Green Gables."
-    ],
-    "answer": "Its bends make her feel that surprises may be waiting ahead.",
-    "explanation": "Anne loves winding roads because they encourage curiosity and imagination."
-  },
-  {
-    "type": "choice",
-    "instant": true,
-    "target": "take aback",
-    "prompt": "What takes Anne and Lewis aback at the farmhouse?",
-    "options": [
-      "James Armstrong abruptly shuts the door on them.",
-      "Teddy refuses to speak to them.",
-      "The farmhouse is brand new.",
-      "A storm destroys Lewis’s camera."
-    ],
-    "answer": "James Armstrong abruptly shuts the door on them.",
-    "explanation": "To be “taken aback” means to be surprised or shocked."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "off the beaten track",
-    "prompt": "Complete the expression: Anne loves exploring places that are ________ the beaten ________.",
-    "answer": "off track",
-    "accepted": ["off the beaten track", "off beaten track"],
-    "explanation": "“Off the beaten track” means away from commonly traveled or familiar places."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "take the hint",
-    "prompt": "Choose the best expression.",
-    "dialogue": [
-      {"speaker": "Lewis", "text": "I was going to refuse Teddy’s turnover."},
-      {"speaker": "Anne", "text": "I’m glad you ________ when I nudged you."}
-    ],
-    "options": ["took the hint", "broke down", "gave out", "turned up"],
-    "answer": "took the hint",
-    "explanation": "Lewis understands Anne’s indirect signal that refusing would hurt Teddy’s feelings."
-  },
-  {
-    "type": "choice",
-    "instant": true,
     "target": "inference",
-    "prompt": "What does Teddy’s defense of his father reveal about him?",
+    "prompt": "Why does Anne accept Teddy’s turnover instead of explaining the misunderstanding",
     "options": [
-      "He is deeply loyal and interprets his father’s faults generously.",
-      "He is afraid to speak honestly at all.",
-      "He dislikes living with his father.",
-      "He has never noticed that his father avoids people."
+      "She realizes refusing it would hurt his pride and generosity",
+      "She is extremely hungry and has no other food",
+      "She wants to make James Armstrong angry",
+      "Lewis tells her the club requires food donations"
     ],
-    "answer": "He is deeply loyal and interprets his father’s faults generously.",
-    "explanation": "Teddy explains his father’s behavior with affection rather than resentment."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "shut out",
-    "prompt": "Complete the sentence: After his wife died, James Armstrong began to ________ other people ________.",
-    "answer": "shut out",
-    "accepted": ["shut out"],
-    "explanation": "“Shut people out” means keep them emotionally or socially at a distance."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "come across as",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {"speaker": "Mina", "text": "James seems extremely rude when they first meet him."},
-      {"speaker": "Alex", "text": "Yes, he ________ hostile even though grief is part of the reason."}
-    ],
-    "options": ["comes across as", "runs out of", "looks up to", "gets around to"],
-    "answer": "comes across as",
-    "explanation": "“Come across as” means give a particular impression."
+    "answer": "She realizes refusing it would hurt his pride and generosity",
+    "explanation": "Anne protects the meaning of Teddy’s gift rather than insisting on literal accuracy."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "theme",
-    "prompt": "What idea is most important in this chapter?",
+    "target": "nuance",
+    "prompt": "What changes Anne’s first impression of James Armstrong",
     "options": [
-      "A first impression may hide grief, loyalty, and kindness that are not immediately visible.",
-      "Photography always causes trouble.",
-      "Children understand adults perfectly.",
-      "Anne should stop exploring unfamiliar roads."
+      "Teddy’s loving description reveals a private side that strangers do not see",
+      "James sends the club a large donation",
+      "Rebecca tells Anne he is secretly wealthy",
+      "Lewis discovers he is the school inspector"
     ],
-    "answer": "A first impression may hide grief, loyalty, and kindness that are not immediately visible.",
-    "explanation": "The contrast between James and Teddy pushes Anne to look beyond the surface."
+    "answer": "Teddy’s loving description reveals a private side that strangers do not see",
+    "explanation": "The boy’s perspective complicates the harsh impression created at the door."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "self-pity",
+    "prompt": "What impresses Anne about Lewis’s story of being lost and thirsty",
+    "options": [
+      "He describes a hard experience without turning it into self-pity",
+      "He claims the experience made him famous",
+      "He refuses to admit he was frightened",
+      "He says he never needed water"
+    ],
+    "answer": "He describes a hard experience without turning it into self-pity",
+    "explanation": "His calm account shows resilience rather than a desire for sympathy."
+  },
+  {
+    "type": "fill",
+    "instant": false,
+    "target": "make sense of",
+    "prompt": "Complete the sentence. After Mr. Armstrong shuts the door, Anne tries to ________ ________ ________ the sharp difference between his manner and Teddy’s warm description of him.",
+    "answer": "make sense of",
+    "accepted": [
+      "make sense of"
+    ],
+    "explanation": "To make sense of something means to understand something that initially seems confusing or contradictory."
+  },
+  {
+    "type": "dialogue",
+    "instant": true,
+    "target": "shut down",
+    "prompt": "Choose the most natural expression.",
+    "dialogue": [
+      {
+        "speaker": "Lewis",
+        "text": "Did you manage to explain what the club needed"
+      },
+      {
+        "speaker": "Anne",
+        "text": "Not really. Mr. Armstrong ________ me ________ almost immediately."
+      }
+    ],
+    "options": [
+      "shut / down",
+      "took / after",
+      "ran / into",
+      "brought / around"
+    ],
+    "answer": "shut / down",
+    "explanation": "To shut someone down means stop or dismiss what they are saying."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "motive",
+    "prompt": "Why does Lewis value the farmhouse photograph competition so strongly",
+    "options": [
+      "The prize could help him buy clothing he genuinely needs while he continues school",
+      "He wants to embarrass the Armstrong family",
+      "He plans to leave school and become famous immediately",
+      "Anne has ordered him to enter"
+    ],
+    "answer": "The prize could help him buy clothing he genuinely needs while he continues school",
+    "explanation": "The competition connects his interest in photography with a practical financial need."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "paraphrase",
+    "prompt": "Which sentence best paraphrases the idea that each bend in the road feels like an invitation to Anne",
+    "options": [
+      "Anne enjoys not knowing what the road will reveal next",
+      "Anne wants the road to become shorter",
+      "Anne is worried that they are lost",
+      "Anne dislikes visiting unfamiliar houses"
+    ],
+    "answer": "Anne enjoys not knowing what the road will reveal next",
+    "explanation": "The phrase expresses Anne's pleasure in discovery and uncertainty."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "natural_response",
+    "prompt": "After a householder rudely refuses to help the club, Lewis says, 'Well, that went badly.' What is the most natural response",
+    "options": [
+      "It did, but we can shake it off and try the next house.",
+      "You should never speak to anyone again.",
+      "That proves the whole trip is a failure.",
+      "We need to argue with him until he changes his mind."
+    ],
+    "answer": "It did, but we can shake it off and try the next house.",
+    "explanation": "A natural response acknowledges the setback and moves on without overreacting."
   }
 ]
 ```

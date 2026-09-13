@@ -2,81 +2,72 @@
 
 ## Story Summary
 
-Anne returns to Summerside for her second year as principal of Summerside High School after spending two happy summer months with Gilbert. She is sorry that the summer is over, but coming back to Windy Poplars now feels very different from arriving there for the first time. The house is familiar, her tower room feels like her own, and Aunt Kate, Aunt Chatty, and Rebecca Dew are genuinely glad to see her.
+When Anne returned to Summerside in September, the ache of leaving Green Gables had not quite faded. The summer with Gilbert had passed with the unfair speed of all happy seasons, and two more years still stood between them and the life they hoped to build together. Yet the sight of Windy Poplars softened the loneliness almost at once. The white house waited behind its poplars, Dusty Miller occupied the kitchen window as if he had never moved, and Rebecca Dew greeted Anne with the plain admission that it was good to have her back. Even the tower room, with its high bed and familiar chair, seemed to receive her like an old friend.
 
-Little Elizabeth is especially happy when Anne returns. They meet at the green gate, and Elizabeth tells Anne that she had been afraid Anne might somehow reach “Tomorrow” without her. “Tomorrow” is still Elizabeth’s name for the wonderful future she imagines for herself. Anne asks how Elizabeth spent the summer, and the child says she spent much of it thinking about all the lovely things that might happen someday.
+Little Elizabeth appeared at the green gate before Anne had been home long. Their reunion was so delighted that Anne forgot, for a few minutes, the restraint of The Evergreens across the wall. Elizabeth had spent the summer thinking about Tomorrow, the private country where she placed everything beautiful that real life withheld. She confessed that she had worried Anne might reach it first. Anne did not laugh. Instead, she took the child upstairs, read with her, and helped add an elephant park to their imaginary map. Elizabeth's serious interest in elephants made the idea seem entirely reasonable while they were together.
 
-Anne and Elizabeth go up to the tower room together. Elizabeth is interested in elephants, so they read a story about them and add an elephant park to the imaginary map they made the previous year. Anne is amused by how seriously Elizabeth treats the idea, but she is happy to share the child’s imaginative world.
+School felt different too. The hostility of the previous year had largely disappeared, and Anne no longer entered the building with the sense that half the town was waiting for her to fail. Her pupils welcomed her, Jen Pringle asked for help with tin halos for a Sunday school concert, and the ordinary work of teaching settled around Anne with surprising comfort. Katherine Brooke remained the exception. She was capable and intelligent, yet as distant as ever, and her dry comments could chill a room before anyone quite knew what had happened. Anne sensed loneliness behind the sharpness, but Katherine gave her no easy way to reach it.
 
-School also begins more smoothly than it did the year before. Anne’s pupils are pleased to see her again, and Jen Pringle, who once represented the Pringle family’s opposition to Anne, now behaves like a friend. Jen even asks Anne to help make tin halos for a Sunday-school concert. Anne is struck by how completely their relationship has changed.
+The curriculum brought Canadian history, and Anne prepared a short talk on the War of 1812 with the calm certainty that such conflicts belonged safely to the past. She read about battles and invasions as events that could now be studied from a peaceful distance. Her own concerns were much smaller. The Dramatic Club needed money, and the students planned a subscription campaign among families connected with the school. Anne was assigned the Dawlish Road district with Lewis Allen, one of the students she admired most.
 
-This year the school curriculum includes Canadian history, and Anne prepares material about the War of 1812. She is also helping reorganize the High School Dramatic Club. The club needs money, so Anne and several students plan to visit local families and ask for subscriptions.
+Lewis had spent the summer working on a farm and had returned stronger, though still thinner than Anne liked. He earned his board by waiting on tables and doing housework, then studied after the work was done. His ambition was to finish High School and somehow manage a year at Queen's. He complained so little that his hardships could easily have gone unnoticed, but Anne noticed them. Lewis also carried a camera and hoped to enter a magazine competition for the best photograph of an attractive farmhouse. The prize was twenty five dollars, enough to buy the suit and overcoat he badly needed.
 
-Anne is paired with Lewis Allen, one of the older students. Lewis is intelligent and ambitious but poor. He spent the summer doing farm work and is now paying for his board by doing housework and waiting on tables. He hopes to continue his education at Queen’s, and Anne admires how hard he works without complaining.
+Anne decided that a boy working that hard ought to eat a proper Sunday supper now and then. The difficulty was not Aunt Kate or Aunt Chatty. It was the household budget, which Rebecca Dew defended with the vigilance of a finance minister. Anne therefore approached the problem sideways. In Rebecca's hearing, she asked Aunt Kate if Lewis might come twice a month and quietly offered to pay the extra cost herself. Aunt Kate, understanding the performance, replied that Windy Poplars probably could not afford such generosity.
 
-Lewis is also interested in photography. A magazine called Country Homes is offering a twenty-five-dollar prize for the best photograph of a farmhouse, and Lewis hopes to enter. Winning would help him buy a badly needed suit and overcoat. He plans to carry his camera when he and Anne travel along the Dawlish Road collecting money for the Dramatic Club.
+Rebecca reacted exactly as Anne had hoped. The suggestion that their house had become too poor to feed a decent boy pursuing an education offended her pride and her kindness at the same time. She declared that she would give up part of her own wages before Lewis Allen was turned away for want of a meal. Anne kept a straight face while the arrangement settled itself. Lewis would come to Sunday supper, and Rebecca would be able to believe the decision had been entirely her own.
 
-Anne worries that Lewis works too hard and does not eat well enough. She decides he should be invited to Windy Poplars for Sunday supper from time to time. She knows Aunt Kate and Aunt Chatty are careful with money, so she quietly offers to pay the extra cost herself.
+Aunt Chatty soon brought Anne a problem of a different size but equal seriousness. She wanted a fashionable beaded cape. Aunt Kate had told her she was too old for it, and although Chatty tried to laugh, Anne saw how the remark had hurt. The cape was unnecessary and probably a little extravagant, yet Anne could not see why age should forbid a harmless pleasure. She encouraged Chatty to buy it if she truly wanted it. By the end of the conversation, Aunt Chatty had recovered enough courage to imagine wearing the cape without apologizing for herself.
 
-Instead of directly asking Rebecca Dew what she thinks, Anne discusses the matter where Rebecca can hear. Rebecca immediately becomes indignant at the idea that they might allow a hardworking young man to go hungry. She insists that Lewis must be fed properly and even says she would give up some of her own wages if necessary. Anne is amused because the plan works exactly as she hoped.
+That evening Anne sat by the tower window while the September darkness gathered over the harbor. She had been back only a few days, but the lives around her were already opening again. Elizabeth needed a safe place for imagination. Lewis needed chances that poverty did not easily provide. Aunt Chatty needed permission to enjoy something simply because it pleased her. Katherine, Anne felt, needed something more difficult to name.
 
-Aunt Chatty has a small problem of her own. She secretly tells Anne that she wants to buy a fashionable beaded cape, but Aunt Kate thinks she is too old to wear such a thing. Chatty is hurt because she likes the cape very much. Anne tells her that age is no reason to give up something harmless that would make her happy and encourages her to buy it.
+The small decisions also reminded Anne that returning did not mean repeating the previous year. She was no longer struggling simply to hold her position. She had enough confidence now to notice what other people needed and enough standing in the household to act on those needs without turning every kindness into a battle. That difference made the familiar rooms feel newly alive rather than merely familiar.
 
-Anne promises to help if Aunt Kate objects. The conversation reminds Anne that even adults who seem settled and practical can have small wishes they are embarrassed to admit.
-
-That evening Anne sits alone in the tower room. She thinks about how much easier and warmer life in Summerside feels now. She has a secure place at Windy Poplars, her school year has begun well, and people who once opposed her now treat her with trust. She also has several new concerns already occupying her thoughts, including Little Elizabeth’s happiness, Lewis Allen’s future, the Dramatic Club, and the everyday problems of the people around her.
-
-The second year has begun without the hostility and uncertainty that marked the first. Anne is no longer trying to prove that she belongs in Summerside. She has work to do, people to care about, and a home waiting for her at the end of each school day.
+The next Saturday would take Anne and Lewis along the Dawlish Road with a subscription list and a camera. Rebecca had already supplied strong opinions about how they ought to persuade householders to contribute. Anne expected the afternoon to be pleasant, perhaps amusing, and useful for the club. She had no reason to think that a narrow side road, a rude farmer, and a small boy with a dog were waiting to change the meaning of the day.
 
 ## Vocabulary & Nuance
 
-- **reconcile yourself to** — accept an unpleasant fact that cannot be changed easily.
-- **rapturous** — showing overwhelming joy or delight.
-- **disdainful** — showing that you think something is unworthy or foolish.
-- **curriculum** — the subjects and material taught in a school.
-- **canvass** — visit or contact people to ask for support, votes, donations, or opinions.
-- **plucky** — brave, determined, and cheerful in difficulty.
-- **build someone up** — make someone stronger or healthier.
-- **put up the money** — provide the money needed for something.
-- **make room for** — create space, time, or opportunity for someone or something.
-- **smooth something over** — make a disagreement less serious or easier to manage.
+- **reconcile oneself to** — gradually accept something disappointing or difficult.
+- **rapport** — a relationship marked by easy understanding and trust.
+- **resourceful** — able to find effective solutions when circumstances are difficult.
+- **restrained** — controlled and not freely expressed.
+- **vigilance** — careful attention maintained in order to notice problems.
+- **settle back into** — become comfortable again in a familiar routine.
+- **make ends meet** — manage financially with the money available.
+- **look out for** — protect or take care of someone.
+- **talk someone into** — persuade someone to do something.
+- **win someone over** — gradually gain someone’s support or affection.
 
-## Conversation 1 — Coming Back to a Place That Changed
+## Conversation 1 — Helping Lewis
 
-Mina: Was it strange going back after being away all summer?
-Anne: A little. But it didn’t feel like returning to a strange town anymore.
-Mina: So Summerside has **grown on you**?
-Anne: Very much. I used to count the days until I could leave. Now I have people there I miss.
-Mina: That’s how you know a place has become part of your life.
-Anne: Exactly. Sometimes belonging **creeps up on** you before you notice it.
-
-### Phrasal verbs & expressions
-
-- grow on someone — become more appealing over time.
-- creep up on someone — develop gradually without being noticed at first.
-- settle back into — become comfortable again with a familiar routine.
-- look forward to — feel pleased about something that will happen.
-- make a place your own — become comfortable enough that a place feels personal.
-
-## Conversation 2 — Supporting Someone Quietly
-
-Anne: Lewis works incredibly hard, but I don’t want to embarrass him by making a fuss.
-Rebecca: Then don’t make a fuss. Just feed him.
-Anne: I thought we could invite him for supper twice a month.
-Rebecca: Good. A young man studying that hard needs something decent to eat.
-Anne: I can **cover the extra cost**.
-Rebecca: Nonsense. We’ll **work it out**.
-Anne: I knew you would say that.
-Rebecca: Then why did you ask?
-Anne: I didn’t exactly ask. I just happened to mention it where you could hear me.
+Anne: Lewis is doing schoolwork after a full evening of chores. I do not want him running himself into the ground.
+Aunt Kate: We cannot pretend the extra meals cost nothing.
+Anne: I can **chip in** without making a fuss about it.
+Rebecca: Nobody is paying extra. We can **make room for** one hardworking boy twice a month.
+Anne: I had a feeling you might say that.
 
 ### Phrasal verbs & expressions
 
-- cover the cost — pay the amount required.
-- work something out — find a practical solution.
-- make a fuss — give something excessive attention.
-- help someone out — provide useful assistance.
-- get by — manage with limited money or resources.
+- run yourself into the ground — exhaust yourself by working too hard.
+- chip in — contribute money or help.
+- make room for — create space or capacity for someone or something.
+- get by — manage with limited resources.
+- look out for — take care of someone’s interests.
+
+## Conversation 2 — Aunt Chatty and the Cape
+
+Chatty: Kate says the cape is too young for me.
+Anne: Do you actually like it?
+Chatty: Very much, which is why I keep **talking myself out of** buying it.
+Anne: Then stop. You do not have to **give up on** something harmless just because someone else has an opinion.
+Chatty: I may go back to the shop tomorrow.
+
+### Phrasal verbs & expressions
+
+- talk yourself out of — persuade yourself not to do something you want to do.
+- give up on — stop hoping for or pursuing something.
+- go back to — return to a place or idea.
+- care about — consider something important.
+- stand up for — defend a person, choice, or principle.
 
 ## Practice
 
@@ -85,102 +76,121 @@ Anne: I didn’t exactly ask. I just happened to mention it where you could hear
   {
     "type": "choice",
     "instant": true,
-    "target": "reconcile yourself to",
-    "prompt": "What is Anne trying to reconcile herself to at the beginning of the chapter?",
-    "options": [
-      "The fact that her summer with Gilbert is over",
-      "The loss of her teaching position",
-      "The sale of Windy Poplars",
-      "Elizabeth moving away immediately"
-    ],
-    "answer": "The fact that her summer with Gilbert is over",
-    "explanation": "Anne is sad that the summer has ended, even though she is also happy to return to Windy Poplars."
-  },
-  {
-    "type": "choice",
-    "instant": true,
-    "target": "rapturous",
-    "prompt": "Which situation best fits the word “rapturous”?",
-    "options": [
-      "Two close friends meeting again with overwhelming joy",
-      "A student silently reading a timetable",
-      "Someone calmly paying a bill",
-      "A teacher correcting spelling mistakes"
-    ],
-    "answer": "Two close friends meeting again with overwhelming joy",
-    "explanation": "“Rapturous” means filled with intense happiness or delight."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "canvass",
-    "prompt": "Complete the sentence: Anne and Lewis plan to ________ families along the Dawlish Road for Dramatic Club subscriptions.",
-    "answer": "canvass",
-    "accepted": ["canvass"],
-    "explanation": "To “canvass” here means to visit people and ask for financial support."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "grow on",
-    "prompt": "Choose the best expression.",
-    "dialogue": [
-      {"speaker": "Nora", "text": "You used to complain about Summerside."},
-      {"speaker": "Anne", "text": "I know, but it has really ________ me."}
-    ],
-    "options": ["grown on", "run into", "turned down", "broken up"],
-    "answer": "grown on",
-    "explanation": "If something “grows on” you, you gradually begin to like it more."
-  },
-  {
-    "type": "choice",
-    "instant": true,
     "target": "inference",
-    "prompt": "What does Rebecca’s reaction to Lewis reveal about her?",
+    "prompt": "What does Anne understand about Little Elizabeth’s idea of Tomorrow",
     "options": [
-      "She is more generous than her sharp manner suggests.",
-      "She dislikes ambitious students.",
-      "She wants Anne to stop teaching.",
-      "She cares mainly about appearances."
+      "It is an imaginative refuge from a life that gives her too little freedom and affection",
+      "It is the official name of a nearby village",
+      "It is a school project assigned by Katherine",
+      "It is a place Mrs. Campbell plans to visit"
     ],
-    "answer": "She is more generous than her sharp manner suggests.",
-    "explanation": "Rebecca immediately wants to make sure Lewis is fed and even offers part of her wages."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "work out",
-    "prompt": "Complete the sentence with two words: Anne trusts that the household can ________ ________ a way to invite Lewis without embarrassing him.",
-    "answer": "work out",
-    "accepted": ["work out"],
-    "explanation": "“Work out” means find a solution to a problem."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "smooth over",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {"speaker": "Chatty", "text": "Kate thinks I’m too old for a beaded cape."},
-      {"speaker": "Anne", "text": "Buy it if you love it. I’ll help ________ things ________ with Kate."}
-    ],
-    "options": ["smooth / over", "turn / down", "take / apart", "run / across"],
-    "answer": "smooth / over",
-    "explanation": "To “smooth things over” means reduce tension or repair a minor disagreement."
+    "answer": "It is an imaginative refuge from a life that gives her too little freedom and affection",
+    "explanation": "Anne treats the fantasy seriously because it expresses a real emotional need."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "theme",
-    "prompt": "What is the strongest theme of this chapter?",
+    "target": "nuance",
+    "prompt": "What connects Anne’s responses to Elizabeth, Lewis, and Aunt Chatty",
     "options": [
-      "Anne has moved from being an outsider in Summerside to feeling responsible for people there.",
-      "Anne wants to leave teaching immediately.",
-      "Elizabeth has stopped using her imagination.",
-      "Rebecca no longer cares about the household."
+      "She notices the personal need hidden underneath what looks like a small everyday problem",
+      "She gives all three of them money",
+      "She tells all three to ignore other people completely",
+      "She solves their problems by speaking to Gilbert"
     ],
-    "answer": "Anne has moved from being an outsider in Summerside to feeling responsible for people there.",
-    "explanation": "Her return shows how much belonging and connection have grown since her difficult first year."
+    "answer": "She notices the personal need hidden underneath what looks like a small everyday problem",
+    "explanation": "Anne responds to the emotional meaning beneath each situation rather than only the surface issue."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "rapport",
+    "prompt": "Why does Anne feel more at ease in Summerside at the beginning of the second year",
+    "options": [
+      "She has developed real rapport with people who once treated her as an outsider",
+      "She has decided to resign before winter",
+      "The school has stopped requiring her to teach",
+      "Gilbert has moved into Windy Poplars"
+    ],
+    "answer": "She has developed real rapport with people who once treated her as an outsider",
+    "explanation": "The first year has given Anne relationships and confidence that make the town feel familiar."
+  },
+  {
+    "type": "fill",
+    "instant": false,
+    "target": "make ends meet",
+    "prompt": "Complete the sentence. Lewis works at his boarding house because he is trying to ________ ________ ________ while staying in school.",
+    "answer": "make ends meet",
+    "accepted": [
+      "make ends meet"
+    ],
+    "explanation": "This expression means to manage financially with limited money."
+  },
+  {
+    "type": "dialogue",
+    "instant": true,
+    "target": "chip in",
+    "prompt": "Choose the most natural expression.",
+    "dialogue": [
+      {
+        "speaker": "Anne",
+        "text": "The extra suppers will cost something."
+      },
+      {
+        "speaker": "Aunt Kate",
+        "text": "Would you be willing to ________ ________"
+      }
+    ],
+    "options": [
+      "chip / in",
+      "walk / out",
+      "break / down",
+      "turn / over"
+    ],
+    "answer": "chip / in",
+    "explanation": "To chip in means to contribute money or help."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "motive",
+    "prompt": "Why does Anne handle the question of Lewis's Sunday suppers indirectly rather than simply insisting on her plan",
+    "options": [
+      "She understands that Rebecca's pride and concern about expenses may make a direct request harder to accept",
+      "She wants Rebecca to believe Lewis is wealthy",
+      "She is trying to keep Lewis away from Windy Poplars",
+      "She has forgotten whether Aunt Kate allows guests"
+    ],
+    "answer": "She understands that Rebecca's pride and concern about expenses may make a direct request harder to accept",
+    "explanation": "Anne uses tact because she understands Rebecca's character and wants kindness to become Rebecca's own decision."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "paraphrase",
+    "prompt": "Which sentence best paraphrases the idea that Windy Poplars receives Anne like an old friend",
+    "options": [
+      "The familiar house quickly makes Anne feel welcomed and at ease again",
+      "Anne thinks the house looks much older than before",
+      "The household has been completely redecorated for her",
+      "Anne feels she no longer belongs there"
+    ],
+    "answer": "The familiar house quickly makes Anne feel welcomed and at ease again",
+    "explanation": "The image means the familiar place gives Anne an immediate sense of welcome and belonging."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "natural_response",
+    "prompt": "Lewis says he is working long hours and still hopes to continue his education. What is the most natural supportive response from Anne",
+    "options": [
+      "That sounds exhausting. Let me know if there is a practical way I can help without making things awkward.",
+      "You should stop studying because work is more important.",
+      "Everyone has problems, so there is no point discussing it.",
+      "You must let me make every decision for you from now on."
+    ],
+    "answer": "That sounds exhausting. Let me know if there is a practical way I can help without making things awkward.",
+    "explanation": "The response is supportive, respectful, and appropriate for an adult B2 conversation."
   }
 ]
 ```

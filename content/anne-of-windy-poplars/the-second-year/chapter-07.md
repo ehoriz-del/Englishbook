@@ -1,97 +1,77 @@
-# Chapter 7 — Little Elizabeth Gets Her Chance
+# Chapter 7 — Elizabeth Finds Her Voice
 
 ## Story Summary
 
-After Christmas, Anne returns to Windy Poplars and writes to Gilbert. Rebecca Dew has prepared the tower room warmly for her, and Anne is glad to be back with Aunt Kate, Aunt Chatty, and Rebecca. Rebecca tells Anne that Spook’s Lane has been a different place since Anne came to live there.
+When Anne returned to Summerside after Christmas, she found the tower room already warm. Rebecca Dew had lit the fire and tucked a hot water bottle into the bed, practical gestures that said more than an emotional welcome would have. Aunt Kate and Aunt Chatty were glad to see her, and Rebecca admitted that Spook's Lane had not seemed quite the same while she was away. Anne felt the truth of it from the other side. Green Gables remained home in the deepest sense, but Windy Poplars had become a place where she was expected.
 
-Anne also reports good news about Katherine Brooke. Katherine’s holiday at Green Gables has changed the way she behaves with people. She is planning to leave Mrs. Dennis’s boarding house, and Anne has persuaded her to buy a dark red velvet hat. Anne also hopes to persuade her to sing in the choir.
+Katherine returned with a different expression and a puppy to care for. Ten days had not erased years of defensiveness, yet there were visible changes. She was considering leaving Mrs. Dennis's house, had allowed Anne to influence her choice of a dark red velvet hat, and no longer seemed determined to dislike every social suggestion before hearing it. Anne was wise enough not to expect a complete transformation, though she quietly hoped the holiday had opened a door Katherine would not close again.
 
-At Windy Poplars, everyday life quickly resumes. Mr. Hamilton’s dog comes into the yard and chases Dusty Miller. Rebecca Dew becomes furious. Although she often complains about the cat herself, she insists that Dusty is their cat and that no Hamilton dog has the right to insult him in his own yard. She marches to Mr. Hamilton’s house and gives him a sharp lecture.
+The ordinary comedy of Windy Poplars resumed almost immediately. Mr. Hamilton's dog entered the yard and chased Dusty Miller. Rebecca, who could describe the cat's faults for half an hour without repeating herself, became furious that an outsider had dared to trouble him. She rushed off to confront the dog's owner and discovered only later that she had put on her hat backward. Anne found the contradiction delightful. Rebecca's complaints about Dusty were clearly a private privilege.
 
-A few days later, Little Elizabeth comes to see Anne in distress. Her school is preparing a public concert, and Elizabeth’s teacher has asked her to sing. Elizabeth desperately wants to take part because the other children in her class are involved.
+Little Elizabeth soon arrived with a more serious problem. Her teacher wanted her to sing in a public school concert. Every other child in the group would take part, and Elizabeth had been practicing in hope. Mrs. Campbell refused permission, and when Elizabeth protested, her grandmother treated the protest as disobedience and ended the discussion before the child could explain why the concert mattered so much. By the time the child reached Anne, disappointment had become despair. She said she would probably become Lizzie forever, meaning the discouraged version of herself that appeared whenever hope seemed foolish.
 
-Mrs. Campbell, however, refuses to allow it. She believes public performance will make Elizabeth bold and forward. When Elizabeth tries to argue, Mrs. Campbell tells her not to talk back.
+Anne did not promise she could fix the situation because she knew Mrs. Campbell well enough to understand that a direct argument would only make the woman more determined to hold her ground. Instead, she looked for a reason to visit The Evergreens that would not reveal her real purpose. She asked to borrow the memoirs of the Reverend James Wallace Campbell for material connected with early Island history. The request pleased Mrs. Campbell's family pride, and Anne soon found herself sitting in the severe drawing room with the book within reach and the forbidden concert still unmentioned.
 
-Elizabeth cries in Anne’s tower room. She says the disappointment makes her feel as though she will become “Lizzie” forever, using the name she associates with the least happy part of herself. She also says she feels “like a leopard,” when she means that she feels like a leper, separated from everyone else.
+Mrs. Campbell brought it up herself. Elizabeth's teacher had written again, urging her to reconsider. Mrs. Campbell regarded public performance as a possible path toward vanity and forward behavior in a young girl. Anne listened with respectful attention. Instead of defending Elizabeth, she agreed that the concern was understandable. Then, almost casually, she mentioned that Mabel Phillips would be singing and that Mabel possessed such a strong voice that she might easily dominate the entire program.
 
-Anne decides to visit The Evergreens. She does not announce that she is going there to argue about the concert. Instead, she creates a respectable reason for the visit. She asks to borrow the memoirs of the Reverend James Wallace Campbell because they contain information she can use in her history lessons.
+The change in Mrs. Campbell was slight but immediate. Anne knew there was old rivalry between the Campbell and Phillips families, especially where musical ability was concerned. Mrs. Campbell could resist a teacher's request and a child's tears, but the possibility of a Phillips girl receiving all the attention while a Campbell remained silent was more difficult. Anne did not press her advantage. She thanked Mrs. Campbell for the memoirs and went home without asking for anything.
 
-The Woman lets Anne into the gloomy drawing room. The room is formal and stiff, with chairs placed against the walls and a piano that looks as though no one ever plays it.
+The following evening Elizabeth came through the green gate almost shining. Her grandmother had changed her mind. She might sing, provided she did not become vain about it. Anne celebrated without explaining the strategy behind the decision. Elizabeth needed the chance more than she needed to understand the adult pride that had produced it.
 
-Mrs. Campbell enters. She has frosty hair, strong black eyebrows, and large black onyx earrings. Anne and Mrs. Campbell exchange polite remarks about the weather before Anne asks to borrow the memoirs.
+Another gift from Anne was helping the child in a quieter way. At Christmas she had given Elizabeth a picture of a sunlit woodland path leading toward a little house. Elizabeth kept it near her bed. When darkness frightened her, she imagined walking up the path toward the lighted doorway, where her father would be waiting. Anne listened with tenderness and uneasiness. Elizabeth's unknown father had become part of Tomorrow, a figure surrounded by hope because reality offered so little information.
 
-Mrs. Campbell is pleased by the request and sends Elizabeth upstairs to get the book. Elizabeth’s face shows that she has been crying.
+Later that winter, Anne attended a dance at Carry Pringle's and saw evidence that Katherine's Christmas experience had lasted beyond Green Gables. Katherine came in wearing a dark red silk dress, her hair arranged with care, and for a moment people who had known her for years seemed unsure they were looking at the same woman. The clothing helped, but Anne knew the deeper change was in Katherine's manner. She no longer entered the room braced for rejection. She spoke, laughed, and allowed herself to be included before suspicion had time to interfere.
 
-Mrs. Campbell explains that Elizabeth’s teacher has written again, asking permission for the child to sing. Mrs. Campbell has prepared a severe reply. She tells Anne that children of Elizabeth’s age should not sing in public because it may make them too forward.
+The next evening Elizabeth came to the garden gate with her face shining. Mrs. Campbell had changed her decision and said she might sing after all, provided she did not become conceited about it. Elizabeth could hardly contain her relief. Instead of carrying another refusal back to school, she could now prepare for the concert with the rest of her class.
 
-Anne does not argue directly. Instead, she says that Mrs. Campbell is probably right. Then she casually mentions that Mabel Phillips will be singing and has such a remarkable voice that the other children may be completely overshadowed.
-
-Anne knows from Rebecca Dew that the Campbell and Phillips families have long been rivals over musical talent.
-
-Mrs. Campbell immediately reacts internally, although she says little. Anne recognizes that she has said enough and does not push the subject any further. She thanks Mrs. Campbell for the memoirs and leaves.
-
-The next evening Elizabeth comes to the Windy Poplars gate for milk. She is glowing with happiness. Mrs. Campbell has changed her mind and will allow her to sing in the concert, as long as she does not become vain about it.
-
-Anne is pleased that her indirect method worked. Elizabeth no longer has to watch all her classmates perform while she sits apart.
-
-Anne has also given Elizabeth a small picture for Christmas. It shows a sunlit woodland path leading toward a little house among trees. Elizabeth hangs it near her bed. She says she is less frightened of the dark now because she imagines herself walking up the path and entering the lighted house, where her father is waiting for her.
-
-Later in January, Anne attends a dance at Carry Pringle’s. Katherine is there wearing dark red silk, and her hair has been professionally arranged. People who have known her for years are surprised by her appearance and some do not recognize her immediately.
-
-Katherine’s behavior is also different. In the past, she entered social gatherings expecting to dislike everyone and expecting everyone to dislike her. Now she talks, smiles, and participates. Anne sees that Katherine is continuing the changes that began during Christmas at Green Gables.
-
-Meanwhile, Aunt Chatty catches a bad cold and considers calling the doctor. Rebecca Dew immediately cleans the already spotless house because she does not want the doctor to see anything out of order. She even irons Aunt Chatty’s clean nightdress so it will look fresh if the doctor comes.
-
-Near the end of January, the weather changes. After weeks of gray cold and snowstorms, a silver thaw covers fences and trees with ice, and the sunlight makes the ordinary landscape glitter.
-
-Rebecca spends an evening looking through one of Anne’s magazines at photographs of beautiful women. She wonders what it would feel like if someone could wave a wand and make everyone beautiful. Then, with typical Rebecca practicality, she adds that if everyone were beautiful, there might be no one left to do the work.
+Winter soon returned the household to ordinary concerns. Aunt Chatty came down with a miserable cold, and Rebecca Dew cleaned the already tidy house before the doctor's visit. Then a silver thaw covered trees, fences, and wires with ice until Summerside glittered in the sunlight. Anne watched the changed streets from Windy Poplars while school life went on, Katherine settled more comfortably into her new habits, and Elizabeth looked forward to the concert she had nearly been forbidden to join.
 
 ## Vocabulary & Nuance
 
-- **civilities** — polite remarks exchanged in a formal social situation.
-- **patronizing** — speaking or behaving as though you are superior to someone.
-- **rivalry** — a continuing competition between people, families, or groups.
-- **forward** — too bold or confident in behavior, especially in an old-fashioned sense.
-- **indefinable** — difficult to describe exactly.
-- **put your foot down** — firmly refuse to allow something.
-- **talk back** — answer an older or more powerful person in a disrespectful way.
-- **give someone a piece of your mind** — tell someone angrily what you think.
-- **change your mind** — decide differently after first making another decision.
-- **stand out** — be especially noticeable.
+- **exclusion** — the experience of being deliberately or effectively left out.
+- **reconsider** — think about a decision again, especially with the possibility of changing it.
+- **strategic** — carefully planned to achieve a result.
+- **dominate** — be so strong or noticeable that other people receive less attention.
+- **contradiction** — a situation in which two attitudes or facts do not fit together.
+- **put your foot down** — refuse firmly to allow something.
+- **come around** — gradually change an opinion.
+- **bring something up** — introduce a subject into conversation.
+- **play on** — use a feeling or weakness to influence someone.
+- **brace for** — prepare mentally for something difficult or unpleasant.
 
-## Conversation 1 — Persuading Someone Indirectly
+## Conversation 1 — Elizabeth Feels Left Out
 
-Maya: Why didn’t Anne simply argue with Mrs. Campbell?
-Jon: Because Mrs. Campbell would probably have **dug in her heels**.
-Maya: So Anne used the family rivalry instead?
-Jon: Yes. She mentioned Mabel Phillips and let Mrs. Campbell reach the conclusion herself.
-Maya: That was subtle.
-Jon: Sometimes people are easier to persuade when they don’t feel pushed.
-
-### Phrasal verbs & expressions
-
-- dig in your heels — refuse firmly to change your position.
-- bring up — introduce a subject in conversation.
-- back down — stop defending a position.
-- come around — gradually change your opinion.
-- play on — use a feeling or weakness to influence someone.
-
-## Conversation 2 — Joining the Concert
-
-Elizabeth: I thought I was going to be the only one left out.
-Anne: Not anymore.
-Elizabeth: Mrs. Campbell says I may sing if I don’t get proud.
-Anne: Then sing beautifully and stay exactly yourself.
-Elizabeth: I’m going to practice every day.
-Anne: Good. You worked hard for this chance without even knowing you were doing it.
+Elizabeth: Everyone else gets to sing. Grandmother says I cannot.
+Anne: I can see why you feel **left out**.
+Elizabeth: She has already put her foot down.
+Anne: Then I will not charge straight at the problem. Let me think it through.
+Elizabeth: You are not giving up?
+Anne: Not yet.
 
 ### Phrasal verbs & expressions
 
-- leave someone out — exclude someone from an activity.
-- take part in — participate in something.
-- work toward — make steady effort toward a result.
-- carry through — complete something you have planned.
-- show up — appear or attend.
+- feel left out — feel excluded from a group or activity.
+- put your foot down — refuse firmly to allow something.
+- think through — consider carefully from beginning to end.
+- give up — stop trying.
+- work around — find a way to deal with an obstacle indirectly.
+
+## Conversation 2 — Anne Uses Rivalry
+
+Friend: Why not simply ask Mrs. Campbell to change her mind?
+Anne: Because she would **dig in her heels**.
+Friend: So you brought up Mabel Phillips instead?
+Anne: I mentioned her voice and let an old rivalry do the rest.
+Friend: That was subtle.
+Anne: Subtle was safer than a direct fight.
+
+### Phrasal verbs & expressions
+
+- dig in your heels — stubbornly refuse to change your position.
+- bring up — introduce a topic.
+- do the rest — complete what remains after an initial action.
+- back down — withdraw from a position.
+- come around — gradually change your mind.
 
 ## Practice
 
@@ -100,102 +80,112 @@ Anne: Good. You worked hard for this chance without even knowing you were doing 
   {
     "type": "choice",
     "instant": true,
+    "target": "inference",
+    "prompt": "What do Elizabeth’s picture and Katherine’s changed behavior have in common",
+    "options": [
+      "Both give someone a concrete image of a life that feels safer or more hopeful",
+      "Both are gifts from Gilbert",
+      "Both cause conflict with Mrs. Campbell",
+      "Both depend on winning a public prize"
+    ],
+    "answer": "Both give someone a concrete image of a life that feels safer or more hopeful",
+    "explanation": "Elizabeth imagines safety through the picture while Katherine carries a real memory of belonging from Green Gables."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "nuance",
+    "prompt": "Why is Anne careful not to explain her strategy to Elizabeth after Mrs. Campbell changes her mind",
+    "options": [
+      "She wants Elizabeth to enjoy the chance to sing without being pulled into the adults' old rivalry",
+      "She is ashamed that Elizabeth has been chosen",
+      "She wants Elizabeth to think the teacher changed the rules",
+      "She plans to cancel the concert later"
+    ],
+    "answer": "She wants Elizabeth to enjoy the chance to sing without being pulled into the adults' old rivalry",
+    "explanation": "Anne protects the child's happiness instead of turning the permission into a lesson about adult pride."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "strategy",
+    "prompt": "Why does Anne avoid asking Mrs. Campbell directly for permission",
+    "options": [
+      "She expects direct pressure to make Mrs. Campbell more stubborn",
+      "Elizabeth has asked her not to help",
+      "The concert has already been canceled",
+      "Anne does not know where The Evergreens is"
+    ],
+    "answer": "She expects direct pressure to make Mrs. Campbell more stubborn",
+    "explanation": "Anne chooses an indirect strategy because she understands Mrs. Campbell’s temperament."
+  },
+  {
+    "type": "choice",
+    "instant": true,
     "target": "rivalry",
-    "prompt": "What does Anne use to influence Mrs. Campbell’s decision?",
+    "prompt": "Why does mentioning Mabel Phillips affect Mrs. Campbell",
     "options": [
-      "The old musical rivalry between the Campbell and Phillips families",
-      "A promise to pay for the concert",
-      "A warning from the school principal",
-      "A letter from Gilbert"
+      "Family rivalry makes her dislike the idea of a Phillips girl outshining Elizabeth",
+      "Mabel has promised to teach Elizabeth",
+      "Mrs. Campbell is afraid of Mabel’s mother",
+      "Mabel owns the concert hall"
     ],
-    "answer": "The old musical rivalry between the Campbell and Phillips families",
-    "explanation": "Anne mentions Mabel Phillips’s singing because she knows Mrs. Campbell will not want Elizabeth overshadowed by a Phillips."
-  },
-  {
-    "type": "choice",
-    "instant": true,
-    "target": "civilities",
-    "prompt": "What are Anne and Mrs. Campbell doing when they exchange civilities?",
-    "options": [
-      "Making formal polite conversation",
-      "Arguing loudly about Elizabeth",
-      "Practicing music together",
-      "Reading the memoirs aloud"
-    ],
-    "answer": "Making formal polite conversation",
-    "explanation": "“Civilities” are polite social remarks, especially in a formal setting."
+    "answer": "Family rivalry makes her dislike the idea of a Phillips girl outshining Elizabeth",
+    "explanation": "Anne uses an existing competitive feeling rather than arguing about the concert directly."
   },
   {
     "type": "fill",
     "instant": false,
-    "target": "put your foot down",
-    "prompt": "Complete the sentence: Mrs. Campbell ________ her ________ ________ and initially refuses to let Elizabeth sing.",
-    "answer": "puts foot down",
-    "accepted": ["puts her foot down", "put her foot down"],
-    "explanation": "To “put your foot down” means make a firm refusal or rule."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
     "target": "come around",
-    "prompt": "Choose the best expression.",
-    "dialogue": [
-      {"speaker": "Anne", "text": "Mrs. Campbell said no at first."},
-      {"speaker": "Rebecca", "text": "But she eventually ________, didn’t she?"}
+    "prompt": "Complete the sentence. Mrs. Campbell eventually ________ ________ and allows Elizabeth to sing.",
+    "answer": "comes around",
+    "accepted": [
+      "comes around",
+      "came around"
     ],
-    "options": ["came around", "ran out", "broke off", "took after"],
-    "answer": "came around",
-    "explanation": "“Come around” means gradually change your opinion."
+    "explanation": "To come around means gradually change an opinion or decision."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "detail",
-    "prompt": "What excuse does Anne use for visiting The Evergreens?",
+    "target": "motive",
+    "prompt": "Why does Anne avoid directly arguing with Mrs. Campbell about the concert",
     "options": [
-      "She asks to borrow Reverend Campbell’s memoirs for school history work.",
-      "She says she needs to borrow a piano.",
-      "She asks Elizabeth to join her class.",
-      "She claims Rebecca Dew is ill."
+      "She knows direct pressure will probably make Mrs. Campbell more stubborn, so she chooses a strategy that works with the woman's existing pride",
+      "She agrees that Elizabeth should never sing",
+      "She is afraid to enter The Evergreens",
+      "She wants Mabel Phillips to replace Elizabeth"
     ],
-    "answer": "She asks to borrow Reverend Campbell’s memoirs for school history work.",
-    "explanation": "The memoirs give Anne a respectable reason to begin the visit without openly challenging Mrs. Campbell."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "leave out",
-    "prompt": "Complete the sentence: Elizabeth is miserable because she fears she will be ________ ________ while all her classmates perform.",
-    "answer": "left out",
-    "accepted": ["left out"],
-    "explanation": "To be “left out” means to be excluded from something."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "give a piece of your mind",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {"speaker": "Anne", "text": "Rebecca was furious when Mr. Hamilton’s dog chased Dusty."},
-      {"speaker": "Chatty", "text": "She went straight over to ________ Mr. Hamilton ________."}
-    ],
-    "options": ["give / a piece of her mind", "take / for granted", "put / away", "show / off"],
-    "answer": "give / a piece of her mind",
-    "explanation": "The expression means tell someone angrily and directly what you think."
+    "answer": "She knows direct pressure will probably make Mrs. Campbell more stubborn, so she chooses a strategy that works with the woman's existing pride",
+    "explanation": "Anne's method depends on understanding Mrs. Campbell's motives rather than confronting her head-on."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "sequence",
-    "prompt": "Which event happens after Elizabeth receives permission to sing?",
+    "target": "paraphrase",
+    "prompt": "Which sentence best paraphrases the idea that Elizabeth begins to feel like herself again after permission is granted",
     "options": [
-      "Katherine attends a dance at Carry Pringle’s.",
-      "Anne visits Mrs. Campbell for the first time.",
-      "Elizabeth cries in the tower room.",
-      "Mrs. Campbell writes a severe reply to Elizabeth’s teacher."
+      "Hope returns because she can take part in something that matters to her",
+      "She decides to leave Summerside immediately",
+      "She stops caring about music",
+      "She becomes more obedient because she is frightened"
     ],
-    "answer": "Katherine attends a dance at Carry Pringle’s.",
-    "explanation": "The dance takes place later in January, after Elizabeth has been allowed to participate in the concert."
+    "answer": "Hope returns because she can take part in something that matters to her",
+    "explanation": "The concert restores a sense of possibility and confidence."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "natural_response",
+    "prompt": "Elizabeth says, 'Grandmother says I may sing after all.' What is the most natural response from Anne",
+    "options": [
+      "I'm so glad. Now you can focus on enjoying the music and doing your best.",
+      "Good. Make sure Mabel knows you are better than she is.",
+      "I knew your grandmother would give in if we embarrassed her.",
+      "You should refuse now to prove a point."
+    ],
+    "answer": "I'm so glad. Now you can focus on enjoying the music and doing your best.",
+    "explanation": "The response celebrates Elizabeth without feeding the adults' rivalry."
   }
 ]
 ```

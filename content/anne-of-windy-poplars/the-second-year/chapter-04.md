@@ -2,98 +2,72 @@
 
 ## Story Summary
 
-As Christmas approaches, Anne prepares to go home to Green Gables for the holiday. She cannot stop thinking about Katherine Brooke, the vice-principal at Summerside High. Katherine remains difficult, sarcastic, and distant, but Anne has begun to suspect that much of her behavior comes from loneliness.
+By December, Anne had made several firm decisions about Katherine Brooke and broken nearly all of them. After one cutting remark at school, she would resolve to stop trying, only to catch a brief expression on Katherine's face that looked more exhausted than hostile. Then Anne's determination would weaken. When Christmas approached and she learned that Katherine expected to spend the holiday almost alone in her boarding house, sympathy won again. One bitter evening she announced that she was going to Temple Street to invite Katherine to Green Gables.
 
-Rebecca Dew strongly advises Anne not to invite Katherine anywhere. Rebecca believes Katherine would spoil the holiday with her bad temper. Anne admits that Katherine can be unpleasant, yet she decides to invite her to Green Gables anyway.
+Rebecca Dew received the plan with open disbelief. Katherine, in her opinion, could lower the temperature of a room without touching the stove, and why Anne would voluntarily bring such a person into Christmas was beyond understanding. Anne laughed at the description, but Rebecca's objections followed her into the cold. With every block, she remembered another rebuff from Katherine and imagined another way the invitation might be misunderstood. By the time she reached Temple Street, she was no longer certain whether she was being kind, foolish, or both.
 
-On a very cold December evening, Anne walks to the boarding house on Temple Street where Katherine lives. As she approaches the house, she begins to doubt her plan. Katherine has rejected friendly gestures before, and Anne wonders why she keeps trying. Still, she goes inside.
+Mrs. Dennis, the landlady, admitted Anne to a parlor that seemed to have absorbed years of stale air and stale opinions. She began talking about Katherine almost immediately and complained that her boarder took offense too easily. At supper, Mrs. Dennis had repeated an unkind remark someone made about Katherine's clothes, then felt injured because Katherine reacted sharply. Anne listened before asking whether she had also repeated the school inspector's recent praise of Katherine as one of the strongest teachers in the district. Mrs. Dennis had not. The imbalance told Anne more about daily life in the house than the landlady intended.
 
-Mrs. Dennis, Katherine’s landlady, receives Anne in the parlour. She begins talking about Katherine almost immediately. Mrs. Dennis complains that Katherine is in a bad mood because of some local gossip she repeated to her.
+The conversation moved to a dog. Katherine had wanted one, but Mrs. Dennis refused because she disliked the idea of an animal in the house while Katherine taught. To the landlady, the matter was practical. To Anne, it sounded painfully revealing. Katherine returned every day to a room she disliked and a household where even casual conversation could become another small injury. Wanting a dog might be the nearest she had come to admitting that she needed companionship without having to ask another human being for it.
 
-Anne dislikes hearing a landlady criticize her boarder. She points out that Mrs. Dennis might also repeat something positive. The school inspector considers Katherine one of the best teachers in the Maritimes.
+Anne argued carefully rather than sentimentally. A well behaved dog need not destroy the parlor, Katherine would be responsible for it, and companionship might do more good than either woman expected. Mrs. Dennis resisted, then softened as the objections were answered one by one. At last she agreed that a dog could be considered if it caused no trouble. Anne stored the victory away without telling Katherine. There would be time for that later, assuming the Christmas invitation survived the evening.
 
-During the conversation Anne learns that Katherine wants a dog. Mrs. Dennis has refused to allow one in the house, even though Katherine offered to pay for its food and take care of it herself. Anne quietly suggests that perhaps the rule could be reconsidered.
+Upstairs, Katherine's room was worse than Anne had imagined. The furniture was worn, the bed sagged in the middle, and a harsh gas light exposed every defect instead of softening it. Only the narrow window offered beauty. Beyond it a winter sunset burned over distant hills in bands of red and gold, vivid enough to make Anne stop before she remembered whom she was visiting. She tried to share the sight, hoping it might give them an easy beginning. Katherine answered that she had seen sunsets before and did not require lessons in admiring them.
 
-When Katherine comes downstairs, she is cool and sarcastic. Anne tries to begin a normal conversation, but Katherine answers sharply. For a moment Anne is tempted to leave.
+Anne's patience nearly failed. She had walked through the cold with a sincere invitation and was being treated like an intruder. When she said as much, Katherine replied that she had no talent for pretending to be pleased. The answer was rude, yet Anne noticed something uncertain behind it. Katherine's eyes looked as if she might have been crying before Anne arrived. The hostility suddenly seemed less like strength and more like a wall built by someone who expected every kindness to contain pity or judgment.
 
-Then Anne notices that Katherine looks as though she may have been crying. She continues.
+Anne finally told her why she had come. Green Gables would be busy and crowded for Christmas, but there was room for one more, and she wanted Katherine to come home with her for the holiday. Katherine reacted immediately, accusing Anne of pity and refusing to accept charity disguised as hospitality. Anne did not deny feeling sorry for someone facing Christmas alone in such a room. She denied only that pity made the invitation false. Wanting somebody to be less lonely was not the same as looking down on them.
 
-Anne asks about Katherine’s Christmas plans. Katherine says she does not like Christmas and does not want to pretend to be cheerful. Mrs. Dennis will be away, so Katherine expects to stay in the boarding house alone and prepare her own meals.
+The exchange sharpened until Anne, exhausted by caution, told Katherine that what she really needed was a strong dose of old fashioned discipline. The remark was so unexpected that Katherine stared at her. Then the hard line of her mouth shifted, and something close to amusement appeared. Politeness, sympathy, and careful diplomacy had all made her suspicious. Blunt honesty reached a place they had not.
 
-Anne tells her directly that she wants her to spend the holiday at Green Gables.
+After that, the discussion became possible. Mrs. Dennis would be away for Christmas, leaving Katherine to cook for herself in the empty boarding house. She admitted that she dreaded the prospect more than she wanted Anne to know. Green Gables sounded warm, but accepting the invitation meant risking another kind of disappointment. Eventually she agreed, though she set one condition. Anne was not to force cheerful holiday greetings upon her or expect her to perform happiness for anyone.
 
-Katherine immediately assumes the invitation is based on pity. She does not want to be treated as a charity case. Anne insists that she is inviting her because she genuinely wants her there.
-
-The conversation grows increasingly direct. Katherine uses sarcasm to push Anne away. Anne finally loses patience and tells Katherine that what she really needs is a good spanking.
-
-The remark surprises Katherine so much that the mood changes. Instead of becoming angrier, she almost laughs. Anne has finally spoken to her without being intimidated by her sharpness.
-
-Katherine begins to consider the invitation seriously. She admits that she does not look forward to spending Christmas alone, although she tries to present the matter as a practical inconvenience rather than loneliness.
-
-Anne describes Green Gables and the people there. Katherine remains cautious, but she is interested.
-
-At last Katherine agrees to go, but on one condition. Anne must not wish her a merry Christmas. Katherine says she has no intention of being merry and does not want cheerful holiday phrases forced on her.
-
-Anne agrees that she personally will respect the rule, though she warns Katherine that Davy and Dora may be impossible to control.
-
-Once Katherine has accepted, she offers to walk Anne back to Windy Poplars. The night is bright and cold, and the two women walk together through the moonlight.
-
-Their conversation is still not exactly warm, but it is less hostile than before. Katherine has stopped trying to end every exchange immediately.
-
-When Anne reaches Windy Poplars and tells Rebecca Dew that Katherine has accepted, Rebecca is astonished. Anne is pleased that the invitation succeeded, though she knows the real test will come when Katherine actually arrives at Green Gables.
-
-For the first time, Katherine has agreed to enter Anne’s private world rather than meeting her only at school. Anne hopes that being away from Summerside, the boarding house, and the habits of her daily life will make it easier for Katherine to relax.
-
-The holiday journey is now arranged. Anne will return to Green Gables, and Katherine Brooke, who insists that she dislikes Christmas and prefers to be left alone, will go with her.
+Anne accepted the condition while warning that Davy and Dora might not recognize such an agreement. Katherine almost smiled again. When the visit ended, she surprised Anne by putting on her coat and walking part of the way home through the moonlit cold. Their conversation remained cautious, yet it no longer felt like a duel. Back at Windy Poplars, Rebecca could scarcely believe the invitation had been accepted. Anne did not claim victory. Katherine had only agreed to enter a house where affection was ordinary. Whether she could trust that warmth enough to let it reach her was a question Christmas would have to answer.
 
 ## Vocabulary & Nuance
 
-- **aloof** — emotionally distant and not friendly or open.
-- **rebuff** — reject a friendly action or suggestion.
-- **irrevocably** — in a way that cannot easily be changed or reversed.
-- **condescend** — behave as though you are lowering yourself to deal with someone.
-- **charity** — help given to someone in need; in this chapter, Katherine fears the invitation is based on pity.
-- **make headway** — make progress.
-- **thaw someone out** — help a cold, distant person become warmer or friendlier.
-- **get under someone’s skin** — irritate someone strongly.
-- **put your foot down** — firmly refuse to allow something.
-- **come around** — gradually become more willing to agree.
+- **rebuff** — a direct or unfriendly rejection.
+- **insincere** — not expressing genuine feelings or intentions.
+- **imbalance** — a situation in which two sides are not equal or fair.
+- **revealing** — showing something important that was previously hidden.
+- **intruder** — someone who enters a place or situation where they are not welcome.
+- **wear someone down** — gradually reduce someone’s resistance or energy.
+- **come around** — gradually change an opinion.
+- **keep someone at a distance** — avoid emotional closeness.
+- **open the door to** — make something possible.
+- **take someone up on** — accept an offer or invitation.
 
-## Conversation 1 — Kindness Without Pity
+## Conversation 1 — Anne and Mrs. Dennis
 
-Mina: I want to invite someone from work for the holidays, but I’m afraid she’ll think I feel sorry for her.
-Daniel: Then be clear that you actually want her there.
-Mina: She’s difficult to talk to.
-Daniel: You don’t have to pretend she isn’t. But you can still **reach out**.
-Mina: What if she **rebuffs** me?
-Daniel: Then at least she’ll know the invitation was real.
-
-### Phrasal verbs & expressions
-
-- reach out — make an effort to connect with someone.
-- make headway — make progress.
-- come around — gradually agree or soften.
-- shut someone out — keep someone emotionally at a distance.
-- warm up to — gradually become friendlier toward someone.
-
-## Conversation 2 — Setting a Boundary
-
-Katherine: You’re inviting me because you feel sorry for me.
-Anne: No. I’m inviting you because I want you to come.
-Katherine: I’m not cheerful company.
-Anne: You don’t have to perform cheerfulness for me.
-Katherine: You’re unusually persistent.
-Anne: And you’re unusually determined to **push people away**.
-Katherine: That was direct.
-Anne: I’m beginning to think directness is the only thing that works with you.
+Mrs. Dennis: Katherine takes offense at everything.
+Anne: Do people ever pass along the compliments, or only the criticism?
+Mrs. Dennis: I suppose the bad news tends to **get around** faster.
+Anne: Then perhaps everyone is helping to **wear her down** without realizing it.
+Mrs. Dennis: You make it sound rather serious.
 
 ### Phrasal verbs & expressions
 
-- push someone away — create emotional distance through your behavior.
-- put up with — tolerate something unpleasant.
-- call someone out — directly challenge problematic behavior.
-- back off — stop pressing or interfering.
-- let someone in — allow another person to become emotionally close.
+- get around — spread from person to person.
+- wear someone down — gradually weaken someone emotionally or physically.
+- pass along — give information to another person.
+- pick on — repeatedly criticize or treat someone unfairly.
+- come across as — seem to other people in a particular way.
+
+## Conversation 2 — The Christmas Invitation
+
+Katherine: You are asking because you feel sorry for me.
+Anne: I do feel sorry for you, but that does not make the invitation fake.
+Katherine: I am not good at fitting in.
+Anne: Then do not perform. Just **take me up on** the invitation and see what happens.
+Katherine: You are remarkably hard to discourage.
+
+### Phrasal verbs & expressions
+
+- take someone up on — accept an offer or invitation.
+- fit in — feel accepted as part of a group.
+- back out — withdraw from a plan or promise.
+- let someone in — allow emotional closeness.
+- come around — gradually become more willing or positive.
 
 ## Practice
 
@@ -102,102 +76,111 @@ Anne: I’m beginning to think directness is the only thing that works with you.
   {
     "type": "choice",
     "instant": true,
-    "target": "aloof",
-    "prompt": "Why do most people see Katherine as aloof?",
-    "options": [
-      "She keeps emotional distance and often responds with sarcasm.",
-      "She talks too openly about her feelings.",
-      "She frequently hosts large parties.",
-      "She is new to teaching."
-    ],
-    "answer": "She keeps emotional distance and often responds with sarcasm.",
-    "explanation": "“Aloof” describes someone who seems emotionally distant or unfriendly."
-  },
-  {
-    "type": "choice",
-    "instant": true,
-    "target": "make headway",
-    "prompt": "What does Anne mean when she says she cannot make headway with Katherine in Summerside?",
-    "options": [
-      "She cannot make progress in becoming closer to her.",
-      "She cannot walk fast enough to Katherine’s house.",
-      "She cannot understand Katherine’s school subject.",
-      "She cannot find Temple Street."
-    ],
-    "answer": "She cannot make progress in becoming closer to her.",
-    "explanation": "“Make headway” means make useful progress."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "put your foot down",
-    "prompt": "Complete the sentence: Mrs. Dennis has ________ her ________ ________ and refuses to allow Katherine to keep a dog.",
-    "answer": "put foot down",
-    "accepted": ["put her foot down", "put my foot down", "put his foot down"],
-    "explanation": "To “put your foot down” means make a firm decision and refuse to change it."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "reach out",
-    "prompt": "Choose the best expression.",
-    "dialogue": [
-      {"speaker": "Rebecca", "text": "She has rejected you before. Why invite her again?"},
-      {"speaker": "Anne", "text": "Because sometimes you have to ________ more than once."}
-    ],
-    "options": ["reach out", "run out", "turn over", "break in"],
-    "answer": "reach out",
-    "explanation": "“Reach out” means make an effort to connect or offer support."
-  },
-  {
-    "type": "choice",
-    "instant": true,
     "target": "inference",
-    "prompt": "Why does Katherine finally accept the invitation?",
+    "prompt": "What can Anne infer from Mrs. Dennis repeating criticism about Katherine but not the school inspector's praise",
     "options": [
-      "Her loneliness makes the possibility of spending Christmas with others meaningful, even if she hides that need behind practical excuses.",
-      "She wants to inspect Green Gables for sale.",
-      "She has been ordered to go by the school principal.",
-      "She plans to criticize Anne’s family."
+      "Katherine's daily environment may reinforce her defensiveness by giving more attention to faults than strengths",
+      "Mrs. Dennis secretly wants Katherine to become headmistress",
+      "The inspector has never met Katherine",
+      "Katherine enjoys being criticized"
     ],
-    "answer": "Her loneliness makes the possibility of spending Christmas with others meaningful, even if she hides that need behind practical excuses.",
-    "explanation": "Katherine emphasizes practical reasons, but the chapter strongly suggests that isolation is the deeper issue."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "come around",
-    "prompt": "Complete the sentence with two words: Katherine slowly begins to ________ ________ to Anne’s invitation.",
-    "answer": "come around",
-    "accepted": ["come around"],
-    "explanation": "“Come around” means gradually become willing to agree."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "push away",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {"speaker": "Anne", "text": "You say you’re lonely, but your sarcasm makes friendship difficult."},
-      {"speaker": "Katherine", "text": "So you think I ________ people ________ before they can reject me?"}
-    ],
-    "options": ["push / away", "look / up", "take / over", "bring / around"],
-    "answer": "push / away",
-    "explanation": "To “push people away” means behave in ways that prevent emotional closeness."
+    "answer": "Katherine's daily environment may reinforce her defensiveness by giving more attention to faults than strengths",
+    "explanation": "The imbalance helps Anne understand why Katherine may expect judgment and react defensively."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "theme",
-    "prompt": "What makes Anne’s kindness toward Katherine effective?",
+    "target": "nuance",
+    "prompt": "Why does Anne’s blunt remark succeed where politeness has failed",
     "options": [
-      "She combines compassion with honesty instead of simply tolerating every rude remark.",
-      "She never disagrees with Katherine.",
-      "She offers Katherine money.",
-      "She asks other teachers to pressure Katherine."
+      "Katherine hears it as honest engagement rather than careful pity",
+      "Katherine enjoys being insulted by strangers",
+      "Mrs. Dennis has ordered her to accept",
+      "The remark reminds Katherine of Gilbert"
     ],
-    "answer": "She combines compassion with honesty instead of simply tolerating every rude remark.",
-    "explanation": "Anne’s relationship with Katherine begins to change when kindness is joined by directness."
+    "answer": "Katherine hears it as honest engagement rather than careful pity",
+    "explanation": "Directness briefly breaks through Katherine’s defensive expectation of pity."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "revealing",
+    "prompt": "Why does Katherine’s request for a dog matter to Anne",
+    "options": [
+      "It reveals how deeply Katherine wants companionship even though she rarely admits loneliness",
+      "It proves Katherine plans to leave teaching for farming",
+      "It explains why Mrs. Dennis dislikes Anne",
+      "It shows Katherine wants to enter a dog competition"
+    ],
+    "answer": "It reveals how deeply Katherine wants companionship even though she rarely admits loneliness",
+    "explanation": "Anne reads the request as an emotional need, not merely a preference for pets."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "imbalance",
+    "prompt": "What does Anne notice about the way Mrs. Dennis shares information with Katherine",
+    "options": [
+      "Criticism is repeated while praise is often left unsaid",
+      "Every comment is equally positive and negative",
+      "Mrs. Dennis never discusses Katherine at all",
+      "Only school news is repeated"
+    ],
+    "answer": "Criticism is repeated while praise is often left unsaid",
+    "explanation": "The pattern creates an unfair emotional imbalance."
+  },
+  {
+    "type": "fill",
+    "instant": false,
+    "target": "wear down",
+    "prompt": "Complete the sentence. Constant small criticisms can slowly ________ someone ________.",
+    "answer": "wear down",
+    "accepted": [
+      "wear down"
+    ],
+    "explanation": "To wear someone down means gradually reduce their confidence, energy, or resistance."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "motive",
+    "prompt": "Why does Anne keep trying to reach Katherine even after several cold responses",
+    "options": [
+      "She senses that Katherine's sharpness may be protecting loneliness rather than showing simple dislike",
+      "She wants Katherine to resign from the school immediately",
+      "She hopes to win a public argument with her",
+      "Rebecca has ordered Anne to invite her"
+    ],
+    "answer": "She senses that Katherine's sharpness may be protecting loneliness rather than showing simple dislike",
+    "explanation": "Anne reads the exhaustion and isolation beneath Katherine's defensive manner."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "paraphrase",
+    "prompt": "Which sentence best paraphrases the idea that blunt honesty finally reaches Katherine",
+    "options": [
+      "A direct and sincere approach succeeds where polite hints have failed",
+      "Anne insults Katherine until she agrees",
+      "Katherine only responds to formal language",
+      "Mrs. Dennis forces Katherine to accept"
+    ],
+    "answer": "A direct and sincere approach succeeds where polite hints have failed",
+    "explanation": "The point is that plain sincerity breaks through Katherine's distrust."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "natural_response",
+    "prompt": "Katherine says, 'You will probably regret inviting me.' What is the most natural B2 response from Anne",
+    "options": [
+      "Maybe you should let me decide that. I asked because I genuinely want you to come.",
+      "You're right. I already regret it.",
+      "Everyone else will probably avoid you anyway.",
+      "Just stop being difficult and say yes."
+    ],
+    "answer": "Maybe you should let me decide that. I asked because I genuinely want you to come.",
+    "explanation": "Anne's response would be warm, firm, and respectful rather than sentimental or rude."
   }
 ]
 ```
