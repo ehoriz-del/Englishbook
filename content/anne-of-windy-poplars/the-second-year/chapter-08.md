@@ -1,101 +1,77 @@
-# Chapter 8 — Cousin Ernestine Bugle
+# Chapter 8 — Cousin Ernestine’s Warnings
 
 ## Story Summary
 
-Cousin Ernestine Bugle comes from Lowvale to visit Windy Poplars. She is a distant relative of the late Captain MacComber, but Aunt Kate and Aunt Chatty are not especially pleased to see her. Ernestine has a habit of worrying constantly about her own health, other people’s health, marriages, deaths, weather, money, and almost anything else she can turn into a possible disaster.
+Cousin Ernestine Bugle arrived at Windy Poplars carrying the atmosphere of bad news before anyone had heard a word. She had walked in from Lowvale and appeared tired, dusty, and wrapped in rusty black clothing that made her look prepared for mourning even on an ordinary day. She was related to the late Captain MacComber, though Aunt Kate privately considered the relationship much closer than she would have preferred. Before Ernestine had properly settled at the table, she sighed that she was afraid if she sat down she might never manage to rise again.
 
-At supper Ernestine announces that she is so tired she is almost afraid to sit down because she may never be able to stand up again. Rebecca Dew, who prefers to eat in the kitchen rather than spend the meal listening to Ernestine, still comes in and out to serve the food.
+Anne had known pessimistic people, but Ernestine's imagination worked with extraordinary discipline. In Ernestine's mind, even harmless facts opened the door to danger, so news of a baby became a reason to imagine illness and a wedding became an excuse to predict disappointment. A repaired barn reminded her how easily roofs could be torn away by storms. Good health seemed suspicious because it might not last. Even fine weather merely gave Ernestine time to wonder what would happen when it changed.
 
-Ernestine immediately begins talking about illness. She worries that something she ate may have poisoned her. When she thinks she sees a spider in the cream jug, Rebecca sharply insists that Windy Poplars does not have spiders in its cream jugs.
+Rebecca Dew refused to sit at the table while the visitor was present. She claimed food lost its taste in a room where every mouthful could lead to a discussion of disease or death. Nevertheless, she had to carry dishes in from the kitchen, and each entrance exposed her to another prediction. Anne watched Rebecca's expression tighten while Aunt Kate worked patiently to redirect the conversation toward safer territory. Aunt Chatty tried as well, offering small pieces of neighborhood news with the hopeful air of someone putting flowers into a room that insisted on remaining dark.
 
-Ernestine then talks about a woman she visited earlier who has a rash. She has already warned the woman that it might be measles and that she could suffer permanent eye problems. She also worries about the woman’s mother and imagines that a simple case of indigestion could actually be a serious growth.
+Nothing worked for long. Aunt Kate mentioned neighbors in Lowvale, choosing people whose circumstances seemed unquestionably pleasant. Ernestine found uncertainty in every case, insisting that even a happy marriage might only be the beginning of some future disappointment. Someone who had recovered from illness might be entering a worse stage. A young couple who bought a farm could discover hidden problems in the house, the soil, or the well. If a family welcomed a baby, Ernestine remembered some alarming fact about heredity. She did not invent disasters out of cruelty. She truly believed that noticing danger early was a form of wisdom.
 
-Rebecca points out the weaknesses in some of Ernestine’s predictions, but Ernestine cannot be discouraged. She talks as if every ordinary symptom is the beginning of a disaster.
+At first Anne was entertained by the consistency. There was almost an art to Ernestine's ability to darken any subject. After an hour, however, the effect became physical. The warm room seemed less warm, the meal felt heavier, and a harmless wind outside began to sound more serious simply because Ernestine had already wondered whether it might damage a roof. Anne understood why Rebecca privately called her Miss Much-afraid. The name was unkind, but it captured the way fear had become Ernestine's normal method of reading the world.
 
-Anne laughs at one point, and Ernestine tells her that laughing so much is dangerous. According to Ernestine, Anne will eventually discover that life is a melancholy business. She offers an example of a cheerful woman who later died of a stroke, as though the woman’s happiness had somehow tempted fate.
+Her anxiety was not limited to obvious dangers. She worried about moral balance as if happiness itself created debt. When Aunt Kate praised a good and respected man, Ernestine agreed that he was admirable, then suggested that such goodness probably meant one of his sons would go badly wrong. Life, in her view, would not allow too much good fortune to gather in one family. Rebecca entered with tea at that moment and looked as if she was reconsidering the Christian duty of hospitality.
 
-Rebecca asks whether Ernestine was ever young. Ernestine complains about Rebecca’s way of speaking but continues her list of worries.
+The conversation moved on to money troubles, poor marriages, contagious illnesses, weak hearts, storms, and accidents that might happen because similar accidents had happened to somebody else years before. Ernestine also described several of her own physical symptoms in careful detail while insisting she was not the complaining sort. Anne began to feel both irritated and sorry for her. Ernestine suffered possible disasters once in imagination and then, if they actually came, would have to suffer them again in reality.
 
-She turns to the new minister in Lowvale. She is afraid he may be too frivolous because of the shape of his legs, which make her suspect that he once liked dancing. She is also troubled by the fact that his young wife is very much in love with him, which Ernestine somehow considers slightly improper for a minister’s wife.
+Even pleasant memories were unsafe. A successful journey reminded Ernestine of trains that had left the track. A good crop raised questions about next year's weather. Someone's long life made her wonder whether living too long might be a burden. By supper's end, Anne felt that almost every ordinary happiness had been examined and found capable of going wrong.
 
-Conversation moves to recent weddings. Ernestine predicts trouble for nearly every couple. Peter Ellis and Fanny Bugle have known each other for three years, but Ernestine still thinks they may have married too quickly. She criticizes Fanny’s housekeeping because she irons table napkins incorrectly and because she ate an egg on the morning of her wedding.
+When the visit finally ended, the wind had strengthened. Naturally Ernestine worried about the barn at home, the road underfoot, and whether damp air would affect her health. Anne helped her into an unfortunate hat with a tired ostrich feather while Aunt Chatty searched for a wrap. As Anne leaned closer, Ernestine noticed that her throat sounded slightly rough.
 
-Ernestine compares Fanny unfavorably with older members of the family, including women who treated grief and marriage with much greater seriousness. She remembers relatives who wore mourning clothes for years and behaved dramatically before their weddings.
+That small detail opened one final field of disaster. Ernestine warned her that sore throats could become serious if neglected, then offered a form of comfort entirely her own. If Anne happened to die young, she observed, at least she would be spared many of the troubles that came later in life.
 
-Aunt Kate asks about another woman who may remarry. Ernestine worries that the first husband, who is believed to be dead, might unexpectedly return. She then explains that she herself once refused a marriage proposal because she considered marriage a dangerous leap into the unknown.
+For several seconds Anne could think of no reply. Ernestine departed into the windy evening, and the front door closed behind her. The household remained silent until Rebecca came in from the kitchen and looked around as if confirming that both the furniture and the inhabitants had survived. Then everyone seemed to breathe more freely.
 
-The number of recent weddings in Lowvale makes Ernestine predict an equal number of funerals in the coming summer, as though happiness has to be balanced by disaster.
+Aunt Chatty kept trying to introduce cheerful subjects and Aunt Kate answered Ernestine with practical facts, but every topic somehow returned to illness, accident, or disappointment. Weddings suggested future misery, travel suggested disaster, and good health merely gave Ernestine another reason to predict what might go wrong next. Rebecca Dew escaped to the kitchen whenever she could and made no effort to hide how exhausting she found the visit.
 
-Rebecca continues to answer her with dry remarks. When Ernestine talks about a man whose uncle once believed he was a dog, Rebecca says that if he did his own barking there was little reason for anyone else to complain. Ernestine seriously explains that the man did not bark; he merely gnawed bones and buried them.
-
-The conversation then moves to travel. Ernestine worries that a woman visiting San Francisco may be caught in an earthquake or may get into trouble at the border on the way home. She worries that another relative who spent the winter in Florida may be becoming too rich and worldly.
-
-Ernestine also gives gloomy romantic advice. She has told a young woman choosing between two men that she will probably never get the one she loves best, so she should choose the man who loves her, assuming she can even be certain of that.
-
-She warns against May weddings because she considers them unlucky.
-
-Later she asks whether a calceolaria is a flower or a disease. When Aunt Chatty tells her it is a flower, Ernestine seems almost disappointed. She then criticizes Chatty’s geraniums and complains that people do not observe mourning customs as seriously as they once did.
-
-Rebecca notices that Ernestine’s dress is open at the back and tells her. Ernestine answers that she is wearing several petticoats and begins criticizing younger women for wearing fewer. She wonders whether people think about Judgment Day.
-
-Rebecca responds by asking whether the number of petticoats will be one of the questions asked at Judgment Day. She escapes to the kitchen before anyone can react.
-
-Ernestine continues with stories about death, inheritance disputes, questionable marriages, mysterious illnesses, babies, bad wells, typhoid, and possible spinal meningitis. Aunt Kate tries to mention a nice young couple, but Ernestine immediately finds reasons to worry about them too.
-
-Although Ernestine repeatedly says she is not a complaining person, almost every sentence contains a new complaint or warning.
-
-At last she prepares to leave. She worries that darkness may fall before she gets home, that she may get her feet wet, and that the weather may be changing for the worse.
-
-Anne helps her with her coat and hat. Ernestine notices that Anne has a sore throat and immediately warns her that it could become diphtheria. Then she adds, as though offering comfort, that dying young would at least spare Anne a great deal of trouble.
-
-Ernestine finally leaves Windy Poplars, taking her long list of fears with her. Anne, Aunt Kate, Aunt Chatty, and Rebecca are left with the memory of a supper during which almost every ordinary subject had been turned into a possible catastrophe.
+After Ernestine finally left, the house seemed to grow lighter. Rebecca Dew came back from the kitchen, and the others relaxed without having to say why. Anne could laugh at some of the visit, but the endless warnings stayed in her mind. By the time she went upstairs, she had heard so many possible illnesses, accidents, and unhappy endings that even ordinary things seemed less secure than they had that morning.
 
 ## Vocabulary & Nuance
 
-- **lugubrious** — looking or sounding extremely sad and gloomy.
 - **foreboding** — a strong feeling that something bad is going to happen.
-- **melancholy** — a deep, quiet sadness.
-- **frivolous** — not serious enough; too concerned with amusement.
-- **ructions** — noisy quarrels or serious trouble.
-- **borrow trouble** — worry about problems before they actually happen.
-- **go to the bad** — become morally worse or get into serious trouble.
-- **turn out** — develop or prove to be a particular way.
-- **make up for** — compensate for something.
-- **get over** — recover from an illness, worry, or emotional problem.
+- **pessimistic** — expecting negative outcomes rather than positive ones.
+- **anticipation** — the experience of expecting something before it happens.
+- **heredity** — the passing of characteristics through family lines.
+- **hospitality** — friendly and generous treatment of guests.
+- **dwell on** — keep thinking or talking about something, especially something negative.
+- **work yourself up** — make yourself increasingly anxious or emotional.
+- **rub off on** — begin to affect another person’s mood or behavior.
+- **brace yourself for** — prepare mentally for something unpleasant.
+- **let go of** — stop holding onto a thought, feeling, or concern.
 
-## Conversation 1 — Borrowing Trouble
+## Conversation 1 — After Ernestine Leaves
 
-Leah: My aunt worries about everything that might possibly happen.
-Noah: Even when there’s no real sign of a problem?
-Leah: Especially then.
-Noah: She sounds as if she’s constantly **borrowing trouble**.
-Leah: Exactly. She can turn a sunny day into a warning about drought.
-Noah: That must be exhausting for everyone around her.
-
-### Phrasal verbs & expressions
-
-- borrow trouble — worry unnecessarily about future problems.
-- come up with — think of or produce an idea.
-- turn into — change something into something else.
-- dwell on — think or talk about something for too long.
-- brush off — dismiss something as unimportant.
-
-## Conversation 2 — Responding to Constant Negativity
-
-Mina: How does Rebecca manage not to lose patience?
-Daniel: She uses humor.
-Mina: Sometimes pretty sharp humor.
-Daniel: True, but it keeps Ernestine from completely **taking over** the room.
-Mina: I suppose arguing seriously with every prediction would never end.
-Daniel: Right. Ernestine would just **come up with** another disaster.
+Rebecca: I feel as if we have survived a natural disaster.
+Anne: Her worries do **rub off on** you after a while.
+Rebecca: She can take a sunny day and work herself up over next month’s rain.
+Anne: I almost started checking my own throat.
+Rebecca: Do not encourage her from a distance.
 
 ### Phrasal verbs & expressions
 
-- take over — dominate or control a situation.
-- come up with — produce an idea or explanation.
-- wear someone out — exhaust someone.
-- go on about — talk repeatedly about the same subject.
-- lighten up — become less serious or worried.
+- rub off on — affect another person through repeated contact.
+- work yourself up — make yourself increasingly upset or anxious.
+- dwell on — keep thinking about something negative.
+- shake off — get rid of a mood or feeling.
+- get carried away — become too involved or extreme.
+
+## Conversation 2 — Anne Thinks About Fear
+
+Anne: There is a difference between preparing for a real problem and living inside an imaginary one.
+Aunt Kate: Ernestine thinks worry keeps her safe.
+Anne: It mostly seems to **wear her out** before anything happens.
+Aunt Kate: Some habits are difficult to let go of.
+Anne: Especially when we mistake them for wisdom.
+
+### Phrasal verbs & expressions
+
+- wear someone out — make someone extremely tired.
+- let go of — stop holding onto something.
+- prepare for — get ready for something.
+- hold onto — continue to keep a belief or feeling.
+- mistake for — incorrectly identify one thing as another.
 
 ## Practice
 
@@ -104,102 +80,111 @@ Daniel: Right. Ernestine would just **come up with** another disaster.
   {
     "type": "choice",
     "instant": true,
-    "target": "lugubrious",
-    "prompt": "Which description best fits Cousin Ernestine’s manner?",
+    "target": "inference",
+    "prompt": "What conclusion does Anne draw from the visit",
     "options": [
-      "Gloomy and full of dark predictions",
-      "Energetic and adventurous",
-      "Quietly confident",
-      "Carefree and playful"
+      "Real trouble deserves courage when it arrives, but imagined trouble should not occupy the present",
+      "The safest life is one with no close relationships",
+      "Ernestine should never be allowed to visit relatives",
+      "People should ignore every possible risk"
     ],
-    "answer": "Gloomy and full of dark predictions",
-    "explanation": "“Lugubrious” means extremely gloomy or mournful in manner."
+    "answer": "Real trouble deserves courage when it arrives, but imagined trouble should not occupy the present",
+    "explanation": "Anne distinguishes practical readiness from constant anticipatory fear."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "nuance",
+    "prompt": "Why does Anne feel sympathy as well as irritation toward Ernestine",
+    "options": [
+      "Ernestine appears to believe worry is responsible behavior and suffers because of it",
+      "Ernestine secretly pays all the household bills",
+      "Anne discovers Ernestine is seriously ill",
+      "Rebecca admits the visitor is always correct"
+    ],
+    "answer": "Ernestine appears to believe worry is responsible behavior and suffers because of it",
+    "explanation": "Anne sees that fear has become a painful habit rather than simple unpleasantness."
   },
   {
     "type": "choice",
     "instant": true,
     "target": "foreboding",
-    "prompt": "What kind of forebodings does Ernestine repeatedly express?",
+    "prompt": "What defines Cousin Ernestine’s way of thinking",
     "options": [
-      "Fears about illness, death, bad marriages, weather, and other disasters",
-      "Predictions that everyone will become rich",
-      "Plans for a holiday",
-      "Ideas for improving Windy Poplars"
+      "She treats ordinary situations as signs of future trouble",
+      "She refuses to discuss unpleasant subjects",
+      "She believes every problem will solve itself",
+      "She ignores health and safety completely"
     ],
-    "answer": "Fears about illness, death, bad marriages, weather, and other disasters",
-    "explanation": "Ernestine expects negative outcomes in almost every situation."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "borrow trouble",
-    "prompt": "Complete the expression: Rebecca thinks Ernestine is always trying to ________ ________ before it arrives.",
-    "answer": "borrow trouble",
-    "accepted": ["borrow trouble"],
-    "explanation": "To “borrow trouble” means worry in advance about things that may never happen."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "go on about",
-    "prompt": "Choose the best expression.",
-    "dialogue": [
-      {"speaker": "Anne", "text": "She has been talking about illnesses for half the meal."},
-      {"speaker": "Rebecca", "text": "And she’ll ________ them until supper is over."}
-    ],
-    "options": ["go on about", "take after", "break into", "put away"],
-    "answer": "go on about",
-    "explanation": "“Go on about” means keep talking about the same subject for a long time."
+    "answer": "She treats ordinary situations as signs of future trouble",
+    "explanation": "Her conversation repeatedly turns neutral or pleasant facts into warnings."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "detail",
-    "prompt": "Why does Ernestine keep her fur neckpiece on at the table?",
+    "target": "hospitality",
+    "prompt": "Why is Rebecca especially irritated during the visit",
     "options": [
-      "She is afraid of drafts.",
-      "She wants to show how expensive it is.",
-      "She has lost her coat.",
-      "Rebecca tells her to wear it."
+      "She must continue serving a guest whose conversation makes the whole meal gloomy",
+      "Ernestine refuses to eat anything Rebecca cooks",
+      "Aunt Kate asks Rebecca to leave the house",
+      "Anne has invited several more guests without warning"
     ],
-    "answer": "She is afraid of drafts.",
-    "explanation": "Her fear of drafts is one example of her constant anxiety about health."
+    "answer": "She must continue serving a guest whose conversation makes the whole meal gloomy",
+    "explanation": "Rebecca’s duty as part of the household keeps bringing her back into the conversation."
   },
   {
     "type": "fill",
     "instant": false,
-    "target": "turn out",
-    "prompt": "Complete the sentence: Ernestine expects every small problem to ________ ________ to be something much worse.",
-    "answer": "turn out",
-    "accepted": ["turn out"],
-    "explanation": "“Turn out to be” means prove or develop into something."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "lighten up",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {"speaker": "Chatty", "text": "Couldn’t you look at the cheerful side just once?"},
-      {"speaker": "Ernestine", "text": "You mean I should ________? I’m afraid that would be unwise."}
+    "target": "dwell on",
+    "prompt": "Complete the sentence. Ernestine tends to ________ ________ every possible danger long before it happens.",
+    "answer": "dwell on",
+    "accepted": [
+      "dwell on"
     ],
-    "options": ["lighten up", "take over", "show off", "give away"],
-    "answer": "lighten up",
-    "explanation": "“Lighten up” means become less serious, tense, or worried."
+    "explanation": "To dwell on something means keep thinking or talking about it, often negatively."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "detail",
-    "prompt": "What does Ernestine say when she learns Anne has a sore throat?",
+    "target": "motive",
+    "prompt": "Why does Ernestine keep turning pleasant news into warnings",
     "options": [
-      "She warns that it could be a serious illness and adds that dying young would spare Anne trouble.",
-      "She offers Anne a home remedy and leaves immediately.",
-      "She says sore throats are never serious.",
-      "She asks Anne to sing at church."
+      "She has developed a habit of interpreting uncertainty through fear and expects danger before evidence appears",
+      "She is secretly angry with Anne",
+      "She wants to end the family visit early",
+      "She has reliable information that every disaster will happen"
     ],
-    "answer": "She warns that it could be a serious illness and adds that dying young would spare Anne trouble.",
-    "explanation": "Her final remark continues the same pattern of turning every situation into a dark prediction."
+    "answer": "She has developed a habit of interpreting uncertainty through fear and expects danger before evidence appears",
+    "explanation": "Her outlook, not the facts themselves, drives the repeated warnings."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "paraphrase",
+    "prompt": "Which sentence best paraphrases the idea that Ernestine leaves a tone of mind behind",
+    "options": [
+      "After she leaves, Anne notices that the woman's anxious way of thinking has begun to influence her",
+      "Ernestine forgets an object at Windy Poplars",
+      "Anne cannot remember what Ernestine said",
+      "The family wants Ernestine to move in permanently"
+    ],
+    "answer": "After she leaves, Anne notices that the woman's anxious way of thinking has begun to influence her",
+    "explanation": "The phrase describes emotional influence rather than a physical object."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "natural_response",
+    "prompt": "Aunt Chatty says, 'Every cheerful subject seems to become a disaster before Ernestine is finished with it.' What is the most natural response",
+    "options": [
+      "I noticed that too. We may have to keep her worries in perspective rather than absorb them.",
+      "She's right about everything, so we should stop making plans.",
+      "We should never invite relatives again.",
+      "Let's tell her that nobody wants to hear her speak."
+    ],
+    "answer": "I noticed that too. We may have to keep her worries in perspective rather than absorb them.",
+    "explanation": "The response recognizes the effect without becoming cruel or equally fearful."
   }
 ]
 ```

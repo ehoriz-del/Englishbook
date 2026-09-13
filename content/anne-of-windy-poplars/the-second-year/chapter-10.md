@@ -1,107 +1,80 @@
-# Chapter 10 — Hazel Marr’s Dilemma
+# Chapter 10 — Hazel, Terry, and Moonlight
 
 ## Story Summary
 
-Hazel Marr comes to the tower room at Windy Poplars and immediately begins talking to Anne with great emotion. Hazel is a pretty, highly romantic eighteen-year-old who likes to describe herself as unusually sensitive and different from ordinary people.
+Late in May, when the harbor still held light long after supper, Hazel Marr came to Anne's tower room with the air of a person carrying a crisis too large for ordinary furniture. Hazel was beautiful, enthusiastic, and passionately convinced that her inner life was more complicated than most people's. Since moving to Summerside, she had developed an intense admiration for Anne and treated her as adviser, confidante, and authority on nearly every emotional question.
 
-Hazel tells Anne that she knew from the first moment they met that Anne would understand her. She praises Anne’s smile, personality, and sympathy and asks whether Anne loves her even a little. Anne is amused but genuinely fond of Hazel.
+Anne liked her. Hazel could be exhausting, but her dramatic sincerity was difficult to resist. That evening she insisted on sitting without the lamp because the young moon and the scent of apple blossoms created exactly the right atmosphere. She praised Anne extravagantly, declared that few people could understand her soul, and wandered through several subjects before finally reaching the reason she had come.
 
-The two sit in the tower room during a late-May evening. Hazel does not want the lamp turned on because she likes the twilight. She talks rapidly about feelings, poetry, beauty, and the difficulty of being misunderstood.
+She was engaged to Terry Garland and no longer believed she loved him. Anne waited, expecting the explanation to become clearer, but it did not. Hazel said the engagement had happened in moonlight, when Terry had looked unusually attractive and the whole evening had seemed made for romance. Since then she had begun waking at night with doubts. She had walked around the pond thinking about marriage until the idea felt less like fulfillment and more like a door closing behind her.
 
-Eventually she reaches the real reason for her visit. Hazel is secretly engaged to Terry Garland, but she now believes she does not love him enough to marry him.
+To Anne, the practical question was simple. If Hazel did not love Terry and did not want to marry him, she needed to tell him honestly. Hazel regarded this advice as emotionally inadequate. Her mother loved the match, Aunt Jean disliked Terry, and Hazel herself might be meant for a career, so every opinion became another reason for postponing a decision that only Hazel could make. She considered nursing, partly because she imagined caring for a handsome millionaire who would recover under her devotion and eventually take her to the Mediterranean. At another moment she thought becoming a nun might be more romantic.
 
-At first Hazel thought she was deeply in love. She remembers staring at Terry, feeling excited whenever he came near, and treating every emotion as proof of a great romance. Now that they are engaged, however, the excitement has disappeared.
+Terry's weaknesses grew larger as Hazel described them. He did not respond properly to poetry or symbolism. He could turn a poetic object into a discussion of whether it was practical. When Hazel once admired the idea of writing with a crow feather, Terry had focused on how badly such a pen would wear. To Hazel, this was almost evidence of spiritual incompatibility.
 
-Hazel says she has hardly been eating or sleeping because she feels trapped. She does not want to hurt Terry because she believes he adores her. Her mother is delighted by the engagement, and Hazel’s friends think Terry is an excellent match partly because he will inherit ten thousand dollars when he turns twenty-five.
+Anne listened until the pattern became clear. Hazel wanted freedom from the engagement, but she did not want to cause the pain required to end it. She wanted Anne to talk to Terry. Since Terry respected Anne, Hazel believed he would accept the decision from her without anger. Anne resisted. An engagement belonged to the two people inside it, and she had no wish to become a messenger between them.
 
-Hazel insists that money means nothing to her. She says she wants a life full of poetry, romance, and deeper meaning.
+Hazel pleaded for Anne to intervene, adding that Terry had a temper and making the conversation sound dangerous enough to justify handing the responsibility to someone else. She was afraid of hurting him, afraid of being blamed, and afraid she might weaken if she saw him upset. She declared that Anne was the only person wise enough to handle the situation. The praise was excessive, yet Anne was not entirely immune to it. Being trusted so completely was flattering, and Hazel's distress appeared genuine.
 
-She remembers that even on the moonlit night when Terry proposed, part of her mind was occupied with planning a costume for a fancy-dress party. This convinces her that she could not have been completely in love with him.
+Before leaving, Hazel put on a rosy hat that made her look even younger than she was. Anne, moved by affection despite all the drama, told her she looked lovely. Hazel accepted the compliment with almost grateful relief. Beauty, she confessed, could be a burden because people expected too much from a girl once they had heard she was pretty. Anne could not decide whether the statement was vain, insecure, or both.
 
-Hazel then talks about careers. She says she might like to become a nurse and imagines a highly romantic version of the profession in which a rich patient falls in love with her and takes her to the Riviera. She even briefly considers becoming a nun because she likes the dramatic idea of being a “bride of heaven,” although she is not Catholic.
+After Hazel left, Rebecca Dew asked how Anne had survived the conversation. Anne defended her. She remembered being talkative and romantic herself at a younger age. Rebecca remained unconvinced and suggested that Hazel possessed more appearance than substance. Anne thought the judgment unfair, though she admitted that Hazel seemed to experience every passing feeling as permanent truth.
 
-Anne tries several times to give practical advice, but Hazel frequently interrupts her.
+Then Hazel went away to Kingsport for a visit, and Terry began appearing more often in Anne's company. He drove her home from events and found reasons to talk. Anne thought of him almost as a younger friend and did not take the attention seriously. One moonlit evening, however, Terry began discussing his engagement. He called Hazel a child and admitted that he had begun to think marrying her would be a mistake.
 
-Hazel also believes that she and Terry have almost nothing in common. Terry is practical and does not respond to poetic ideas in the way Hazel wants. As evidence, Hazel tells Anne about a quill pen given by another young man to his fiancée. The pen came from a crow’s feather, and the giver described it in romantic language. Terry merely observed that the pen would probably wear out and that crows did not soar to heaven.
+Anne remembered the tower room. Here, she thought, was the solution Hazel had begged her to provide. She told Terry that Hazel had expressed the same doubts and had been afraid to hurt him. His relief was immediate. He thanked Anne for removing a weight from his mind. For a few minutes she felt she had successfully rescued two people from an unsuitable marriage.
 
-Hazel is horrified by his lack of poetry.
+Then the conversation shifted. Terry's gratitude became admiration. He began suggesting that meeting Anne had shown him the difference between a girl and a mature woman. Moonlight, which had already done enough damage to his judgment, seemed ready to create another romantic mistake. Anne ended the conversation quickly and escaped before he could say anything more definite.
 
-She has also delayed accepting an engagement ring because it feels too permanent. The feeling makes her even more certain that she does not want to marry Terry.
+Hazel's manner kept changing as she spoke. One moment she sounded trapped by the engagement, and the next she defended some tender memory of Terry as though it proved they were meant for each other. Anne began to see that the difficulty was not simply a lack of love. Hazel wanted a decision that would preserve every possibility at once, including freedom, romance, family approval, and the flattering idea that her life was unusually dramatic.
 
-Finally Hazel asks Anne to speak to Terry for her. She says Terry admires Anne and would listen to her. Anne refuses. She tells Hazel that if she truly does not love Terry, she must tell him herself.
-
-Hazel declares that she will never love anyone again and that love only causes suffering. A few moments later, she becomes absorbed in Anne’s compliment about her beauty and talks about how difficult it is to have a reputation for being pretty because she is always afraid new people will be disappointed when they meet her.
-
-After Hazel leaves, Rebecca Dew asks how Anne can tolerate so much dramatic conversation. Rebecca says Hazel is insincere and compares her to skim milk pretending to be cream.
-
-Anne defends Hazel. She admits that Hazel dramatizes herself, but she believes the girl is sincere about wanting to escape the engagement to Terry. Anne already has a low opinion of Terry and thinks Hazel may indeed be making a mistake.
-
-Hazel soon leaves Summerside to visit friends in Kingsport. During her absence, Terry begins spending more time with Anne. He takes her for drives and often walks her home from social events. Because Anne and Terry are close in age, they use each other’s first names, although Anne thinks of him more as a boy who needs sensible guidance than as a possible romantic interest.
-
-At a party given by May Connelly, Terry becomes sentimental while he and Anne are standing in a moonlit garden. Anne reminds him that he is engaged to Hazel.
-
-Terry dismisses the engagement as childish nonsense. He says he and Hazel were both carried away by moonlight and suggests that Hazel has taken the relationship more seriously than he intended.
-
-Anne quickly remembers Hazel’s confession. She thinks this may be the perfect opportunity to free both young people from an engagement neither seems to want.
-
-Terry tells Anne that he has been trying to find a way to make Hazel understand that they made a mistake.
-
-Anne explains that Hazel has also said she wants to be free but is afraid of hurting him. Anne tells Terry that both of them are acting like children trying to be grown up. She says Hazel does not truly love him and that Terry is more in love with romance itself than with Hazel.
-
-Terry is visibly relieved. He thanks Anne for taking a weight off his mind.
-
-Then his behavior changes. He begins speaking to Anne in a romantic tone and tells her that she looks like a white rose in the moonlight. Anne suddenly realizes that Terry’s attention may be moving toward her now that he believes he is free of Hazel.
-
-Anne immediately leaves.
-
-Anne leaves Terry as soon as his attention toward her becomes romantic. She believes Hazel and Terry have both admitted that the engagement was a mistake, but Hazel will soon return with a very different interpretation of Anne’s involvement.
+Walking away, she felt less satisfied with her interference than she had a few minutes earlier. She had carried Hazel's private words into a conversation Hazel was not present to control. Terry had accepted the information eagerly, perhaps too eagerly. Anne still believed the engagement was unwise, but for the first time she wondered whether being right about the result had made her careless about the method. She would not have long to wonder. Hazel was coming back to Summerside, and the consequences were already on their way.
 
 ## Vocabulary & Nuance
 
-- **mercenary** — interested mainly in money or material advantage.
-- **irrevocable** — impossible or very difficult to reverse.
-- **predicament** — a difficult or embarrassing situation.
-- **sentimental** — strongly influenced by tender or romantic feelings.
-- **extricate** — free someone from a complicated or difficult situation.
-- **pour your heart out** — tell someone your private feelings in great detail.
-- **get carried away** — become so excited or emotional that your judgment weakens.
-- **take someone seriously** — believe that someone truly means what they say.
-- **throw yourself away on someone** — choose a partner who is considered unworthy of you.
-- **take a weight off someone’s mind** — remove a serious worry.
+- **confidante** — a trusted person with whom private matters are shared.
+- **incompatibility** — a state in which two people or things do not fit well together.
+- **inadequate** — not sufficient for the need or situation.
+- **flattering** — pleasing because it expresses admiration.
+- **consequence** — a result that follows from an action or decision.
+- **pour your heart out** — speak openly and emotionally about private feelings.
+- **hand something over** — give responsibility or control to someone else.
+- **back out of** — withdraw from a commitment or agreement.
+- **get carried away** — become overly excited or emotional.
+- **step in** — become involved in order to help or influence a situation.
 
-## Conversation 1 — Ending an Engagement Honestly
+## Conversation 1 — Hazel Wants Anne to Fix It
 
-Hazel: I don’t think I love him, but I’m afraid to hurt him.
-Anne: Then delaying the truth will probably hurt both of you more.
-Hazel: I wish someone else could tell him.
-Anne: You need to **own up to** what you feel yourself.
-Hazel: What if he’s devastated?
-Anne: You can be kind without pretending you want a marriage you don’t want.
-
-### Phrasal verbs & expressions
-
-- own up to — admit something honestly.
-- break off — end a relationship or agreement.
-- put off — delay something.
-- go through with — complete something difficult that has been planned.
-- back out of — withdraw from a plan or commitment.
-
-## Conversation 2 — Getting Carried Away
-
-Terry: We were both swept up by the moonlight.
-Anne: That is not a very solid basis for an engagement.
-Terry: I think Hazel **got carried away**, and so did I.
-Anne: Then you both need to be honest about it.
-Terry: I was afraid of hurting her.
-Anne: Avoiding the truth usually makes the situation worse.
+Hazel: I cannot tell Terry myself. He will be furious.
+Anne: You are asking me to **step in** and end your engagement for you.
+Hazel: You understand him better than I do right now.
+Anne: That may be exactly why I should stay out of it.
+Hazel: I knew you would make this difficult by being reasonable.
 
 ### Phrasal verbs & expressions
 
-- get carried away — become overly excited or emotional.
-- sweep someone off their feet — strongly impress or romantically excite someone.
-- take a weight off someone’s mind — remove a worry.
-- work something out — solve or clarify a problem.
-- move on — continue with life after ending a situation or relationship.
+- step in — become involved to help or influence a situation.
+- stay out of — avoid becoming involved.
+- back out of — withdraw from a commitment.
+- pour your heart out — speak very openly about private feelings.
+- hand over — give responsibility to another person.
+
+## Conversation 2 — Terry Starts to Shift
+
+Terry: I think Hazel and I rushed into this.
+Anne: She has had doubts too.
+Terry: That actually takes a weight off.
+Anne: Do not **get carried away**. You still need to speak to her directly.
+Terry: I was about to say that meeting you changed how I see things.
+Anne: And that is exactly where this conversation ends.
+
+### Phrasal verbs & expressions
+
+- get carried away — become too emotional or excited.
+- rush into — do something too quickly without enough thought.
+- take a weight off — remove a source of worry.
+- speak directly to — communicate with the person concerned rather than through others.
+- cross a line — go beyond an acceptable boundary.
 
 ## Practice
 
@@ -110,102 +83,111 @@ Anne: Avoiding the truth usually makes the situation worse.
   {
     "type": "choice",
     "instant": true,
-    "target": "predicament",
-    "prompt": "What is Hazel’s main predicament?",
+    "target": "inference",
+    "prompt": "What causes Anne’s confidence to weaken at the end",
     "options": [
-      "She is engaged to Terry but believes she does not love him enough to marry him.",
-      "She has failed an examination.",
-      "She wants to leave Summerside because of school.",
-      "She has lost an expensive ring."
+      "She realizes that a desirable outcome does not automatically justify interfering in someone else’s private decision",
+      "Hazel has already married Terry",
+      "Terry refuses to believe anything Anne says",
+      "Rebecca admits she supports the engagement"
     ],
-    "answer": "She is engaged to Terry but believes she does not love him enough to marry him.",
-    "explanation": "Hazel feels trapped between the engagement and her doubts about her feelings."
+    "answer": "She realizes that a desirable outcome does not automatically justify interfering in someone else’s private decision",
+    "explanation": "Anne begins to question the method even while believing the engagement itself may be unwise."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "irrevocable",
-    "prompt": "Why does Hazel delay accepting an engagement ring?",
+    "target": "nuance",
+    "prompt": "What makes Hazel's dilemma more complicated than simply falling out of love with Terry",
     "options": [
-      "The ring makes the engagement feel too permanent.",
-      "She dislikes all jewelry.",
-      "Terry cannot afford one.",
-      "Anne tells her not to wear it."
+      "She wants the freedom to leave while still preserving romance, approval, and every attractive future possibility",
+      "She has never spoken to Terry",
+      "She dislikes everyone in her family",
+      "She has already chosen a wedding date and refuses to change it"
     ],
-    "answer": "The ring makes the engagement feel too permanent.",
-    "explanation": "Hazel describes the ring as feeling like a fetter because it would make the engagement seem more final."
+    "answer": "She wants the freedom to leave while still preserving romance, approval, and every attractive future possibility",
+    "explanation": "Her conflict comes from competing desires and from reluctance to accept the loss built into any real decision."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "dilemma",
+    "prompt": "What is Hazel’s real dilemma beneath the dramatic language",
+    "options": [
+      "She wants to leave the engagement without taking responsibility for causing pain",
+      "She wants Terry to move to Green Gables",
+      "She cannot decide which wedding dress to buy",
+      "She wants Anne to become a nurse with her"
+    ],
+    "answer": "She wants to leave the engagement without taking responsibility for causing pain",
+    "explanation": "Hazel asks Anne to carry the difficult conversation she herself wants to avoid."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "incompatibility",
+    "prompt": "What does Hazel use as evidence that Terry may not suit her",
+    "options": [
+      "His practical responses seem completely out of step with her romantic imagination",
+      "He refuses to speak to her mother",
+      "He plans to become a teacher",
+      "He dislikes every form of music"
+    ],
+    "answer": "His practical responses seem completely out of step with her romantic imagination",
+    "explanation": "Hazel interprets differences in temperament as signs of deeper incompatibility."
   },
   {
     "type": "fill",
     "instant": false,
-    "target": "pour your heart out",
-    "prompt": "Complete the sentence: Hazel comes to Anne to ________ her ________ ________ about Terry.",
-    "answer": "pour heart out",
-    "accepted": ["pour her heart out", "pour my heart out"],
-    "explanation": "To “pour your heart out” means share private feelings very openly."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "get carried away",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {"speaker": "Terry", "text": "The moonlight made everything seem more romantic than it really was."},
-      {"speaker": "Anne", "text": "So you both ________."}
+    "target": "step in",
+    "prompt": "Complete the sentence. Hazel wants Anne to ________ ________ and speak to Terry on her behalf.",
+    "answer": "step in",
+    "accepted": [
+      "step in"
     ],
-    "options": ["got carried away", "ran out", "broke down", "came across"],
-    "answer": "got carried away",
-    "explanation": "The phrase means become so emotional or excited that normal judgment is weakened."
+    "explanation": "To step in means become involved to help or influence a situation."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "detail",
-    "prompt": "What does Hazel ask Anne to do for her?",
+    "target": "motive",
+    "prompt": "Why does Hazel ask Anne to speak to Terry instead of ending the engagement herself",
     "options": [
-      "Talk to Terry and explain Hazel’s feelings",
-      "Buy her an engagement ring",
-      "Find her a nursing position",
-      "Write to Hazel’s mother"
+      "She wants relief from the decision and hopes Anne will carry the emotional consequences for her",
+      "She believes Anne dislikes Terry",
+      "She has forgotten where Terry lives",
+      "She wants Anne to marry him"
     ],
-    "answer": "Talk to Terry and explain Hazel’s feelings",
-    "explanation": "Hazel wants Anne to handle the difficult conversation because Terry admires Anne."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "take a weight off",
-    "prompt": "Complete the expression: Anne’s explanation ________ a weight ________ Terry’s mind.",
-    "answer": "takes off",
-    "accepted": ["takes off", "took off"],
-    "explanation": "To “take a weight off someone’s mind” means remove a major worry."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "break off",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {"speaker": "Hazel", "text": "I know I don’t want to marry him."},
-      {"speaker": "Anne", "text": "Then you should be honest rather than be afraid to ________ the engagement."}
-    ],
-    "options": ["break off", "bring up", "carry on", "look after"],
-    "answer": "break off",
-    "explanation": "To “break off” an engagement means end it."
+    "answer": "She wants relief from the decision and hopes Anne will carry the emotional consequences for her",
+    "explanation": "Hazel tries to hand responsibility for an uncomfortable choice to Anne."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "sequence",
-    "prompt": "What happens near the end of the chapter?",
+    "target": "paraphrase",
+    "prompt": "Which sentence best paraphrases the idea that Hazel wants to preserve every possibility at once",
     "options": [
-      "Terry begins speaking romantically to Anne after saying the engagement with Hazel was a mistake.",
-      "Hazel marries Terry.",
-      "Rebecca meets Terry for the first time.",
-      "Anne travels to Kingsport with Hazel."
+      "She wants freedom from the engagement without giving up romance, approval, or the flattering parts of being engaged",
+      "She has already made a calm final decision",
+      "She is only worried about wedding expenses",
+      "She no longer cares what anyone thinks"
     ],
-    "answer": "Terry begins speaking romantically to Anne after saying the engagement with Hazel was a mistake.",
-    "explanation": "Anne leaves quickly when Terry’s attention suddenly becomes romantic."
+    "answer": "She wants freedom from the engagement without giving up romance, approval, or the flattering parts of being engaged",
+    "explanation": "Her dilemma grows because she does not want any choice to close another option."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "natural_response",
+    "prompt": "Hazel says, 'Please tell Terry for me. I simply cannot.' What is the most natural response from Anne",
+    "options": [
+      "I can help you think it through, but the decision and the conversation really need to come from you.",
+      "Of course. I will make the decision for both of you.",
+      "Then you should stay engaged forever.",
+      "I will tell everyone in Summerside first."
+    ],
+    "answer": "I can help you think it through, but the decision and the conversation really need to come from you.",
+    "explanation": "A healthy response supports Hazel without taking over her responsibility."
   }
 ]
 ```

@@ -1,73 +1,77 @@
-# Chapter 9 — Anne Writes About Fear
+# Chapter 9 — The Tyranny of Fear
 
 ## Story Summary
 
-A few days after Cousin Ernestine Bugle’s visit, Anne writes to Gilbert from the tower room at Windy Poplars. Ernestine’s habit of beginning nearly every thought with “I’m afraid” is still fresh in Anne’s mind.
+A few evenings after Cousin Ernestine's visit, Anne sat at her desk with a letter to Gilbert and discovered that Ernestine had left something behind after all. It was not a forgotten glove or umbrella but a tone of mind. Every time Anne began a new thought, she could almost hear a worried voice asking what might go wrong next. The effect was ridiculous enough to amuse her and persistent enough to deserve an answer.
 
-Anne jokingly imitates her and writes a long list of ridiculous things she could worry about. She imagines turning gray while still young, ending up poor, having all her pupils fail their final examinations, getting hydrophobia because Mr. Hamilton’s dog barked at her, having her umbrella turn inside out, discovering that her hair is not really auburn, developing a mole on her nose when she is fifty, finding that the school is a firetrap, discovering a mouse in her bed, or even wondering whether Gilbert became engaged to her only because she was always nearby.
+She decided to make fun of the influence before it became serious. Her letter opened with an absurd inventory of possible disasters. She imagined turning gray before she was old, becoming poor, and watching her pupils fail their examinations, allowing each possibility to become slightly more ridiculous than the last. A dog had barked at her recently, so perhaps she ought to worry about disease. From there her imagination leaped to the school burning down and even to a mouse finding its way into her bed, until the catalogue of fears became impossible to take seriously. With enough effort, even Gilbert's love could be made suspicious. Perhaps he had proposed only because Anne had been available for so many years and eventually wore down his resistance.
 
-After listing the fears, Anne assures Gilbert that she has not lost her mind. She is simply feeling the aftereffects of Ernestine’s visit.
+Writing the fears down changed their size. On the page they looked exaggerated instead of powerful, and Anne began to smile as one worry followed another into absurdity. She understood something about the way imagination worked. Her own imagination had always been strong, sometimes inconveniently so, but she preferred to use it to make life richer. Ernestine used the same human capacity in the opposite direction, turning possibility into danger before reality provided evidence.
 
-Rebecca Dew has long called Ernestine “Miss Much-afraid,” and Anne now understands exactly why. Ernestine spends so much time imagining future trouble that she seems unable to enjoy the present.
+Outside the tower window, April seemed determined to argue for uncertainty rather than against it. Rain had darkened the roads and tree trunks, then sunlight returned and made wet fences shine. The hills carried a faint purple haze, and green was beginning to appear in hollows that had looked dead through winter. Water lay in shallow places along the road, reflecting quick pieces of sky whenever the clouds opened.
 
-Anne tells Gilbert that she does not want the two of them to live that way. She wants them to face life without constantly expecting disaster. She would rather be adventurous and hopeful, even if real difficulties eventually come.
+Anne put down her pen and watched the wind push clouds across the moon. Darkness and brightness moved over the harbor in wide bands, neither lasting very long. Nothing in the view was stable, yet instability did not make the night frightening. The movement was what gave it life. She thought about people who refused to enjoy a good day because a bad one might be waiting behind it and who demanded guarantees from a world that had never promised any.
 
-Outside the tower room, spring has finally reached Summerside. The snow is gone. The fields and hills have changed color, and the landscape seems alive again after winter.
+When she returned to the letter, the humor became more serious. Anne knew that a future with Gilbert would not be protected from ordinary human trouble. Their work might disappoint them, money might become tight, or someone they loved might fall ill, but Anne no longer wanted those possibilities to occupy the emotional space of events that had not occurred. They would certainly misunderstand each other from time to time because affection did not erase temperament. Plans would change, and some hopes would not turn out as expected. None of those possibilities, however, seemed a reason to reduce present happiness in advance.
 
-Anne has spent many rainy spring evenings sitting quietly in her tower room. On the night she writes the letter, however, the weather is restless. Strong wind moves across the town, clouds hurry over the sky, and moonlight appears suddenly between them.
+Her love for Gilbert made her vulnerable in a way theoretical dangers did not. He mattered enough to hurt her, and the life they hoped to build mattered enough to lose. Years earlier, Anne might have protected herself with pride or uncertainty, especially where Gilbert was concerned. Now she understood that loving someone included accepting risk. Emotional safety purchased by distance would cost more than she wanted to pay.
 
-The scene makes Anne think of Avonlea. She imagines walking with Gilbert along one of the long roads they both know.
+The thought of him changed the letter again. Anne looked beyond Summerside and imagined an Avonlea road under the same moon, Gilbert walking beside her with his hand close to hers. She missed speaking without paper between them, missed the arguments that never threatened affection, and even missed the ordinary silences in which neither needed to entertain the other. Distance was practical and manageable until a quiet evening made it suddenly intolerable.
 
-The letter becomes more openly affectionate as it ends. Anne admits that she is very much in love with Gilbert. Her playful imitation of Ernestine’s fears has led her back to the person with whom she most wants to share the uncertain future.
+Anne admitted on the page, with a little amusement at herself, that she was completely in love. There was freedom in saying it plainly. For years she had misunderstood her own feelings and treated certainty as less interesting than confusion. Now she had no desire to manufacture doubt simply because doubt had once seemed romantic.
 
-Anne remains in the tower room, writing to Gilbert and looking out at the windy spring night. She remembers Ernestine’s endless anxieties, thinks about the future, and ends the letter by telling Gilbert how deeply she loves him.
+She thought again of Ernestine, who seemed to believe worry could bargain with fate. If she anticipated every disaster, perhaps nothing could surprise her. Anne saw the opposite danger. A person could become so busy preparing for sorrow that happiness passed almost unnoticed. Courage, she decided, was not the absence of realistic fear. It was the willingness to remain open to joy even though joy could not be guaranteed.
+
+The letter had begun as a comic imitation and ended as a quiet statement of how Anne wanted to live. She would prepare for difficulties that were real and meet sorrow when it came. She would not rehearse every possible catastrophe or treat happiness as irresponsible merely because it could end. If she and Gilbert faced hard years, they would face the actual years rather than a collection of imagined ones.
+
+Anne paused several times while writing, listening to rain at the window and then to the sudden quiet that followed it. Each pause gave her a chance to test the fears against the life she was actually living. Nothing around her was perfectly secure, yet neither was it collapsing. The ordinary room, the changing weather, and the unfinished letter all reminded her that uncertainty could exist beside safety instead of cancelling it.
+
+Before sealing the envelope, Anne looked once more at the racing clouds. Moonlight appeared, vanished, and returned. The road below the tower was wet, the branches were still bare in places, and spring had not finished deciding what kind of season it would be. Anne found the uncertainty beautiful. She hoped the life ahead of her would hold that same mixture of movement and surprise. If storms came, she and Gilbert would meet them when they arrived. Until then, she intended to notice the moonlight.
 
 ## Vocabulary & Nuance
 
-- **hydrophobia** — an old term associated with rabies; Anne uses it jokingly in her exaggerated list of fears.
-- **killjoy** — a person who spoils other people’s enjoyment by being negative.
-- **expectant** — feeling that something interesting or good may happen.
-- **gusty** — marked by sudden strong bursts of wind.
-- **irreverent** — showing too little respect for something serious or sacred.
-- **borrow trouble** — worry about a problem before it actually exists.
-- **end up** — finally arrive at a situation or result.
-- **turn gray** — develop gray hair.
+- **vulnerable** — open to emotional hurt because something matters deeply.
+- **dilute** — make something weaker or less concentrated.
+- **rehearse** — practice in advance, used figuratively here for repeatedly imagining trouble.
+- **uncertainty** — the state of not knowing exactly what will happen.
+- **temperament** — a person’s characteristic emotional nature.
+- **laugh something off** — treat something as less serious by joking about it.
+- **talk yourself into** — persuade yourself to believe or do something.
+- **hold back from** — avoid fully doing or feeling something.
 - **look ahead** — think about the future.
-- **come what may** — whatever happens in the future.
+- **face up to** — accept and deal honestly with something difficult.
 
-## Conversation 1 — Worrying About Everything
+## Conversation 1 — Anne and Gilbert in a Modern Voice
 
-Mina: I keep imagining ten different things that could go wrong.
-Daniel: Have any of them actually happened?
-Mina: No.
-Daniel: Then you may be **borrowing trouble**.
-Mina: Easier said than stopped.
-Daniel: True. But you can notice the thought without treating it as a prediction.
+Anne: I realized I can invent a disaster for almost anything if I try hard enough.
+Gilbert: That sounds exhausting.
+Anne: Exactly. I do not want to **talk myself into** being afraid of a future I actually want.
+Gilbert: We can deal with real problems when they show up.
+Anne: That is the plan. No borrowing trouble.
 
 ### Phrasal verbs & expressions
 
-- borrow trouble — worry unnecessarily about future problems.
-- go wrong — develop a problem.
-- dwell on — keep thinking about something for too long.
+- talk yourself into — persuade yourself to believe or do something.
+- show up — appear or occur.
+- deal with — handle a problem or situation.
 - look ahead — think about the future.
-- end up — finally reach a particular result.
+- borrow trouble — worry about problems before they exist.
 
-## Conversation 2 — Facing the Future
+## Conversation 2 — Choosing Vulnerability
 
-Anne: I don’t want us to spend our lives expecting disaster.
-Gilbert: Neither do I.
-Anne: Trouble will come when it comes.
-Gilbert: And until then?
-Anne: We **carry on**, enjoy what we have, and meet the rest when it arrives.
-Gilbert: That sounds much better than worrying in advance.
+Friend: Does loving someone ever make you nervous?
+Anne: Of course. Caring means you have something to lose.
+Friend: So how do you stop yourself from holding back?
+Anne: I try to **face up to** the risk instead of pretending I can remove it.
+Friend: That sounds braver than feeling no fear at all.
 
 ### Phrasal verbs & expressions
 
-- carry on — continue.
-- come along — appear or happen.
-- deal with — handle a situation or problem.
-- get through — survive or complete a difficult period.
-- take things as they come — deal with events when they happen rather than worrying beforehand.
+- face up to — accept and deal honestly with something difficult.
+- hold back — restrain yourself.
+- open yourself up to — allow the possibility of an experience, including emotional risk.
+- shy away from — avoid something because it feels difficult or frightening.
+- work through — deal with something gradually.
 
 ## Practice
 
@@ -76,102 +80,112 @@ Gilbert: That sounds much better than worrying in advance.
   {
     "type": "choice",
     "instant": true,
-    "target": "killjoy",
-    "prompt": "Why does Anne connect Cousin Ernestine with the idea of a killjoy?",
+    "target": "inference",
+    "prompt": "What can be inferred from Anne feeling calmer after writing her exaggerated fears down",
     "options": [
-      "Ernestine’s constant fears make it difficult to enjoy the present.",
-      "Ernestine refuses to attend school.",
-      "Ernestine dislikes Gilbert personally.",
-      "Ernestine never speaks at all."
+      "Putting the fears into words helps her see the gap between possibility and evidence",
+      "She has proved the disasters will happen",
+      "Gilbert has solved the problems for her",
+      "She no longer has any imagination"
     ],
-    "answer": "Ernestine’s constant fears make it difficult to enjoy the present.",
-    "explanation": "A killjoy is someone whose negativity reduces other people’s enjoyment."
+    "answer": "Putting the fears into words helps her see the gap between possibility and evidence",
+    "explanation": "The act of writing creates distance and makes the fears easier to evaluate realistically."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "gusty",
-    "prompt": "What is the weather like while Anne writes?",
+    "target": "nuance",
+    "prompt": "How does Anne’s view differ from Cousin Ernestine’s",
     "options": [
-      "Windy, with fast-moving clouds and sudden moonlight",
-      "Hot and completely still",
-      "Snowing heavily",
-      "Foggy with no wind"
+      "Anne accepts real risk without allowing possible trouble to dominate the present",
+      "Anne believes preparation is always useless",
+      "Anne thinks bad things happen only to pessimists",
+      "Anne refuses to discuss the future at all"
     ],
-    "answer": "Windy, with fast-moving clouds and sudden moonlight",
-    "explanation": "“Gusty” describes weather with sudden bursts of wind."
+    "answer": "Anne accepts real risk without allowing possible trouble to dominate the present",
+    "explanation": "Her position is not careless optimism but a refusal to suffer imagined disasters in advance."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "imagination",
+    "prompt": "What changes when Anne writes her exaggerated fears down",
+    "options": [
+      "They begin to look absurd and manageable instead of powerful",
+      "They all immediately come true",
+      "Gilbert sends answers to each one",
+      "Rebecca adds more dangers to the list"
+    ],
+    "answer": "They begin to look absurd and manageable instead of powerful",
+    "explanation": "Putting them into words gives Anne enough distance to see the exaggeration."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "vulnerable",
+    "prompt": "Why does Anne accept vulnerability in loving Gilbert",
+    "options": [
+      "She believes emotional distance would cost more than the risk of being hurt",
+      "She is certain nothing bad can ever happen",
+      "Gilbert has promised to solve every problem",
+      "She dislikes all forms of independence"
+    ],
+    "answer": "She believes emotional distance would cost more than the risk of being hurt",
+    "explanation": "Anne chooses connection despite the fact that love cannot be guaranteed safe."
   },
   {
     "type": "fill",
     "instant": false,
-    "target": "end up",
-    "prompt": "Complete the sentence: Anne jokes that she is afraid she might ________ ________ in the poorhouse.",
-    "answer": "end up",
-    "accepted": ["end up"],
-    "explanation": "“End up” means finally arrive at a particular situation."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "borrow trouble",
-    "prompt": "Choose the best expression.",
-    "dialogue": [
-      {"speaker": "Maya", "text": "I’m worried about five problems that haven’t happened."},
-      {"speaker": "Jon", "text": "Try not to ________."}
+    "target": "talk into",
+    "prompt": "Complete the sentence. Anne refuses to ________ herself ________ fearing a future she genuinely wants.",
+    "answer": "talk into",
+    "accepted": [
+      "talk herself into",
+      "talk myself into"
     ],
-    "options": ["borrow trouble", "show off", "turn in", "back up"],
-    "answer": "borrow trouble",
-    "explanation": "The expression means worrying about trouble before there is any real reason to do so."
+    "explanation": "To talk yourself into something means persuade yourself to believe or do it."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "detail",
-    "prompt": "Who is Anne writing to?",
+    "target": "motive",
+    "prompt": "Why does Anne deliberately exaggerate possible disasters in her letter to Gilbert",
     "options": [
-      "Gilbert",
-      "Katherine",
-      "Little Elizabeth",
-      "Rebecca Dew"
+      "She wants to expose how absurd fear can become when imagination runs without evidence",
+      "She wants Gilbert to cancel their engagement",
+      "She is trying to convince him to leave medical school",
+      "She believes every disaster is about to happen"
     ],
-    "answer": "Gilbert",
-    "explanation": "The chapter is presented as a letter from Anne to Gilbert."
-  },
-  {
-    "type": "fill",
-    "instant": false,
-    "target": "look ahead",
-    "prompt": "Complete the sentence: Anne wants to ________ ________ with hope instead of constant fear.",
-    "answer": "look ahead",
-    "accepted": ["look ahead"],
-    "explanation": "“Look ahead” means think about the future."
-  },
-  {
-    "type": "dialogue",
-    "instant": true,
-    "target": "take things as they come",
-    "prompt": "Choose the best phrase.",
-    "dialogue": [
-      {"speaker": "Gilbert", "text": "We can’t predict every difficulty."},
-      {"speaker": "Anne", "text": "Then we’ll ________ instead of worrying about all of them now."}
-    ],
-    "options": ["take things as they come", "turn things down", "give things away", "put things off"],
-    "answer": "take things as they come",
-    "explanation": "The phrase means deal with events when they actually happen."
+    "answer": "She wants to expose how absurd fear can become when imagination runs without evidence",
+    "explanation": "Humor helps Anne reduce the power of fears that grew after Ernestine's visit."
   },
   {
     "type": "choice",
     "instant": true,
-    "target": "detail",
-    "prompt": "What does Anne imagine near the end of the letter?",
+    "target": "paraphrase",
+    "prompt": "Which sentence best paraphrases Anne's realization that uncertainty can exist beside safety",
     "options": [
-      "Walking hand in hand with Gilbert on an Avonlea road",
-      "Moving permanently to Lowvale",
-      "Taking a ship to Europe",
-      "Teaching with Cousin Ernestine"
+      "Not knowing the future does not mean the present must be treated as dangerous",
+      "A safe life has no uncertainty at all",
+      "Only reckless people ignore possible problems",
+      "Anne decides planning is useless"
     ],
-    "answer": "Walking hand in hand with Gilbert on an Avonlea road",
-    "explanation": "The spring night makes Anne wish Gilbert were beside her in Avonlea."
+    "answer": "Not knowing the future does not mean the present must be treated as dangerous",
+    "explanation": "Anne accepts uncertainty without allowing it to erase present security."
+  },
+  {
+    "type": "choice",
+    "instant": true,
+    "target": "natural_response",
+    "prompt": "Gilbert says, 'We cannot guarantee what our life will look like in ten years.' What is the most natural response from Anne",
+    "options": [
+      "No, but we can make thoughtful choices now without treating every unknown as a warning sign.",
+      "Then we should give up before anything goes wrong.",
+      "You need to promise nothing difficult will ever happen.",
+      "Let's refuse to make any plans at all."
+    ],
+    "answer": "No, but we can make thoughtful choices now without treating every unknown as a warning sign.",
+    "explanation": "The response is realistic without becoming pessimistic."
   }
 ]
 ```
